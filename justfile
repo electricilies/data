@@ -1,3 +1,6 @@
+@default:
+  just --list
+
 [private]
 mkdir path:
   mkdir -p {{path}}
@@ -9,6 +12,9 @@ chotot pages="100" path="./chotot/data":
 
 [unix]
 tiki pages="50" path="./tiki/data":
+  #!/usr/bin/env bash
+  path=${2:-./tiki/data}
+  just mkdir {{path}}
   for page in {1..{{pages}}}; do
-    ./tiki/crawl.sh "$page" "$path"
+    ./tiki/script.sh "$page" "$path"
   done
