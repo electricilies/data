@@ -1,0 +1,170 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 1,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 1
+  },
+  "data": [
+    {
+      "id": 2999419,
+      "title": "Trống Điện Medeli dd309",
+      "content": "Ship nhanh.trống đẹp,âm tốt rất ưng luônnnnnnnnnnnnnn.",
+      "status": "approved",
+      "thank_count": 5,
+      "score": 0.0038121800000000001,
+      "new_score": 0.13050813,
+      "customer_id": 15956724,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 816252,
+          "full_path": "https://salt.tikicdn.com/ts/review/7d/ba/ed/c6d0e9f27cd91b640f965f2a610b8c21.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1581670135,
+      "created_by": {
+        "id": 15956724,
+        "name": "ng Vn Huyn",
+        "full_name": "ng Vn Huyn",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/v3.3/1922726864539158/picture?type=large&return_ssl_resources=1",
+        "created_time": "2020-01-13 01:17:52",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1581512696,
+        "contribute_info": {
+          "id": 15956724,
+          "name": "ng Vn Huyn",
+          "avatar": "https://graph.facebook.com/v3.3/1922726864539158/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 2,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Sol.g"
+      ],
+      "product_attributes": [],
+      "spid": 1077156,
+      "is_photo": true,
+      "seller": {
+        "id": 1099,
+        "name": "Sol.g",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/95/36/0f/eeec3c494672e89f695ccc5d9baf81fb.png"
+      },
+      "product_id": 1066988,
+      "timeline": {
+        "review_created_date": "2020-02-14 15:48:55",
+        "delivery_date": "2020-02-14 15:32:42",
+        "current_date": "2025-09-15 12:14:03",
+        "content": "Đã dùng 16 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 16 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

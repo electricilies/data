@@ -1,0 +1,567 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 6,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 6,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 19095112,
+      "title": "Cực kì hài lòng",
+      "content": "cân chính xác, hàng đẹp chắc chắn.\r\nhy vọng độ bền cao",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.15794578000000001,
+      "customer_id": 27490713,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4188644,
+          "full_path": "https://salt.tikicdn.com/ts/review/ff/0f/79/944db9f9ff53bfa66980a710c570eb4a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4188645,
+          "full_path": "https://salt.tikicdn.com/ts/review/bf/f6/9d/43dbc87c886634fa59a6f5d559748b49.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4188646,
+          "full_path": "https://salt.tikicdn.com/ts/review/d8/39/70/63da3c3a09a2a007058a2965fc759476.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1681565503,
+      "created_by": {
+        "id": 27490713,
+        "name": "Nguyen Tuan Kien",
+        "full_name": "Nguyen Tuan Kien",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/42/5d/40/d35ef45e7c093e42e3a6fd9951b1b509.png",
+        "created_time": "2022-05-11 16:44:06",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1681272014,
+        "contribute_info": {
+          "id": 27490713,
+          "name": "Nguyen Tuan Kien",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/42/5d/40/d35ef45e7c093e42e3a6fd9951b1b509.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 25,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VNF",
+        "Mức cân tối đa 150kg"
+      ],
+      "product_attributes": [
+        "Mức cân tối đa: 150kg"
+      ],
+      "spid": 59409425,
+      "is_photo": true,
+      "seller": {
+        "id": 1389,
+        "name": "VNF",
+        "logo": "0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg"
+      },
+      "product_id": 59409423,
+      "timeline": {
+        "review_created_date": "2023-04-15 20:31:43",
+        "delivery_date": "2023-04-14 12:07:35",
+        "current_date": "2025-09-15 12:08:23",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 2956902,
+          "review_id": 19095112,
+          "commentator": "seller",
+          "customer_id": 1389,
+          "fullname": "VNF",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg",
+          "content": "Thân gửi Bạn! Cảm ơn bạn đã tin tưởng và sử dụng sản phẩm từ Shop VNF, chúng tôi vẫn luôn cố gắng gửi đến bạn những sản phẩm Chất Lượng mới nhất, phục vụ bạn Tốt Nhất. Chúc bạn một ngày nhiều niềm vui, hy vọng sẽ gặp lại bạn ở những đơn hàng tiếp theo! ^^",
+          "score": 0,
+          "create_at": 1682321890,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 16675269,
+      "title": "Cực kì hài lòng",
+      "content": "Trc mắt thấy đóng gói cẩn thận. Shop nt gửi video hướng dẫn lắp ráp và sử dụng tận tình. Mới dùng thử thấy ok.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14825852,
+      "customer_id": 22668595,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1654953567,
+      "created_by": {
+        "id": 22668595,
+        "name": "kim quyến",
+        "full_name": "kim quyến",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-07-17 17:21:29",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1654262195,
+        "contribute_info": {
+          "id": 22668595,
+          "name": "kim quyến",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 153,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VNF",
+        "Mức cân tối đa 150kg"
+      ],
+      "product_attributes": [
+        "Mức cân tối đa: 150kg"
+      ],
+      "spid": 59409425,
+      "is_photo": false,
+      "seller": {
+        "id": 1389,
+        "name": "VNF",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg"
+      },
+      "product_id": 59409423,
+      "timeline": {
+        "review_created_date": "2022-06-11 20:19:27",
+        "delivery_date": "2022-06-07 13:49:24",
+        "current_date": "2025-09-15 12:08:23",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [
+        {
+          "id": 2429825,
+          "review_id": 16675269,
+          "commentator": "seller",
+          "customer_id": 1389,
+          "fullname": "VNF",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg",
+          "content": "Thân gửi bạn ! Cảm ơn bạn đã tin tưởng và sử dụng sản phẩm từ Shop VNF. Chúng tôi luôn luôn cố gắng gửi đến bạn những sản phẩm chất lượng mới nhất, phục vụ bạn tốt nhất. Chúc bạn một ngày mới tràn đầy niềm vui, hy vọng sẽ gặp lại bạn vào những đơn hàng tiếp theo ^^",
+          "score": 0,
+          "create_at": 1655113373,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 7830628,
+      "title": "Cực kì hài lòng",
+      "content": "Minh da mua 01 chiec thay tot re lai bi hang xom nho mua ho",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.022516499999999998,
+      "new_score": 0.13376613000000001,
+      "customer_id": 19590378,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1613739950,
+      "created_by": {
+        "id": 19590378,
+        "name": "Ong Trum",
+        "full_name": "Ong Trum",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-12-19 09:10:41",
+        "purchased": true,
+        "purchased_at": 1613608176,
+        "contribute_info": {
+          "id": 19590378,
+          "name": "Ong Trum",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 3,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VNF",
+        "Mức cân tối đa 150kg"
+      ],
+      "product_attributes": [
+        "Mức cân tối đa: 150kg"
+      ],
+      "spid": 59409425,
+      "is_photo": false,
+      "seller": {
+        "id": 1389,
+        "name": "VNF",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg"
+      },
+      "product_id": 59409423,
+      "timeline": {
+        "review_created_date": "2021-02-19 20:05:50",
+        "delivery_date": "2021-02-19 09:20:19",
+        "current_date": "2025-09-15 12:08:23",
+        "content": "Đã dùng 11 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 6674035,
+      "title": "Cực kì hài lòng",
+      "content": "Toi rat hai long do chinh xac rat cao so voi can dong ho",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13267234999999999,
+      "customer_id": 19590378,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1609565741,
+      "created_by": {
+        "id": 19590378,
+        "name": "Ong Trum",
+        "full_name": "Ong Trum",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1608343988,
+        "contribute_info": {
+          "id": 19590378,
+          "name": "Ong Trum",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 3,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VNF",
+        "Mức cân tối đa 300kg"
+      ],
+      "product_attributes": [
+        "Mức cân tối đa: 300kg"
+      ],
+      "spid": 59409427,
+      "is_photo": false,
+      "seller": {
+        "id": 1389,
+        "name": "VNF",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg"
+      },
+      "product_id": 59409423,
+      "timeline": {
+        "review_created_date": "2021-01-02 12:35:41",
+        "delivery_date": "2020-12-22 09:17:07",
+        "current_date": "2025-09-15 12:08:23",
+        "content": "Đã dùng 11 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10857018,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13227516,
+      "customer_id": 9032863,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1625361463,
+      "created_by": {
+        "id": 9032863,
+        "name": "Võ Thanh Quang",
+        "full_name": "Võ Thanh Quang",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/d/b/2/3/8/120/55f310740f8725c58a0c95666d568173.jpg",
+        "created_time": "2018-11-17 16:24:35",
+        "purchased": true,
+        "purchased_at": 1624282723,
+        "contribute_info": {
+          "id": 9032863,
+          "name": "Võ Thanh Quang",
+          "avatar": "https://s120.avatar.talk.zdn.vn/d/b/2/3/8/120/55f310740f8725c58a0c95666d568173.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 93,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VNF",
+        "Mức cân tối đa 150kg"
+      ],
+      "product_attributes": [
+        "Mức cân tối đa: 150kg"
+      ],
+      "spid": 59409425,
+      "is_photo": false,
+      "seller": {
+        "id": 1389,
+        "name": "VNF",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg"
+      },
+      "product_id": 59409423,
+      "timeline": {
+        "review_created_date": "2021-07-04 08:17:43",
+        "delivery_date": "2021-06-28 08:41:28",
+        "current_date": "2025-09-15 12:08:23",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9313951,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13099943,
+      "customer_id": 17324069,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1619321234,
+      "created_by": {
+        "id": 17324069,
+        "name": "Dinh Thi Yen Nhi",
+        "full_name": "Dinh Thi Yen Nhi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-05-11 14:02:20",
+        "purchased": true,
+        "purchased_at": 1618549982,
+        "contribute_info": {
+          "id": 17324069,
+          "name": "Dinh Thi Yen Nhi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 11,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán VNF",
+        "Mức cân tối đa 150kg"
+      ],
+      "product_attributes": [
+        "Mức cân tối đa: 150kg"
+      ],
+      "spid": 59409425,
+      "is_photo": false,
+      "seller": {
+        "id": 1389,
+        "name": "VNF",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg"
+      },
+      "product_id": 59409423,
+      "timeline": {
+        "review_created_date": "2021-04-25 10:27:14",
+        "delivery_date": "2021-04-22 08:59:22",
+        "current_date": "2025-09-15 12:08:23",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [
+        {
+          "id": 1145008,
+          "review_id": 9313951,
+          "commentator": "seller",
+          "customer_id": 1389,
+          "fullname": "VNF",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg",
+          "content": "Cảm ơn bạn đã tin dùng sản phẩm của Cân điện tử NiNDA",
+          "score": 0,
+          "create_at": 1620294931,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 6,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

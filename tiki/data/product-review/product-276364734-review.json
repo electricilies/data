@@ -1,0 +1,1101 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 1,
+      "percent": 9
+    },
+    "3": {
+      "count": 1,
+      "percent": 9
+    },
+    "4": {
+      "count": 2,
+      "percent": 18
+    },
+    "5": {
+      "count": 7,
+      "percent": 64
+    }
+  },
+  "rating_average": 4.4000000000000004,
+  "reviews_count": 11,
+  "review_photo": {
+    "total": 6,
+    "total_photo": 12
+  },
+  "data": [
+    {
+      "id": 20009359,
+      "title": "Cực kì hài lòng",
+      "content": "Bộ này dùng rất okke nha . Cái điện thoại mình nó hư lâu rồi , nay rãnh mới đặt về tự mày mò tháo ra thay pin . Tuy cái điện thoại nó ko còn giá trị nhiều nhưng với mình nó là 1 kỉ niệm đáng nhớ từ những cái ngày đầu đặt chân vào sg chạy xe kiếm từng đồng để ăn qua ngày hihi",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 3.7301587299999999,
+      "new_score": 0.18355921,
+      "customer_id": 24786681,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4383262,
+          "full_path": "https://salt.tikicdn.com/ts/review/76/36/56/809fc42c6d31aa44318385e7e5ede7ff.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4383263,
+          "full_path": "https://salt.tikicdn.com/ts/review/3f/97/98/861a8a09fcf1055b31ed5a11c7ad3cf3.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729234262,
+      "created_by": {
+        "id": 24786681,
+        "name": "Trần Thị Trang",
+        "full_name": "Trần Thị Trang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-11-09 07:22:35",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729058658,
+        "contribute_info": {
+          "id": 24786681,
+          "name": "Trần Thị Trang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 5,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76",
+        "PHÂN LOẠI Kèm túi."
+      ],
+      "product_attributes": [
+        "PHÂN LOẠI: Kèm túi."
+      ],
+      "spid": 276364737,
+      "is_photo": true,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2024-10-18 13:51:02",
+        "delivery_date": "2024-10-18 10:34:02",
+        "current_date": "2025-09-15 12:10:42",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [
+        {
+          "id": 3271730,
+          "review_id": 20009359,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1729694284,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20009935,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm ổn so với tầm giá, giao hàng nhanh lắm, chất lượng oke.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 3.4895833299999999,
+      "new_score": 0.17477551999999999,
+      "customer_id": 28186481,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4383431,
+          "full_path": "https://salt.tikicdn.com/ts/review/96/25/f8/bb202012e9b64d7aa922077e9f4dd51a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4383432,
+          "full_path": "https://salt.tikicdn.com/ts/review/5c/3b/65/6245b7ffec5a76f230704b20ab1279c0.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4383433,
+          "full_path": "https://salt.tikicdn.com/ts/review/e1/00/28/e9034c2e403a2041e34eff3f94e87dc4.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4383434,
+          "full_path": "https://salt.tikicdn.com/ts/review/2b/b6/20/845df77e45a24ef084b8beb6b54dc56b.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4383435,
+          "full_path": "https://salt.tikicdn.com/ts/review/c0/1b/5a/b1b66d1efffa2812fc3212c31f50bf93.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729311510,
+      "created_by": {
+        "id": 28186481,
+        "name": "Quyên Quyên",
+        "full_name": "Quyên Quyên",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-09-15 17:27:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729058936,
+        "contribute_info": {
+          "id": 28186481,
+          "name": "Quyên Quyên",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 5,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76",
+        "PHÂN LOẠI Kèm túi."
+      ],
+      "product_attributes": [
+        "PHÂN LOẠI: Kèm túi."
+      ],
+      "spid": 276364737,
+      "is_photo": true,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2024-10-19 11:18:30",
+        "delivery_date": "2024-10-18 10:33:51",
+        "current_date": "2025-09-15 12:10:42",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3271719,
+          "review_id": 20009935,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1729694223,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20011634,
+      "title": "Cực kì hài lòng",
+      "content": "Sp tốt, chất lượng, có bao da nhỏ gọn với giá này quá tốt rồi chắc mua thêm 1 bộ để giành khi cần, mở laptop thì siêu tốt với tầm giá này, shop tư vấn hỗ trợ tốt.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 1.2448559699999999,
+      "new_score": 0.17161572999999999,
+      "customer_id": 24946913,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4383766,
+          "full_path": "https://salt.tikicdn.com/ts/review/da/7f/7e/e5afdfbfa3113cace9e767800c87d8a6.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729501875,
+      "created_by": {
+        "id": 24946913,
+        "name": "Hương Lê",
+        "full_name": "Hương Lê",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-11-12 22:24:23",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729159606,
+        "contribute_info": {
+          "id": 24946913,
+          "name": "Hương Lê",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 6,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76",
+        "PHÂN LOẠI Kèm túi."
+      ],
+      "product_attributes": [
+        "PHÂN LOẠI: Kèm túi."
+      ],
+      "spid": 276364737,
+      "is_photo": true,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2024-10-21 16:11:15",
+        "delivery_date": "2024-10-21 14:01:30",
+        "current_date": "2025-09-15 12:10:43",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [
+        {
+          "id": 3271698,
+          "review_id": 20011634,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1729693905,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20014031,
+      "title": "Cực kì hài lòng",
+      "content": "Vặn mạnh mà không tuôn răng độ hoàn thiện cũng khá tốt nam châm hít khá chắc, rất hài lòng nha",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.031509790000000003,
+      "new_score": 0.16837673,
+      "customer_id": 30174160,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4395387,
+          "full_path": "https://salt.tikicdn.com/ts/review/3a/b6/d6/cafb8b465de2f12c1349816dbd78f103.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4395388,
+          "full_path": "https://salt.tikicdn.com/ts/review/04/84/92/52151078a5ddf8db939a10444682d3a8.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729690522,
+      "created_by": {
+        "id": 30174160,
+        "name": "Thư Sinh",
+        "full_name": "Thư Sinh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-10-18 19:20:10",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729418051,
+        "contribute_info": {
+          "id": 30174160,
+          "name": "Thư Sinh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 21,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76",
+        "PHÂN LOẠI Kèm túi."
+      ],
+      "product_attributes": [
+        "PHÂN LOẠI: Kèm túi."
+      ],
+      "spid": 276364737,
+      "is_photo": true,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2024-10-23 20:35:22",
+        "delivery_date": "2024-10-22 13:43:25",
+        "current_date": "2025-09-15 12:10:43",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3271681,
+          "review_id": 20014031,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1729693745,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20010653,
+      "title": "Cực kì hài lòng",
+      "content": "Vặn mạnh mà không tuôn răng độ hoàn thiện cũng khá tốt nam châm hít khá chắc",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 11.2037037,
+      "new_score": 0.16386174000000001,
+      "customer_id": 30173006,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4383600,
+          "full_path": "https://salt.tikicdn.com/ts/review/f0/2a/47/a613707824380f7cc197144efd7ac97f.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729404072,
+      "created_by": {
+        "id": 30173006,
+        "name": "Tuan Anh",
+        "full_name": "Tuan Anh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-10-17 21:18:35",
+        "group_id": 7,
+        "purchased": true,
+        "purchased_at": 1729241706,
+        "contribute_info": {
+          "id": 30173006,
+          "name": "Tuan Anh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 5,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76",
+        "PHÂN LOẠI Kèm túi."
+      ],
+      "product_attributes": [
+        "PHÂN LOẠI: Kèm túi."
+      ],
+      "spid": 276364737,
+      "is_photo": true,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2024-10-20 13:01:12",
+        "delivery_date": "2024-10-20 08:56:22",
+        "current_date": "2025-09-15 12:10:43",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [
+        {
+          "id": 3271712,
+          "review_id": 20010653,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1729694182,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20117586,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15775481,
+      "customer_id": 1073956,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1746000451,
+      "created_by": {
+        "id": 1073956,
+        "name": "Phạm Minh Thành",
+        "full_name": "Phạm Minh Thành",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-12-24 11:44:04",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1743307867,
+        "contribute_info": {
+          "id": 1073956,
+          "name": "Phạm Minh Thành",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 6,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 114671337,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2025-04-30 15:07:31",
+        "delivery_date": "2025-03-30 12:39:40",
+        "current_date": "2025-09-15 12:10:43",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 3322798,
+          "review_id": 20117586,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1747483668,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19945579,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.034657880000000002,
+      "new_score": 0.15286226,
+      "customer_id": 8006264,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1722835614,
+      "created_by": {
+        "id": 8006264,
+        "name": "Lê Hoàng Long",
+        "full_name": "Lê Hoàng Long",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=753348614997595&height=200&width=200&ext=1539479657&hash=AeQ7bH0nMQ6tvZNv",
+        "created_time": "2018-09-14 08:14:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1722219353,
+        "contribute_info": {
+          "id": 8006264,
+          "name": "Lê Hoàng Long",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=753348614997595&height=200&width=200&ext=1539479657&hash=AeQ7bH0nMQ6tvZNv",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 147,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 114671337,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2024-08-05 12:26:54",
+        "delivery_date": "2024-07-29 10:43:36",
+        "current_date": "2025-09-15 12:10:43",
+        "content": "Đã dùng 7 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+      },
+      "comments": [
+        {
+          "id": 3249890,
+          "review_id": 19945579,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn và nhận được đánh giá 5 sao từ quý khách. Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1725965451,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19823996,
+      "title": "Bình thường",
+      "content": "Mong manh mỏng mảnh\r\nNhỏ xíu",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.01200819,
+      "new_score": 0.15283864,
+      "customer_id": 11485555,
+      "comment_count": 2,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1711676069,
+      "created_by": {
+        "id": 11485555,
+        "name": "Gián Đen",
+        "full_name": "Gián Đen",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2330510513893537&height=200&width=200&ext=1556098747&hash=AeR5Dyy4Zv79Mync",
+        "created_time": "2019-03-25 16:39:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1707875745,
+        "contribute_info": {
+          "id": 11485555,
+          "name": "Gián Đen",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2330510513893537&height=200&width=200&ext=1556098747&hash=AeR5Dyy4Zv79Mync",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 45,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76",
+        "PHÂN LOẠI Kèm túi "
+      ],
+      "product_attributes": [
+        "PHÂN LOẠI: Kèm túi "
+      ],
+      "spid": 114671337,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2024-03-29 08:34:29",
+        "delivery_date": "2024-02-14 10:59:04",
+        "current_date": "2025-09-15 12:10:43",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 3219711,
+          "review_id": 19823996,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn và nhận được đánh giá 5 sao từ quý khách. Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1719932094,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3170365,
+          "review_id": 19823996,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Cám ơn chị Chi đã để lại nhận xét. Tiki rất tiếc về chất lượng sản phẩm chưa được như mong đợi của chị. Tiki xin ghi nhận những ý kiến từ chị để cải thiện chất lượng dịch vụ ngày một tốt hơn, hy vọng được tiếp tục đồng hành cùng chị trong những đơn hàng sau.",
+          "score": 0,
+          "create_at": 1711687121,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15660739,
+      "title": "Cực kì hài lòng",
+      "content": "Tuyệt vời . Phù hợp với mục đích sử dụng . Giá phù hợp với chất lượng . Tiki giao nhanh cực , ship lại rẻ .",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0025255899999999999,
+      "new_score": 0.14658213,
+      "customer_id": 13472542,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1648536883,
+      "created_by": {
+        "id": 13472542,
+        "name": "Phùng Định",
+        "full_name": "Phùng Định",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-08-15 22:13:23",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647015295,
+        "contribute_info": {
+          "id": 13472542,
+          "name": "Phùng Định",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 26,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 114671337,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2022-03-29 13:54:43",
+        "delivery_date": "2022-03-12 08:51:38",
+        "current_date": "2025-09-15 12:10:43",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2233770,
+          "review_id": 15660739,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1648688345,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18453072,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0042113699999999999,
+      "new_score": 0.14500521999999999,
+      "customer_id": 12245901,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [
+        {
+          "id": 4049662,
+          "full_path": "https://salt.tikicdn.com/ts/review/5e/a0/ae/d0f410b780517ccfee2fd33ab46f6e34.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1671372873,
+      "created_by": {
+        "id": 12245901,
+        "name": "KIM MINH THẮNG",
+        "full_name": "KIM MINH THẮNG",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/99/c1/2e/d91e53ba8a88fa3d0c9f0202ce0c835d.png",
+        "created_time": "2019-05-26 12:23:37",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1671206414,
+        "contribute_info": {
+          "id": 12245901,
+          "name": "KIM MINH THẮNG",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/99/c1/2e/d91e53ba8a88fa3d0c9f0202ce0c835d.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 26,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 114671337,
+      "is_photo": true,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2022-12-18 21:14:33",
+        "delivery_date": "2022-12-18 13:21:03",
+        "current_date": "2025-09-15 12:10:44",
+        "content": "Đã dùng 8 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 giờ."
+      },
+      "comments": [
+        {
+          "id": 3045934,
+          "review_id": 18453072,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn và nhận được đánh giá 5 sao từ quý khách. Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1694588826,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15023708,
+      "title": "Không hài lòng",
+      "content": "bo nay ko duoc tot nhe ae tua vit bi toet kanh nhe",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0024196299999999999,
+      "new_score": 0.13979448,
+      "customer_id": 14562691,
+      "comment_count": 1,
+      "rating": 2,
+      "images": [],
+      "thanked": false,
+      "created_at": 1645180902,
+      "created_by": {
+        "id": 14562691,
+        "name": "Nguyen van tu",
+        "full_name": "Nguyen van tu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-10-21 19:26:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1644803847,
+        "contribute_info": {
+          "id": 14562691,
+          "name": "Nguyen van tu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 13,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76",
+        "PHÂN LOẠI Kèm túi "
+      ],
+      "product_attributes": [
+        "PHÂN LOẠI: Kèm túi "
+      ],
+      "spid": 114671337,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 276364734,
+      "timeline": {
+        "review_created_date": "2022-02-18 17:41:42",
+        "delivery_date": "2022-02-18 15:42:24",
+        "current_date": "2025-09-15 12:10:44",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [
+        {
+          "id": 2104241,
+          "review_id": 15023708,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 đã nhận được thông tin đánh giá từ bạn, cũng như rất tiếc vì chất lượng sản phẩm đã chưa được như mong đợi. Shop ghi nhận thông tin này và rất hy vọng sẽ phục vụ bạn thành công hơn ở lần mua sắm sau. Trường hợp cần hỗ trợ thêm có thể liên hệ với shop thông qua holine trên bao bì sản phẩm để được phục vụ nhanh nhất. Trân trọng",
+          "score": 0,
+          "create_at": 1645197233,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 11,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

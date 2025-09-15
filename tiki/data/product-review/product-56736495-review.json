@@ -1,0 +1,1427 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 4
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 4,
+      "percent": 17
+    },
+    "5": {
+      "count": 18,
+      "percent": 79
+    }
+  },
+  "rating_average": 4.7000000000000002,
+  "reviews_count": 23,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 5
+  },
+  "data": [
+    {
+      "id": 19596751,
+      "title": "Rất không hài lòng",
+      "content": "Hàng bị bốc gỡ hàng cũ mà dám bán cho khách hàng. Tôi chấp nhận mua giá cao mà đưa hàng cũ đã bị gỡ gym bán bại, làm ăn *** vậy thì tôi ra shop trực tiếp mua an tâm hơn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 55.555555560000002,
+      "new_score": 0.17726448,
+      "customer_id": 750352,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [
+        {
+          "id": 4299710,
+          "full_path": "https://salt.tikicdn.com/ts/review/0f/cb/4f/dca4c15e3f7e534670d9167e23a299a3.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4299711,
+          "full_path": "https://salt.tikicdn.com/ts/review/66/73/f8/d8c6ac01ac20d74b108dd41e41b4bf01.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4299712,
+          "full_path": "https://salt.tikicdn.com/ts/review/53/4e/6f/dda1444a855f322dd9abdf462decde65.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4299713,
+          "full_path": "https://salt.tikicdn.com/ts/review/85/26/eb/7cae8b6f2076689cba2d17f0aca59e51.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4299714,
+          "full_path": "https://salt.tikicdn.com/ts/review/49/46/88/682b44027c786c06a1d59021d460f7cb.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1697594292,
+      "created_by": {
+        "id": 750352,
+        "name": "TRẦN NGỌC SỸ",
+        "full_name": "TRẦN NGỌC SỸ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-08-13 02:01:46",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1697339324,
+        "contribute_info": {
+          "id": 750352,
+          "name": "TRẦN NGỌC SỸ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 116,
+            "total_thank": 25
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": true,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-10-18 08:58:12",
+        "delivery_date": "2023-10-17 14:16:10",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20080202,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15634725999999999,
+      "customer_id": 16173397,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1739336112,
+      "created_by": {
+        "id": 16173397,
+        "name": "Vũ Huy Tiềm",
+        "full_name": "Vũ Huy Tiềm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-01-30 07:31:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1735817703,
+        "contribute_info": {
+          "id": 16173397,
+          "name": "Vũ Huy Tiềm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 36,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2025-02-12 11:55:12",
+        "delivery_date": "2025-01-05 17:19:44",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19385547,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng giao đúng quảng cáo, đóng gói cẩn thận, nhân viên giao hàng thân thiện, chất lượng thì dùng mới biết",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15483517999999999,
+      "customer_id": 1025050,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1689564362,
+      "created_by": {
+        "id": 1025050,
+        "name": "Hoàng Minh Đức",
+        "full_name": "Hoàng Minh Đức",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-12-04 16:25:12",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1689246051,
+        "contribute_info": {
+          "id": 1025050,
+          "name": "Hoàng Minh Đức",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 23,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-07-17 10:26:02",
+        "delivery_date": "2023-07-17 09:21:02",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19898866,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15185751,
+      "customer_id": 19095299,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1718078391,
+      "created_by": {
+        "id": 19095299,
+        "name": "Đỗ Trường Giang",
+        "full_name": "Đỗ Trường Giang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-11-07 13:24:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1718001794,
+        "contribute_info": {
+          "id": 19095299,
+          "name": "Đỗ Trường Giang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 201,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 57319583,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2024-06-11 10:59:51",
+        "delivery_date": "2024-06-10 14:54:21",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3211311,
+          "review_id": 19898866,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Cảm ơn bạn Giang đã tin tưởng dịch vụ và lựa chọn sản phẩm của Tiki. Tiki rất mong sẽ tiếp tục được đồng hành cùng bạn trong thời gian tới ạ❤️.",
+          "score": 0,
+          "create_at": 1718174100,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19725419,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14912774000000001,
+      "customer_id": 10623306,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1705153704,
+      "created_by": {
+        "id": 10623306,
+        "name": "Hồ Thánh Nhựt",
+        "full_name": "Hồ Thánh Nhựt",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2037911326256302&height=200&width=200&ext=1551505586&hash=AeRIjn1ug4EJUASG",
+        "created_time": "2019-01-31 12:46:55",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1702824081,
+        "contribute_info": {
+          "id": 10623306,
+          "name": "Hồ Thánh Nhựt",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2037911326256302&height=200&width=200&ext=1551505586&hash=AeRIjn1ug4EJUASG",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 97,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2024-01-13 20:48:24",
+        "delivery_date": "2023-12-19 16:14:57",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19617225,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14773062000000001,
+      "customer_id": 12404713,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1698538735,
+      "created_by": {
+        "id": 12404713,
+        "name": "NGUYỄN CHÍ TÍN",
+        "full_name": "NGUYỄN CHÍ TÍN",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-06-07 10:48:19",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1689000036,
+        "contribute_info": {
+          "id": 12404713,
+          "name": "NGUYỄN CHÍ TÍN",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 19,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Bách Hóa Online 24h"
+      ],
+      "product_attributes": [],
+      "spid": 185386835,
+      "is_photo": false,
+      "seller": {
+        "id": 123029,
+        "name": "Bách Hóa Online 24h",
+        "logo": "5f/df/22/e3e75c2f1700749b95d06360d524dc4a.jpg"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-10-29 07:18:55",
+        "delivery_date": "2023-07-13 15:27:23",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 4 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19568352,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14727841999999999,
+      "customer_id": 2200705,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1696397660,
+      "created_by": {
+        "id": 2200705,
+        "name": "Duong Phuc",
+        "full_name": "Duong Phuc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-02-22 08:19:17",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1691069109,
+        "contribute_info": {
+          "id": 2200705,
+          "name": "Duong Phuc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 10,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Bách Hóa Online 24h"
+      ],
+      "product_attributes": [],
+      "spid": 185386835,
+      "is_photo": false,
+      "seller": {
+        "id": 123029,
+        "name": "Bách Hóa Online 24h",
+        "logo": "5f/df/22/e3e75c2f1700749b95d06360d524dc4a.jpg"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-10-04 12:34:20",
+        "delivery_date": "2023-08-06 13:49:51",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19370493,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14573369,
+      "customer_id": 8651116,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1689083799,
+      "created_by": {
+        "id": 8651116,
+        "name": "Quốc Tuấn ",
+        "full_name": "Quốc Tuấn ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-10-28 19:13:25",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1683460871,
+        "contribute_info": {
+          "id": 8651116,
+          "name": "Quốc Tuấn ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 11,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-07-11 20:56:39",
+        "delivery_date": "2023-05-09 10:59:51",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "an toàn, chống giật",
+          "Chịu nhiệt tốt",
+          "Hoạt động ổn định"
+        ],
+        "disagree": [
+          "thiết kế tiện lợi, đa năng"
+        ]
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18921706,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14343321000000001,
+      "customer_id": 28314588,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1678191685,
+      "created_by": {
+        "id": 28314588,
+        "name": "Huỳnh Hãn",
+        "full_name": "Huỳnh Hãn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-10-11 16:35:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1676845830,
+        "contribute_info": {
+          "id": 28314588,
+          "name": "Huỳnh Hãn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 35,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Bách Hóa Online 24h"
+      ],
+      "product_attributes": [],
+      "spid": 185386835,
+      "is_photo": false,
+      "seller": {
+        "id": 123029,
+        "name": "Bách Hóa Online 24h",
+        "logo": "5f/df/22/e3e75c2f1700749b95d06360d524dc4a.jpg"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-03-07 19:21:25",
+        "delivery_date": "2023-02-22 15:38:51",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 13 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Chịu nhiệt tốt",
+          "Hoạt động ổn định",
+          "thiết kế tiện lợi, đa năng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18828018,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14313450999999999,
+      "customer_id": 28314588,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1676777407,
+      "created_by": {
+        "id": 28314588,
+        "name": "Huỳnh Hãn",
+        "full_name": "Huỳnh Hãn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-10-11 16:35:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1671844455,
+        "contribute_info": {
+          "id": 28314588,
+          "name": "Huỳnh Hãn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 35,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-02-19 10:30:07",
+        "delivery_date": "2022-12-27 09:31:07",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18581864,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14233344000000001,
+      "customer_id": 27829170,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1672984577,
+      "created_by": {
+        "id": 27829170,
+        "name": "Nguyễn Bá Toàn",
+        "full_name": "Nguyễn Bá Toàn",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/8b/dd/56/a0671f971f64f52c4059e7cb9b255d00.jpg",
+        "created_time": "2022-07-12 23:48:05",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1672722181,
+        "contribute_info": {
+          "id": 27829170,
+          "name": "Nguyễn Bá Toàn",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/8b/dd/56/a0671f971f64f52c4059e7cb9b255d00.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2023-01-06 12:56:17",
+        "delivery_date": "2023-01-05 18:07:26",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18488830,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14208290000000001,
+      "customer_id": 28251392,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1671798345,
+      "created_by": {
+        "id": 28251392,
+        "name": "Pham an",
+        "full_name": "Pham an",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-09-28 10:16:14",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1666411721,
+        "contribute_info": {
+          "id": 28251392,
+          "name": "Pham an",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Bách Hóa Online 24h"
+      ],
+      "product_attributes": [],
+      "spid": 185386835,
+      "is_photo": false,
+      "seller": {
+        "id": 123029,
+        "name": "Bách Hóa Online 24h",
+        "logo": "5f/df/22/e3e75c2f1700749b95d06360d524dc4a.jpg"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2022-12-23 19:25:45",
+        "delivery_date": "2022-10-26 14:34:56",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "an toàn, chống giật",
+          "Chịu nhiệt tốt",
+          "Hoạt động ổn định",
+          "thiết kế tiện lợi, đa năng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17998930,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14089676000000001,
+      "customer_id": 21129479,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1666182318,
+      "created_by": {
+        "id": 21129479,
+        "name": "Nguyễn Hồng Đông",
+        "full_name": "Nguyễn Hồng Đông",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-03-31 07:45:27",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1665815842,
+        "contribute_info": {
+          "id": 21129479,
+          "name": "Nguyễn Hồng Đông",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 9,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Giá tốt",
+        "Giao hàng nhanh",
+        "Nhà bán phục vụ tốt",
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Bách Hóa Online 24h"
+      ],
+      "product_attributes": [],
+      "spid": 185386835,
+      "is_photo": false,
+      "seller": {
+        "id": 123029,
+        "name": "Bách Hóa Online 24h",
+        "logo": "5f/df/22/e3e75c2f1700749b95d06360d524dc4a.jpg"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2022-10-19 19:25:18",
+        "delivery_date": "2022-10-19 12:00:09",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 7 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16678282,
+      "title": "Hài lòng",
+      "content": "Sử dụng 1 tuần thấy ok.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14060006,
+      "customer_id": 848075,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1654992424,
+      "created_by": {
+        "id": 848075,
+        "name": "Bui Quang Cuu",
+        "full_name": "Bui Quang Cuu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-09-29 09:59:42",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1653875053,
+        "contribute_info": {
+          "id": 848075,
+          "name": "Bui Quang Cuu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 16,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2022-06-12 07:07:04",
+        "delivery_date": "2022-06-01 10:24:04",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 11 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17804012,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14047835,
+      "customer_id": 16946811,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1664201261,
+      "created_by": {
+        "id": 16946811,
+        "name": "Phạm Trường",
+        "full_name": "Phạm Trường",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-03-27 23:22:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1663736436,
+        "contribute_info": {
+          "id": 16946811,
+          "name": "Phạm Trường",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 5,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2022-09-26 21:07:41",
+        "delivery_date": "2022-09-26 10:15:32",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 11 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "an toàn, chống giật",
+          "Chịu nhiệt tốt",
+          "Hoạt động ổn định",
+          "thiết kế tiện lợi, đa năng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17270576,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13945583,
+      "customer_id": 7863766,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1659359906,
+      "created_by": {
+        "id": 7863766,
+        "name": "Chau Kham Dinh",
+        "full_name": "Chau Kham Dinh",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/2209629205986900/picture?type=large&return_ssl_resources=1",
+        "created_time": "2018-09-01 09:50:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658713173,
+        "contribute_info": {
+          "id": 7863766,
+          "name": "Chau Kham Dinh",
+          "avatar": "https://graph.facebook.com/2209629205986900/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 16,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2022-08-01 20:18:26",
+        "delivery_date": "2022-07-27 15:35:44",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17039225,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13908651999999999,
+      "customer_id": 904995,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1657611332,
+      "created_by": {
+        "id": 904995,
+        "name": "H Lâm",
+        "full_name": "H Lâm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-10-27 21:21:45",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1656546503,
+        "contribute_info": {
+          "id": 904995,
+          "name": "H Lâm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 473,
+            "total_thank": 157
+          }
+        }
+      },
+      "suggestions": [
+        "Giao hàng nhanh",
+        "Đóng gói tốt",
+        "Chất lượng tốt",
+        "Giá tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2022-07-12 14:35:32",
+        "delivery_date": "2022-07-01 11:45:02",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 11 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10874215,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13228326000000001,
+      "customer_id": 21251229,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1625399806,
+      "created_by": {
+        "id": 21251229,
+        "name": "Vũ Tiến Trung",
+        "full_name": "Vũ Tiến Trung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-04-09 11:10:09",
+        "purchased": true,
+        "purchased_at": 1617941810,
+        "contribute_info": {
+          "id": 21251229,
+          "name": "Vũ Tiến Trung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 57319583,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2021-07-04 18:56:46",
+        "delivery_date": "2021-04-13 13:18:29",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 8963863,
+      "title": "Cực kì hài lòng",
+      "content": "Chất lương",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13162267999999999,
+      "customer_id": 5144221,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1617853053,
+      "created_by": {
+        "id": 5144221,
+        "name": "Đinh Ngọc Minh Đức",
+        "full_name": "Đinh Ngọc Minh Đức",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-03-28 10:07:43",
+        "purchased": true,
+        "purchased_at": 1614659971,
+        "contribute_info": {
+          "id": 5144221,
+          "name": "Đinh Ngọc Minh Đức",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Quang Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 56736496,
+      "is_photo": false,
+      "seller": {
+        "id": 17490,
+        "name": "Điện Quang Official Store",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/1a/7b/53/97bd5866d6e99d40e6eb50c1c7d4669a.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2021-04-08 10:37:33",
+        "delivery_date": "2021-03-04 09:58:08",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 8948488,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.01014899,
+      "new_score": 0.1306737,
+      "customer_id": 13974647,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1617778981,
+      "created_by": {
+        "id": 13974647,
+        "name": "Tú Nguyễn Anh",
+        "full_name": "Tú Nguyễn Anh",
+        "region": null,
+        "avatar_url": "https://lh6.googleusercontent.com/-AOrae9O_93w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfQupABt9dlY0JxBdUa-yoNSU_9hQ/photo.jpg",
+        "created_time": "2019-09-12 16:14:05",
+        "purchased": true,
+        "purchased_at": 1617002411,
+        "contribute_info": {
+          "id": 13974647,
+          "name": "Tú Nguyễn Anh",
+          "avatar": "https://lh6.googleusercontent.com/-AOrae9O_93w/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rfQupABt9dlY0JxBdUa-yoNSU_9hQ/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 61,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 57319583,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 56736495,
+      "timeline": {
+        "review_created_date": "2021-04-07 14:03:01",
+        "delivery_date": "2021-04-07 13:50:06",
+        "current_date": "2025-09-15 12:09:16",
+        "content": "Đã dùng 13 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 23,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 2,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

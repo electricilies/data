@@ -1,0 +1,1906 @@
+{
+  "stars": {
+    "1": {
+      "count": 6,
+      "percent": 2
+    },
+    "2": {
+      "count": 1,
+      "percent": 1
+    },
+    "3": {
+      "count": 4,
+      "percent": 1
+    },
+    "4": {
+      "count": 21,
+      "percent": 9
+    },
+    "5": {
+      "count": 215,
+      "percent": 87
+    }
+  },
+  "rating_average": 4.7999999999999998,
+  "reviews_count": 247,
+  "review_photo": {
+    "total": 58,
+    "total_photo": 80
+  },
+  "data": [
+    {
+      "id": 20154878,
+      "title": "Không hài lòng",
+      "content": "Đóng gói không đủ tốt. Mút xốp trong hộp bị gãy bể, tem nhãn có dấu hiệu bóc dán, chân đế bị cấn lõm phần nhựa",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.722222219999999,
+      "new_score": 0.17852280000000001,
+      "customer_id": 5304562,
+      "comment_count": 1,
+      "rating": 2,
+      "images": [
+        {
+          "id": 4411135,
+          "full_path": "https://salt.tikicdn.com/ts/review/b5/a5/84/c190e88f5dd7e4eb7379ccb2fcdde0f9.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4411136,
+          "full_path": "https://salt.tikicdn.com/ts/review/d9/ea/42/f61e2218d7e585362abf91126d180143.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4411137,
+          "full_path": "https://salt.tikicdn.com/ts/review/ba/87/bf/2b65d9a41090e19c3ad49cc5fecd04bf.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1754371378,
+      "created_by": {
+        "id": 5304562,
+        "name": "Trường Lâm Nguyễn Đức",
+        "full_name": "Trường Lâm Nguyễn Đức",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-05-20 19:16:45",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1753595221,
+        "contribute_info": {
+          "id": 5304562,
+          "name": "Trường Lâm Nguyễn Đức",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 51,
+            "total_thank": 47
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2025-08-05 12:22:58",
+        "delivery_date": "2025-07-30 10:19:50",
+        "current_date": "2025-09-15 12:10:12",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [
+        {
+          "id": 3328572,
+          "review_id": 20154878,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn, Tiki đã hỗ trợ duyệt yêu cầu đổi/trả thành công. Hy vọng sẽ phục vụ bạn tốt hơn trong các đơn hàng tiếp theo. Tiki chân thành cảm ơn bạn.\n ",
+          "score": 0,
+          "create_at": 1754371701,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩu thả"
+        }
+      ]
+    },
+    {
+      "id": 19512153,
+      "title": "Cực kì hài lòng",
+      "content": "Bếp từ của Hafele chưa bao giờ làm mình thất vọng. Bếp đẹp, xịn, bắt nhiệt đều và đun nấu nhanh. Giá cũng rất vừa phải, mua đc lúc km thành ra rẻ mà tốt❤️",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 25.74074074,
+      "new_score": 0.16660048,
+      "customer_id": 14033058,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4281520,
+          "full_path": "https://salt.tikicdn.com/ts/review/13/0f/66/97c13098197df472a016f94b0407589b.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4281521,
+          "full_path": "https://salt.tikicdn.com/ts/review/03/84/10/3327b6370d8891aa86d861b3caaaf5de.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1694077078,
+      "created_by": {
+        "id": 14033058,
+        "name": "Bùi Thanh Nhàn",
+        "full_name": "Bùi Thanh Nhàn",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/88/ae/50/ef0fa41472b616db572ce9737f494d65.png",
+        "created_time": "2019-09-15 23:51:41",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1693710889,
+        "contribute_info": {
+          "id": 14033058,
+          "name": "Bùi Thanh Nhàn",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/88/ae/50/ef0fa41472b616db572ce9737f494d65.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 27,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-09-07 15:57:58",
+        "delivery_date": "2023-09-06 16:22:36",
+        "current_date": "2025-09-15 12:10:12",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3043085,
+          "review_id": 19512153,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele chào bạn! Rất cám ơn bạn đã tin tưởng sử dụng sản phẩm của shop. Mong Hafele sẽ tiếp tục đồng hành cùng bạn trong tương lai nhé! Thank you so much for buying our products and we are glad that you had good experience using Hafele's product. We appreciate your feedback and hope to provide you with quality products and excellent customer service.",
+          "score": 0,
+          "create_at": 1694087971,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 17579086,
+      "title": "Cực kì hài lòng",
+      "content": "còn chu đáo tặng kèm nồi ,rất tiện ăn lẩu.luu ý 2000w anh chị hãy trang bị hệ thống dây điện đủ tải nhé.hướng dẫn tiếng việt ok",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.054819180000000002,
+      "new_score": 0.16644771,
+      "customer_id": 230477,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3844470,
+          "full_path": "https://salt.tikicdn.com/ts/review/61/a3/8f/a55de16c13ba98724cf06a95cc75c39b.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3844474,
+          "full_path": "https://salt.tikicdn.com/ts/review/fb/68/82/09f193d4fb91e2cb37169b508dece27a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3844475,
+          "full_path": "https://salt.tikicdn.com/ts/review/31/78/89/c28882d12b49d87c79c5cbeda300d397.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3844476,
+          "full_path": "https://salt.tikicdn.com/ts/review/b5/af/3d/e990264bc81c7732d9c883b3e8146419.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3844477,
+          "full_path": "https://salt.tikicdn.com/ts/review/6a/dd/26/5b191b2b6fbd93996a559ddc08ffc3f7.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1662047103,
+      "created_by": {
+        "id": 230477,
+        "name": "Dìu Hỷ Văn",
+        "full_name": "Dìu Hỷ Văn",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/93/69/5f/fea3848358a56eecd3025742da47325b.png",
+        "created_time": "2013-12-01 21:19:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661447638,
+        "contribute_info": {
+          "id": 230477,
+          "name": "Dìu Hỷ Văn",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/93/69/5f/fea3848358a56eecd3025742da47325b.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 85,
+            "total_thank": 30
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2022-09-01 22:45:03",
+        "delivery_date": "2022-08-27 15:13:24",
+        "current_date": "2025-09-15 12:10:12",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [
+        {
+          "id": 2619424,
+          "review_id": 17579086,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1662048901,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19619944,
+      "title": "Rất không hài lòng",
+      "content": "Bếp gì xài hết bảo hành thì hỏng bo mạch, thay cái bo mạch báo giá hơn 600k, nghĩ xài cái bếp giá ổn ổn cho ổn định thì như qq -_- thân ái và không bao giờ mua lần 2 -_-",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.025805640000000001,
+      "new_score": 0.16503444,
+      "customer_id": 14052749,
+      "comment_count": 2,
+      "rating": 1,
+      "images": [
+        {
+          "id": 4304802,
+          "full_path": "https://salt.tikicdn.com/ts/review/81/f2/c7/bfe1171e225303b74bdc9a7c504b37fb.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1698656942,
+      "created_by": {
+        "id": 14052749,
+        "name": "Trương Ngọc Thúy",
+        "full_name": "Trương Ngọc Thúy",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/v3.3/2362032550580611/picture?type=large&return_ssl_resources=1",
+        "created_time": "2019-09-17 08:53:07",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1660879678,
+        "contribute_info": {
+          "id": 14052749,
+          "name": "Trương Ngọc Thúy",
+          "avatar": "https://graph.facebook.com/v3.3/2362032550580611/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 3,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-10-30 16:09:02",
+        "delivery_date": "2022-08-20 09:24:02",
+        "current_date": "2025-09-15 12:10:12",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [
+        {
+          "id": 3070732,
+          "review_id": 19619944,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele xin chào bạn ! Shop rất xin lỗi về trải nghiệm không tốt của bạn khi sử dụng sản phẩm Hafele. Với sản phẩm bếp từ đơn có thời hạn bảo hành 01 năm. Hiện sản phẩm bạn mua từ ngày 20/08/2022 nên đã hết thời hạn bảo hành miễn phí của Hafele.  Bạn mang sản phẩm đến TTBH hoặc liên hệ *** 18*** (Thứ 2-Chủ Nhật 8:***:00) ạ để được bộ phận kỹ thuật hỗ trợ kiểm tra và tư vấn chi tiết. Shop rất mong được đồng hành cùng bạn trong đơn hàng lần sau !",
+          "score": 0,
+          "create_at": 1698909632,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3069333,
+          "review_id": 19619944,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào chị Thúy, Tiki rất tiếc về lỗi sự cố phát sinh. Tuy nhiên, sản phẩm hiện đã hết hạn bảo hành nên trong trường hợp cần hỗ trợ thêm, chị có thể chủ động liên hệ với Nhà cung cấp để trao đổi nhé. Tiki cảm ơn chị nhiều.",
+          "score": 0,
+          "create_at": 1698657657,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18868810,
+      "title": "Cực kì hài lòng",
+      "content": "Bếp nấu nhanh, dễ tùy chỉnh, do ít nút. Cần thời gian đầu quan sát xem mức nào nấu ăn là phù hợp, mình dùng 1 tuần rồi và thấy với khẩu phần ăn 2 người, mình hay nấu ở mức P4 là đã đủ nhanh, bạn nào sử dụng P5, P7 thì đương nhiên là quá nhanh rồi.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16486311000000001,
+      "customer_id": 13327227,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1677386305,
+      "created_by": {
+        "id": 13327227,
+        "name": "Ngô Ngọc",
+        "full_name": "Ngô Ngọc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-08-08 17:55:20",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1676789208,
+        "contribute_info": {
+          "id": 13327227,
+          "name": "Ngô Ngọc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-02-26 11:38:25",
+        "delivery_date": "2023-02-21 11:44:46",
+        "current_date": "2025-09-15 12:10:12",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [
+        {
+          "id": 2894417,
+          "review_id": 18868810,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1677389401,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18804661,
+      "title": "Rất không hài lòng",
+      "content": "Sản phẩm lỗi, lúc khởi động được lúc thì không. Khi nấu xong bấm tắt bếp tuy đèn hiển thị tắt nhưng bếp vẫn chạy, rất nguy hiểm và nguy cơ hỏa hoạn xảy ra, mọi người sử dụng chế độ hen giờ để ý cẩn thận.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 2.1006944399999998,
+      "new_score": 0.16480795000000001,
+      "customer_id": 8439148,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [
+        {
+          "id": 4117725,
+          "full_path": "https://salt.tikicdn.com/ts/review/16/78/23/4160933859fea508c9f4fdd043bb19b0.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1676436174,
+      "created_by": {
+        "id": 8439148,
+        "name": "Trần Hoài Vọng",
+        "full_name": "Trần Hoài Vọng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-10-14 22:01:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658626883,
+        "contribute_info": {
+          "id": 8439148,
+          "name": "Trần Hoài Vọng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 51,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-02-15 11:42:54",
+        "delivery_date": "2022-07-26 09:48:02",
+        "current_date": "2025-09-15 12:10:12",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [
+        {
+          "id": 2888683,
+          "review_id": 18804661,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, Shop rất tiếc khi bạn chưa có được trải nghiệm hài lòng tại lần mua sắm sản phẩm Bếp từ đơn Hafele HSI-21FW. Dạ  shop kiểm tra đơn hàng của bạn đã nhận ngày 26/07/2022 nên trường hợp này bạn thông cảm mang máy đến trung tâm bảo hành gần nhất để nhân viên kỹ thuật kiểm tra, hỗ trợ giúp shop nhé. Shop rất cảm ơn bạn đã ủng hộ shop, cần thêm thông tin, bạn liên hệ shop qua chatnow nhé.",
+          "score": 0,
+          "create_at": 1676888796,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18603179,
+      "title": "Cực kì hài lòng",
+      "content": "Mãu mã rất đẹp, đẹp hơn hình quảng cáo, bếp có nồi đi kèm nữa nên rất tiện. Giá thành lại hợp lý. Mà mình đánh giá cao hãng này nên chất lượng chắc cũng ổn thôi vì mình mới cắm dùng thử. Nói chung rất đang để mua. Hàng vận chuyển nhanh, đóng gói cũng ổn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16472175,
+      "customer_id": 466285,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1673244901,
+      "created_by": {
+        "id": 466285,
+        "name": "Nguyễn Thị Lê",
+        "full_name": "Nguyễn Thị Lê",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-11-03 09:19:15",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1672733884,
+        "contribute_info": {
+          "id": 466285,
+          "name": "Nguyễn Thị Lê",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 81,
+            "total_thank": 97
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-01-09 13:15:01",
+        "delivery_date": "2023-01-06 16:13:02",
+        "current_date": "2025-09-15 12:10:13",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [
+        {
+          "id": 2844350,
+          "review_id": 18603179,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1673248503,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17427601,
+      "title": "Cực kì hài lòng",
+      "content": "Nhận được bếp với tâm trạng hân hoan, bếp dùng nhanh, mẫu mã đẹp,sang trọng. Được tặng kèm nồi lẩu cũng rất ok. Mua được sale với giá 970k, quá hời. \nMua hàng của tiki rất yên tâm, bọc kỹ càng cẩn thận, nhân viên giao hàng nhiệt tình. Báo thứ 4 mới nhận được hàng nhưng thứ 3 đã được giao rồi",
+      "status": "approved",
+      "thank_count": 4,
+      "score": 0.0054726799999999997,
+      "new_score": 0.16310383000000001,
+      "customer_id": 10964237,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1660619085,
+      "created_by": {
+        "id": 10964237,
+        "name": "Trang Nguyễn",
+        "full_name": "Trang Nguyễn",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/4/2/2/7/18/120/181a6f19f5a8875cbfb923357aeaaec4.jpg",
+        "created_time": "2019-02-20 19:58:13",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1660301572,
+        "contribute_info": {
+          "id": 10964237,
+          "name": "Trang Nguyễn",
+          "avatar": "https://s120.avatar.talk.zdn.vn/4/2/2/7/18/120/181a6f19f5a8875cbfb923357aeaaec4.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 4,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2022-08-16 10:04:45",
+        "delivery_date": "2022-08-16 09:11:05",
+        "current_date": "2025-09-15 12:10:13",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 2586020,
+          "review_id": 17427601,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1660619709,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17358141,
+      "title": "Hài lòng",
+      "content": "Giao hàng đúng hẹn, đóng gói chắc chắn cẩn thận, nhân viên giao hàng nhiệt tình và vui vẻ hỗ trợ khách được kiểm hàng , đã bật thử\nthấy bếp bắt từ tốt , dễ sử dụng, hình thức đẹp!\nNhược điểm : dây nguồn  hơi ngắn và chảo lẩu mỏng quá!",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16086902,
+      "customer_id": 12844100,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1660053651,
+      "created_by": {
+        "id": 12844100,
+        "name": "Nguyen khanh Ha",
+        "full_name": "Nguyen khanh Ha",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-07-10 11:00:56",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659446609,
+        "contribute_info": {
+          "id": 12844100,
+          "name": "Nguyen khanh Ha",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 7,
+            "total_thank": 8
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2022-08-09 21:00:51",
+        "delivery_date": "2022-08-08 11:38:17",
+        "current_date": "2025-09-15 12:10:13",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19954317,
+      "title": "Bình thường",
+      "content": "Bếp hỏng Cảm ứng. Muốn liên lạc sữa chữa ở đâu ah Shop? Thank tou. \r\n***",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.703703699999998,
+      "new_score": 0.159695,
+      "customer_id": 16723657,
+      "comment_count": 2,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1723621925,
+      "created_by": {
+        "id": 16723657,
+        "name": "Nguyen Tuan",
+        "full_name": "Nguyen Tuan",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/d/9/4/b/14/120/d42a475473150e4071aa297006c50a7f.jpg",
+        "created_time": "2020-03-08 08:45:57",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658279130,
+        "contribute_info": {
+          "id": 16723657,
+          "name": "Nguyen Tuan",
+          "avatar": "https://s120.avatar.talk.zdn.vn/d/9/4/b/14/120/d42a475473150e4071aa297006c50a7f.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 122,
+            "total_thank": 19
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2024-08-14 14:52:05",
+        "delivery_date": "2022-07-21 10:34:26",
+        "current_date": "2025-09-15 12:10:13",
+        "content": "Đã dùng 2 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 năm."
+      },
+      "comments": [
+        {
+          "id": 3239360,
+          "review_id": 19954317,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele chào bạn! Dạ shop rất tiếc về đánh giá của bạn ạ, nhờ bạn đem sản phẩm đến TTBH để được kiểm tra và sữa chữa có tính phí giúp shop nhé, vì đã quá thời hạn 1 năm kể từ ngày đặt hàng nên đã hết thời gian bảo hành ạ (đơn bạn đặt hàng vào 20/07/2022). Bạn có thể liên hệ đến *** Hafele 18*** (T2-CN, từ 8h-20h) để được hỗ trợ giúp shop nhé.",
+          "score": 0,
+          "create_at": 1723871764,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3238299,
+          "review_id": 19954317,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Tiki cảm ơn bạn đã gửi nhận xét đến Tiki. Qua kiểm tra, Tiki thấy đơn hàng đang được xử lý tại mã hỗ trợ 04132512. Tiki cảm ơn bạn nhiều.",
+          "score": 0,
+          "create_at": 1723623532,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14812422,
+      "title": "Cực kì hài lòng",
+      "content": "Bếp đẹp, một thiết kế rất lạ và sang với nút xoay chỉnh công suất. Màu trắng xung quanh tranh nhã. \nĐiểm trừ là dây quá ngắn. hiện nay mọi người mua bếp đơn thường để ăn lẩu chứ ít khi đặt một chỗ. mà ăn lẩu thì ngồi xa ổ điện. vì thế dây điện nên sản xuất từ  2,5mét hoặc sx kèm dây nối dài thì tốt.",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.020620619999999999,
+      "new_score": 0.15960137999999999,
+      "customer_id": 148734,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1644151446,
+      "created_by": {
+        "id": 148734,
+        "name": "Thanh Y",
+        "full_name": "Thanh Y",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d7/55/87/ebf4e5f05119994229761155c41422d3.png",
+        "created_time": "2013-08-19 15:18:18",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1642235333,
+        "contribute_info": {
+          "id": 148734,
+          "name": "Thanh Y",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d7/55/87/ebf4e5f05119994229761155c41422d3.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 347,
+            "total_thank": 648
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2022-02-06 19:44:06",
+        "delivery_date": "2022-01-21 10:15:09",
+        "current_date": "2025-09-15 12:10:13",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2064774,
+          "review_id": 14812422,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1644152403,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15638712,
+      "title": "Cực kì hài lòng",
+      "content": "Đẹp sang trọng!  Gọn gàng ! Thương hiệu nổi tiếng ! Nấu nhanh ít hao điện số 1! Giá rẻ nhất trên Tiki nhưng vẫn chưa là rẻ nhất trên sàn thương mại điện tử. Lỡ mua rồi nên vẫn cho 5 sao !",
+      "status": "approved",
+      "thank_count": 6,
+      "score": 0.0097129699999999996,
+      "new_score": 0.15948859000000001,
+      "customer_id": 6104086,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3283350,
+          "full_path": "https://salt.tikicdn.com/ts/review/2f/0c/dc/666a49f231c8705121201b6a757835fa.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3283351,
+          "full_path": "https://salt.tikicdn.com/ts/review/9c/6e/f4/0d0c8b26e17a96194b1ace932f6d73ef.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1648436954,
+      "created_by": {
+        "id": 6104086,
+        "name": "Huệ Nguyễn",
+        "full_name": "Huệ Nguyễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-11-23 07:40:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659009662,
+        "contribute_info": {
+          "id": 6104086,
+          "name": "Huệ Nguyễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 4,
+            "total_thank": 20
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2022-03-28 10:09:14",
+        "delivery_date": "2022-03-27 15:40:06",
+        "current_date": "2025-09-15 12:10:13",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 2221532,
+          "review_id": 15638712,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1648437302,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19332625,
+      "title": "Cực kì hài lòng",
+      "content": "Gối kĩ càng và sản phẩm đẹp và tặng 1 nồi lẩu nữa",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.15915641,
+      "customer_id": 25723799,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4242618,
+          "full_path": "https://salt.tikicdn.com/ts/review/76/35/8f/52066c61d8c2db6543a2e25e0f0a92fd.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4242619,
+          "full_path": "https://salt.tikicdn.com/ts/review/df/22/2a/f18d66c3b1ffd9393c6bf209cf3e36eb.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4242620,
+          "full_path": "https://salt.tikicdn.com/ts/review/13/33/f4/135c78622edbf20b653ca11c2ced3ef0.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1687928782,
+      "created_by": {
+        "id": 25723799,
+        "name": "Nguyễn C Tuấn Anh",
+        "full_name": "Nguyễn C Tuấn Anh",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d1/26/20/5e8d2d4e5c6f88a38bbed5fc7bb1281b.png",
+        "created_time": "2021-11-29 09:55:31",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1687761831,
+        "contribute_info": {
+          "id": 25723799,
+          "name": "Nguyễn C Tuấn Anh",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d1/26/20/5e8d2d4e5c6f88a38bbed5fc7bb1281b.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 32,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-06-28 12:06:22",
+        "delivery_date": "2023-06-28 09:28:13",
+        "current_date": "2025-09-15 12:10:13",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [
+        {
+          "id": 3004647,
+          "review_id": 19332625,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele chào bạn! Rất cám ơn bạn đã tin tưởng sử dụng sản phẩm của shop. Mong Hafele sẽ tiếp tục đồng hành cùng bạn trong tương lai nhé! Thank you so much for buying our products and we are glad that you had good experience using Hafele's product. We appreciate your feedback and hope to provide you with quality products and excellent customer service",
+          "score": 0,
+          "create_at": 1687949947,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 18944521,
+      "title": "Cực kì hài lòng",
+      "content": "Bên tiki và bên bán hàng giải quyết rất nhanh khi hàng bị lỗi.tiki cho nhân viên tới thu hồi và đổi sản phẩm mới.vẩn chưa dùng tới nhưng cho 5 sao vì cách phục vụ của tiki và shop",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15864988999999999,
+      "customer_id": 12493851,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1678586327,
+      "created_by": {
+        "id": 12493851,
+        "name": "Tho Van",
+        "full_name": "Tho Van",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2354612011474975&height=200&width=200&ext=1563057850&hash=AeRo9yn7nyfEv1MG",
+        "created_time": "2019-06-14 05:44:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1678258374,
+        "contribute_info": {
+          "id": 12493851,
+          "name": "Tho Van",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2354612011474975&height=200&width=200&ext=1563057850&hash=AeRo9yn7nyfEv1MG",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 55,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-03-12 08:58:47",
+        "delivery_date": "2023-03-10 10:48:28",
+        "current_date": "2025-09-15 12:10:14",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [
+        {
+          "id": 2913647,
+          "review_id": 18944521,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1678587305,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17921839,
+      "title": "Cực kì hài lòng",
+      "content": "Bếp rất đẹp, hiện đại, nấu nhanh.\r\nNút xoay tăng giảm dễ dàng. Nút PP max công suất, nút gẹn giờ ok.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.63380281999999999,
+      "new_score": 0.15841163,
+      "customer_id": 57959,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3926183,
+          "full_path": "https://salt.tikicdn.com/ts/review/9a/54/b9/7534d9e76a39064eeb59100378b42e39.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3926184,
+          "full_path": "https://salt.tikicdn.com/ts/review/15/a2/d9/4eedd108a35f0633d6fb72acdcfd5990.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3926185,
+          "full_path": "https://salt.tikicdn.com/ts/review/9b/62/3a/03c92e20d20883ef4fa75d21976f8fea.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1665406010,
+      "created_by": {
+        "id": 57959,
+        "name": "NGUYỄN ĐÔN BẢO TRÂN",
+        "full_name": "NGUYỄN ĐÔN BẢO TRÂN",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6a/b4/8c/7d6946e7d05fe1ef02e418c65ca1b150.png",
+        "created_time": "2012-09-23 20:14:24",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1665062170,
+        "contribute_info": {
+          "id": 57959,
+          "name": "NGUYỄN ĐÔN BẢO TRÂN",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6a/b4/8c/7d6946e7d05fe1ef02e418c65ca1b150.png",
+          "summary": {
+            "joined_time": "Đã tham gia 13 năm",
+            "total_review": 52,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2022-10-10 19:46:50",
+        "delivery_date": "2022-10-10 15:18:21",
+        "current_date": "2025-09-15 12:10:14",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [
+        {
+          "id": 2697618,
+          "review_id": 17921839,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Bếp từ đơn Hafele HSI-21FW (Hàng chính hãng) của Hafele. Hafele sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1665407707,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19685767,
+      "title": "Bình thường",
+      "content": "Hàng bị lỗi , cám điện vẫn có nhưng khi nấu được lúc ko nóng, cầm lên nghe có tiếng rột… nhờ tư vấn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.703703699999998,
+      "new_score": 0.15763039000000001,
+      "customer_id": 8282042,
+      "comment_count": 2,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1702798869,
+      "created_by": {
+        "id": 8282042,
+        "name": "Nguyen Thi My Chi",
+        "full_name": "Nguyen Thi My Chi",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/9/6/a/7/12/120/7d73104beec13225e9c5ceff74a990d2.jpg",
+        "created_time": "2018-10-08 08:22:16",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1700649427,
+        "contribute_info": {
+          "id": 8282042,
+          "name": "Nguyen Thi My Chi",
+          "avatar": "https://s120.avatar.talk.zdn.vn/9/6/a/7/12/120/7d73104beec13225e9c5ceff74a990d2.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 98,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong"
+      ],
+      "product_attributes": [],
+      "spid": 126625033,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2023-12-17 14:41:09",
+        "delivery_date": "2023-11-24 14:49:21",
+        "current_date": "2025-09-15 12:10:14",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 3139823,
+          "review_id": 19685767,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Dạ sản phẩm A/C đã được xử lý xong và đã gửi lại sản phẩm cho a/c sau khi xử lý xong. Trong quá trình sử dụng nếu có bất kỳ thắc mắc nào có thể liên hệ bộ phận cskh để được hỗ trợ ạ",
+          "score": 0,
+          "create_at": 1708326543,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3095782,
+          "review_id": 19685767,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Tiki cảm ơn chị Chi đã gửi nhận xét đến Tiki. Qua kiểm tra, Tiki thấy đơn hàng đã được xử lý tại mã hỗ trợ 03863374. Tiki cảm ơn chị nhiều.",
+          "score": 0,
+          "create_at": 1702801443,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Dễ sử dụng",
+          "Dễ vệ sinh",
+          "tiết kiệm điện"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19997285,
+      "title": "Cực kì hài lòng",
+      "content": "Good",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.15723968999999999,
+      "customer_id": 28665705,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4380727,
+          "full_path": "https://salt.tikicdn.com/ts/review/88/3b/a8/bff55c547c9044704466ea8a29e87deb.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1728094770,
+      "created_by": {
+        "id": 28665705,
+        "name": "Huỳnh Sang",
+        "full_name": "Huỳnh Sang",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/7d/42/91/d2c89a991b3a6cc24e7e604c83de33a4.png",
+        "created_time": "2022-12-30 13:43:45",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727894832,
+        "contribute_info": {
+          "id": 28665705,
+          "name": "Huỳnh Sang",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/7d/42/91/d2c89a991b3a6cc24e7e604c83de33a4.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 75,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": true,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2024-10-05 09:19:30",
+        "delivery_date": "2024-10-04 14:30:51",
+        "current_date": "2025-09-15 12:10:14",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3263234,
+          "review_id": 19997285,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele chào bạn! Rất cám ơn bạn đã tin tưởng sử dụng sản phẩm của shop. Mong Hafele sẽ tiếp tục đồng hành cùng bạn trong tương lai nhé! Thank you so much for buying our products and we are glad that you had good experience using Hafele's product. We appreciate your feedback and hope to provide you with quality products and excellent customer service.",
+          "score": 0,
+          "create_at": 1728287797,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20081622,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15638958,
+      "customer_id": 18046268,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1739536476,
+      "created_by": {
+        "id": 18046268,
+        "name": "Nguyễn Tiến Dũng",
+        "full_name": "Nguyễn Tiến Dũng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-08-10 03:36:48",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1739087794,
+        "contribute_info": {
+          "id": 18046268,
+          "name": "Nguyễn Tiến Dũng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 17,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2025-02-14 19:34:36",
+        "delivery_date": "2025-02-14 18:28:43",
+        "current_date": "2025-09-15 12:10:14",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 3323134,
+          "review_id": 20081622,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele chân thành cảm ơn Quý khách đã dành đánh giá 5 sao. Sự tin tưởng của Quý khách là niềm vinh hạnh và động lực để chúng tôi phục vụ tốt hơn mỗi ngày. Trân trọng!",
+          "score": 0,
+          "create_at": 1747795837,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20079744,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15633391999999999,
+      "customer_id": 13168473,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1739272926,
+      "created_by": {
+        "id": 13168473,
+        "name": "VY NGUYEN",
+        "full_name": "VY NGUYEN",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-07-31 09:43:18",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1739057720,
+        "contribute_info": {
+          "id": 13168473,
+          "name": "VY NGUYEN",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 24,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2025-02-11 18:22:06",
+        "delivery_date": "2025-02-11 14:05:49",
+        "current_date": "2025-09-15 12:10:14",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [
+        {
+          "id": 3305592,
+          "review_id": 20079744,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele chào bạn! Rất cám ơn bạn đã tin tưởng sử dụng sản phẩm của shop. Nếu có thắc mắc thông tin gì bạn nhắn shop để được hỗ trợ nhé. Mong Hafele sẽ tiếp tục đồng hành cùng bạn trong tương lai ạ!",
+          "score": 0,
+          "create_at": 1739348674,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19913160,
+      "title": "Hài lòng",
+      "content": "Bếp nóng nhanh nhưng tiếng phát ra khi sử dụng to",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15616525000000001,
+      "customer_id": 26538587,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1719535434,
+      "created_by": {
+        "id": 26538587,
+        "name": "Trần Việt",
+        "full_name": "Trần Việt",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-01-16 08:18:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1719142987,
+        "contribute_info": {
+          "id": 26538587,
+          "name": "Trần Việt",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hafele Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 113633608,
+      "is_photo": false,
+      "seller": {
+        "id": 166173,
+        "name": "Hafele Official Store",
+        "logo": "7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg"
+      },
+      "product_id": 113633607,
+      "timeline": {
+        "review_created_date": "2024-06-28 07:43:54",
+        "delivery_date": "2024-06-27 16:38:22",
+        "current_date": "2025-09-15 12:10:14",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3218123,
+          "review_id": 19913160,
+          "commentator": "seller",
+          "customer_id": 166173,
+          "fullname": "Hafele Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/7a/e3/02/beec5f08fa60f08a0a50ea1a8f487baa.jpg",
+          "content": "Hafele chào bạn! Rất cám ơn bạn đã tin tưởng sử dụng sản phẩm của shop. Mong Hafele sẽ tiếp tục đồng hành cùng bạn trong tương lai nhé! Thank you so much for buying our products and we are glad that you had good experience using Hafele's product. We appreciate your feedback and hope to provide you with quality products and excellent customer service.",
+          "score": 0,
+          "create_at": 1719629679,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "total": 247,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 13,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

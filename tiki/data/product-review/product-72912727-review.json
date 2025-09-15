@@ -1,0 +1,1426 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 2
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 2,
+      "percent": 6
+    },
+    "4": {
+      "count": 10,
+      "percent": 30
+    },
+    "5": {
+      "count": 21,
+      "percent": 62
+    }
+  },
+  "rating_average": 4.5,
+  "reviews_count": 34,
+  "review_photo": {
+    "total": 5,
+    "total_photo": 9
+  },
+  "data": [
+    {
+      "id": 19762072,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng như mẫu quảng cáo,chỉ là hơi củ chút",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.15622746000000001,
+      "customer_id": 11614350,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4335609,
+          "full_path": "https://salt.tikicdn.com/ts/review/c3/92/38/dc6cf4e717bfd734b14d97a3f7a8bddb.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1707204088,
+      "created_by": {
+        "id": 11614350,
+        "name": "Anh Phat",
+        "full_name": "Anh Phat",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-04-03 22:56:30",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706958433,
+        "contribute_info": {
+          "id": 11614350,
+          "name": "Anh Phat",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": true,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2024-02-06 14:21:28",
+        "delivery_date": "2024-02-06 13:36:42",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Không hẹn trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20019342,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15442064999999999,
+      "customer_id": 13880951,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1730214142,
+      "created_by": {
+        "id": 13880951,
+        "name": "Hiep Ho",
+        "full_name": "Hiep Ho",
+        "region": null,
+        "avatar_url": "https://lh4.googleusercontent.com/-d0AD5rxNfqM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf8DMqPY29k-6izIKlq11_RQJ0dzg/photo.jpg",
+        "created_time": "2019-09-08 00:20:27",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729013655,
+        "contribute_info": {
+          "id": 13880951,
+          "name": "Hiep Ho",
+          "avatar": "https://lh4.googleusercontent.com/-d0AD5rxNfqM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rf8DMqPY29k-6izIKlq11_RQJ0dzg/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 4,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2024-10-29 22:02:22",
+        "delivery_date": "2024-10-18 10:36:32",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 11 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16285286,
+      "title": "Hài lòng",
+      "content": "Hàng giao sớm hơn dự kiến,mẫu giống qc,rộng nhưng mỏng manh không dày dặn khg thích hợp đựng đồ nặng xách đi chuyển",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.15402089999999999,
+      "customer_id": 14248542,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [
+        {
+          "id": 3464903,
+          "full_path": "https://salt.tikicdn.com/ts/review/0a/f5/e6/8eaf1144ee81fc6fc3e0fc17abcf4e57.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3464904,
+          "full_path": "https://salt.tikicdn.com/ts/review/0a/f5/e6/d435d262f7dc38a17746a4988ec61228.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1652250286,
+      "created_by": {
+        "id": 14248542,
+        "name": "Tan Duong",
+        "full_name": "Tan Duong",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/3/e/5/1/8/120/8cc7de1f5710ac17d5f5ef934b1e7c2d.jpg",
+        "created_time": "2019-10-02 16:26:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1652021922,
+        "contribute_info": {
+          "id": 14248542,
+          "name": "Tan Duong",
+          "avatar": "https://s120.avatar.talk.zdn.vn/3/e/5/1/8/120/8cc7de1f5710ac17d5f5ef934b1e7c2d.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 40,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": true,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-05-11 13:24:46",
+        "delivery_date": "2022-05-11 12:43:02",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19959275,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15313934000000001,
+      "customer_id": 13828676,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1724147503,
+      "created_by": {
+        "id": 13828676,
+        "name": "Nguyễn Thị Thu Trinh",
+        "full_name": "Nguyễn Thị Thu Trinh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-09-05 10:11:37",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1723946322,
+        "contribute_info": {
+          "id": 13828676,
+          "name": "Nguyễn Thị Thu Trinh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 10,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2024-08-20 16:51:43",
+        "delivery_date": "2024-08-20 13:56:51",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 11030490,
+      "title": "Cực kì hài lòng",
+      "content": "Nhận hàng đúng như mong đợi, đúng kích thước, thùng đựng đồ nghề to, đựng đồ rất là thoải mái.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.15005213000000001,
+      "customer_id": 8949162,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 2264913,
+          "full_path": "https://salt.tikicdn.com/ts/review/6f/e8/ae/b867383f6297ba91f31adbc7300bb2a7.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2264914,
+          "full_path": "https://salt.tikicdn.com/ts/review/0e/dd/95/b5ebff39613b9218e8cc65def0bf3135.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2264915,
+          "full_path": "https://salt.tikicdn.com/ts/review/dc/0e/36/2f84ab8c7e644cfeafb98a9b92a97afe.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1625883680,
+      "created_by": {
+        "id": 8949162,
+        "name": "Huỳnh Thi ",
+        "full_name": "Huỳnh Thi ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-11-13 08:28:13",
+        "purchased": true,
+        "purchased_at": 1625716685,
+        "contribute_info": {
+          "id": 8949162,
+          "name": "Huỳnh Thi ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 246,
+            "total_thank": 23
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": true,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2021-07-10 09:21:20",
+        "delivery_date": "2021-07-10 09:04:34",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 17 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 17 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19350572,
+      "title": "Hài lòng",
+      "content": "Ổn trong tầm giá",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14701438999999999,
+      "customer_id": 24556125,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1688518985,
+      "created_by": {
+        "id": 24556125,
+        "name": "Cung Nguyen",
+        "full_name": "Cung Nguyen",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-10-28 06:36:29",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1688262463,
+        "contribute_info": {
+          "id": 24556125,
+          "name": "Cung Nguyen",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 31,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2023-07-05 08:03:05",
+        "delivery_date": "2023-07-04 11:44:24",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 15522149,
+      "title": "Cực kì hài lòng",
+      "content": "oker đẹp như hình",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.023977149999999999,
+      "new_score": 0.14449105000000001,
+      "customer_id": 11149842,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3256160,
+          "full_path": "https://salt.tikicdn.com/ts/review/a1/69/23/96b50fd622d0f5df23d083692c5864a9.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3256161,
+          "full_path": "https://salt.tikicdn.com/ts/review/a9/fc/5f/a2bba4732bcfc541e9e7f0483dc85afe.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1647790088,
+      "created_by": {
+        "id": 11149842,
+        "name": "Le Van Tam",
+        "full_name": "Le Van Tam",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-03-05 16:01:20",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647465258,
+        "contribute_info": {
+          "id": 11149842,
+          "name": "Le Van Tam",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": true,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-03-20 22:28:08",
+        "delivery_date": "2022-03-19 10:30:11",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18766964,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14294388999999999,
+      "customer_id": 14651129,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1675874913,
+      "created_by": {
+        "id": 14651129,
+        "name": "Nguyễn Khắc Quỳnh",
+        "full_name": "Nguyễn Khắc Quỳnh",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/be/75/c9/e43b601cdb6202a8dd9c85302c24ab3f.png",
+        "created_time": "2019-10-27 21:53:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1672244363,
+        "contribute_info": {
+          "id": 14651129,
+          "name": "Nguyễn Khắc Quỳnh",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/be/75/c9/e43b601cdb6202a8dd9c85302c24ab3f.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 10,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2023-02-08 23:48:33",
+        "delivery_date": "2023-01-03 10:06:26",
+        "current_date": "2025-09-15 12:09:57",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18750429,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14290047,
+      "customer_id": 20725911,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1675669335,
+      "created_by": {
+        "id": 20725911,
+        "name": "Đặng Tấn Phúc",
+        "full_name": "Đặng Tấn Phúc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-03-12 17:24:57",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1674114255,
+        "contribute_info": {
+          "id": 20725911,
+          "name": "Đặng Tấn Phúc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2023-02-06 14:42:15",
+        "delivery_date": "2023-01-27 12:41:20",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 10 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17218882,
+      "title": "Cực kì hài lòng",
+      "content": "Khá ok. Ace nên mua nhé. Hàng đúng mô tả",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14262765999999999,
+      "customer_id": 1467162,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1658910882,
+      "created_by": {
+        "id": 1467162,
+        "name": "Hoàng Việt Bắc",
+        "full_name": "Hoàng Việt Bắc",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/20/ed/96/ca4c9ec1ec9484e0d16bc4fbb553d011.png",
+        "created_time": "2016-06-28 00:20:34",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1652606386,
+        "contribute_info": {
+          "id": 1467162,
+          "name": "Hoàng Việt Bắc",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/20/ed/96/ca4c9ec1ec9484e0d16bc4fbb553d011.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 193,
+            "total_thank": 54
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-07-27 15:34:42",
+        "delivery_date": "2022-05-20 17:36:28",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14107769,
+      "title": "Rất không hài lòng",
+      "content": "chán quá đi thui à  hhhhhhh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.87719298000000001,
+      "new_score": 0.14056261,
+      "customer_id": 26189376,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [
+        {
+          "id": 2965559,
+          "full_path": "https://salt.tikicdn.com/ts/review/73/23/d0/54537796364b3a685caa4fc171b5cb6b.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1640610975,
+      "created_by": {
+        "id": 26189376,
+        "name": "trân ngoc răng",
+        "full_name": "trân ngoc răng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-12-24 21:16:24",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1640356111,
+        "contribute_info": {
+          "id": 26189376,
+          "name": "trân ngoc răng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": true,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2021-12-27 20:16:15",
+        "delivery_date": "2021-12-27 12:10:23",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 8 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17809595,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14049137,
+      "customer_id": 7581189,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1664262884,
+      "created_by": {
+        "id": 7581189,
+        "name": "Tran Phi Hung",
+        "full_name": "Tran Phi Hung",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/-_7T6O2yDDi8/AAAAAAAAAAI/AAAAAAAAACQ/a1h0y-P1mzs/photo.jpg",
+        "created_time": "2018-08-04 11:15:47",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658897343,
+        "contribute_info": {
+          "id": 7581189,
+          "name": "Tran Phi Hung",
+          "avatar": "https://lh3.googleusercontent.com/-_7T6O2yDDi8/AAAAAAAAAAI/AAAAAAAAACQ/a1h0y-P1mzs/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 14,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-09-27 14:14:44",
+        "delivery_date": "2022-07-28 10:30:09",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10394325,
+      "title": "Bình thường",
+      "content": "thùng đồ nghề ko giống trong hình nha.trong hình có 1 chốt vàng.gữi cho khách có 2 chốt vàng nằm 2 bên",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 1.54320988,
+      "new_score": 0.14030092,
+      "customer_id": 20039163,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1623589509,
+      "created_by": {
+        "id": 20039163,
+        "name": "Trần Chí Anh",
+        "full_name": "Trần Chí Anh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-01-25 14:13:38",
+        "purchased": true,
+        "purchased_at": 1623215808,
+        "contribute_info": {
+          "id": 20039163,
+          "name": "Trần Chí Anh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2021-06-13 20:05:09",
+        "delivery_date": "2021-06-11 13:17:03",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17672848,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14022064000000001,
+      "customer_id": 10220151,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1662981082,
+      "created_by": {
+        "id": 10220151,
+        "name": "Hoàng Thị Phượng",
+        "full_name": "Hoàng Thị Phượng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-01-06 17:40:25",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1655048507,
+        "contribute_info": {
+          "id": 10220151,
+          "name": "Hoàng Thị Phượng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 53,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-09-12 18:11:22",
+        "delivery_date": "2022-06-14 10:46:16",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15792759,
+      "title": "Cực kì hài lòng",
+      "content": "Giúp tôi đựng được nhiều đồ",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14004579,
+      "customer_id": 26553896,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1649211615,
+      "created_by": {
+        "id": 26553896,
+        "name": "Phuong Tran",
+        "full_name": "Phuong Tran",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-01-17 08:33:44",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1648089395,
+        "contribute_info": {
+          "id": 26553896,
+          "name": "Phuong Tran",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-04-06 09:20:15",
+        "delivery_date": "2022-03-25 11:40:06",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 12 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16257570,
+      "title": "Hài lòng",
+      "content": "Hàng đẹp, chất lượng.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13991795000000001,
+      "customer_id": 11864079,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1652078459,
+      "created_by": {
+        "id": 11864079,
+        "name": "Cam Tuyen Tran",
+        "full_name": "Cam Tuyen Tran",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/1100949623423639/picture?type=large&return_ssl_resources=1",
+        "created_time": "2019-04-26 18:43:29",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1651734913,
+        "contribute_info": {
+          "id": 11864079,
+          "name": "Cam Tuyen Tran",
+          "avatar": "https://graph.facebook.com/1100949623423639/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-05-09 13:40:59",
+        "delivery_date": "2022-05-07 09:20:36",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17090819,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13916264,
+      "customer_id": 1825406,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1657971754,
+      "created_by": {
+        "id": 1825406,
+        "name": "LE VINH QUANG",
+        "full_name": "LE VINH QUANG",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/f0/d1/20/919fb92b81eccbecba7deb0a38ec88e2.png",
+        "created_time": "2016-10-29 13:39:06",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1656126294,
+        "contribute_info": {
+          "id": 1825406,
+          "name": "LE VINH QUANG",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/f0/d1/20/919fb92b81eccbecba7deb0a38ec88e2.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 489,
+            "total_thank": 131
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-07-16 18:42:34",
+        "delivery_date": "2022-06-28 10:28:06",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16829036,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13876406999999999,
+      "customer_id": 1401472,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1656084619,
+      "created_by": {
+        "id": 1401472,
+        "name": "Nguyễn Huy Điền",
+        "full_name": "Nguyễn Huy Điền",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-05-31 23:57:04",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1651117133,
+        "contribute_info": {
+          "id": 1401472,
+          "name": "Nguyễn Huy Điền",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 95,
+            "total_thank": 18
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-06-24 22:30:19",
+        "delivery_date": "2022-04-29 08:55:38",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16490621,
+      "title": "Cực kì hài lòng",
+      "content": "Tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.031316549999999999,
+      "new_score": 0.13859816,
+      "customer_id": 9893914,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1653720824,
+      "created_by": {
+        "id": 9893914,
+        "name": "LÊ TRƯỜNG SƠN",
+        "full_name": "LÊ TRƯỜNG SƠN",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-12-18 17:00:08",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1652414781,
+        "contribute_info": {
+          "id": 9893914,
+          "name": "Sơn Le",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 59,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Nhà bán phục vụ tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-05-28 13:53:44",
+        "delivery_date": "2022-05-16 15:35:59",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 12 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15677369,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13718737,
+      "customer_id": 5687414,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1648619388,
+      "created_by": {
+        "id": 5687414,
+        "name": "Thanh Hằng",
+        "full_name": "Thanh Hằng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-09-05 13:58:30",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1648398385,
+        "contribute_info": {
+          "id": 5687414,
+          "name": "Thanh Hằng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết Bị Dụng Cụ"
+      ],
+      "product_attributes": [],
+      "spid": 72912728,
+      "is_photo": false,
+      "seller": {
+        "id": 902,
+        "name": "Thiết Bị Dụng Cụ",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/25/ea/77/c32ff6e46ebb88d8838a52e50f123b28.jpg"
+      },
+      "product_id": 72912727,
+      "timeline": {
+        "review_created_date": "2022-03-30 12:49:48",
+        "delivery_date": "2022-03-30 11:00:44",
+        "current_date": "2025-09-15 12:09:58",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 34,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 2,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

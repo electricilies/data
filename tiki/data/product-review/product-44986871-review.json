@@ -1,0 +1,856 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 8
+    },
+    "2": {
+      "count": 1,
+      "percent": 8
+    },
+    "3": {
+      "count": 1,
+      "percent": 8
+    },
+    "4": {
+      "count": 1,
+      "percent": 9
+    },
+    "5": {
+      "count": 8,
+      "percent": 67
+    }
+  },
+  "rating_average": 4.2000000000000002,
+  "reviews_count": 12,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 4744624,
+      "title": "GIá rẻ, chất lượng ok",
+      "content": "Cân mình mua với giá 57k, y hình, dùng ok lại còn kèm pin nữa, mới dùng được mấy lần nên chưa biết độ bền thế nào, trước mắt là dùng ổn.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.13883524,
+      "customer_id": 470783,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1599289284,
+      "created_by": {
+        "id": 470783,
+        "name": "NGUYỄN THỊ KIM HÀNG",
+        "full_name": "NGUYỄN THỊ KIM HÀNG",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1598432681,
+        "contribute_info": {
+          "id": 470783,
+          "name": "NGUYỄN THỊ KIM HÀNG",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 6,
+            "total_thank": 15
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-09-05 14:01:24",
+        "delivery_date": "2020-08-31 14:18:27",
+        "current_date": "2025-09-15 12:10:56",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 6521424,
+      "title": "Không hài lòng",
+      "content": "số hiển thị lung tung khi cân. không chính xác",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 1.21980676,
+      "new_score": 0.13254970999999999,
+      "customer_id": 10165605,
+      "comment_count": 1,
+      "rating": 2,
+      "images": [],
+      "thanked": false,
+      "created_at": 1608985079,
+      "created_by": {
+        "id": 10165605,
+        "name": "Nguyễn Thị Hoài Nhân",
+        "full_name": "Nguyễn Thị Hoài Nhân",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1607775061,
+        "contribute_info": {
+          "id": 10165605,
+          "name": "Nguyễn Thị Hoài Nhân",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-12-26 19:17:59",
+        "delivery_date": "2020-12-16 16:05:57",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 10 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 ngày."
+      },
+      "comments": [
+        {
+          "id": 906624,
+          "review_id": 6521424,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn, Tiki cảm ơn bạn đã gửi thông tin nhận xét đánh giá về sản phẩm, cũng như rất tiếc vì chất lượng sản phẩm đã chưa được như mong đợi. Tiki đã ghi nhận thông tin từ bạn và rất hy vọng sẽ được phục vụ bạn thành công hơn với các sản phẩm tiếp theo. Trường hợp cần hỗ trợ thêm từ Tiki, bạn có thể liên hệ với Tiki tại đây - https://hotro.tiki.vn/hc/vi để được phục vụ nhanh chóng nhất. Trân trọng.",
+          "score": 0,
+          "create_at": 1609142823,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 5470442,
+      "title": "Cực kì hài lòng",
+      "content": "sản phẩm về như hình,thử OK. chưa dùng nhiều.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13181166999999999,
+      "customer_id": 15211342,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1604543723,
+      "created_by": {
+        "id": 15211342,
+        "name": "Thuy Nguyen",
+        "full_name": "Thuy Nguyen",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1277451472455970&height=200&width=200&ext=1577670936&hash=AeTW39d2_Eb7MuNb",
+        "purchased": true,
+        "purchased_at": 1603562563,
+        "contribute_info": {
+          "id": 15211342,
+          "name": "Thuy Nguyen",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1277451472455970&height=200&width=200&ext=1577670936&hash=AeTW39d2_Eb7MuNb",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 7,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Giá tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-11-05 09:35:23",
+        "delivery_date": "2020-10-27 11:35:51",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4383465,
+      "title": "Cực kì hài lòng",
+      "content": "cân thử thấy rất ok. còn lâu dài thì chưa biết dc",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.13046431999999999,
+      "customer_id": 7150457,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1596901808,
+      "created_by": {
+        "id": 7150457,
+        "name": "Gà Con Tinh Nghịch",
+        "full_name": "Gà Con Tinh Nghịch",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1596378996,
+        "contribute_info": {
+          "id": 7150457,
+          "name": "Gà Con Tinh Nghịch",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 16,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-08-08 22:50:08",
+        "delivery_date": "2020-08-06 15:47:28",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 6333825,
+      "title": "Bình thường",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12868397000000001,
+      "customer_id": 18343344,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1608358155,
+      "created_by": {
+        "id": 18343344,
+        "name": "Chau Phan",
+        "full_name": "Chau Phan",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1212921822419079&height=200&width=200&ext=1601771583&hash=AeQsRJ9cbo6aySEm",
+        "purchased": true,
+        "purchased_at": 1607153633,
+        "contribute_info": {
+          "id": 18343344,
+          "name": "Chau Phan",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1212921822419079&height=200&width=200&ext=1601771583&hash=AeQsRJ9cbo6aySEm",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 11,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-12-19 13:09:15",
+        "delivery_date": "2020-12-11 18:19:03",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 5948456,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12841711,
+      "customer_id": 7908431,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1607094658,
+      "created_by": {
+        "id": 7908431,
+        "name": "Trang Nguyễn",
+        "full_name": "Trang Nguyễn",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/2194899110787463/picture?type=large&return_ssl_resources=1",
+        "purchased": true,
+        "purchased_at": 1602149216,
+        "contribute_info": {
+          "id": 7908431,
+          "name": "Trang Nguyễn",
+          "avatar": "https://graph.facebook.com/2194899110787463/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 13,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-12-04 22:10:58",
+        "delivery_date": "2020-10-12 13:52:07",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 5920086,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12839750999999999,
+      "customer_id": 19270218,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1607001836,
+      "created_by": {
+        "id": 19270218,
+        "name": "Hung Tien",
+        "full_name": "Hung Tien",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1605956206,
+        "contribute_info": {
+          "id": 19270218,
+          "name": "Hung Tien",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-12-03 20:23:56",
+        "delivery_date": "2020-11-27 16:45:12",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4290152,
+      "title": "Rất không hài lòng",
+      "content": "Đo sai số nhiều",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.032310680000000001,
+      "new_score": 0.12749472000000001,
+      "customer_id": 6946032,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1596299250,
+      "created_by": {
+        "id": 6946032,
+        "name": "Yuki Pham",
+        "full_name": "Yuki Pham",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1595350793,
+        "contribute_info": {
+          "id": 6946032,
+          "name": "Yuki Pham",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 8,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop gia đình 247"
+      ],
+      "product_attributes": [],
+      "spid": 54046813,
+      "is_photo": false,
+      "seller": {
+        "id": 112066,
+        "name": "Shop gia đình 247",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/c4/c4/48/bbce698464890a50c7ebfee0093323f6.jpg"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-08-01 23:27:30",
+        "delivery_date": "2020-07-27 13:52:38",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [
+        {
+          "id": 727987,
+          "review_id": 4290152,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn, Tiki đã nhận được thông tin nhận xét và rất tiếc vì sản phẩm nhận được bị lỗi cũng như chưa đáp ứng như kỳ vọng. Theo nội dung phản hồi, Tiki đã tạo yêu cầu thu hồi sản phẩm \"Cân tiểu Ly Điện từ Tiện Lợi - CA27\" để đổi mới theo chính sách tại https://tiki.vn/doi-tra-de-dang, bạn có thể theo dõi thông tin chi tiết tại email/số điện thoại đặt hàng. Tiki có gửi hướng dẫn việc thu hồi, đóng gói để đổi mới sản phẩm. Trường hợp cần hỗ trợ thêm thông tin bạn có thể liên hệ với Tiki tại đây - https://hotro.tiki.vn/hc/vi để được hỗ trợ nhanh chóng. Đồng thời, Tiki rất mong nhận được phản hồi mới chi tiết hơn từ bạn về ưu và khuyết điểm của sản phẩm sau khi đổi mới, hy vọng sẽ phục vụ bạn thành công hơn trong các đơn hàng tiếp theo. Trân trọng.",
+          "score": 0,
+          "create_at": 1596438566,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4921888,
+      "title": "Cực kì hài lòng",
+      "content": "ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12717998,
+      "customer_id": 16205661,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1600605917,
+      "created_by": {
+        "id": 16205661,
+        "name": "Nguyễn Văn Tự",
+        "full_name": "Nguyễn Văn Tự",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1599964790,
+        "contribute_info": {
+          "id": 16205661,
+          "name": "Nguyễn Văn Tự",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 59,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-09-20 19:45:17",
+        "delivery_date": "2020-09-18 15:17:03",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4837497,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12691483000000001,
+      "customer_id": 16036972,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1599981797,
+      "created_by": {
+        "id": 16036972,
+        "name": "Đỗ Thị Thùy Trang",
+        "full_name": "Đỗ Thị Thùy Trang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1599315899,
+        "contribute_info": {
+          "id": 16036972,
+          "name": "Đỗ Thị Thùy Trang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HDSHOP3B"
+      ],
+      "product_attributes": [],
+      "spid": 58548718,
+      "is_photo": false,
+      "seller": {
+        "id": 12048,
+        "name": "HDSHOP3B",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-09-13 14:23:17",
+        "delivery_date": "2020-09-10 11:47:27",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 3827661,
+      "title": "Cực kì hài lòng",
+      "content": "hon ca su mong doi",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12649667000000001,
+      "customer_id": 7512861,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1592320238,
+      "created_by": {
+        "id": 7512861,
+        "name": "Ngoc Kim",
+        "full_name": "Ngoc Kim",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1591448130,
+        "contribute_info": {
+          "id": 7512861,
+          "name": "Ngoc Kim",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop gia đình 247"
+      ],
+      "product_attributes": [],
+      "spid": 54046813,
+      "is_photo": false,
+      "seller": {
+        "id": 112066,
+        "name": "Shop gia đình 247",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/c4/c4/48/bbce698464890a50c7ebfee0093323f6.jpg"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-06-16 22:10:38",
+        "delivery_date": "2020-06-12 14:06:00",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4034684,
+      "title": "Cực kì hài lòng",
+      "content": "Hài lòng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.12639028999999999,
+      "customer_id": 15338918,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1594341746,
+      "created_by": {
+        "id": 15338918,
+        "name": "Ninh Thủy",
+        "full_name": "Ninh Thủy",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1593762946,
+        "contribute_info": {
+          "id": 15338918,
+          "name": "Ninh Thủy",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop gia đình 247"
+      ],
+      "product_attributes": [],
+      "spid": 54046813,
+      "is_photo": false,
+      "seller": {
+        "id": 112066,
+        "name": "Shop gia đình 247",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/c4/c4/48/bbce698464890a50c7ebfee0093323f6.jpg"
+      },
+      "product_id": 44986871,
+      "timeline": {
+        "review_created_date": "2020-07-10 07:42:26",
+        "delivery_date": "2020-07-09 10:15:20",
+        "current_date": "2025-09-15 12:10:57",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 12,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

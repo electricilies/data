@@ -1,0 +1,808 @@
+{
+  "stars": {
+    "1": {
+      "count": 2,
+      "percent": 16
+    },
+    "2": {
+      "count": 1,
+      "percent": 8
+    },
+    "3": {
+      "count": 1,
+      "percent": 8
+    },
+    "4": {
+      "count": 1,
+      "percent": 9
+    },
+    "5": {
+      "count": 7,
+      "percent": 59
+    }
+  },
+  "rating_average": 3.7999999999999998,
+  "reviews_count": 12,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 12311740,
+      "title": "Rất không hài lòng",
+      "content": "In sách không màu như photocopy, ghi tự thiết kế, giống sách hướng dẫn trên Google hướng dẫn mua về lắp hơn.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14291438000000001,
+      "customer_id": 7868030,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1632491374,
+      "created_by": {
+        "id": 7868030,
+        "name": "Nguyễn Thanh Du",
+        "full_name": "Nguyễn Thanh Du",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-08-28 17:39:58",
+        "purchased": true,
+        "purchased_at": 1630898424,
+        "contribute_info": {
+          "id": 7868030,
+          "name": "Nguyễn Thanh Du",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 6,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-09-24 20:49:34",
+        "delivery_date": "2021-09-24 12:21:31",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 8 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17398808,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13966814999999999,
+      "customer_id": 8658621,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1660365196,
+      "created_by": {
+        "id": 8658621,
+        "name": "Ha Anh Tuan",
+        "full_name": "Ha Anh Tuan",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2101028666828742&height=200&width=200&ext=1543374925&hash=AeTtgFsmMN_ktaFJ",
+        "created_time": "2018-10-29 10:15:59",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659961465,
+        "contribute_info": {
+          "id": 8658621,
+          "name": "Ha Anh Tuan",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2101028666828742&height=200&width=200&ext=1543374925&hash=AeTtgFsmMN_ktaFJ",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2022-08-13 11:33:16",
+        "delivery_date": "2022-08-13 11:18:28",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 15 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 15 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Bìa đẹp, bắt mắt",
+          "chất lượng giấy tốt",
+          "in ấn/màu sắc rõ nét",
+          "Mùi sách thơm, dễ chịu"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13515280,
+      "title": "Không hài lòng",
+      "content": "kiến thức bình thường học sinh phổ thông thích hộp",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13938223,
+      "customer_id": 11281895,
+      "comment_count": 0,
+      "rating": 2,
+      "images": [],
+      "thanked": false,
+      "created_at": 1638178662,
+      "created_by": {
+        "id": 11281895,
+        "name": "Trần Phương Tùng",
+        "full_name": "Trần Phương Tùng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-03-13 19:52:35",
+        "purchased": true,
+        "purchased_at": 1636446036,
+        "contribute_info": {
+          "id": 11281895,
+          "name": "Trần Phương Tùng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-11-29 16:37:42",
+        "delivery_date": "2021-11-11 20:40:06",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12824819,
+      "title": "Rất không hài lòng",
+      "content": "sách in nhòe chữ . ko rõ nét hình ảnh mờ .",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13834418000000001,
+      "customer_id": 19122696,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1635157661,
+      "created_by": {
+        "id": 19122696,
+        "name": "Đặng Thanh Tuấn ",
+        "full_name": "Đặng Thanh Tuấn ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-11-10 01:35:54",
+        "purchased": true,
+        "purchased_at": 1635046732,
+        "contribute_info": {
+          "id": 19122696,
+          "name": "Đặng Thanh Tuấn ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 9,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-10-25 17:27:41",
+        "delivery_date": "2021-10-25 15:21:47",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12850867,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13436716000000001,
+      "customer_id": 18196560,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1635266491,
+      "created_by": {
+        "id": 18196560,
+        "name": "Trần Khánh Trung",
+        "full_name": "Trần Khánh Trung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-08-22 15:15:55",
+        "purchased": true,
+        "purchased_at": 1630140458,
+        "contribute_info": {
+          "id": 18196560,
+          "name": "Trần Khánh Trung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 27,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-10-26 23:41:31",
+        "delivery_date": "2021-09-06 12:09:55",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 11806382,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13303071,
+      "customer_id": 22856657,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1628938743,
+      "created_by": {
+        "id": 22856657,
+        "name": "thành sv",
+        "full_name": "thành sv",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-08-03 19:55:16",
+        "purchased": true,
+        "purchased_at": 1628433771,
+        "contribute_info": {
+          "id": 22856657,
+          "name": "thành sv",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-08-14 17:59:03",
+        "delivery_date": "2021-08-14 17:14:55",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 11491703,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": null,
+      "new_score": 0.13271912999999999,
+      "customer_id": 21583371,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1627463505,
+      "created_by": null,
+      "suggestions": [],
+      "attributes": [],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "product_id": 47451250,
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10560175,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13203909999999999,
+      "customer_id": 11557187,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1624243778,
+      "created_by": {
+        "id": 11557187,
+        "name": "Phi Tiễn",
+        "full_name": "Phi Tiễn",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/2548626928500246/picture?type=large&return_ssl_resources=1",
+        "created_time": "2019-03-30 15:54:56",
+        "purchased": true,
+        "purchased_at": 1622627854,
+        "contribute_info": {
+          "id": 11557187,
+          "name": "Phi Tiễn",
+          "avatar": "https://graph.facebook.com/2548626928500246/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 19,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-06-21 09:49:38",
+        "delivery_date": "2021-06-03 10:53:23",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10119013,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13169874000000001,
+      "customer_id": 8413379,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1622632240,
+      "created_by": {
+        "id": 8413379,
+        "name": "Nguyen Dinh Vu",
+        "full_name": "Nguyen Dinh Vu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-10-13 14:45:03",
+        "purchased": true,
+        "purchased_at": 1615368183,
+        "contribute_info": {
+          "id": 8413379,
+          "name": "Nguyen Dinh Vu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 10,
+            "total_thank": 10
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-06-02 18:10:40",
+        "delivery_date": "2021-03-11 14:24:07",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9725327,
+      "title": "Cực kì hài lòng",
+      "content": "ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13149531,
+      "customer_id": 19180655,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1621037756,
+      "created_by": {
+        "id": 19180655,
+        "name": "Trần Minh Thành",
+        "full_name": "Trần Minh Thành",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-11-11 21:24:17",
+        "purchased": true,
+        "purchased_at": 1619997153,
+        "contribute_info": {
+          "id": 19180655,
+          "name": "Trần Minh Thành",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 3,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-05-15 07:15:56",
+        "delivery_date": "2021-05-07 13:12:38",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 7573619,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12957695,
+      "customer_id": 8986563,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1612586157,
+      "created_by": {
+        "id": 8986563,
+        "name": "Vũ Mạnh Hùng",
+        "full_name": "Vũ Mạnh Hùng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-11-14 21:44:46",
+        "purchased": true,
+        "purchased_at": 1611373283,
+        "contribute_info": {
+          "id": 8986563,
+          "name": "Vũ Mạnh Hùng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2021-02-06 11:35:57",
+        "delivery_date": "2021-01-28 16:11:08",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4120489,
+      "title": "Bình thường",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.12587967999999999,
+      "customer_id": 17526104,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1595080659,
+      "created_by": {
+        "id": 17526104,
+        "name": "Thanh Doan",
+        "full_name": "Thanh Doan",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1595015362,
+        "contribute_info": {
+          "id": 17526104,
+          "name": "Thanh Doan",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 6,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Trí Dân"
+      ],
+      "product_attributes": [],
+      "spid": 47451251,
+      "is_photo": false,
+      "seller": {
+        "id": 39,
+        "name": "Trí Dân",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/30/d2/46/30d24691868937032a55d28471d2aca0.jpg"
+      },
+      "product_id": 47451250,
+      "timeline": {
+        "review_created_date": "2020-07-18 20:57:39",
+        "delivery_date": "2020-07-18 17:26:08",
+        "current_date": "2025-09-15 12:14:15",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 12,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

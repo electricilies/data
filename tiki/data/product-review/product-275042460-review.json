@@ -1,0 +1,182 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 100
+    },
+    "5": {
+      "count": 0,
+      "percent": 0
+    }
+  },
+  "rating_average": 4,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 19943727,
+      "title": "Hài lòng",
+      "content": "Nhiệt độ xuống chậm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15468962,
+      "customer_id": 11533490,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1722649485,
+      "created_by": {
+        "id": 11533490,
+        "name": "Vandoangmailcom",
+        "full_name": "Vandoangmailcom",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/2/6/5/3/1/120/a1dc4b228b0004cf216eb5b3f81efb02.jpg",
+        "created_time": "2019-03-28 21:31:51",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1719589131,
+        "contribute_info": {
+          "id": 11533490,
+          "name": "Vandoangmailcom",
+          "avatar": "https://s120.avatar.talk.zdn.vn/2/6/5/3/1/120/a1dc4b228b0004cf216eb5b3f81efb02.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 69,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+        "Loại DS-1 đầu inox"
+      ],
+      "product_attributes": [
+        "Loại: DS-1 đầu inox"
+      ],
+      "spid": 275042462,
+      "is_photo": false,
+      "seller": {
+        "id": 6878,
+        "name": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/84/f0/28/118a95ffca18fb22c37ba59257476b0e.jpg"
+      },
+      "product_id": 275042460,
+      "timeline": {
+        "review_created_date": "2024-08-03 08:44:45",
+        "delivery_date": "2024-07-04 15:59:48",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 3238305,
+          "review_id": 19943727,
+          "commentator": "seller",
+          "customer_id": 6878,
+          "fullname": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/84/f0/28/118a95ffca18fb22c37ba59257476b0e.jpg",
+          "content": "Shop Vật Tư Điện Lạnh Thuận Dung xin cám ơn quý khách đã dành thời gian đánh giá sản phẩm của Shop. Shop có chính sách đổi trả trong 14 ngày, nếu sản phẩm có vấn đề gì xin quý khách liên hệ lại Shop ạ. Xin cám ơn quý khách đã tin tưởng và mua sắm tại Shop Vật Tư Điện Lạnh Thuận Dung",
+          "score": 0,
+          "create_at": 1723625991,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

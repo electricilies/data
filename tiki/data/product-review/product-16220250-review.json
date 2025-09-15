@@ -1,0 +1,779 @@
+{
+  "stars": {
+    "1": {
+      "count": 2,
+      "percent": 20
+    },
+    "2": {
+      "count": 1,
+      "percent": 10
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 4,
+      "percent": 40
+    },
+    "5": {
+      "count": 3,
+      "percent": 30
+    }
+  },
+  "rating_average": 3.5,
+  "reviews_count": 10,
+  "review_photo": {
+    "total": 2,
+    "total_photo": 2
+  },
+  "data": [
+    {
+      "id": 2695487,
+      "title": "Không hài lòng",
+      "content": "đồng hồ kiểu dang  giống như quảng cáo nhưng sử dụng không tác dụng vì nhiệt độ báo không chuẩn, mấy ngày nhiệt độ 19-20 độ nhà nhiệt kế chỉ báo 23 -24 độ. Báo không chuẩn thì chẳng muốn dùng nữa",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.0075570799999999999,
+      "new_score": 0.13911900999999999,
+      "customer_id": 14575400,
+      "comment_count": 1,
+      "rating": 2,
+      "images": [],
+      "thanked": false,
+      "created_at": 1575265851,
+      "created_by": {
+        "id": 14575400,
+        "name": "Đỉnh Đoàn Công",
+        "full_name": "Đỉnh Đoàn Công",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1574325816,
+        "contribute_info": {
+          "id": 14575400,
+          "name": "Đỉnh Đoàn Công",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 16,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán vinet shop"
+      ],
+      "product_attributes": [],
+      "spid": 16642866,
+      "is_photo": false,
+      "seller": {
+        "id": 5411,
+        "name": "vinet shop",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/87/70/42/9ff95609e80b6ec9e45dadc5b8d94f38.png"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2019-12-02 12:50:51",
+        "delivery_date": "2019-11-23 15:43:54",
+        "current_date": "2025-09-15 12:13:23",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [
+        {
+          "id": 445473,
+          "review_id": 2695487,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Tiki mến chào bạn, Tiki đã nhận được những đánh giá sản phẩm này từ bạn, cũng như rất tiếc vì chất lượng sản phẩm đã chưa được như mong đợi. Tiki đã ghi nhận những thông tin về chất lượng sản phẩm từ bạn và rất hy vọng sẽ được phục vụ bạn tốt hơn với các sản phẩm tiếp theo. Trong trường hợp cần hỗ trợ thêm, bạn có thể gửi yêu cầu về hộp thư hotro@tiki.vn hoặc hotline 1900-6035 để được để được phục vụ nhanh chóng nhất. Rất mong sẽ sớm nhận được thêm những nhận xét từ bạn. Trân trọng.",
+          "score": 0,
+          "create_at": 1575360145,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2623656,
+      "title": "Rất không hài lòng",
+      "content": "Hàng tầm bậy, ẩm mốc không sử dụng đc, gần 1 tháng sau tiki mới hoàn  tiền sau rất nhiều cuộc điện thoại cho chăm sóc khách hàng của tiki... Tốn quá nhiều tiền điện thoại...",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.014733919999999999,
+      "new_score": 0.13631990999999999,
+      "customer_id": 1417288,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1573433793,
+      "created_by": {
+        "id": 1417288,
+        "name": "Hồng Nguyễn",
+        "full_name": "Hồng Nguyễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1565788276,
+        "contribute_info": {
+          "id": 1417288,
+          "name": "Hồng Nguyễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 10,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán vinet shop"
+      ],
+      "product_attributes": [],
+      "spid": 16642866,
+      "is_photo": false,
+      "seller": {
+        "id": 5411,
+        "name": "vinet shop",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/87/70/42/9ff95609e80b6ec9e45dadc5b8d94f38.png"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2019-11-11 07:56:33",
+        "delivery_date": "2019-08-20 14:14:11",
+        "current_date": "2025-09-15 12:13:23",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [
+        {
+          "id": 425785,
+          "review_id": 2623656,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn, Tiki đã ghi nhận thông tin đánh giá và nhận xét từ bạn, Tiki rất xin lỗi vì những trải nghiệm vừa qua chưa được trọn vẹn khi mua sắm sản phẩm và sử dụng dịch vụ tại Tiki. Tiki xin ghi nhận thông tin góp ý của bạn và chuyển bộ phận liên quan/Nhà cung cấp vì chất lượng sản phẩm chưa đạt yêu cầu. Qua kiểm tra đơn hàng từ bạn, Tiki thấy đã được hỗ trợ thu hồi xử lý thành công trước đó, Tiki cũng rất mong nhận được phản hồi mới, khách quan chi tiết hơn từ bạn về ưu và khuyết điểm của sản phẩm ở lần mua sau, đồng thời hy vọng sẽ phục vụ bạn thành công hơn trong các đơn hàng tiếp theo. Trong trường hợp bạn cần hỗ trợ khác, có thể thể liên hệ hộp thư hotro@tiki.vn hoặc hotline 1900-6035 để được hỗ trợ nhanh chóng. Trân trọng        \t\t\t\t\t\t\t",
+          "score": 0,
+          "create_at": 1573713274,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10856142,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.74906366999999996,
+      "new_score": 0.13527357000000001,
+      "customer_id": 17568005,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 2250078,
+          "full_path": "https://salt.tikicdn.com/ts/review/6c/0a/12/1c6dda9de21cdb40a116faf90e9a5e6e.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1625353894,
+      "created_by": {
+        "id": 17568005,
+        "name": "Tài khoản Facebook",
+        "full_name": "Tài khoản Facebook",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-06-15 09:45:14",
+        "purchased": true,
+        "purchased_at": 1624590819,
+        "contribute_info": {
+          "id": 17568005,
+          "name": "Tài khoản Facebook",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 20,
+            "total_thank": 11
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VNF"
+      ],
+      "product_attributes": [],
+      "spid": 50388423,
+      "is_photo": true,
+      "seller": {
+        "id": 1389,
+        "name": "VNF",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0e/92/28/7d7919fa77c1bdab559de7d49418c3f8.jpg"
+      },
+      "product_id": 16220250,
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2918175,
+      "title": "Came with a problem",
+      "content": "Came with a problem and doesn’t show numbers properly, changed the batteries and still same problem :(",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.034829279999999997,
+      "new_score": 0.13269785000000001,
+      "customer_id": 11954701,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [
+        {
+          "id": 777999,
+          "full_path": "https://salt.tikicdn.com/ts/review/32/59/25/879f260be5e0476291ffd71189a4ee65.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1580273620,
+      "created_by": {
+        "id": 11954701,
+        "name": "Мари Костюкова",
+        "full_name": "Мари Костюкова",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/822930221409147/picture?type=large&return_ssl_resources=1",
+        "purchased": true,
+        "purchased_at": 1565801285,
+        "contribute_info": {
+          "id": 11954701,
+          "name": "Мари Костюкова",
+          "avatar": "https://graph.facebook.com/822930221409147/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán vinet shop"
+      ],
+      "product_attributes": [],
+      "spid": 16642866,
+      "is_photo": true,
+      "seller": {
+        "id": 5411,
+        "name": "vinet shop",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/87/70/42/9ff95609e80b6ec9e45dadc5b8d94f38.png"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2020-01-29 11:53:40",
+        "delivery_date": "2019-08-15 11:43:21",
+        "current_date": "2025-09-15 12:13:24",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [
+        {
+          "id": 506614,
+          "review_id": 2918175,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Tiki thank you for your information about product \"Đồng hồ đo nhiệt độ độ ẩm điện tử HTC-1\" and we are sorry for the product has not met your expectations. However, your order has expired to return and warranty according to https://tiki.vn/doi-tra-de-dang. We hope to continue supporting you better in the following orders. Please contact us 1900-6035 or email hotro@tiki.vn for your request.",
+          "score": 0,
+          "create_at": 1580360667,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 5408681,
+      "title": "Hài lòng",
+      "content": "Giao hàng nhanh, hàng mới đúng như quảng cáo! Xin cảm ơn !",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13250625999999999,
+      "customer_id": 1561064,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1604044616,
+      "created_by": {
+        "id": 1561064,
+        "name": "Hoàng Thanh Phúc",
+        "full_name": "Hoàng Thanh Phúc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1603870396,
+        "contribute_info": {
+          "id": 1561064,
+          "name": "Hoàng Thanh Phúc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Lê Ngọc Trâm Shop"
+      ],
+      "product_attributes": [],
+      "spid": 50579511,
+      "is_photo": false,
+      "seller": {
+        "id": 102486,
+        "name": "Lê Ngọc Trâm Shop",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2020-10-30 14:56:56",
+        "delivery_date": "2020-10-30 12:35:04",
+        "current_date": "2025-09-15 12:13:24",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9966032,
+      "title": "Hài lòng",
+      "content": "Hài lòng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.81699345999999995,
+      "new_score": 0.13223209999999999,
+      "customer_id": 21718081,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1622001112,
+      "created_by": {
+        "id": 21718081,
+        "name": "Phan Tuấn Việt",
+        "full_name": "Phan Tuấn Việt",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-05-14 16:54:22",
+        "purchased": true,
+        "purchased_at": 1620986244,
+        "contribute_info": {
+          "id": 21718081,
+          "name": "Phan Tuấn Việt",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết bị số Hà Nội"
+      ],
+      "product_attributes": [],
+      "spid": 33394827,
+      "is_photo": false,
+      "seller": {
+        "id": 73261,
+        "name": "Thiết bị số Hà Nội",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/c0/a3/ac/746af72f511899908d1fec06b16e2b5e.png"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2021-05-26 10:51:52",
+        "delivery_date": "2021-05-17 09:41:42",
+        "current_date": "2025-09-15 12:13:24",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9521418,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13119249999999999,
+      "customer_id": 11163043,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1620235372,
+      "created_by": {
+        "id": 11163043,
+        "name": "Dang Buu Chau",
+        "full_name": "Dang Buu Chau",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-03-06 14:46:57",
+        "purchased": true,
+        "purchased_at": 1619801394,
+        "contribute_info": {
+          "id": 11163043,
+          "name": "Dang Buu Chau",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 23,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán recrecvn"
+      ],
+      "product_attributes": [],
+      "spid": 74393038,
+      "is_photo": false,
+      "seller": {
+        "id": 31394,
+        "name": "recrecvn",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/3e/05/94/d496e4b9c614f8b7a71eaaac62874e39.png"
+      },
+      "product_id": 16220250,
+      "comments": [
+        {
+          "id": 1157419,
+          "review_id": 9521418,
+          "commentator": "seller",
+          "customer_id": 31394,
+          "fullname": "recrecvn",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/3e/05/94/d496e4b9c614f8b7a71eaaac62874e39.png",
+          "content": "cám ơn bạn đã mua sản phẩm của rẹc rẹc ",
+          "score": 0,
+          "create_at": 1620699881,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 7417109,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12947653000000001,
+      "customer_id": 17506958,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1612110725,
+      "created_by": {
+        "id": 17506958,
+        "name": "Nguyễn Thị Thanh Thúy ",
+        "full_name": "Nguyễn Thị Thanh Thúy ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-06-06 11:36:16",
+        "purchased": true,
+        "purchased_at": 1608128681,
+        "contribute_info": {
+          "id": 17506958,
+          "name": "Nguyễn Thị Thanh Thúy ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán DŨNG PHÁT STORE"
+      ],
+      "product_attributes": [],
+      "spid": 72465183,
+      "is_photo": false,
+      "seller": {
+        "id": 50343,
+        "name": "DŨNG PHÁT STORE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/7a/2b/51/4525fa5975a79526a796cca16c9ca1b5.png"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2021-01-31 23:32:05",
+        "delivery_date": "2020-12-17 11:45:04",
+        "current_date": "2025-09-15 12:13:24",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2623795,
+      "title": "sản phẩm tốt",
+      "content": "sản phẩm mới hoàn toàn, xài ok đúng chất lượng, giá cả hợp lý với sản phẩm. giao hàng nhanh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 13.88888889,
+      "new_score": 0.12930810000000001,
+      "customer_id": 11005135,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1573435485,
+      "created_by": {
+        "id": 11005135,
+        "name": "Chau Vanh nak",
+        "region": null,
+        "avatar_url": "https://lh4.googleusercontent.com/-8KVQNrt29Ko/AAAAAAAAAAI/AAAAAAAAAFA/flE-sKef1vs/photo.jpg",
+        "purchased": true,
+        "purchased_at": 1570155790,
+        "contribute_info": {
+          "id": 11005135,
+          "name": "Chau Vanh nak",
+          "avatar": "https://lh4.googleusercontent.com/-8KVQNrt29Ko/AAAAAAAAAAI/AAAAAAAAAFA/flE-sKef1vs/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 90,
+            "total_thank": 32
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán QuanGroup"
+      ],
+      "product_attributes": [],
+      "spid": 31829152,
+      "is_photo": false,
+      "seller": {
+        "id": 19635,
+        "name": "QuanGroup",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/2e/c8/35/2da19daef467a18db085f6b22938a8fb.png"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2019-11-11 08:24:45",
+        "delivery_date": "2019-10-04 11:51:47",
+        "current_date": "2025-09-15 12:13:24",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2425118,
+      "title": "Đồng hồ đo nhiệt độ độ ẩm điện tử HTC-1",
+      "content": "Sản phẩm đúng như trên hình. Đóng gói sản phẩm cẩn thận. chờ đợi thời gian sử dụng.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.04203759,
+      "new_score": 0.12766896999999999,
+      "customer_id": 5250107,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1567510972,
+      "created_by": {
+        "id": 5250107,
+        "name": "Haesung Optics Co Ltd",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1567166338,
+        "contribute_info": {
+          "id": 5250107,
+          "name": "Haesung Optics Co Ltd",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 7,
+            "total_thank": 76
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Housetech vn"
+      ],
+      "product_attributes": [],
+      "spid": 16220251,
+      "is_photo": false,
+      "seller": {
+        "id": 2570,
+        "name": "Housetech vn",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/cb/2d/16/69f9669e6bff39282f34c80605b88d1c.jpg"
+      },
+      "product_id": 16220250,
+      "timeline": {
+        "review_created_date": "2019-09-03 18:42:52",
+        "delivery_date": "2019-09-03 17:24:10",
+        "current_date": "2025-09-15 12:13:24",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 407814,
+          "review_id": 2425118,
+          "commentator": "customer",
+          "customer_id": 11355551,
+          "fullname": "Văn Nghệ Xuân Quan",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Sau khi sử dụng bạn tjấy ntn",
+          "score": 0,
+          "create_at": 1572268569,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 10,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

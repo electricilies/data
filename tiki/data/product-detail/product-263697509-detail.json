@@ -1,0 +1,399 @@
+{
+  "id": 263697509,
+  "master_id": 263697509,
+  "sku": "9585491693236",
+  "name": "Từ Điển Hình Ảnh Cho Bé: Đồ Dùng",
+  "url_key": "tu-dien-hinh-anh-cho-be-do-dung-p263697509",
+  "url_path": "tu-dien-hinh-anh-cho-be-do-dung-p263697509.html?spid=263697512",
+  "short_url": "https://tiki.vn/product-p263697509.html?spid=263697512",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "Giới thiệuTừ Điển Hình Ảnh Cho Bé là bộ sách gồm 10 cuốn, với các chủ đề: Chữ cái, Số đếm, Màu sắc và hình dạng, Động vật; Hoa, Trái cây, Rau củ, Phương tiện, Đồ dùng, Đồ chơi. Mỗi chủ đề gồm 14 hình...",
+  "price": 24000,
+  "list_price": 30000,
+  "original_price": 30000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_authentic",
+      "code": "is_hero",
+      "type": "is_hero",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "text_overlay_product_image",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "15-9"
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "15-9"
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_hero",
+      "type": "pdp_icon_badge",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": true,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 6000,
+  "discount_rate": 20,
+  "rating_average": 5,
+  "review_count": 12,
+  "review_text": "(12)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 810,
+  "all_time_quantity_sold": 97,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<h3><strong>Giới thiệu</strong></h3>\n<p><strong>Từ Điển Hình Ảnh Cho Bé</strong> là bộ sách gồm 10 cuốn, với các chủ đề: Chữ cái, Số đếm, Màu sắc và hình dạng, Động vật; Hoa, Trái cây, Rau củ, Phương tiện, Đồ dùng, Đồ chơi. Mỗi chủ đề gồm 14 hình ảnh quen thuộc gần gũi với bé và các từ tương ứng với nó (bằng cả tiếng Việt và tiếng Anh) nhằm giúp các bé từ 0-3 tuổi có được vốn từ cần thiết, để bé có những hình dung bước đầu về thế giới xung quanh; đồng thời với vốn từ nho nhỏ này bé sẽ biểu đạt ý nghĩ của mình tốt hơn. Bộ sách có thể coi là những cuốn sách giáo khoa đầu đời dạy bé những bài học đầu tiên đơn giản mà vô cùng ý nghĩa; từ đó bé có thể tự tin trong giao tiếp.</p>\n<p>Sách in trên giấy Ivory bìa cứng, hình ảnh tươi sáng, vui mắt, phần từ ngữ in to dễ đọc, khổ 12.5 x 12.5 cm thích hợp vừa làm sách vừa làm đồ chơi bền bỉ cho các bé <strong>0-3 tuổi.</strong></p>\n<h3>Nội dung sách </h3>\n<p data-sourcepos=\"5:1-5:75\">Đây là một bộ sách dành cho trẻ nhỏ, đặc biệt là trẻ ở độ tuổi mầm non. Qua những hình ảnh minh họa sinh động, màu sắc tươi tắn, cùng với những từ ngữ đơn giản, dễ hiểu, bộ sách giúp bé làm quen với các đồ dùng quen thuộc trong cuộc sống hàng ngày như:</p>\n<ul data-sourcepos=\"7:1-11:0\">\n<li data-sourcepos=\"7:1-7:64\"><strong>Đồ dùng trong nhà:</strong> Bàn, ghế, giường, tủ, bát, đĩa, cốc,...</li>\n<li data-sourcepos=\"8:1-8:47\"><strong>Đồ chơi:</strong> Ô tô, búp bê, gấu bông, bóng,...</li>\n<li data-sourcepos=\"9:1-9:54\"><strong>Đồ dùng cá nhân:</strong> Quần áo, giày dép, mũ, khăn,...</li>\n<li data-sourcepos=\"10:1-11:0\"><strong>Đồ dùng học tập:</strong> Sách, vở, bút, thước,...</li>\n</ul>\n<h3 data-sourcepos=\"12:1-12:43\"><strong>Tại sao nên chọn bộ sách này?</strong></h3>\n<ul data-sourcepos=\"16:1-16:29\">\n<li data-sourcepos=\"16:1-16:29\"><strong>Mở rộng vốn từ:</strong> Bộ sách giúp bé làm quen với nhiều từ vựng mới về các đồ dùng, từ đó giúp bé phát triển khả năng ngôn ngữ.</li>\n<li data-sourcepos=\"17:1-17:126\"><strong>Rèn luyện khả năng quan sát:</strong> Các hình ảnh minh họa sinh động giúp bé tập trung quan sát, phân biệt các đồ vật khác nhau.</li>\n<li data-sourcepos=\"18:1-18:82\"><strong>Phát triển trí nhớ:</strong> Việc lặp lại các từ và hình ảnh giúp bé ghi nhớ lâu hơn.</li>\n<li data-sourcepos=\"19:1-20:0\"><strong>Tạo nền tảng cho việc học chữ cái và số:</strong> Một số bộ sách còn kết hợp việc giới thiệu chữ cái và số, giúp bé làm quen với các kiến thức cơ bản.</li>\n</ul>\n<h3 data-sourcepos=\"21:1-21:3\"><strong>Lợi ích khi cho bé đọc sách:</strong></h3>\n<ul data-sourcepos=\"23:1-26:0\">\n<li data-sourcepos=\"23:1-23:109\"><strong>Tăng cường sự tò mò:</strong> Bộ sách khơi gợi sự tò mò, giúp bé khám phá thế giới xung quanh một cách chủ động.</li>\n<li data-sourcepos=\"24:1-24:107\"><strong>Phát triển tư duy:</strong> Qua việc quan sát và so sánh các hình ảnh, bé sẽ phát triển khả năng tư duy logic.</li>\n<li data-sourcepos=\"25:1-26:0\"><strong>Tạo sự gắn kết giữa cha mẹ và con cái:</strong> Việc đọc sách cùng bé sẽ giúp tăng cường tình cảm gia đình.</li>\n</ul>\n<p> </p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "authors": [
+    {
+      "id": 455681,
+      "name": "Phạm Huy Thông",
+      "slug": "pham-huy-thong"
+    },
+    {
+      "id": 455767,
+      "name": "Lê Bích Thuỷ",
+      "slug": "le-bich-thuy"
+    },
+    {
+      "id": 17710,
+      "name": "Hiếu Minh",
+      "slug": "hieu-minh"
+    },
+    {
+      "id": 455679,
+      "name": "Việt Hải",
+      "slug": "viet-hai"
+    }
+  ],
+  "current_seller": {
+    "id": 1,
+    "sku": "1979177647796",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 24000,
+    "product_id": "263697512",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Thông tin chung",
+      "attributes": [
+        {
+          "code": "book_version",
+          "name": "Phiên bản sách",
+          "value": "Phiên bản thường"
+        },
+        {
+          "code": "publisher_vn",
+          "name": "Công ty phát hành",
+          "value": "Nhà Xuất Bản Kim Đồng"
+        },
+        {
+          "code": "publication_date",
+          "name": "Ngày xuất bản",
+          "value": "2019-06-01 00:00:00"
+        },
+        {
+          "code": "dimensions",
+          "name": "Kích thước",
+          "value": "12.5 x 12.5 cm"
+        },
+        {
+          "code": "book_cover",
+          "name": "Loại bìa",
+          "value": "Bìa mềm"
+        },
+        {
+          "code": "number_of_page",
+          "name": "Số trang",
+          "value": "12"
+        },
+        {
+          "code": "manufacturer",
+          "name": "Nhà xuất bản",
+          "value": "Nhà Xuất Bản Kim Đồng"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Năm tái bản",
+      "position": 0,
+      "show_preview_image": false,
+      "values": [
+        {
+          "label": "2023"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 263697511,
+      "discount_rate": 20,
+      "id": 263697512,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/25/4a/6e/e9200996a34a9d3d3c1ac4c871d9ab58.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Từ Điển Hình Ảnh Cho Bé: Đồ Dùng - 2023",
+      "option1": "2023",
+      "original_price": 30000,
+      "price": 24000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "9321094301338",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f8/ac/30/2d515bbc491a16836cb4024c36795cc4.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 97",
+    "value": 97
+  },
+  "categories": {
+    "id": 2,
+    "name": "Root",
+    "is_leaf": false
+  },
+  "breadcrumbs": [
+    {
+      "url": "/nha-sach-tiki/c8322",
+      "name": "Nhà Sách Tiki",
+      "category_id": 8322
+    },
+    {
+      "url": "/sach-truyen-tieng-viet/c316",
+      "name": "Sách tiếng Việt",
+      "category_id": 316
+    },
+    {
+      "url": "/sach-truyen-thieu-nhi/c393",
+      "name": "Sách thiếu nhi ",
+      "category_id": 393
+    },
+    {
+      "url": "/kien-thuc-ky-nang/c853",
+      "name": "Kiến thức - Bách khoa",
+      "category_id": 853
+    },
+    {
+      "url": "https://tiki.vn/tu-dien-hinh-anh-cho-be-do-dung-p263697509.html",
+      "name": "Từ Điển Hình Ảnh Cho Bé: Đồ Dùng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>30 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

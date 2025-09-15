@@ -1,0 +1,756 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 10
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 3,
+      "percent": 30
+    },
+    "5": {
+      "count": 6,
+      "percent": 60
+    }
+  },
+  "rating_average": 4.2999999999999998,
+  "reviews_count": 10,
+  "review_photo": {
+    "total": 4,
+    "total_photo": 7
+  },
+  "data": [
+    {
+      "id": 4336086,
+      "title": "Chất lượng sản phẩm tốt",
+      "content": "Máy nhỏ, cầm vừa tay. Tuy không đã như máy cắm điện nhưng mang theo rất thuận tiện. Mình bỏ luôn trong balo, đi đâu mỏi mỏi lại mang ra xài. Mình dùng máy này massage đầu rất thích vì không rung quá mạnh. Massage lưng thì vừa phải, nói chung là chất lượng tốt so với giá tiền",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.15840371,
+      "customer_id": 11783701,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 1115887,
+          "full_path": "https://salt.tikicdn.com/ts/review/6f/f7/d0/13b55a9354c6e751f75417a5fdabaed9.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 1115888,
+          "full_path": "https://salt.tikicdn.com/ts/review/3e/47/bb/b9d4db605a01951d37badad02c499d83.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 1115889,
+          "full_path": "https://salt.tikicdn.com/ts/review/a9/be/61/a64d99756c44d712eb3ee3f9f6295fcd.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1596614824,
+      "created_by": {
+        "id": 11783701,
+        "name": "quang thieu",
+        "full_name": "quang thieu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1596247997,
+        "contribute_info": {
+          "id": 11783701,
+          "name": "quang thieu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 22,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": true,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2020-08-05 15:07:04",
+        "delivery_date": "2020-08-03 08:07:51",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12364264,
+      "title": "Hài lòng",
+      "content": "Giao hàng nhanh nhưng trên HDSD ghi ko dùng cho phụ nữ có thai, còn trên mô tả của ship thì dùng được. Cần ghi rõ và chi tiết hiwb cho vấn đề này.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.15186305999999999,
+      "customer_id": 14918914,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [
+        {
+          "id": 2535197,
+          "full_path": "https://salt.tikicdn.com/ts/review/d4/02/a8/ec6cc64e9bd227988bbff98e5b4dae8d.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2535198,
+          "full_path": "https://salt.tikicdn.com/ts/review/97/7d/73/26b231570ed09c80f3787f2172fd2318.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1632879712,
+      "created_by": {
+        "id": 14918914,
+        "name": "Nguyễn Thị Hương",
+        "full_name": "Nguyễn Thị Hương",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-11-12 15:16:13",
+        "purchased": true,
+        "purchased_at": 1632819037,
+        "contribute_info": {
+          "id": 14918914,
+          "name": "Nguyễn Thị Hương",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 7,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": true,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2021-09-29 08:41:52",
+        "delivery_date": "2021-09-28 17:18:33",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 11719034,
+      "title": "Cực kì hài lòng",
+      "content": "Máy chạy tốt, chỉ tội hơi tốn pin và không thân thiện môi trường cho lắm. Nếu như tối ưu đc khoản này thì sp chắc sẽ bán rất tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14435312,
+      "customer_id": 16644632,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1628571414,
+      "created_by": {
+        "id": 16644632,
+        "name": "Thanh Vân",
+        "full_name": "Thanh Vân",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-03-01 22:41:58",
+        "purchased": true,
+        "purchased_at": 1626622167,
+        "contribute_info": {
+          "id": 16644632,
+          "name": "Thanh Vân",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": false,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2021-08-10 11:56:54",
+        "delivery_date": "2021-07-19 10:07:40",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4469442,
+      "title": "Chất lượng sản phẩm tốt. yên tâm mua hàng",
+      "content": "giao hàng đúng như hình, máy rung tốt, được cái nhỏ gọn, đi đâu mình cũng mang theo. vote 5 sao về chất lượng và thời gian giao hàng rất nhanh của tiki",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.14191495000000001,
+      "customer_id": 11810290,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 1132059,
+          "full_path": "https://salt.tikicdn.com/ts/review/66/77/81/4f5a4cfbcc0ebce849df5db552f91c55.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1597457183,
+      "created_by": {
+        "id": 11810290,
+        "name": "Linh Nhi",
+        "full_name": "Linh Nhi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1596783167,
+        "contribute_info": {
+          "id": 11810290,
+          "name": "Linh Nhi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 12,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": true,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2020-08-15 09:06:23",
+        "delivery_date": "2020-08-08 11:18:21",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 7 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17778965,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14042546,
+      "customer_id": 20476626,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1663950831,
+      "created_by": {
+        "id": 20476626,
+        "name": "Nguyễn Thanh Hoàng",
+        "full_name": "Nguyễn Thanh Hoàng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-02-25 17:09:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1663642372,
+        "contribute_info": {
+          "id": 20476626,
+          "name": "Nguyễn Thanh Hoàng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 168,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết bị y tế Gia Đình HME"
+      ],
+      "product_attributes": [],
+      "spid": 144574182,
+      "is_photo": false,
+      "seller": {
+        "id": 133020,
+        "name": "Thiết bị y tế Gia Đình HME",
+        "logo": "6c/02/14/f68bd692ffe6cd92a488987d6ea974ae.png"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2022-09-23 23:33:51",
+        "delivery_date": "2022-09-20 10:47:57",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "kiểu dáng đẹp, tiện lợi",
+          "massage nhiều vị trí trên cơ thể",
+          "Máy hoạt động êm"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9807133,
+      "title": "Rất không hài lòng",
+      "content": "Sản phẩm chạy ko nổi, cục lăn rất yếu, yêu cầu trả hàng nhé",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 22.222222219999999,
+      "new_score": 0.13982338999999999,
+      "customer_id": 7317673,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [
+        {
+          "id": 1993974,
+          "full_path": "https://salt.tikicdn.com/ts/review/80/d7/f4/ff840e2e5287c9e17b9547a3c31d3b81.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1621328553,
+      "created_by": {
+        "id": 7317673,
+        "name": "NGUYỄN THỊ KIM THOA",
+        "full_name": "NGUYỄN THỊ KIM THOA",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-06-18 16:19:05",
+        "purchased": true,
+        "purchased_at": 1621308579,
+        "contribute_info": {
+          "id": 7317673,
+          "name": "NGUYỄN THỊ KIM THOA",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 86,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": true,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2021-05-18 16:02:33",
+        "delivery_date": "2021-05-18 15:20:23",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10481352,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.1319689,
+      "customer_id": 8483046,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1623911377,
+      "created_by": {
+        "id": 8483046,
+        "name": "Nguyễn Mạnh Duy",
+        "full_name": "Nguyễn Mạnh Duy",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-10-17 11:43:03",
+        "purchased": true,
+        "purchased_at": 1623224135,
+        "contribute_info": {
+          "id": 8483046,
+          "name": "Nguyễn Mạnh Duy",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 14,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": false,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2021-06-17 13:29:37",
+        "delivery_date": "2021-06-14 12:54:46",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9497392,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13117239,
+      "customer_id": 6295810,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1620140146,
+      "created_by": {
+        "id": 6295810,
+        "name": "Nguyen Le Ngoc Han",
+        "full_name": "Nguyen Le Ngoc Han",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-09-01 18:31:55",
+        "purchased": true,
+        "purchased_at": 1616168374,
+        "contribute_info": {
+          "id": 6295810,
+          "name": "Nguyen Le Ngoc Han",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 47,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": false,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2021-05-04 21:55:46",
+        "delivery_date": "2021-03-25 10:48:07",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9227682,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13094233,
+      "customer_id": 10154584,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1619050890,
+      "created_by": {
+        "id": 10154584,
+        "name": "Dat Nguyen Quoc",
+        "full_name": "Dat Nguyen Quoc",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2170097109872811&height=200&width=200&ext=1549118114&hash=AeRtZx12OGFj9YaG",
+        "created_time": "2019-01-03 21:51:15",
+        "purchased": true,
+        "purchased_at": 1611664630,
+        "contribute_info": {
+          "id": 10154584,
+          "name": "Dat Nguyen Quoc",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2170097109872811&height=200&width=200&ext=1549118114&hash=AeRtZx12OGFj9YaG",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": false,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2021-04-22 07:21:30",
+        "delivery_date": "2021-02-02 11:24:05",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 8479910,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 3.7037037000000002,
+      "new_score": 0.13029748999999999,
+      "customer_id": 603809,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1615997730,
+      "created_by": {
+        "id": 603809,
+        "name": "Real madrid",
+        "full_name": "Real madrid",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-04-06 13:34:56",
+        "purchased": true,
+        "purchased_at": 1615816406,
+        "contribute_info": {
+          "id": 603809,
+          "name": "Real madrid",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 10,
+            "total_thank": 8
+          }
+        }
+      },
+      "suggestions": [
+        "Giao hàng nhanh"
+      ],
+      "attributes": [
+        "Mua từ nhà bán TBYT Cộng Đồng"
+      ],
+      "product_attributes": [],
+      "spid": 57758018,
+      "is_photo": false,
+      "seller": {
+        "id": 13000,
+        "name": "TBYT Cộng Đồng",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/52/ec/f2/c3343b17eddb4f6df189479b23dd9546.jpg"
+      },
+      "product_id": 57758017,
+      "timeline": {
+        "review_created_date": "2021-03-17 23:15:30",
+        "delivery_date": "2021-03-16 16:46:08",
+        "current_date": "2025-09-15 12:09:35",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 10,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

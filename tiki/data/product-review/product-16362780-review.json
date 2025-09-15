@@ -1,0 +1,1552 @@
+{
+  "stars": {
+    "1": {
+      "count": 22,
+      "percent": 14
+    },
+    "2": {
+      "count": 4,
+      "percent": 2
+    },
+    "3": {
+      "count": 14,
+      "percent": 10
+    },
+    "4": {
+      "count": 41,
+      "percent": 28
+    },
+    "5": {
+      "count": 67,
+      "percent": 46
+    }
+  },
+  "rating_average": 3.8999999999999999,
+  "reviews_count": 148,
+  "review_photo": {
+    "total": 24,
+    "total_photo": 33
+  },
+  "data": [
+    {
+      "id": 20098908,
+      "title": "Bình thường",
+      "content": "Nói Chung sản phẩm này chưa ổn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.91269840999999996,
+      "new_score": 0.16859273999999999,
+      "customer_id": 18535101,
+      "comment_count": 1,
+      "rating": 3,
+      "images": [
+        {
+          "id": 4400674,
+          "full_path": "https://salt.tikicdn.com/ts/review/ac/69/81/91fdf3e7a0e3f9f18460643d341d6393.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4400675,
+          "full_path": "https://salt.tikicdn.com/ts/review/74/6e/2a/2bcb873396d853c3ebab3b35cb083069.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4400676,
+          "full_path": "https://salt.tikicdn.com/ts/review/ee/2d/d0/8c4111f623492c73698a0cdfdd6088cf.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1742392283,
+      "created_by": {
+        "id": 18535101,
+        "name": "Lê Nuôi ",
+        "full_name": "Lê Nuôi ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-09-21 16:59:47",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1741872619,
+        "contribute_info": {
+          "id": 18535101,
+          "name": "Lê Nuôi ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 10,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Xanh"
+      ],
+      "product_attributes": [
+        "Màu: Xanh"
+      ],
+      "spid": 46148481,
+      "is_photo": true,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2025-03-19 20:51:23",
+        "delivery_date": "2025-03-16 13:53:00",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [
+        {
+          "id": 3315228,
+          "review_id": 20098908,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Cảm ơn anh Nuôi đã gửi nhận xét đến Tiki. Qua kiểm tra, Tiki thấy đơn hàng đang được xử lý tại mã hỗ trợ 04311897. Tiki cảm ơn anh nhiều.",
+          "score": 0,
+          "create_at": 1742434312,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16510822,
+      "title": "Bình thường",
+      "content": "Cân này thích hợp cho vật nhẹ chứ nặng quá là không chính xác. Nói chung tiền nào của nấy, không thể đòi hỏi hơn.\nShop tư vấn ok, giao nhanh nhưng dịch vụ sau bán hàng làm tan nát con tim và túi tiền, đã nhờ Tiki xuất hóa đơn ĐT mà chờ mòn cổ cũng không thấy chuyển hóa đơn để về thanh toán lại cho công ty, nhắn shop nhờ hỗ trợ thì không thấy phản hồi. Nói chung là phải \"chấp nhận\" thôi.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16163293000000001,
+      "customer_id": 593081,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1653885459,
+      "created_by": {
+        "id": 593081,
+        "name": "NGUYỄN  TRỌNG THỤC",
+        "full_name": "NGUYỄN  TRỌNG THỤC",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-03-24 12:34:19",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1651459762,
+        "contribute_info": {
+          "id": 593081,
+          "name": "NGUYỄN  TRỌNG THỤC",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 19,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tin Học Hoàng Kim",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 49410806,
+      "is_photo": false,
+      "seller": {
+        "id": 26446,
+        "name": "Tin Học Hoàng Kim",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/bf/ce/4e/e995a297d24c3207a2856b64bee2ce22.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2022-05-30 11:37:39",
+        "delivery_date": "2022-05-04 16:40:49",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18010369,
+      "title": "Rất không hài lòng",
+      "content": "Nắp pin dính với thân máy, k thể mở ra được. Không mở ra được làm sao dùng. Hộp cũ, thân máy có vết xước có dấu hiệu đã qua sử dụng. Sản phẩm tệ.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.16006027,
+      "customer_id": 7879452,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [
+        {
+          "id": 3947547,
+          "full_path": "https://salt.tikicdn.com/ts/review/09/96/df/5d5191ce15bf8ede4230696d1bcd0d02.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3947548,
+          "full_path": "https://salt.tikicdn.com/ts/review/c4/32/7e/496bb8e96b374040837c7646caa2ee04.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1666325173,
+      "created_by": {
+        "id": 7879452,
+        "name": "Lâm Nguyễn Phương",
+        "full_name": "Lâm Nguyễn Phương",
+        "region": null,
+        "avatar_url": "https://lh6.googleusercontent.com/-t_CJ8f_wfqY/AAAAAAAAAAI/AAAAAAAADJw/ihcZvl6RA60/photo.jpg",
+        "created_time": "2018-08-30 11:15:12",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1666235737,
+        "contribute_info": {
+          "id": 7879452,
+          "name": "Lâm Nguyễn Phương",
+          "avatar": "https://lh6.googleusercontent.com/-t_CJ8f_wfqY/AAAAAAAAAAI/AAAAAAAADJw/ihcZvl6RA60/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 8,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": true,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2022-10-21 11:06:13",
+        "delivery_date": "2022-10-21 11:02:46",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 3 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20084811,
+      "title": "Cực kì hài lòng",
+      "content": "Tài xế giao hàng ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15802738999999999,
+      "customer_id": 8227537,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1740031148,
+      "created_by": {
+        "id": 8227537,
+        "name": "Đỗ Hoàng Duy",
+        "full_name": "Đỗ Hoàng Duy",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/cc/62/53/688f6512728a4ab756007f44b9f35621.png",
+        "created_time": "2018-10-04 07:53:29",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1740023146,
+        "contribute_info": {
+          "id": 8227537,
+          "name": "Đỗ Hoàng Duy",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/cc/62/53/688f6512728a4ab756007f44b9f35621.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 78,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2025-02-20 12:59:08",
+        "delivery_date": "2025-02-20 12:58:05",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 1 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20119396,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15784229999999999,
+      "customer_id": 21070801,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1746414686,
+      "created_by": {
+        "id": 21070801,
+        "name": "Lan Chi",
+        "full_name": "Lan Chi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-03-27 15:58:49",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1743751973,
+        "contribute_info": {
+          "id": 21070801,
+          "name": "Lan Chi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 15,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2025-05-05 10:11:26",
+        "delivery_date": "2025-04-09 10:50:56",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cân chính xác"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19923874,
+      "title": "Cực kì hài lòng",
+      "content": "Cân nhảy kg chính cho lắm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.15745785000000001,
+      "customer_id": 14414228,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4365507,
+          "full_path": "https://salt.tikicdn.com/ts/review/07/be/04/576272f1d6fd3842810a2b22554151f7.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1720605207,
+      "created_by": {
+        "id": 14414228,
+        "name": "Linh Vu",
+        "full_name": "Linh Vu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-10-12 22:39:02",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1720518475,
+        "contribute_info": {
+          "id": 14414228,
+          "name": "Linh Vu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 60,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": true,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2024-07-10 16:53:27",
+        "delivery_date": "2024-07-09 18:21:26",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19079219,
+      "title": "Cực kì hài lòng",
+      "content": "Tạm được,sài đc mấy ngày nhảy lung tung,nói chung chất lượng kém.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.039947499999999997,
+      "new_score": 0.15573703999999999,
+      "customer_id": 10570504,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4244798,
+          "full_path": "https://salt.tikicdn.com/ts/review/12/17/27/e77e4c3d8e369f81f6b929e9e647613d.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4244799,
+          "full_path": "https://salt.tikicdn.com/ts/review/dc/a9/da/4fd5fbba2738135be67e68f96b56f36e.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1681208480,
+      "created_by": {
+        "id": 10570504,
+        "name": "Huỳnh Chí Cường",
+        "full_name": "Huỳnh Chí Cường",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6d/cf/07/9f1eec7b850a1a15e78be43fc96771ef.png",
+        "created_time": "2019-01-27 12:56:11",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1680494139,
+        "contribute_info": {
+          "id": 10570504,
+          "name": "Huỳnh Chí Cường",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/6d/cf/07/9f1eec7b850a1a15e78be43fc96771ef.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 56,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": true,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2023-04-11 17:21:20",
+        "delivery_date": "2023-04-06 09:25:33",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20035827,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15485958,
+      "customer_id": 9067397,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1732292350,
+      "created_by": {
+        "id": 9067397,
+        "name": "Dang Son",
+        "full_name": "Dang Son",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/-hNyDBfR0PKo/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hqtuPrN0JWmnPnykRjB7BC-IE9EQ/s80/photo.jpg",
+        "created_time": "2018-11-19 18:51:34",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1726299023,
+        "contribute_info": {
+          "id": 9067397,
+          "name": "Dang Son",
+          "avatar": "https://lh3.googleusercontent.com/-hNyDBfR0PKo/AAAAAAAAAAI/AAAAAAAAAAA/AGDgw-hqtuPrN0JWmnPnykRjB7BC-IE9EQ/s80/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 20,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Cam"
+      ],
+      "product_attributes": [
+        "Màu: Cam"
+      ],
+      "spid": 76729368,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2024-11-22 23:19:10",
+        "delivery_date": "2024-09-14 17:38:29",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20033718,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15479704999999999,
+      "customer_id": 1242426,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1731996297,
+      "created_by": {
+        "id": 1242426,
+        "name": "le duy",
+        "full_name": "le duy",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-03-21 21:20:39",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729361613,
+        "contribute_info": {
+          "id": 1242426,
+          "name": "le duy",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2024-11-19 13:04:57",
+        "delivery_date": "2024-10-20 08:39:03",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cân chính xác",
+          "chất liệu chắc chắn",
+          "Dễ sử dụng",
+          "Thiết kế đẹp"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19990909,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15382986000000001,
+      "customer_id": 7750919,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1727416894,
+      "created_by": {
+        "id": 7750919,
+        "name": "Việt Nam Nói Là Làm Channel",
+        "full_name": "Việt Nam Nói Là Làm Channel",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/-AZMmdufKRzg/AAAAAAAAAAI/AAAAAAAAA38/4uhVUia6Nq0/photo.jpg",
+        "created_time": "2018-08-24 10:59:18",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727330062,
+        "contribute_info": {
+          "id": 7750919,
+          "name": "Việt Nam Nói Là Làm Channel",
+          "avatar": "https://lh3.googleusercontent.com/-AZMmdufKRzg/AAAAAAAAAAI/AAAAAAAAA38/4uhVUia6Nq0/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2024-09-27 13:01:34",
+        "delivery_date": "2024-09-26 15:57:58",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19938610,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15271276,
+      "customer_id": 6632046,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1722127782,
+      "created_by": {
+        "id": 6632046,
+        "name": "Lý Diên Đạt ",
+        "full_name": "Lý Diên Đạt ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-03-03 13:02:11",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1721608564,
+        "contribute_info": {
+          "id": 6632046,
+          "name": "Lý Diên Đạt ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 37,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Xanh"
+      ],
+      "product_attributes": [
+        "Màu: Xanh"
+      ],
+      "spid": 46148481,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2024-07-28 07:49:42",
+        "delivery_date": "2024-07-22 09:57:17",
+        "current_date": "2025-09-15 12:14:16",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16892705,
+      "title": "Rất không hài lòng",
+      "content": "Cân hoạt động rất không ổn định. Cùng một vật, cân cho hai kết quả khác nhau, ở hai lần cân cách nhau vài phút.\nTôi khuyên mọi người không nên mua sản phẩm này!",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15266762,
+      "customer_id": 26746154,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1656574897,
+      "created_by": {
+        "id": 26746154,
+        "name": "Khac Minh",
+        "full_name": "Khac Minh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-02-09 03:36:24",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1649528762,
+        "contribute_info": {
+          "id": 26746154,
+          "name": "Khac Minh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 16,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tin Học Hoàng Kim",
+        "Màu Xanh"
+      ],
+      "product_attributes": [
+        "Màu: Xanh"
+      ],
+      "spid": 26741118,
+      "is_photo": false,
+      "seller": {
+        "id": 26446,
+        "name": "Tin Học Hoàng Kim",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/bf/ce/4e/e995a297d24c3207a2856b64bee2ce22.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2022-06-30 14:41:37",
+        "delivery_date": "2022-04-15 18:05:48",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [
+        {
+          "id": 2551100,
+          "review_id": 16892705,
+          "commentator": "seller",
+          "customer_id": 26446,
+          "fullname": "Tin Học Hoàng Kim",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/bf/ce/4e/e995a297d24c3207a2856b64bee2ce22.jpg",
+          "content": "Đây là cân cầm tay, để cân 1 vật lơ lửng trên ko, bạn phải để cho vật nó ở yên, ko lúc lắc qua lại. Chứ spham đang lúc lắc qua lại thì dĩ nhiên số nó sẽ nhảy khác nhau. Nếu ko hài lòng, bạn có thể bấm yêu cầu trả hàng được mà, bạn ko am hiểu, ko biết xài ko có nghĩa là các khách hàng khác họ cũng giống bạn, sao lại phải khuyên họ ko nên mua?",
+          "score": 0,
+          "create_at": 1659315233,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19884702,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15159821000000001,
+      "customer_id": 21675485,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1716850672,
+      "created_by": {
+        "id": 21675485,
+        "name": "Nguyễn Nguyên Trường",
+        "full_name": "Nguyễn Nguyên Trường",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-05-11 18:00:45",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1716086025,
+        "contribute_info": {
+          "id": 21675485,
+          "name": "Nguyễn Nguyên Trường",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 9,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2024-05-28 05:57:52",
+        "delivery_date": "2024-05-20 11:08:32",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cân chính xác",
+          "chất liệu chắc chắn",
+          "Dễ sử dụng",
+          "Thiết kế đẹp"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19884199,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15158540000000001,
+      "customer_id": 1440856,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1716790002,
+      "created_by": {
+        "id": 1440856,
+        "name": "Lê Thị Thanh Lan",
+        "full_name": "Lê Thị Thanh Lan",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/bd/fb/c8/ee6263146efdd298a0f2046f0067cd67.png",
+        "created_time": "2016-06-17 07:07:08",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1711846674,
+        "contribute_info": {
+          "id": 1440856,
+          "name": "Lê Thị Thanh Lan",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/bd/fb/c8/ee6263146efdd298a0f2046f0067cd67.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 263,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Xanh"
+      ],
+      "product_attributes": [
+        "Màu: Xanh"
+      ],
+      "spid": 46148481,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2024-05-27 13:06:42",
+        "delivery_date": "2024-03-31 09:08:20",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cân chính xác",
+          "chất liệu chắc chắn",
+          "Dễ sử dụng",
+          "Thiết kế đẹp"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4244863,
+      "title": "Hài lòng",
+      "content": "Số ký thực tế tối đa theo hướng dẫn chỉ tầm 40kg, nhưng mình dùng ổn và cân cũng khá chính xác.\nVì móc kim loại hơi nhỏ, khó móc vào các tay cầm cứng (ngay cả với quai xách của vali cabin thông thường), mọi người nên chuẩn bị thêm 1 sợi dây để làm dây nối trung gian giữa quai vali và móc kim loại của cân sẽ tốt hơn.",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.0060302899999999998,
+      "new_score": 0.14943155999999999,
+      "customer_id": 2234691,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1596000193,
+      "created_by": {
+        "id": 2234691,
+        "name": "Tường Vy",
+        "full_name": "Tường Vy",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-03-03 23:39:48",
+        "purchased": true,
+        "purchased_at": 1572503207,
+        "contribute_info": {
+          "id": 2234691,
+          "name": "Tường Vy",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 6,
+            "total_thank": 24
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Chammart - Phụ Kiện Thông Minh",
+        "Màu Bạc"
+      ],
+      "product_attributes": [
+        "Màu: Bạc"
+      ],
+      "spid": 16362786,
+      "is_photo": false,
+      "seller": {
+        "id": 6772,
+        "name": "Chammart - Phụ Kiện Thông Minh",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/be/20/a3/f8e79dbfb6791cda852338f6bf50da15.png"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2020-07-29 12:23:13",
+        "delivery_date": "2019-11-01 07:24:39",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2888649,
+      "title": "Hàng được",
+      "content": "thiết kế không đẹp lắm nhưng với giá tiền này thì OK, mỗi lần cân bạn phải bấm để nó trả về số 0 chứ nó không tự động về 0 khi không cân, nói chung xài OK, nhỏ gọn, tiện lợi, chất lượng thì phải xài 1 khoản thời gian mới biết được",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.014739230000000001,
+      "new_score": 0.14942438,
+      "customer_id": 10954897,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [
+        {
+          "id": 766395,
+          "full_path": "https://salt.tikicdn.com/ts/review/6a/2d/50/5ae8a51b572cd2334579d17af13fe7f3.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 766396,
+          "full_path": "https://salt.tikicdn.com/ts/review/b7/b6/54/a5374d7d490c11758f917fa545de2a3c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1579236834,
+      "created_by": {
+        "id": 10954897,
+        "name": "Sơn Thị Hải Quyên",
+        "full_name": "Sơn Thị Hải Quyên",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1579061232,
+        "contribute_info": {
+          "id": 10954897,
+          "name": "Sơn Thị Hải Quyên",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 4,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Chammart - Phụ Kiện Thông Minh",
+        "Màu Cam"
+      ],
+      "product_attributes": [
+        "Màu: Cam"
+      ],
+      "spid": 16362788,
+      "is_photo": true,
+      "seller": {
+        "id": 6772,
+        "name": "Chammart - Phụ Kiện Thông Minh",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/be/20/a3/f8e79dbfb6791cda852338f6bf50da15.png"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2020-01-17 11:53:54",
+        "delivery_date": "2020-01-16 13:12:37",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 626709,
+          "review_id": 2888649,
+          "commentator": "customer",
+          "customer_id": 16788373,
+          "fullname": "Đỗ Vân",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "tôi đã nhận cân điện tử lúc 10h15 ngày 11/5/2020 tôi rất không hài lòng vì không có pin lên không thử được",
+          "score": 0,
+          "create_at": 1589167969,
+          "badge": "https://salt.tikicdn.com/ts/reviews/b0/77/a5/1dc3901bd48bfc65a51760dc051ebbdb.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19322381,
+      "title": "Không hài lòng",
+      "content": "tôi cân 5 kg không. chính xác nha",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14795278000000001,
+      "customer_id": 16460339,
+      "comment_count": 0,
+      "rating": 2,
+      "images": [],
+      "thanked": false,
+      "created_at": 1687595950,
+      "created_by": {
+        "id": 16460339,
+        "name": "TRẦN MINH HẢI",
+        "full_name": "TRẦN MINH HẢI",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/v3.3/203381224049545/picture?type=large&return_ssl_resources=1",
+        "created_time": "2020-02-17 14:23:50",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1687383975,
+        "contribute_info": {
+          "id": 16460339,
+          "name": "TRẦN MINH HẢI ",
+          "avatar": "https://graph.facebook.com/v3.3/203381224049545/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 59,
+            "total_thank": 20
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hoành Gia store",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 46135096,
+      "is_photo": false,
+      "seller": {
+        "id": 3644,
+        "name": "Hoành Gia store",
+        "logo": "a5/06/d0/0383764c3cc03b278857bb5fd53837cf.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2023-06-24 15:39:10",
+        "delivery_date": "2023-06-24 15:05:25",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18144502,
+      "title": "Bình thường",
+      "content": "Pin đi kèm bị hết hạn, nếu được thì đừng bỏ pin vào, nếu ko pin sẽ bị hư",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14790652000000001,
+      "customer_id": 178123,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1667806773,
+      "created_by": {
+        "id": 178123,
+        "name": "Lan Hương",
+        "full_name": "Lan Hương",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2013-09-27 22:35:00",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1667721449,
+        "contribute_info": {
+          "id": 178123,
+          "name": "Lan Hương",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 26,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": false,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2022-11-07 14:39:33",
+        "delivery_date": "2022-11-07 08:47:13",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 6 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 3866137,
+      "title": "cân sai lệch quá nhiều",
+      "content": "Mình mua cân về để cân hàng bán, nhưng cân sai lệch rất nhiều. Mình dùng 1kg đường biên hoà để thử nghiệm nhưng khi ctân lên ra 1kg3 lêch 3 lạng, còn cân 1 quả dưa hấu 2kg2 Mua ở vinmart về cân lại lên 3kg. Haiz , lần đầu tiên mua sp tiki lại thấy thất vọng như vậy.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 1.2752525299999999,
+      "new_score": 0.14783652,
+      "customer_id": 73452,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1592666770,
+      "created_by": {
+        "id": 73452,
+        "name": "Nguyễn Thị Hoàng Anh",
+        "full_name": "Nguyễn Thị Hoàng Anh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1592470964,
+        "contribute_info": {
+          "id": 73452,
+          "name": "Nguyễn Thị Hoàng Anh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 13 năm",
+            "total_review": 28,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Mũ Rơm Store",
+        "Màu Xanh"
+      ],
+      "product_attributes": [
+        "Màu: Xanh"
+      ],
+      "spid": 50267768,
+      "is_photo": false,
+      "seller": {
+        "id": 110363,
+        "name": "Mũ Rơm Store",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/62/98/e125e29d33f3cf6a14b89f34d297f7c8.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2020-06-20 22:26:10",
+        "delivery_date": "2020-06-19 12:34:02",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 681448,
+          "review_id": 3866137,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn, Tiki đã nhận được thông tin nhận xét và rất tiếc vì sản phẩm Cân Điện Tử Cầm Tay Du Lịch 50Kg - 10Gr Tròn nhận được bị lỗi cũng như chưa đáp ứng như kỳ vọng. Theo nội dung phản hồi, Tiki đã tạo yêu cầu thu hồi đổi mới theo chính sách tại https://tiki.vn/doi-tra-de-dang, bạn có thể theo dõi thông tin chi tiết tại email/số điện thoại đặt hàng. Tiki có gửi hướng dẫn việc thu hồi, đóng gói để đổi mới sản phẩm. Trường hợp cần hỗ trợ thêm thông tin bạn có thể liên hệ với Tiki tại đây - https://hotro.tiki.vn/hc/vi để được hỗ trợ nhanh chóng. Đồng thời, Tiki rất mong nhận được phản hồi mới, khách quan chi tiết hơn từ bạn về ưu và khuyết điểm của sản phẩm sau khi đổi mới, hy vọng sẽ phục vụ bạn thành công hơn trong các đơn hàng tiếp theo. Trân trọng.",
+          "score": 0,
+          "create_at": 1592816188,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17132145,
+      "title": "Hài lòng",
+      "content": "Cân ok, tiện lợi nhưng chỉ gửi kèm 1 viên pin thiếu 1 viên.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.14716161999999999,
+      "customer_id": 660097,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [
+        {
+          "id": 3706787,
+          "full_path": "https://salt.tikicdn.com/ts/review/0b/06/e9/d7a9e6d6f706cd6f564c758f6f416c25.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1658282575,
+      "created_by": {
+        "id": 660097,
+        "name": "Thao Nguyen",
+        "full_name": "Thao Nguyen",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-06-11 11:00:40",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658137162,
+        "contribute_info": {
+          "id": 660097,
+          "name": "Thao Nguyen",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 6,
+            "total_thank": 8
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Smart Trading",
+        "Màu Đen"
+      ],
+      "product_attributes": [
+        "Màu: Đen"
+      ],
+      "spid": 185993761,
+      "is_photo": true,
+      "seller": {
+        "id": 100773,
+        "name": "Smart Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/b8/c3/c6/a81273aae215ad97ddce628968dc4cac.jpg"
+      },
+      "product_id": 16362780,
+      "timeline": {
+        "review_created_date": "2022-07-20 09:02:55",
+        "delivery_date": "2022-07-18 17:50:44",
+        "current_date": "2025-09-15 12:14:17",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 148,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 8,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

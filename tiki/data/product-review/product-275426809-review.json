@@ -1,0 +1,179 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 100
+    },
+    "5": {
+      "count": 0,
+      "percent": 0
+    }
+  },
+  "rating_average": 4,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 19980198,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15359765,
+      "customer_id": 5654427,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1726317485,
+      "created_by": {
+        "id": 5654427,
+        "name": "Ms Phong Lan",
+        "full_name": "Ms Phong Lan",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d3/89/81/604dcbad4f5ae69c955668cbbd90428b.jpg",
+        "created_time": "2017-08-30 16:30:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1721453744,
+        "contribute_info": {
+          "id": 5654427,
+          "name": "Ms Phong Lan",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/d3/89/81/604dcbad4f5ae69c955668cbbd90428b.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 441,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 275426810,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 275426809,
+      "timeline": {
+        "review_created_date": "2024-09-14 19:38:05",
+        "delivery_date": "2024-07-20 14:55:14",
+        "current_date": "2025-09-15 12:08:40",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [
+        {
+          "id": 3271809,
+          "review_id": 19980198,
+          "commentator": "seller",
+          "customer_id": 137411,
+          "fullname": "Phụ Kiện Store 76",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg",
+          "content": "Phụ Kiện Store 76 xin chân thành cảm ơn quý khách đã ghé thăm cửa hàng. Phụ Kiện Store 76 thực sự rất vui vì quý khách đã tìm thấy những gì mà quý khách đang cần tìm kiếm ở tại cửa hàng. Phương châm của Phụ Kiện Store 76 là luôn đặt sự hài lòng của khách hàng lên hàng đầu. Mong được phục vụ quý khách nhiều lần về sau được tốt hơn và nhận được đánh giá 5 sao từ quý khách.Xin kính chúc Quý khách hàng sức khỏe, may mắn và thành công.",
+          "score": 0,
+          "create_at": 1729694732,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

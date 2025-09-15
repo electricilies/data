@@ -1,0 +1,490 @@
+{
+  "id": 278625544,
+  "master_id": 278625544,
+  "sku": "4753415809039",
+  "name": "Thuốc khói lá điện tử vaper",
+  "url_key": "thuoc-khoi-la-dien-tu-vaper-p278625544",
+  "url_path": "thuoc-khoi-la-dien-tu-vaper-p278625544.html?spid=278625546",
+  "short_url": "https://tiki.vn/product-p278625544.html?spid=278625546",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "khói nhiều.bảo hành 1 tuần về thân máy. kem dầu 60ml. lien hệ có trên hình sản phẩm để tư vấn cach sử dụng khi đã mua sản phẩm .cảm ơn quý khách Tư vấn nhanh...",
+  "price": 250000,
+  "list_price": 250000,
+  "original_price": 250000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": false,
+      "is_freeship_xtra": false,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 4,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "khói nhiều.bảo hành 1 tuần về thân máy. kem dầu 60ml. lien hệ có trên hình sản phẩm để tư vấn cach sử dụng khi đã mua sản phẩm .cảm ơn quý khách Tư vấn nhanh<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p><p>Sản phẩm này là tài sản cá nhân được bán bởi Nhà Bán Hàng Cá Nhân và không thuộc đối tượng phải chịu thuế GTGT. Do đó hoá đơn VAT không được cung cấp trong trường hợp này.</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 111461,
+    "name": "OEM",
+    "slug": "oem"
+  },
+  "current_seller": {
+    "id": 363278,
+    "sku": "5918690838936",
+    "name": "shop mazao",
+    "link": "https://tiki.vn/cua-hang/shop-mazao",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+    "price": 250000,
+    "product_id": "278625546",
+    "store_id": 350975,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Thông tin chung",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "OEM"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Việt Nam"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Việt Nam"
+        },
+        {
+          "code": "dimensions",
+          "name": "Kích thước",
+          "value": "10 x 10 x10"
+        },
+        {
+          "code": "quy_cach_dong_goi",
+          "name": "Quy cách đóng gói",
+          "value": "vaper thuốc lá điện tử"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "vaper thuốc lá điện tử"
+        },
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "1 Tháng"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Jxp 4000h"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 278625545,
+      "discount_rate": 4,
+      "id": 278625546,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6a/39/7c/db3dc0536786f344566e975808839f9c.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e8/e6/b3/00814a38675055d7f837906ec19086ae.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6c/c6/e9/fa71b04f93ade5376e601c38a5b11b6a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b9/b2/a5/e5f64b739300ed2e79a97f78fd2fe479.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9f/74/c3/7da533845f6a6f5fc77313a0f15a1e3f.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/52/8f/a1/fbfc540f71b74a4735bc018ed5cfa410.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/27/5b/90/90ebfedc7df119d8478e403445de80bd.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/29/b6/a5/7f0e726d4e0ea1c7ef4f14234e4089ad.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/18/c7/b7/41459a623ec35b0b90410f74e17cf6c7.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1c/a6/d6/16494abc6204e3272a48765037cfa98c.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6c/c6/e9/f6df798ebfdb621dd4c1965bc2a95620.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Thuốc khói lá điện tử vaper  jxp 4000h",
+      "option1": "Jxp 4000h",
+      "original_price": 250000,
+      "price": 240000,
+      "selected": true,
+      "seller": {
+        "id": 363278,
+        "name": "shop mazao"
+      },
+      "sku": "5353981343064",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b6/2a/26/0bcd35c7266fec0a9320e86cf2b035ad.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 18344,
+    "name": "Quà tặng trang trí khác",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/nha-sach-tiki/c8322",
+      "name": "Nhà Sách Tiki",
+      "category_id": 8322
+    },
+    {
+      "url": "/qua-luu-niem/c18328",
+      "name": "Quà lưu niệm",
+      "category_id": 18328
+    },
+    {
+      "url": "/qua-tang-trang-tri-khac/c18344",
+      "name": "Quà tặng trang trí khác",
+      "category_id": 18344
+    },
+    {
+      "url": "https://tiki.vn/thuoc-khoi-la-dien-tu-vaper-p278625544.html",
+      "name": "Thuốc khói lá điện tử vaper",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278625544&pid=278625546&seller_id=363278&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "dropship"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "1 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành bởi nhà bán hàng thông qua Tiki"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>30 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

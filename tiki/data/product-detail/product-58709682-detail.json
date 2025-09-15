@@ -1,0 +1,333 @@
+{
+  "id": 58709682,
+  "master_id": 58709682,
+  "sku": "4493717331776",
+  "name": "Từ Điển Hình Ảnh Cho Bé - Đồ Dùng",
+  "url_key": "tu-dien-hinh-anh-cho-be-do-dung-p58709682",
+  "url_path": "tu-dien-hinh-anh-cho-be-do-dung-p58709682.html?spid=58709683",
+  "short_url": "https://tiki.vn/product-p58709682.html?spid=58709683",
+  "type": "simple",
+  "book_cover": null,
+  "short_description": "Cuốn sách giúp bé dễ dàng nhận biết và làm quen với các đồ dùng quen thuộc trong nhà. Hình ảnh minh họa sắc nét và chân thật, màu sắc sinh động của cuốn sách sẽ thu hút sự chú ý của các bé. ...",
+  "price": 26100,
+  "list_price": 30000,
+  "original_price": 30000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 3900,
+  "discount_rate": 13,
+  "rating_average": 5,
+  "review_count": 1,
+  "review_text": "(1)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1e/8a/5f/b1635d981bab1a424a8ce298548bac36.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 1874,
+  "all_time_quantity_sold": 4,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p style=\"text-align: justify;\">Cuốn sách giúp bé dễ dàng nhận biết và làm quen với các đồ dùng quen thuộc trong nhà. Hình ảnh minh họa sắc nét và chân thật, màu sắc sinh động của cuốn sách sẽ&nbsp;thu hút sự chú ý của các bé.&nbsp;Đồ Dùng - Từ Điển Hình Ảnh Cho Bé&nbsp;sẽ giúp cha mẹ xây dựng thói quen đọc&nbsp;sách,&nbsp;niềm say mê đối với sách cho các con ngay từ bé.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/1e/8a/5f/b1635d981bab1a424a8ce298548bac36.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1e/8a/5f/b1635d981bab1a424a8ce298548bac36.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/1e/8a/5f/b1635d981bab1a424a8ce298548bac36.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1e/8a/5f/b1635d981bab1a424a8ce298548bac36.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1e/8a/5f/b1635d981bab1a424a8ce298548bac36.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/31/0f/39/89d91dce1f9c75faae0db60c86865e17.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/31/0f/39/89d91dce1f9c75faae0db60c86865e17.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/31/0f/39/89d91dce1f9c75faae0db60c86865e17.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/31/0f/39/89d91dce1f9c75faae0db60c86865e17.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/31/0f/39/89d91dce1f9c75faae0db60c86865e17.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/32/69/de/9857ce225a28d7d1d39db6119fb3ed73.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/32/69/de/9857ce225a28d7d1d39db6119fb3ed73.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/32/69/de/9857ce225a28d7d1d39db6119fb3ed73.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/32/69/de/9857ce225a28d7d1d39db6119fb3ed73.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/32/69/de/9857ce225a28d7d1d39db6119fb3ed73.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6f/33/f9/0a21ccf3d14b8732a72b973dc2368485.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6f/33/f9/0a21ccf3d14b8732a72b973dc2368485.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6f/33/f9/0a21ccf3d14b8732a72b973dc2368485.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6f/33/f9/0a21ccf3d14b8732a72b973dc2368485.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6f/33/f9/0a21ccf3d14b8732a72b973dc2368485.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/73/25/8c/01435de765ef0c97738d7bca0adeb7ac.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/73/25/8c/01435de765ef0c97738d7bca0adeb7ac.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/73/25/8c/01435de765ef0c97738d7bca0adeb7ac.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/73/25/8c/01435de765ef0c97738d7bca0adeb7ac.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/73/25/8c/01435de765ef0c97738d7bca0adeb7ac.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/56/60/6c/ddbcc0ab899ac8e404130f6ce9786790.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/56/60/6c/ddbcc0ab899ac8e404130f6ce9786790.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/56/60/6c/ddbcc0ab899ac8e404130f6ce9786790.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/56/60/6c/ddbcc0ab899ac8e404130f6ce9786790.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/56/60/6c/ddbcc0ab899ac8e404130f6ce9786790.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/fe/a5/7c/da0b40efc45235f894a7ec93d2805ec0.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fe/a5/7c/da0b40efc45235f894a7ec93d2805ec0.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/fe/a5/7c/da0b40efc45235f894a7ec93d2805ec0.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fe/a5/7c/da0b40efc45235f894a7ec93d2805ec0.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fe/a5/7c/da0b40efc45235f894a7ec93d2805ec0.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/c7/e1/4a/bbe5f2499ae75f0ddf454732be2ef712.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c7/e1/4a/bbe5f2499ae75f0ddf454732be2ef712.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/c7/e1/4a/bbe5f2499ae75f0ddf454732be2ef712.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/e1/4a/bbe5f2499ae75f0ddf454732be2ef712.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/e1/4a/bbe5f2499ae75f0ddf454732be2ef712.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/4f/66/3b/07bdf4c2988736eb44c0ba54b1b2835e.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4f/66/3b/07bdf4c2988736eb44c0ba54b1b2835e.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/4f/66/3b/07bdf4c2988736eb44c0ba54b1b2835e.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4f/66/3b/07bdf4c2988736eb44c0ba54b1b2835e.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4f/66/3b/07bdf4c2988736eb44c0ba54b1b2835e.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "authors": [
+    {
+      "id": 256041,
+      "name": "Chính Bình",
+      "slug": "chinh-binh"
+    }
+  ],
+  "current_seller": {
+    "id": 53660,
+    "sku": "9590687786362",
+    "name": "Nhà sách Fahasa",
+    "link": "https://tiki.vn/cua-hang/nha-sach-fahasa",
+    "logo": "f8/86/c0/12f7213bcdfd4d9a7a52e9b3a6704493.jpg",
+    "price": 26100,
+    "product_id": "58709683",
+    "store_id": 51001,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Thông tin chung",
+      "attributes": [
+        {
+          "code": "publisher_vn",
+          "name": "Công ty phát hành",
+          "value": "Cty TNHH TM&DV VH GD Phía Nam"
+        },
+        {
+          "code": "seller_delivery_method",
+          "name": "Phương thức giao hàng Seller Delivery",
+          "value": "Nhà bán giao hàng cho khách hàng"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 4",
+    "value": 4
+  },
+  "categories": {
+    "id": 316,
+    "name": "Sách tiếng Việt",
+    "is_leaf": false
+  },
+  "breadcrumbs": [
+    {
+      "url": "/nha-sach-tiki/c8322",
+      "name": "Nhà Sách Tiki",
+      "category_id": 8322
+    },
+    {
+      "url": "/sach-truyen-tieng-viet/c316",
+      "name": "Sách tiếng Việt",
+      "category_id": 316
+    },
+    {
+      "url": "/sach-truyen-thieu-nhi/c393",
+      "name": "Sách thiếu nhi ",
+      "category_id": 393
+    },
+    {
+      "url": "/truyen-tranh-thieu-nhi/c855",
+      "name": "Truyện tranh thiếu nhi",
+      "category_id": 855
+    },
+    {
+      "url": "https://tiki.vn/tu-dien-hinh-anh-cho-be-do-dung-p58709682.html",
+      "name": "Từ Điển Hình Ảnh Cho Bé - Đồ Dùng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "seller_delivery"
+  },
+  "warranty_info": [],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>30 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

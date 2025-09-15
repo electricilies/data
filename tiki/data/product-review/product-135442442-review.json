@@ -1,0 +1,614 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 12
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 1,
+      "percent": 12
+    },
+    "4": {
+      "count": 3,
+      "percent": 38
+    },
+    "5": {
+      "count": 3,
+      "percent": 38
+    }
+  },
+  "rating_average": 3.8999999999999999,
+  "reviews_count": 8,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 1
+  },
+  "data": [
+    {
+      "id": 20012360,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15428486,
+      "customer_id": 19329594,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1729571197,
+      "created_by": {
+        "id": 19329594,
+        "name": "Trần Hồng Thắng",
+        "full_name": "Trần Hồng Thắng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-11-27 11:26:27",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1728562478,
+        "contribute_info": {
+          "id": 19329594,
+          "name": "Trần Hồng Thắng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 27,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán DELI TOOLS OFFICIAL STORE"
+      ],
+      "product_attributes": [],
+      "spid": 135442443,
+      "is_photo": false,
+      "seller": {
+        "id": 236924,
+        "name": "DELI TOOLS OFFICIAL STORE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fb/e0/6a/3c2cc33a8918935f4500360b2e829306.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2024-10-22 11:26:37",
+        "delivery_date": "2024-10-13 12:06:29",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16608482,
+      "title": "Rất không hài lòng",
+      "content": "đo điện gì mã ko chính xác, ko biết có phải giá trị đo điện bình accu nhỏ hay sao mà đo vôn và Ampe ko chính xác",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14784543,
+      "customer_id": 18397378,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1654575950,
+      "created_by": {
+        "id": 18397378,
+        "name": "Van sa",
+        "full_name": "Van sa",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-09-08 21:26:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1651566593,
+        "contribute_info": {
+          "id": 18397378,
+          "name": "Van sa",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Deli tools Store"
+      ],
+      "product_attributes": [],
+      "spid": 135442443,
+      "is_photo": false,
+      "seller": {
+        "id": 236924,
+        "name": "Deli tools Store",
+        "logo": "fb/e0/6a/3c2cc33a8918935f4500360b2e829306.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2022-06-07 11:25:50",
+        "delivery_date": "2022-05-07 10:30:32",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19459114,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14635783999999999,
+      "customer_id": 17313446,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1692038970,
+      "created_by": {
+        "id": 17313446,
+        "name": "Dinh Van Long",
+        "full_name": "Dinh Van Long",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/0/5/8/0/34/120/cca4ec5c4d4a13990e9f5c322edc257f.jpg",
+        "created_time": "2020-05-09 22:57:25",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1691603609,
+        "contribute_info": {
+          "id": 17313446,
+          "name": "Dinh Van Long",
+          "avatar": "https://s120.avatar.talk.zdn.vn/0/5/8/0/34/120/cca4ec5c4d4a13990e9f5c322edc257f.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Deli tools Store"
+      ],
+      "product_attributes": [],
+      "spid": 135442443,
+      "is_photo": false,
+      "seller": {
+        "id": 236924,
+        "name": "Deli tools Store",
+        "logo": "fb/e0/6a/3c2cc33a8918935f4500360b2e829306.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2023-08-15 01:49:30",
+        "delivery_date": "2023-08-12 11:11:51",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19400120,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14593100000000001,
+      "customer_id": 11568395,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1690018009,
+      "created_by": {
+        "id": 11568395,
+        "name": "Hồ Trung Nghĩa",
+        "full_name": "Hồ Trung Nghĩa",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/21/e8/6a/497a06223f3c53dff187a1b2cd146575.png",
+        "created_time": "2019-03-31 12:43:41",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1689665223,
+        "contribute_info": {
+          "id": 11568395,
+          "name": "Hồ Trung Nghĩa",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/21/e8/6a/497a06223f3c53dff187a1b2cd146575.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 21,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Nhà sách Chi An"
+      ],
+      "product_attributes": [],
+      "spid": 165182231,
+      "is_photo": false,
+      "seller": {
+        "id": 47548,
+        "name": "Nhà sách Chi An",
+        "logo": "bc/7f/db/7641b8eeaf6880d2a361825fd230d3af.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2023-07-22 16:26:49",
+        "delivery_date": "2023-07-21 08:50:18",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15738130,
+      "title": "Hài lòng",
+      "content": "SP gọn. Đủ tính năng theo nhu cầu sử dụng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.77519380000000004,
+      "new_score": 0.14384721,
+      "customer_id": 9821398,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3311314,
+          "full_path": "https://salt.tikicdn.com/ts/review/86/22/83/96409a3b781c0a20a0d61325f3375cbd.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1648902721,
+      "created_by": {
+        "id": 9821398,
+        "name": "Lê Bá Tòng ",
+        "full_name": "Lê Bá Tòng ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-12-14 10:16:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1648554140,
+        "contribute_info": {
+          "id": 9821398,
+          "name": "Lê Bá Tòng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 71,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt",
+        "Giao hàng nhanh",
+        "Giá tốt",
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Deli tools Store"
+      ],
+      "product_attributes": [],
+      "spid": 135442443,
+      "is_photo": true,
+      "seller": {
+        "id": 236924,
+        "name": "Deli tools Store",
+        "logo": "fb/e0/6a/3c2cc33a8918935f4500360b2e829306.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2022-04-02 19:32:01",
+        "delivery_date": "2022-04-02 12:09:04",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 7 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17708366,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.1402882,
+      "customer_id": 41051,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1663300955,
+      "created_by": {
+        "id": 41051,
+        "name": "Nguyễn Hùng",
+        "full_name": "Nguyễn Hùng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2012-05-28 22:54:04",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1662292205,
+        "contribute_info": {
+          "id": 41051,
+          "name": "Nguyễn Hùng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 14 năm",
+            "total_review": 115,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Deli tools Store"
+      ],
+      "product_attributes": [],
+      "spid": 135442443,
+      "is_photo": false,
+      "seller": {
+        "id": 236924,
+        "name": "Deli tools Store",
+        "logo": "fb/e0/6a/3c2cc33a8918935f4500360b2e829306.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2022-09-16 11:02:35",
+        "delivery_date": "2022-09-12 10:48:56",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Chất liệu sản phẩm tốt",
+          "Dễ lắp ghép/cài đặt",
+          "Khả năng đo lường chính xác",
+          "Phạm vi đo lường rộng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15486920,
+      "title": "Bình thường",
+      "content": "Vừa dùng đã hết pin, mà pin cúc bé xíu",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14024016,
+      "customer_id": 18322451,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1647606757,
+      "created_by": {
+        "id": 18322451,
+        "name": "Nguyen Thach Han",
+        "full_name": "Nguyen Thach Han",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-09-01 21:53:18",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1644985778,
+        "contribute_info": {
+          "id": 18322451,
+          "name": "Nguyen Thach Han",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 197,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Deli tools Store"
+      ],
+      "product_attributes": [],
+      "spid": 135442443,
+      "is_photo": false,
+      "seller": {
+        "id": 236924,
+        "name": "Deli tools Store",
+        "logo": "fb/e0/6a/3c2cc33a8918935f4500360b2e829306.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2022-03-18 19:32:37",
+        "delivery_date": "2022-02-18 15:02:08",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15501397,
+      "title": "Cực kì hài lòng",
+      "content": "Chất lượng OK",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13818976999999999,
+      "customer_id": 24713925,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1647683793,
+      "created_by": {
+        "id": 24713925,
+        "name": "van Nhàn",
+        "full_name": "van Nhàn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-11-05 00:37:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647184426,
+        "contribute_info": {
+          "id": 24713925,
+          "name": "van Nhàn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 19,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Deli tools Store"
+      ],
+      "product_attributes": [],
+      "spid": 135442443,
+      "is_photo": false,
+      "seller": {
+        "id": 236924,
+        "name": "Deli tools Store",
+        "logo": "fb/e0/6a/3c2cc33a8918935f4500360b2e829306.jpg"
+      },
+      "product_id": 135442442,
+      "timeline": {
+        "review_created_date": "2022-03-19 16:56:33",
+        "delivery_date": "2022-03-18 11:32:28",
+        "current_date": "2025-09-15 12:08:09",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 8,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

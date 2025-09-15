@@ -1,0 +1,297 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 3,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 3,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20078790,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15630637,
+      "customer_id": 7424838,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1739142506,
+      "created_by": {
+        "id": 7424838,
+        "name": "Phuc Huy",
+        "full_name": "Phuc Huy",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-07-08 22:52:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1738924359,
+        "contribute_info": {
+          "id": 7424838,
+          "name": "Phuc Huy",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Nhà bán Xuko",
+        "Loại 5 way ( đường)"
+      ],
+      "product_attributes": [
+        "Loại: 5 way ( đường)"
+      ],
+      "spid": 275198215,
+      "is_photo": false,
+      "seller": {
+        "id": 283616,
+        "name": "Nhà bán Xuko",
+        "logo": ""
+      },
+      "product_id": 275198209,
+      "timeline": {
+        "review_created_date": "2025-02-10 06:08:26",
+        "delivery_date": "2025-02-09 13:20:33",
+        "current_date": "2025-09-15 12:10:36",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20026815,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15461469,
+      "customer_id": 8821000,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1731132844,
+      "created_by": {
+        "id": 8821000,
+        "name": "bui duy quoc thang",
+        "full_name": "bui duy quoc thang",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b1/54/29/f79f2e9a2bd34b4bc720add5e6d51bc2.png",
+        "created_time": "2018-11-08 10:52:12",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727441797,
+        "contribute_info": {
+          "id": 8821000,
+          "name": "hộ kinh doanh asianet",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b1/54/29/f79f2e9a2bd34b4bc720add5e6d51bc2.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 205,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Nhà bán Xuko",
+        "Loại 8 way ( Đường)"
+      ],
+      "product_attributes": [
+        "Loại: 8 way ( Đường)"
+      ],
+      "spid": 275198217,
+      "is_photo": false,
+      "seller": {
+        "id": 283616,
+        "name": "Nhà bán Xuko",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 275198209,
+      "timeline": {
+        "review_created_date": "2024-11-09 13:14:04",
+        "delivery_date": "2024-09-29 14:01:28",
+        "current_date": "2025-09-15 12:10:36",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20010906,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15425425000000001,
+      "customer_id": 29473284,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1729426274,
+      "created_by": {
+        "id": 29473284,
+        "name": "Pi sach Thach",
+        "full_name": "Pi sach Thach",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2023-10-02 01:03:52",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727618981,
+        "contribute_info": {
+          "id": 29473284,
+          "name": "Pi sach Thach",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 2 năm",
+            "total_review": 14,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Nhà bán Xuko",
+        "Loại 5 way ( đường)"
+      ],
+      "product_attributes": [
+        "Loại: 5 way ( đường)"
+      ],
+      "spid": 275198215,
+      "is_photo": false,
+      "seller": {
+        "id": 283616,
+        "name": "Nhà bán Xuko",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 275198209,
+      "timeline": {
+        "review_created_date": "2024-10-20 19:11:14",
+        "delivery_date": "2024-10-02 16:48:42",
+        "current_date": "2025-09-15 12:10:36",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 3,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

@@ -1,0 +1,515 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 20
+    },
+    "5": {
+      "count": 4,
+      "percent": 80
+    }
+  },
+  "rating_average": 4.7999999999999998,
+  "reviews_count": 5,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 1
+  },
+  "data": [
+    {
+      "id": 19182398,
+      "title": "Cực kì hài lòng",
+      "content": "Mình chưa dùng nhưng giao hàng nhanh, có gì mình bổ sung đánh giá sau ạ 🤣",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.15368012,
+      "customer_id": 5985978,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4208562,
+          "full_path": "https://salt.tikicdn.com/ts/review/c9/62/0b/5a686db1f754a4e73e940f87a9de8c59.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1683779805,
+      "created_by": {
+        "id": 5985978,
+        "name": "Phan Văn Nam Phương",
+        "full_name": "Phan Văn Nam Phương",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-10-29 12:30:11",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1683634970,
+        "contribute_info": {
+          "id": 5985978,
+          "name": "Phan Văn Nam Phương",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop 24719"
+      ],
+      "product_attributes": [],
+      "spid": 180714723,
+      "is_photo": true,
+      "seller": {
+        "id": 81456,
+        "name": "Shop 24719",
+        "logo": "fd/05/b9/549abe1c08725170a64df53d69c64d92.png"
+      },
+      "product_id": 106445382,
+      "timeline": {
+        "review_created_date": "2023-05-11 11:36:45",
+        "delivery_date": "2023-05-11 10:51:41",
+        "current_date": "2025-09-15 12:08:32",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 2980395,
+          "review_id": 19182398,
+          "commentator": "seller",
+          "customer_id": 81456,
+          "fullname": "Shop 24719",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/fd/05/b9/549abe1c08725170a64df53d69c64d92.png",
+          "content": "Cám ơn bạn đã đánh giá sản phẩm của shop",
+          "score": 0,
+          "create_at": 1685091511,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19234976,
+      "title": "Cực kì hài lòng",
+      "content": "Tốt lắm nhe, xài mượt êm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14710788,
+      "customer_id": 5114776,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1685173829,
+      "created_by": {
+        "id": 5114776,
+        "name": "tan pham",
+        "full_name": "tan pham",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-03-18 14:37:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1677217994,
+        "contribute_info": {
+          "id": 5114776,
+          "name": "tan pham",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 21,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán XP-PEN VIỆT NAM"
+      ],
+      "product_attributes": [],
+      "spid": 106445384,
+      "is_photo": false,
+      "seller": {
+        "id": 4294,
+        "name": "XP-PEN VIỆT NAM",
+        "logo": "5e/4d/30/bfc44cfb00037a92926424481cc0ccab.jpg"
+      },
+      "product_id": 106445382,
+      "timeline": {
+        "review_created_date": "2023-05-27 14:50:29",
+        "delivery_date": "2023-02-24 14:15:34",
+        "current_date": "2025-09-15 12:08:32",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [
+        {
+          "id": 2999006,
+          "review_id": 19234976,
+          "commentator": "seller",
+          "customer_id": 4294,
+          "fullname": "XP-PEN VIỆT NAM",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/5e/4d/30/bfc44cfb00037a92926424481cc0ccab.jpg",
+          "content": "Cảm ơn bạn đã ủng hộ XP-Pen Việt Nam ạ",
+          "score": 0,
+          "create_at": 1687356966,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "bút cảm ứng tốt, nhạy",
+          "màn hình cảm ứng tốt, nhạy",
+          "màu sắc chuẩn, đẹp",
+          "phím bấm êm"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18726974,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14283339,
+      "customer_id": 15283281,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1675351719,
+      "created_by": {
+        "id": 15283281,
+        "name": "Cao Văn Vinh",
+        "full_name": "Cao Văn Vinh",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2496798380591544&height=200&width=200&ext=1578026148&hash=AeS1nPI-TMZLAguc",
+        "created_time": "2019-12-04 11:36:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1675226022,
+        "contribute_info": {
+          "id": 15283281,
+          "name": "Cao Văn Vinh",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2496798380591544&height=200&width=200&ext=1578026148&hash=AeS1nPI-TMZLAguc",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán XP-PEN VIỆT NAM"
+      ],
+      "product_attributes": [],
+      "spid": 106445384,
+      "is_photo": false,
+      "seller": {
+        "id": 4294,
+        "name": "XP-PEN VIỆT NAM",
+        "logo": "5e/4d/30/bfc44cfb00037a92926424481cc0ccab.jpg"
+      },
+      "product_id": 106445382,
+      "timeline": {
+        "review_created_date": "2023-02-02 22:28:39",
+        "delivery_date": "2023-02-02 09:30:33",
+        "current_date": "2025-09-15 12:08:32",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 2921418,
+          "review_id": 18726974,
+          "commentator": "seller",
+          "customer_id": 4294,
+          "fullname": "XP-PEN VIỆT NAM",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/5e/4d/30/bfc44cfb00037a92926424481cc0ccab.jpg",
+          "content": "Cảm ơn bạn đã ủng hộ XP-Pen Việt Nam ạ.",
+          "score": 0,
+          "create_at": 1679207271,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14900595,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng đúng mô tả",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13773136999999999,
+      "customer_id": 23962117,
+      "comment_count": 2,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1644566471,
+      "created_by": {
+        "id": 23962117,
+        "name": "Hoang Thu Trang",
+        "full_name": "Hoang Thu Trang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-10-08 20:02:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1642728876,
+        "contribute_info": {
+          "id": 23962117,
+          "name": "Hoang Thu Trang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 13,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán XP-PEN VIỆT NAM"
+      ],
+      "product_attributes": [],
+      "spid": 106445384,
+      "is_photo": false,
+      "seller": {
+        "id": 4294,
+        "name": "XP-PEN VIỆT NAM",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/b7/71/69/50a826208db2bbfa5d805159054f230b.jpg"
+      },
+      "product_id": 106445382,
+      "timeline": {
+        "review_created_date": "2022-02-11 15:01:11",
+        "delivery_date": "2022-01-22 09:25:25",
+        "current_date": "2025-09-15 12:08:32",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2118692,
+          "review_id": 14900595,
+          "commentator": "seller",
+          "customer_id": 4294,
+          "fullname": "XP-PEN VIỆT NAM",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/5e/4d/30/bfc44cfb00037a92926424481cc0ccab.jpg",
+          "content": "Cảm ơn bạn đã ủng hộ XP-Pen Việt Nam ạ",
+          "score": 0,
+          "create_at": 1645591439,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2118690,
+          "review_id": 14900595,
+          "commentator": "seller",
+          "customer_id": 4294,
+          "fullname": "XP-PEN VIỆT NAM",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/5e/4d/30/bfc44cfb00037a92926424481cc0ccab.jpg",
+          "content": "Cảm ơn bạn đã ủng hộ XP-Pen Việt Nam ạ",
+          "score": 0,
+          "create_at": 1645591418,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 11837692,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13305370999999999,
+      "customer_id": 1352644,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1629047652,
+      "created_by": {
+        "id": 1352644,
+        "name": "Pham Cao Dinh",
+        "full_name": "Pham Cao Dinh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-05-10 17:13:19",
+        "purchased": true,
+        "purchased_at": 1628663346,
+        "contribute_info": {
+          "id": 1352644,
+          "name": "Pham Cao Dinh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 10,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán XP-PEN VIỆT NAM"
+      ],
+      "product_attributes": [],
+      "spid": 106445384,
+      "is_photo": false,
+      "seller": {
+        "id": 4294,
+        "name": "XP-PEN VIỆT NAM",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/b7/71/69/50a826208db2bbfa5d805159054f230b.jpg"
+      },
+      "product_id": 106445382,
+      "timeline": {
+        "review_created_date": "2021-08-16 00:14:12",
+        "delivery_date": "2021-08-15 14:28:20",
+        "current_date": "2025-09-15 12:08:32",
+        "content": "Đã dùng 10 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 5,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

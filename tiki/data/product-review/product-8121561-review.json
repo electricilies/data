@@ -1,0 +1,179 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 1,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 18836190,
+      "title": "Cực kì hài lòng",
+      "content": "ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14329123999999999,
+      "customer_id": 8046334,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1676888219,
+      "created_by": {
+        "id": 8046334,
+        "name": "Bui Doi Cau Ut",
+        "full_name": "Bui Doi Cau Ut",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ba/36/b5/c198f2a14cdd3f217ce1ba1444803aa5.png",
+        "created_time": "2018-09-19 07:33:10",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1671095296,
+        "contribute_info": {
+          "id": 8046334,
+          "name": "bich Vario ",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ba/36/b5/c198f2a14cdd3f217ce1ba1444803aa5.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán N&N Case"
+      ],
+      "product_attributes": [],
+      "spid": 8153114,
+      "is_photo": false,
+      "seller": {
+        "id": 10613,
+        "name": "N&N Case",
+        "logo": "a9/f2/b8/fec4cac76af2217aff6797dcf9859d66.png"
+      },
+      "product_id": 8121561,
+      "timeline": {
+        "review_created_date": "2023-02-20 17:16:59",
+        "delivery_date": "2022-12-17 11:39:40",
+        "current_date": "2025-09-15 12:08:40",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [
+        {
+          "id": 2904202,
+          "review_id": 18836190,
+          "commentator": "seller",
+          "customer_id": 10613,
+          "fullname": "N&N Case",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/a9/f2/b8/fec4cac76af2217aff6797dcf9859d66.png",
+          "content": "Cảm ơn bạn đã tin tưởng lựa chọn sản phẩm của chúng mình trong vô vàn sản phẩm khác. Những đánh giá và hình ảnh sản phẩm (nếu có) tích cực của bạn luôn là động lực để chúng mình hoàn thiện hơn nữa về sản phẩm và dịch vụ. Bạn giới thiệu sản phẩm cho bạn bè, người thân biết đến Shop mình để ủng hộ nhé... Rất mong được bạn tin tưởng và ủng hộ ở những đơn hàng tiếp theo ạ. 🥰😘😍",
+          "score": 0,
+          "create_at": 1678001198,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

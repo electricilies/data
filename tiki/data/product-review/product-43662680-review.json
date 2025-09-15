@@ -1,0 +1,1065 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 6
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 1,
+      "percent": 6
+    },
+    "4": {
+      "count": 1,
+      "percent": 7
+    },
+    "5": {
+      "count": 12,
+      "percent": 81
+    }
+  },
+  "rating_average": 4.5,
+  "reviews_count": 15,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 1
+  },
+  "data": [
+    {
+      "id": 4412958,
+      "title": "Tốt",
+      "content": "Máy xài oke, tiện dụng, đo nhanh, có hướng dẫn sử dụng bằng tiếng Việt. Còn cái dũa tặng kèm thì mình không biết phải chính hãng không tại thấy nó khác cái đang xài ở nhà quá (trước đây mua chính hãng)",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.055501139999999997,
+      "new_score": 0.14365578000000001,
+      "customer_id": 374870,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1597119423,
+      "created_by": {
+        "id": 374870,
+        "name": "Hoàng Minh",
+        "full_name": "Hoàng Minh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1596701047,
+        "contribute_info": {
+          "id": 374870,
+          "name": "Hoàng Minh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 38,
+            "total_thank": 12
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-08-11 11:17:03",
+        "delivery_date": "2020-08-10 14:20:55",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 774645,
+          "review_id": 4412958,
+          "commentator": "customer",
+          "customer_id": 12121736,
+          "fullname": "Hồ quốc trung",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "cho mình hỏi có đo được nhiệt độ để pha nước hoặc sữa cho bé không",
+          "score": 0,
+          "create_at": 1599405270,
+          "badge": "https://salt.tikicdn.com/ts/reviews/b0/77/a5/1dc3901bd48bfc65a51760dc051ebbdb.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4960593,
+      "title": "Cực kì hài lòng",
+      "content": "SP tốt, cần thiết có trong nhà, đặc biệt là nhà có trẻ em",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 22.222222219999999,
+      "new_score": 0.13510274999999999,
+      "customer_id": 1789136,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 1203692,
+          "full_path": "https://salt.tikicdn.com/ts/review/75/f8/99/8571200df969edb78b892fe37b1f5b3c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1600871546,
+      "created_by": {
+        "id": 1789136,
+        "name": "Minh Sơn",
+        "full_name": "Minh Sơn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1598601622,
+        "contribute_info": {
+          "id": 1789136,
+          "name": "Minh Sơn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 76,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": true,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-09-23 21:32:26",
+        "delivery_date": "2020-08-31 12:11:40",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 5490312,
+      "title": "Rất không hài lòng",
+      "content": "cái nhiệt kế giá k rẻ mà về sử dụng qua lần thứ 2 con chích ngừa đã hỏng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 3.7407407400000001,
+      "new_score": 0.13443942,
+      "customer_id": 18060940,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1604675114,
+      "created_by": {
+        "id": 18060940,
+        "name": "Thuy ngo",
+        "full_name": "Thuy ngo",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1602206370,
+        "contribute_info": {
+          "id": 18060940,
+          "name": "Thuy ngo",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 30,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-11-06 22:05:14",
+        "delivery_date": "2020-10-10 12:31:23",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 843788,
+          "review_id": 5490312,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Mến chào bạn, Tiki cảm ơn bạn đã chia sẻ cảm nhận đánh giá sản phẩm cùng Tiki, cũng như rất tiếc vì những trải nghiệm sản phẩm chưa được trọn vẹn vừa qua của bạn. Qua kiểm tra đơn hàng, Tiki thấy bạn đã được hỗ trợ thu hồi sản phẩm về để kiểm tra trước đó. Tiki đã ghi nhận thông tin từ bạn và rất hy vọng sẽ mang đến bạn những sản phẩm phù hợp hơn trong các đơn hàng tiếp theo.Trong trường hợp cần hỗ trợ thêm từ Tiki, bạn vui lòng liên hệ với Tiki tại đây - https://hotro.tiki.vn/hc/vi để Tiki có thể kiểm tra và phản hồi chính xác nhất. Mến chúc bạn luôn nhiều niềm vui và sức khỏe. Trân trọng.",
+          "score": 0,
+          "create_at": 1604723440,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4819746,
+      "title": "Cực kì hài lòng",
+      "content": "Nhận được nguyên hộp kèm 2 Pin AAA. Sản phẩm thương hiệu uy tín nên cũng an tâm.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13368380999999999,
+      "customer_id": 30961,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1599834907,
+      "created_by": {
+        "id": 30961,
+        "name": "Trần Thái Phi",
+        "full_name": "Trần Thái Phi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1599623284,
+        "contribute_info": {
+          "id": 30961,
+          "name": "Trần Thái Phi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 14 năm",
+            "total_review": 240,
+            "total_thank": 45
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-09-11 21:35:07",
+        "delivery_date": "2020-09-10 09:24:15",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2908276,
+      "title": "Cực kì hài lòng",
+      "content": "Nhiệt kế này mình dùng 5-6 năm rồi, ngoài thay pin ra thì chưa bao giờ phải bảo hành nên tự tin mua thêm cho cháu mình 1 cây nữa",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.01023365,
+      "new_score": 0.13309314,
+      "customer_id": 1886223,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1579677635,
+      "created_by": {
+        "id": 1886223,
+        "name": "Diễm Lê",
+        "full_name": "Diễm Lê",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1577583565,
+        "contribute_info": {
+          "id": 1886223,
+          "name": "Lê Phạm Kiều Diễm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 26,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-01-22 14:20:35",
+        "delivery_date": "2019-12-29 10:59:57",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 774644,
+          "review_id": 2908276,
+          "commentator": "customer",
+          "customer_id": 12121736,
+          "fullname": "Hồ quốc trung",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "cho mình hỏi có đo được nhiệt độ để pha nước với sữa cho em không bạn.",
+          "score": 0,
+          "create_at": 1599405216,
+          "badge": "https://salt.tikicdn.com/ts/reviews/b0/77/a5/1dc3901bd48bfc65a51760dc051ebbdb.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2924359,
+      "title": "Hài lòng với tikinow",
+      "content": "Mùng 4 tết. Mình cần gấp nhiệt kế để khai trương đầu năm sử dụng. Đặt hàng tiki giao ngay dù là ngày tết.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.13205607,
+      "customer_id": 6740303,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1580449024,
+      "created_by": {
+        "id": 6740303,
+        "name": "Kim Thinh Pham",
+        "full_name": "Kim Thinh Pham",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1580134413,
+        "contribute_info": {
+          "id": 6740303,
+          "name": "Kim Thinh Pham",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 11,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-01-31 12:37:04",
+        "delivery_date": "2020-01-28 11:26:05",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 7763582,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng rất ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13071637999999999,
+      "customer_id": 13945727,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1613561997,
+      "created_by": {
+        "id": 13945727,
+        "name": "JOLLY ANH",
+        "full_name": "JOLLY ANH",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-09-11 08:07:59",
+        "purchased": true,
+        "purchased_at": 1603171494,
+        "contribute_info": {
+          "id": 13945727,
+          "name": "JOLLY ANH",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 40,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ERA MALL"
+      ],
+      "product_attributes": [],
+      "spid": 48140066,
+      "is_photo": false,
+      "seller": {
+        "id": 3114,
+        "name": "ERA MALL",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/48/7a/a2/0ed3065318e44c586aebbc835ed55fee.jpg"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2021-02-17 18:39:57",
+        "delivery_date": "2020-10-22 11:27:48",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 4 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 8798283,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13054610999999999,
+      "customer_id": 9679627,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1617174879,
+      "created_by": {
+        "id": 9679627,
+        "name": "Minh Khoa",
+        "full_name": "Minh Khoa",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/3/c/1/2/4/120/5775df239bd49e1c475530632bc8ca64.jpg",
+        "created_time": "2018-12-04 13:30:24",
+        "purchased": true,
+        "purchased_at": 1610971666,
+        "contribute_info": {
+          "id": 9679627,
+          "name": "Minh Khoa",
+          "avatar": "https://s120.avatar.talk.zdn.vn/3/c/1/2/4/120/5775df239bd49e1c475530632bc8ca64.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2021-03-31 14:14:39",
+        "delivery_date": "2021-01-20 11:32:04",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 8640209,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13042363000000001,
+      "customer_id": 7158543,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1616594967,
+      "created_by": {
+        "id": 7158543,
+        "name": "DUONG THI MY QUYNH",
+        "full_name": "DUONG THI MY QUYNH",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-05-21 12:14:11",
+        "purchased": true,
+        "purchased_at": 1615763408,
+        "contribute_info": {
+          "id": 7158543,
+          "name": "DUONG THI MY QUYNH",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 113,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2021-03-24 21:09:27",
+        "delivery_date": "2021-03-16 09:59:43",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 8467851,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 2.2222222199999999,
+      "new_score": 0.13028970000000001,
+      "customer_id": 17149872,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1615960849,
+      "created_by": {
+        "id": 17149872,
+        "name": "Hồng Nhi",
+        "full_name": "Hồng Nhi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-04-17 11:04:05",
+        "purchased": true,
+        "purchased_at": 1601472018,
+        "contribute_info": {
+          "id": 17149872,
+          "name": "Hồng Nhi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 16,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Giá tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2021-03-17 13:00:49",
+        "delivery_date": "2020-10-03 16:39:56",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4408281,
+      "title": "Cực kì hài lòng",
+      "content": "Đo thân nhiệt nhanh chóng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.12830057,
+      "customer_id": 13151926,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1597073436,
+      "created_by": {
+        "id": 13151926,
+        "name": "Lê Hồng Phụng",
+        "full_name": "Lê Hồng Phụng",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/v3.3/474025306495118/picture?type=large&return_ssl_resources=1",
+        "purchased": true,
+        "purchased_at": 1596847931,
+        "contribute_info": {
+          "id": 13151926,
+          "name": "Lê Hồng Phụng",
+          "avatar": "https://graph.facebook.com/v3.3/474025306495118/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-08-10 22:30:36",
+        "delivery_date": "2020-08-10 14:02:06",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 8 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 5465927,
+      "title": "Cực kì hài lòng",
+      "content": "ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0050108699999999997,
+      "new_score": 0.12800127,
+      "customer_id": 5452666,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1604494482,
+      "created_by": {
+        "id": 5452666,
+        "name": "Phạm Minh Phú",
+        "full_name": "Phạm Minh Phú",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-07-09 11:09:12",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1604041201,
+        "contribute_info": {
+          "id": 5452666,
+          "name": "Phạm Minh Phú",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 6,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-11-04 19:54:42",
+        "delivery_date": "2020-11-02 13:36:36",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4258158,
+      "title": "Hài lòng",
+      "content": "Rất hài lòng.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0041215699999999997,
+      "new_score": 0.12723814,
+      "customer_id": 17585939,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1596088931,
+      "created_by": {
+        "id": 17585939,
+        "name": "Lê Thị Mỹ Diễn",
+        "full_name": "Lê Thị Mỹ Diễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-06-17 16:12:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1593565654,
+        "contribute_info": {
+          "id": 17585939,
+          "name": "Lê Thị Mỹ Diễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 21,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-07-30 13:02:11",
+        "delivery_date": "2020-07-03 12:44:15",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4410418,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12630785999999999,
+      "customer_id": 17545983,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1597107934,
+      "created_by": {
+        "id": 17545983,
+        "name": "PHAN THỊ NHƯ NGUYỆT",
+        "full_name": "PHAN THỊ NHƯ NGUYỆT",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1596616182,
+        "contribute_info": {
+          "id": 17545983,
+          "name": "PHAN THỊ NHƯ NGUYỆT",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-08-11 08:05:34",
+        "delivery_date": "2020-08-10 12:39:43",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 3261266,
+      "title": "Bình thường",
+      "content": "Sp như hình. Chất lượng tốt.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.017138400000000002,
+      "new_score": 0.12628097999999999,
+      "customer_id": 14907552,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1585244105,
+      "created_by": {
+        "id": 14907552,
+        "name": "Le tra my",
+        "full_name": "Le tra my",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1576860164,
+        "contribute_info": {
+          "id": 14907552,
+          "name": "Le tra my",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 5,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 43662681,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 43662680,
+      "timeline": {
+        "review_created_date": "2020-03-27 00:35:05",
+        "delivery_date": "2019-12-21 11:34:33",
+        "current_date": "2025-09-15 12:13:07",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 15,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

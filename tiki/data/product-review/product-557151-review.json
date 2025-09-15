@@ -1,0 +1,1371 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 5
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 6
+    },
+    "5": {
+      "count": 15,
+      "percent": 89
+    }
+  },
+  "rating_average": 4.7000000000000002,
+  "reviews_count": 17,
+  "review_photo": {
+    "total": 6,
+    "total_photo": 16
+  },
+  "data": [
+    {
+      "id": 17578652,
+      "title": "Cực kì hài lòng",
+      "content": "Bình đẹp nhiều chế độ, hàng Tiger mình thích nhất tính năng an toàn và đun sôi rất nhanh, mình dùng bình này từ hôi còn ở Nhật Bản làm việt ở bên kia có nhiều thương hiệu của Nhật nhưng người Nhật vẫn rất chuộng hàng này, ở Tiki mình thấy gian này mô tả chi tiết và tư vấn nhiệt tình, hàng đóng gói cẩn thận. ủng hộ thêm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 50,
+      "new_score": 0.17535593999999999,
+      "customer_id": 28023367,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3844366,
+          "full_path": "https://salt.tikicdn.com/ts/review/7f/8c/4f/c911e2b56058fdf6d73c4feda0c8fc43.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3844367,
+          "full_path": "https://salt.tikicdn.com/ts/review/2f/36/26/83464732abaec5f1aba07b4ae2b3a31a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3844368,
+          "full_path": "https://salt.tikicdn.com/ts/review/a5/98/c9/1ea8f8e65a722f6be7471f931e7df534.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3844369,
+          "full_path": "https://salt.tikicdn.com/ts/review/71/8e/a8/8273d6254f77b6dcfad4963f696eebdd.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1662043443,
+      "created_by": {
+        "id": 28023367,
+        "name": "Anh Bình",
+        "full_name": "Anh Bình",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-08-14 21:17:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661083123,
+        "contribute_info": {
+          "id": 28023367,
+          "name": "Anh Bình",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 13,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ĐIỆN MÁY NALCO"
+      ],
+      "product_attributes": [],
+      "spid": 189492282,
+      "is_photo": true,
+      "seller": {
+        "id": 287005,
+        "name": "ĐIỆN MÁY NALCO",
+        "logo": "b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-09-01 21:44:03",
+        "delivery_date": "2022-08-25 08:50:23",
+        "current_date": "2025-09-15 12:11:18",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [
+        {
+          "id": 2639194,
+          "review_id": 17578652,
+          "commentator": "seller",
+          "customer_id": 287005,
+          "fullname": "ĐIỆN MÁY NALCO",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg",
+          "content": "Điện máy Nalco cảm ơn anh Bình đã mua sắm và dùng sản phẩm Bình Thủy Điện Tử Tiger PDU-A30W. Đọc những lời đánh giá của anh, Shop hiểu anh là người chuộng hàng Nhật, sử dụng nhiều lần mới hiểu hết các chế độ, công năng mà nó đem lại. Cảm ơn anh, đã để lại những đánh giá này, nó là cầu nối cho các vị khách hàng khác để tin dùng hơn ạ. Một lần nữa, Điện máy Nalco cảm ơn anh và chúc anh sức khoẻ !",
+          "score": 0,
+          "create_at": 1663071597,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17607710,
+      "title": "Cực kì hài lòng",
+      "content": "Bình thuỷ nhỏ gọn, tiện lợi, màu sắc sang trọng, hàng nhận ok, không bể, gói hàng chắc chắn, mở miết không ra, quá mệt khi mở, tốn thời gian vận nội công để mở thùng hàng nên đánh giá ít sao và ít bình luận nha Shop. kiki. Nói vui vậy thôi, hàng ok, giá tốt, gói hàng chắc chắn, mọi người nên mua ở đây",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.17242985,
+      "customer_id": 28023431,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3851474,
+          "full_path": "https://salt.tikicdn.com/ts/review/14/bd/eb/a42e611924ddea183375096fb894d453.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3851475,
+          "full_path": "https://salt.tikicdn.com/ts/review/5c/1b/9f/79e3e66236143a13955cbbf4a1a2e13f.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3851476,
+          "full_path": "https://salt.tikicdn.com/ts/review/5c/1b/9f/e112833fcb78d8639ed9a4ab1e85036a.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1662393398,
+      "created_by": {
+        "id": 28023431,
+        "name": "Tiến Linh",
+        "full_name": "Tiến Linh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-08-14 21:27:23",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661619243,
+        "contribute_info": {
+          "id": 28023431,
+          "name": "Tiến Linh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ĐIỆN MÁY NALCO"
+      ],
+      "product_attributes": [],
+      "spid": 189492282,
+      "is_photo": true,
+      "seller": {
+        "id": 287005,
+        "name": "ĐIỆN MÁY NALCO",
+        "logo": "b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-09-05 22:56:38",
+        "delivery_date": "2022-08-30 08:44:00",
+        "current_date": "2025-09-15 12:11:18",
+        "content": "Đã dùng 7 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+      },
+      "comments": [
+        {
+          "id": 2639190,
+          "review_id": 17607710,
+          "commentator": "seller",
+          "customer_id": 287005,
+          "fullname": "ĐIỆN MÁY NALCO",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg",
+          "content": "Điện máy Nalco cảm ơn những lời đánh giá cho sản phẩm Bình Thủy Điện Tử Tiger PDU-A30W. Nhận những lời đánh giá này, Shop cảm ơn anh và cũng mong anh thông cảm ạ. Mong anh Linh luôn luôn hài lòng về chất lượng phục vụ cũng như sản phẩm của Nalco em ạ. Một lần nữa, Shop cảm ơn anh và chúc anh sức khoẻ!",
+          "score": 0,
+          "create_at": 1663070950,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17519772,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng chính hãng Tiger,  shop đóng gói kỹ mình ở xa sợ nhất vận chuyển nhưng được cái shop này đóng hàng quá kỹ nên mở ra còn thấy mệt, đặt hôm kia hôm nay nhận hàng rồi. Tiền nào của đó dùng tiger rồi dùng mấy hãng khác không được như ý phải đi mua lại cái bình này",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.17189387,
+      "customer_id": 27993795,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3828406,
+          "full_path": "https://salt.tikicdn.com/ts/review/20/2d/56/75162317a139b11c9e85f07e80e8b041.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3828407,
+          "full_path": "https://salt.tikicdn.com/ts/review/7f/8c/4f/14e8132e04923d0d15a96bd6d1449ad2.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3828408,
+          "full_path": "https://salt.tikicdn.com/ts/review/28/8f/a3/88266991aa9fe6fd75094e024371db6f.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1661433909,
+      "created_by": {
+        "id": 27993795,
+        "name": "Ánh Pháp",
+        "full_name": "Ánh Pháp",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-08-09 20:55:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661082810,
+        "contribute_info": {
+          "id": 27993795,
+          "name": "Thuy Tien",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 11,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ĐIỆN MÁY NALCO"
+      ],
+      "product_attributes": [],
+      "spid": 189492282,
+      "is_photo": true,
+      "seller": {
+        "id": 287005,
+        "name": "ĐIỆN MÁY NALCO",
+        "logo": "b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-08-25 20:25:09",
+        "delivery_date": "2022-08-25 08:59:38",
+        "current_date": "2025-09-15 12:11:18",
+        "content": "Đã dùng 11 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+      },
+      "comments": [
+        {
+          "id": 2639204,
+          "review_id": 17519772,
+          "commentator": "seller",
+          "customer_id": 287005,
+          "fullname": "ĐIỆN MÁY NALCO",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg",
+          "content": "Điện máy Nalco cảm ơn chị Pháp đã mua và đánh giá cực kỳ tốt về sản phẩm Bình Thủy Điện Tử Tiger PDU-A30W này ạ. Đối với hàng dễ vỡ, Shop đều quấn hàng kỹ, Shop sợ khách nhận hàng lại không vừa ý. Đối với chất lượng. thì Tiger dẫn đầu ạ. Tại nó được sản xuất tại Nhật nên dùng rất êm và bền. Một lần nữa, Nalco cảm ơn chị đã đánh và chúc chị sức khoẻ!",
+          "score": 0,
+          "create_at": 1663072570,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17684892,
+      "title": "Cực kì hài lòng",
+      "content": "Canh sale có ngày gặp giá tốt, đó chính là mình. Mình canh sale, giá tốt, giao cũng nhanh, tư vấn nhiệt tình nữa. Nhận hàng và dùng, thấy rất thích. Cảm ơn Shop. AH bảo hành mấy năm vậy Shop",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.15897395,
+      "customer_id": 28023422,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3870994,
+          "full_path": "https://salt.tikicdn.com/ts/review/36/c4/1c/457d4532198fecece5e24046defd9273.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1663075675,
+      "created_by": {
+        "id": 28023422,
+        "name": "Ngọc Thiên",
+        "full_name": "Ngọc Thiên",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-08-14 21:25:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661619930,
+        "contribute_info": {
+          "id": 28023422,
+          "name": "Ngọc Thiên",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ĐIỆN MÁY NALCO"
+      ],
+      "product_attributes": [],
+      "spid": 189492282,
+      "is_photo": true,
+      "seller": {
+        "id": 287005,
+        "name": "ĐIỆN MÁY NALCO",
+        "logo": "b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-09-13 20:27:55",
+        "delivery_date": "2022-08-30 10:45:29",
+        "current_date": "2025-09-15 12:11:18",
+        "content": "Đã dùng 14 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 ngày."
+      },
+      "comments": [
+        {
+          "id": 2639293,
+          "review_id": 17684892,
+          "commentator": "seller",
+          "customer_id": 287005,
+          "fullname": "ĐIỆN MÁY NALCO",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg",
+          "content": "Dạ Em xin chào Chị Ngọc Thiên, Nalco chân thành cảm ơn Chị vì đã tin tưởng và sử dụng, và đánh giá sản phẩm đến từ gian hàng của Nalco, Nalco hi vọng sẽ được đồng hành cùng Chị trong những sản phẩm tiếp theo của mình trong thời gian tới. Nếu có vấn đề gì cần hỗ trợ, Chị đừng ngại liên hệ Nalco nhé. Nalco xin chúc Chị cùng gia đình thật nhiều sức khỏe. Chân thành cảm ơn Chị!",
+          "score": 0,
+          "create_at": 1663079548,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 3180003,
+      "title": "Rất không hài lòng",
+      "content": "Chất lượng sản phẩm may rủi và dịch vụ của hãng kém. Dùng chưa được 1 năm thì bị tình trạng lủng và rỉ sét phần chống dính. Liên hệ bảo hành thì hãng nói không bảo hành, không có bộ phận thay thế dù khách hàng chấp nhận chịu chi phí cho lỗi sản phẩm chứ không phải lỗi sử dụng. Giá cao nhất nhưng với dịch vụ kém nhất.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 2.9814814799999998,
+      "new_score": 0.15595990000000001,
+      "customer_id": 485249,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [
+        {
+          "id": 888410,
+          "full_path": "https://salt.tikicdn.com/ts/review/de/67/c5/f2275f57f3f9492fac8faa62cfdc9d7d.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 888411,
+          "full_path": "https://salt.tikicdn.com/ts/review/42/9b/68/42ab37208faf27465f24f92f37745d5b.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 888412,
+          "full_path": "https://salt.tikicdn.com/ts/review/eb/6f/76/df1eaaf2dade94b00a64faf834c55f9c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1584412776,
+      "created_by": {
+        "id": 485249,
+        "name": "Võ Hoài Sơn",
+        "full_name": "Võ Hoài Sơn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1558317182,
+        "contribute_info": {
+          "id": 485249,
+          "name": "Võ Hoài Sơn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 39,
+            "total_thank": 18
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Điện Máy Gia Dụng Smilemart"
+      ],
+      "product_attributes": [],
+      "spid": 7358093,
+      "is_photo": true,
+      "seller": {
+        "id": 6201,
+        "name": "Điện Máy Gia Dụng Smilemart",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/64/8f/c0/d5f8609d2848a399573473d4e24ecc12.png"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2020-03-17 09:39:36",
+        "delivery_date": "2019-05-24 11:54:37",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [
+        {
+          "id": 564180,
+          "review_id": 3180003,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Tiki mến chào bạn, Tiki đã nhận được những đánh giá sản phẩm này từ bạn, cũng như rất tiếc vì chất lượng sản phẩm đã chưa được như mong đợi. Tiki đã ghi nhận những thông tin về chất lượng sản phẩm từ bạn và rất hy vọng sẽ được phục vụ bạn tốt hơn với các sản phẩm tiếp theo. Trong trường hợp cần hỗ trợ thêm, bạn có thể gửi yêu cầu về hộp thư hotro@tiki.vn hoặc hotline 1900-6035 để được để được phục vụ nhanh chóng nhất. Rất mong sẽ sớm nhận được thêm những nhận xét từ bạn. Trân trọng.",
+          "score": 0,
+          "create_at": 1584515139,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17686297,
+      "title": "Cực kì hài lòng",
+      "content": "Thiết kế nhỏ gọn, nhìn sang chảnh, mua kèm có quà tặng, rất ý nghĩa. Mua xong nhân viên còn nhắn hỏi thăm quá trình dùng. Sản phẩm 9 điểm, phục vụ 10 điểm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15350896999999999,
+      "customer_id": 28023447,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1663083655,
+      "created_by": {
+        "id": 28023447,
+        "name": "Thị Mỹ Dung",
+        "full_name": "Thị Mỹ Dung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-08-14 21:28:57",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661701301,
+        "contribute_info": {
+          "id": 28023447,
+          "name": "Thị Mỹ Dung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ĐIỆN MÁY NALCO"
+      ],
+      "product_attributes": [],
+      "spid": 189492282,
+      "is_photo": false,
+      "seller": {
+        "id": 287005,
+        "name": "ĐIỆN MÁY NALCO",
+        "logo": "b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-09-13 22:40:55",
+        "delivery_date": "2022-08-30 08:44:20",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2639503,
+          "review_id": 17686297,
+          "commentator": "seller",
+          "customer_id": 287005,
+          "fullname": "ĐIỆN MÁY NALCO",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg",
+          "content": "Em cảm ơn chị Dung đã chia sẽ những trải nghiệm về sản phẩm bình thủy Tiger. Tiger là 1 sản phẩm cao cấp được sản xuất trực tiếp tại Nhật Bản ạ, đi kèm bình thủy có phiếu bảo hành sản phẩm, chị vui lòng giữ lại giúp em. Cần hỗ trợ chị inbox trực tiếp bộ phận chăm sóc khách hàng Nalco xin được hỗ trợ chị ạ, chúc chị và gia đình thật nhiều sức khỏe, hi vọng Nalco sẽ được đồng hành cùng chị trong những đơn hàng tiếp theo!",
+          "score": 0,
+          "create_at": 1663084265,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17686520,
+      "title": "Cực kì hài lòng",
+      "content": "Thiết kế nhỏ gọn, bền, giá rẻ, nhân viên tư vấn trước và sau khi mua hàng nhiệt tình. Cảm ơn Shop, sẽ ủng hộ thêm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15017595,
+      "customer_id": 28023411,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1663085135,
+      "created_by": {
+        "id": 28023411,
+        "name": "Tiến Đạt",
+        "full_name": "Tiến Đạt",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-08-14 21:23:59",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661701542,
+        "contribute_info": {
+          "id": 28023411,
+          "name": "Tiến Đạt",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ĐIỆN MÁY NALCO"
+      ],
+      "product_attributes": [],
+      "spid": 189492282,
+      "is_photo": false,
+      "seller": {
+        "id": 287005,
+        "name": "ĐIỆN MÁY NALCO",
+        "logo": "b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-09-13 23:05:35",
+        "delivery_date": "2022-08-30 10:45:45",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2641799,
+          "review_id": 17686520,
+          "commentator": "seller",
+          "customer_id": 287005,
+          "fullname": "ĐIỆN MÁY NALCO",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg",
+          "content": "Em cảm ơn A Đạt, Em hi vọng với công dụng của máy Anh Đạt sẽ có những trải nghiệm tốt với sản phẩm. Cần hỗ trợ Anh inbox trực tiếp bộ phận chăm sóc khách hàng Nalco xin được hỗ trợ Anh nhé, chúc Anh và gia đình thật nhiều sức khỏe, hi vọng Nalco sẽ được đồng hành cùng Anh trong những đơn hàng tiếp theo!",
+          "score": 0,
+          "create_at": 1663152305,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15787654,
+      "title": "Cực kì hài lòng",
+      "content": "Ship nhiệt tình chu đáo, sản phẩm đóng gói cẩn thận. Đã dùng thử chạy tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14383609,
+      "customer_id": 7406873,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1649165718,
+      "created_by": {
+        "id": 7406873,
+        "name": "Yen NH",
+        "full_name": "Yen NH",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-07-05 13:59:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1648609793,
+        "contribute_info": {
+          "id": 7406873,
+          "name": "Yen NH",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 77,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng kho gia dụng Hạnh Anh"
+      ],
+      "product_attributes": [],
+      "spid": 23475523,
+      "is_photo": false,
+      "seller": {
+        "id": 49575,
+        "name": "Tổng kho gia dụng Hạnh Anh",
+        "logo": "c7/dd/40/80c097e573fa5c804df8ef7ef77f761c.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-04-05 20:35:18",
+        "delivery_date": "2022-04-04 12:04:12",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17714582,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng ok, bền, hàng Nhật 100%",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14256367,
+      "customer_id": 28023403,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1663342646,
+      "created_by": {
+        "id": 28023403,
+        "name": "Bình An",
+        "full_name": "Bình An",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-08-14 21:22:46",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661702199,
+        "contribute_info": {
+          "id": 28023403,
+          "name": "Bình An",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ĐIỆN MÁY NALCO"
+      ],
+      "product_attributes": [],
+      "spid": 189492282,
+      "is_photo": false,
+      "seller": {
+        "id": 287005,
+        "name": "ĐIỆN MÁY NALCO",
+        "logo": "b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-09-16 22:37:26",
+        "delivery_date": "2022-08-30 09:14:35",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2648190,
+          "review_id": 17714582,
+          "commentator": "seller",
+          "customer_id": 287005,
+          "fullname": "ĐIỆN MÁY NALCO",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/b7/7d/22/9c737cdf65fb685eb047d7dd10c4e348.jpg",
+          "content": "Em cảm ơn Anh An, Sản phẩm được hỗ trợ trả góp 0% lãi suất qua thẻ tín dụng em cảm ơn A đã tin dùng và sử dụng sản phẩm. Cần hỗ trợ Anh inbox trực tiếp bộ phận chăm sóc khách hàng Nalco xin được hỗ trợ Anh nhé, chúc Anh và gia đình thật nhiều sức khỏe, hi vọng Nalco sẽ được đồng hành cùng Anh trong những đơn hàng tiếp theo!",
+          "score": 0,
+          "create_at": 1663475570,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18500933,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14211520999999999,
+      "customer_id": 10083970,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1671951338,
+      "created_by": {
+        "id": 10083970,
+        "name": "Tran Thien Sa",
+        "full_name": "Tran Thien Sa",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-12-30 16:57:40",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1671257721,
+        "contribute_info": {
+          "id": 10083970,
+          "name": "Tran Thien Sa",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 23,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Bepnhatoi"
+      ],
+      "product_attributes": [],
+      "spid": 36680318,
+      "is_photo": false,
+      "seller": {
+        "id": 78755,
+        "name": "Bepnhatoi",
+        "logo": "bf/7c/c4/710f05d255690f6a497fdb616ca02db1.png"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-12-25 13:55:38",
+        "delivery_date": "2022-12-21 11:00:41",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [
+        {
+          "id": 2833458,
+          "review_id": 18500933,
+          "commentator": "seller",
+          "customer_id": 78755,
+          "fullname": "Bepnhatoi",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/bf/7c/c4/710f05d255690f6a497fdb616ca02db1.png",
+          "content": "Kính chào Quý Khách , Bepnhatoi rất hạnh phúc khi thấy bạn hài lòng về chất lượng sản phẩm và dịch vụ tại gian hàng. Mong quý khách sẽ tiếp tục ủng hộ Shop trong tương lai và đừng quên giới thiệu gian hàng cho người thân và bạn bè nữa nha. Chúc quý khách và những người thân yêu luôn khoẻ mạnh!",
+          "score": 0,
+          "create_at": 1672305847,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9628493,
+      "title": "Hài lòng",
+      "content": "tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.13761337000000001,
+      "customer_id": 8830807,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [
+        {
+          "id": 1950933,
+          "full_path": "https://salt.tikicdn.com/ts/review/9e/62/4e/c056c60cdc458c375a1989de54b3cc8a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 1950934,
+          "full_path": "https://salt.tikicdn.com/ts/review/b1/2f/83/61ae0ecdce1b6b923f1e1374c7273537.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1620649819,
+      "created_by": {
+        "id": 8830807,
+        "name": "Chí Linh",
+        "full_name": "Chí Linh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-11-08 22:19:13",
+        "purchased": true,
+        "purchased_at": 1620190176,
+        "contribute_info": {
+          "id": 8830807,
+          "name": "Chí Linh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 181,
+            "total_thank": 74
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 290009,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2021-05-10 19:30:19",
+        "delivery_date": "2021-05-10 09:35:38",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 10 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15946674,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13749654,
+      "customer_id": 718992,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1650083240,
+      "created_by": {
+        "id": 718992,
+        "name": "Nguyen van Noi",
+        "full_name": "Nguyen van Noi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-07-24 13:24:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1649747599,
+        "contribute_info": {
+          "id": 718992,
+          "name": "Nguyen van Noi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 136,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng kho gia dụng Hạnh Anh"
+      ],
+      "product_attributes": [],
+      "spid": 23475523,
+      "is_photo": false,
+      "seller": {
+        "id": 49575,
+        "name": "Tổng kho gia dụng Hạnh Anh",
+        "logo": "c7/dd/40/80c097e573fa5c804df8ef7ef77f761c.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2022-04-16 11:27:20",
+        "delivery_date": "2022-04-16 11:26:25",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13398164,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.134885,
+      "customer_id": 17636094,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1637718308,
+      "created_by": {
+        "id": 17636094,
+        "name": "Tong Thi Hong Hanh",
+        "full_name": "Tong Thi Hong Hanh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-06-24 15:31:59",
+        "purchased": true,
+        "purchased_at": 1636610934,
+        "contribute_info": {
+          "id": 17636094,
+          "name": "Tong Thi Hong Hanh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 28,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt",
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Tổng kho gia dụng Hạnh Anh"
+      ],
+      "product_attributes": [],
+      "spid": 23475523,
+      "is_photo": false,
+      "seller": {
+        "id": 49575,
+        "name": "Tổng kho gia dụng Hạnh Anh",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/c7/dd/40/80c097e573fa5c804df8ef7ef77f761c.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2021-11-24 08:45:08",
+        "delivery_date": "2021-11-18 21:28:16",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10646065,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0,
+      "new_score": 0.13211105000000001,
+      "customer_id": 1406927,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1624584416,
+      "created_by": {
+        "id": 1406927,
+        "name": "Do Ton Son",
+        "full_name": "Do Ton Son",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-06-03 09:57:13",
+        "purchased": true,
+        "purchased_at": 1622025269,
+        "contribute_info": {
+          "id": 1406927,
+          "name": "Do Ton Son",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 129,
+            "total_thank": 12
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 290009,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2021-06-25 08:26:56",
+        "delivery_date": "2021-05-27 11:57:16",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 8132642,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13003391,
+      "customer_id": 13542757,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1614749735,
+      "created_by": {
+        "id": 13542757,
+        "name": "Ngô Thị Hà",
+        "full_name": "Ngô Thị Hà",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-08-19 11:43:06",
+        "purchased": true,
+        "purchased_at": 1614272691,
+        "contribute_info": {
+          "id": 13542757,
+          "name": "Ngô Thị Hà",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 10,
+            "total_thank": 8
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng kho gia dụng Hạnh Anh"
+      ],
+      "product_attributes": [],
+      "spid": 23475523,
+      "is_photo": false,
+      "seller": {
+        "id": 49575,
+        "name": "Tổng kho gia dụng Hạnh Anh",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/c7/dd/40/80c097e573fa5c804df8ef7ef77f761c.jpg"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2021-03-03 12:35:35",
+        "delivery_date": "2021-03-03 10:37:06",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2919580,
+      "title": "Tiện lợi, hiệu quả",
+      "content": "Giá hơi cao, nhưng dùng chất lượng và an tâm, y như lời giới thiệu",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.12836781,
+      "customer_id": 6257711,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1580346804,
+      "created_by": {
+        "id": 6257711,
+        "name": "NC Thiện",
+        "full_name": "NC Thiện",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1544170142,
+        "contribute_info": {
+          "id": 6257711,
+          "name": "NC Thiện",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 23,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 290009,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2020-01-30 08:13:24",
+        "delivery_date": "2018-12-10 15:33:17",
+        "current_date": "2025-09-15 12:11:19",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2084893,
+      "title": "Sản phẩm tốt",
+      "content": "Sản phẩm mới, đúng tiêu chuẩn, giao hàng nhanh chóng.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.016994660000000002,
+      "new_score": 0.12124871,
+      "customer_id": 1621745,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1552321546,
+      "created_by": {
+        "id": 1621745,
+        "name": "Tiến Trần Chí",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1551678569,
+        "contribute_info": {
+          "id": 1621745,
+          "name": "Tiến Trần Chí",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 50,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 290009,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 557151,
+      "timeline": {
+        "review_created_date": "2019-03-11 23:25:46",
+        "delivery_date": "2019-03-04 15:23:20",
+        "current_date": "2025-09-15 12:11:20",
+        "content": "Đã dùng 7 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 17,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

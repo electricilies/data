@@ -1,0 +1,203 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 100
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 0,
+      "percent": 0
+    }
+  },
+  "rating_average": 1,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 13681888,
+      "title": "Rất không hài lòng",
+      "content": "Giao hàng không đúng. Đặt AXL-060. Giao hàng RL-060",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.14507702,
+      "customer_id": 10568969,
+      "comment_count": 2,
+      "rating": 1,
+      "images": [
+        {
+          "id": 2858010,
+          "full_path": "https://salt.tikicdn.com/ts/review/ec/2b/ff/7e94de96454defd962bc497b586f53b9.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2858011,
+          "full_path": "https://salt.tikicdn.com/ts/review/31/bc/fe/98232aa54aec9fa9a6c783f82d9cbf1d.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1638943127,
+      "created_by": {
+        "id": 10568969,
+        "name": "Nguyen quoc thai",
+        "full_name": "Nguyen quoc thai",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-01-27 10:59:04",
+        "purchased": true,
+        "purchased_at": 1638698937,
+        "contribute_info": {
+          "id": 10568969,
+          "name": "Nguyen quoc thai",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán CỬA TỰ ĐỘNG VÀ PHỤ KIỆN KIẾN TRÚC"
+      ],
+      "product_attributes": [],
+      "spid": 105798464,
+      "is_photo": true,
+      "seller": {
+        "id": 193569,
+        "name": "CỬA TỰ ĐỘNG VÀ PHỤ KIỆN KIẾN TRÚC",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 105798452,
+      "timeline": {
+        "review_created_date": "2021-12-08 12:58:47",
+        "delivery_date": "2021-12-08 12:15:39",
+        "current_date": "2025-09-15 12:14:03",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 2000183,
+          "review_id": 13681888,
+          "commentator": "seller",
+          "customer_id": 193569,
+          "fullname": "CỬA TỰ ĐỘNG VÀ PHỤ KIỆN KIẾN TRÚC",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/48/c3/0c/0d2a29ee08072cfc0b7884bdc600eddb.jpg",
+          "content": "Chào anh shop đã kiểm tra sản phẩm có 2 dòng AXL-060 giá là 1.***, RL-060 là 627.000đ mà số tiền anh trả cho TiKi đang là 627.000. Shop có liên hệ chat trên Tiki với anh mà chưa thấy trả lời ,shop không có *** của khách để gọi lại . Vì vậy nếu anh nhận được tin nhắn để lại số đt để shop gọi giải thích  . Thanks anh !",
+          "score": 0,
+          "create_at": 1641803822,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 1997166,
+          "review_id": 13681888,
+          "commentator": "seller",
+          "customer_id": 193569,
+          "fullname": "CỬA TỰ ĐỘNG VÀ PHỤ KIỆN KIẾN TRÚC",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/48/c3/0c/0d2a29ee08072cfc0b7884bdc600eddb.jpg",
+          "content": "Chào Quý khách , Quý khách vui lòng phản hồi lại shop rõ ràng sản phẩm có chỗ nào  không đúng ạ ? Công ty chúng tôi đã có mặt trên thị trường 15 năm, chúng tôi cam kết tất cả các sản phẩm trên sàn đều đúng 100% như hình ảnh và giới thiệu . Rất xin lỗi Quý khách vì chúng tôi đã sơ xót không đọc đánh giá phản hồi sớm để liên hệ lại .",
+          "score": 0,
+          "create_at": 1641720325,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

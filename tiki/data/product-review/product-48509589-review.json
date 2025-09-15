@@ -1,0 +1,1419 @@
+{
+  "stars": {
+    "1": {
+      "count": 4,
+      "percent": 3
+    },
+    "2": {
+      "count": 4,
+      "percent": 3
+    },
+    "3": {
+      "count": 4,
+      "percent": 3
+    },
+    "4": {
+      "count": 32,
+      "percent": 29
+    },
+    "5": {
+      "count": 70,
+      "percent": 62
+    }
+  },
+  "rating_average": 4.4000000000000004,
+  "reviews_count": 114,
+  "review_photo": {
+    "total": 12,
+    "total_photo": 20
+  },
+  "data": [
+    {
+      "id": 18231972,
+      "title": "Cực kì hài lòng",
+      "content": "good next dawin Nunez .....\r\nbình luận săn điểm nhé",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.098241480000000006,
+      "new_score": 0.16035991999999999,
+      "customer_id": 14548416,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4066547,
+          "full_path": "https://salt.tikicdn.com/ts/review/2e/ab/f0/4f82c58e2eb0e5f0436c77618194b8f8.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4066548,
+          "full_path": "https://salt.tikicdn.com/ts/review/20/c3/4b/146b155967fb285c40382beb0ee6e61d.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4066550,
+          "full_path": "https://salt.tikicdn.com/ts/review/53/f4/a1/333b1866a9b9c7c5ac3c5581d6e086a4.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4066551,
+          "full_path": "https://salt.tikicdn.com/ts/review/20/c0/c3/99839f81e1799f69c57a3659c35511a6.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1668690881,
+      "created_by": {
+        "id": 14548416,
+        "name": "Cuong Phong Lê",
+        "full_name": "Cuong Phong Lê",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mDRQ3NO9ZeOXQQm0SzhlU8xhUwH58nQsMPTGQZr",
+        "created_time": "2019-10-20 20:15:13",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1667072601,
+        "contribute_info": {
+          "id": 14548416,
+          "name": "Lê Thanh Phong",
+          "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mDRQ3NO9ZeOXQQm0SzhlU8xhUwH58nQsMPTGQZr",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 31,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": true,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-11-17 20:14:41",
+        "delivery_date": "2022-11-03 14:11:21",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 14 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Dễ sử dụng",
+          "thiết kế thông minh, tiện lợi"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18503080,
+      "title": "Hài lòng",
+      "content": "Dùng tạm ổn trong tầm giá.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.15038584999999999,
+      "customer_id": 11359168,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [
+        {
+          "id": 4054772,
+          "full_path": "https://salt.tikicdn.com/ts/review/c6/4f/a7/92e7c8f4306fdb8411d023a6558ba06a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4054773,
+          "full_path": "https://salt.tikicdn.com/ts/review/59/4e/61/cb5708559594504881a97376b15ee917.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1671970152,
+      "created_by": {
+        "id": 11359168,
+        "name": "Trương Giang",
+        "full_name": "Trương Giang",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/0d/26/a7/6bafc49afedfed76bae0d6933ce15c27.png",
+        "created_time": "2019-03-18 14:20:11",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1666541958,
+        "contribute_info": {
+          "id": 11359168,
+          "name": "Trương Giang",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/0d/26/a7/6bafc49afedfed76bae0d6933ce15c27.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 90,
+            "total_thank": 14
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": true,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-12-25 19:09:12",
+        "delivery_date": "2022-10-26 12:32:01",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19502181,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14669823000000001,
+      "customer_id": 17635272,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1693650653,
+      "created_by": {
+        "id": 17635272,
+        "name": "Ngọc Quý",
+        "full_name": "Ngọc Quý",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-06-24 13:31:59",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1693124159,
+        "contribute_info": {
+          "id": 17635272,
+          "name": "Ngọc Quý",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 137,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 58026010,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2023-09-02 17:30:53",
+        "delivery_date": "2023-08-27 17:36:30",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14333766,
+      "title": "Cực kì hài lòng",
+      "content": "SẢN PHẨM RẺ LẠI ĐƯỢC MIỄN PHÍ SHIP NÊN TÍNH RA RẤT LỢI VƠI CHƯƠNG TRÌNH TIKI NOW TRONG 1 NĂM!",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.14664989,
+      "customer_id": 24807494,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3000427,
+          "full_path": "https://salt.tikicdn.com/ts/review/78/dd/dc/afadaef4ee38de313baa50f4caee44ff.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1641655481,
+      "created_by": {
+        "id": 24807494,
+        "name": "TRAN HA",
+        "full_name": "TRAN HA",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-11-09 23:56:13",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1640858040,
+        "contribute_info": {
+          "id": 24807494,
+          "name": "TRAN HA",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 45,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop Thịnh"
+      ],
+      "product_attributes": [],
+      "spid": 57311980,
+      "is_photo": true,
+      "seller": {
+        "id": 131912,
+        "name": "Shop Thịnh",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-01-08 22:24:41",
+        "delivery_date": "2021-12-30 18:46:13",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9953063,
+      "title": "Cực kì hài lòng",
+      "content": "Rất hài lòng với sản phẩm lại có pin dự phòng đóng gói cẩn thận. Ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.14655145,
+      "customer_id": 19931641,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 2028731,
+          "full_path": "https://salt.tikicdn.com/ts/review/cc/e8/78/312d26a0137915c1e389c2b0f6ff5236.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2028732,
+          "full_path": "https://salt.tikicdn.com/ts/review/6e/87/bf/eb11fd023f37a7549832d2a902c6a8a3.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2028733,
+          "full_path": "https://salt.tikicdn.com/ts/review/a7/cb/76/0685797dc4b3267af9527d791bc32fff.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1621934865,
+      "created_by": {
+        "id": 19931641,
+        "name": "Vinh Tran Dinh",
+        "full_name": "Vinh Tran Dinh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-01-17 21:10:39",
+        "purchased": true,
+        "purchased_at": 1621652971,
+        "contribute_info": {
+          "id": 19931641,
+          "name": "Vinh Tran Dinh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 6,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": true,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2021-05-25 16:27:45",
+        "delivery_date": "2021-05-25 10:45:34",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 6 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10696668,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng nhỏ gọn, tiện lợi cho đo và lấy mặt bằng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.444444439999998,
+      "new_score": 0.14528452,
+      "customer_id": 11726652,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 2195828,
+          "full_path": "https://salt.tikicdn.com/ts/review/fa/e8/32/2ef1b44a908c96e712a4d733fe952201.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2195829,
+          "full_path": "https://salt.tikicdn.com/ts/review/97/a4/ae/18a8913807f7ec0bb77104a35a0794d7.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2195830,
+          "full_path": "https://salt.tikicdn.com/ts/review/50/50/82/328a5748238052d5aacf4fb0db02c1e8.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1624774459,
+      "created_by": {
+        "id": 11726652,
+        "name": "BÙI VĂN QUÝ",
+        "full_name": "BÙI VĂN QUÝ",
+        "region": null,
+        "avatar_url": "https://lh5.googleusercontent.com/-ppllA6fTIYM/AAAAAAAAAAI/AAAAAAAAKu4/6zT1C4-ILrk/s80/photo.jpg",
+        "created_time": "2019-04-14 09:29:39",
+        "purchased": true,
+        "purchased_at": 1624328610,
+        "contribute_info": {
+          "id": 11726652,
+          "name": "BÙI VĂN QUÝ",
+          "avatar": "https://lh5.googleusercontent.com/-ppllA6fTIYM/AAAAAAAAAAI/AAAAAAAAKu4/6zT1C4-ILrk/s80/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 62,
+            "total_thank": 12
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": true,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2021-06-27 13:14:19",
+        "delivery_date": "2021-06-26 10:41:14",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17122415,
+      "title": "Cực kì hài lòng",
+      "content": "sản phẩm ok. tiki giao hàng sớm hơn dự định. Cảm ơn shop vàv tiki",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14467985999999999,
+      "customer_id": 13949961,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1658211107,
+      "created_by": {
+        "id": 13949961,
+        "name": "Văn Đăng",
+        "full_name": "Văn Đăng",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/a-/AAuE7mANokcd4HXkPd48v9zkfAXabFuwJJWQkaoOy_aSAQ",
+        "created_time": "2019-09-11 11:55:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658023679,
+        "contribute_info": {
+          "id": 13949961,
+          "name": "Văn Đăng",
+          "avatar": "https://lh3.googleusercontent.com/a-/AAuE7mANokcd4HXkPd48v9zkfAXabFuwJJWQkaoOy_aSAQ",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Siêu Thị Linh Kiện"
+      ],
+      "product_attributes": [],
+      "spid": 176545181,
+      "is_photo": false,
+      "seller": {
+        "id": 6351,
+        "name": "Siêu Thị Linh Kiện",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/15/15/dd/0a3fcadb73c3be10af7db03b581fd1ea.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-07-19 13:11:47",
+        "delivery_date": "2022-07-19 13:06:12",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 6 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17898518,
+      "title": "Không hài lòng",
+      "content": "Kém chất lượng, hàng làm ọp ẹp.k chắc chắn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14455559000000001,
+      "customer_id": 27101198,
+      "comment_count": 0,
+      "rating": 2,
+      "images": [],
+      "thanked": false,
+      "created_at": 1665198244,
+      "created_by": {
+        "id": 27101198,
+        "name": "Lux Lux",
+        "full_name": "Lux Lux",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-03-18 01:31:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1660708694,
+        "contribute_info": {
+          "id": 27101198,
+          "name": "Lux Lux",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Siêu Thị Linh Kiện"
+      ],
+      "product_attributes": [],
+      "spid": 176545181,
+      "is_photo": false,
+      "seller": {
+        "id": 6351,
+        "name": "Siêu Thị Linh Kiện",
+        "logo": "15/15/dd/0a3fcadb73c3be10af7db03b581fd1ea.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-10-08 10:04:04",
+        "delivery_date": "2022-08-20 09:49:55",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18030793,
+      "title": "Cực kì hài lòng",
+      "content": "minh mới nhận  hàng dùng thử thấy ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14403859999999999,
+      "customer_id": 16705953,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1666538239,
+      "created_by": {
+        "id": 16705953,
+        "name": "Nguyen Vinh",
+        "full_name": "Nguyen Vinh",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2727545410799866&height=200&width=200&ext=1586080529&hash=AeQGQjwoUIcNdKSv",
+        "created_time": "2020-03-06 16:55:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1665844671,
+        "contribute_info": {
+          "id": 16705953,
+          "name": "Nguyen Vinh",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2727545410799866&height=200&width=200&ext=1586080529&hash=AeQGQjwoUIcNdKSv",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 10,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": false,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-10-23 22:17:19",
+        "delivery_date": "2022-10-18 16:06:18",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18830895,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14314139000000001,
+      "customer_id": 10605646,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1676810022,
+      "created_by": {
+        "id": 10605646,
+        "name": "Phạm Văn Chúc",
+        "full_name": "Phạm Văn Chúc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-01-30 03:49:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1668641195,
+        "contribute_info": {
+          "id": 10605646,
+          "name": "Phạm Văn Chúc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 9,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": false,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2023-02-19 19:33:42",
+        "delivery_date": "2022-11-18 09:42:48",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18716383,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14280897000000001,
+      "customer_id": 28664740,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1675236079,
+      "created_by": {
+        "id": 28664740,
+        "name": "HuuThe Nguyen",
+        "full_name": "HuuThe Nguyen",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-12-30 08:29:37",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1675048722,
+        "contribute_info": {
+          "id": 28664740,
+          "name": "HuuThe Nguyen",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 27,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": false,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2023-02-01 14:21:19",
+        "delivery_date": "2023-02-01 10:35:30",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18499308,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14211231999999999,
+      "customer_id": 1074711,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1671937645,
+      "created_by": {
+        "id": 1074711,
+        "name": "Lê Đặng Đăng Khoa",
+        "full_name": "Lê Đặng Đăng Khoa",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-12-24 17:28:37",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1670567724,
+        "contribute_info": {
+          "id": 1074711,
+          "name": "Lê Đặng Đăng Khoa",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 12,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tổng Kho MB"
+      ],
+      "product_attributes": [],
+      "spid": 73879581,
+      "is_photo": false,
+      "seller": {
+        "id": 131238,
+        "name": "Tổng Kho MB",
+        "logo": "ef/66/7b/8b29dce5876fe87a45897050e2005f5a.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-12-25 10:07:25",
+        "delivery_date": "2022-12-13 09:53:30",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 12 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18302376,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14161855000000001,
+      "customer_id": 7134640,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1669599785,
+      "created_by": {
+        "id": 7134640,
+        "name": "Pham Khac Thanh",
+        "full_name": "Pham Khac Thanh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-05-17 14:18:10",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1669517989,
+        "contribute_info": {
+          "id": 7134640,
+          "name": "Pham Khac Thanh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 78,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 58026010,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-11-28 08:43:05",
+        "delivery_date": "2022-11-27 12:58:32",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17796839,
+      "title": "Hài lòng",
+      "content": "SP dùng tạm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.26709401999999999,
+      "new_score": 0.14140045000000001,
+      "customer_id": 13219060,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1664148044,
+      "created_by": {
+        "id": 13219060,
+        "name": "Hoang Tan",
+        "full_name": "Hoang Tan",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1214335252059465&height=200&width=200&ext=1567378577&hash=AeTqKmui3JlGPNv2",
+        "created_time": "2019-08-03 05:57:27",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659574321,
+        "contribute_info": {
+          "id": 13219060,
+          "name": "Hoang Tan",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1214335252059465&height=200&width=200&ext=1567378577&hash=AeTqKmui3JlGPNv2",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 38,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Siêu Thị Linh Kiện"
+      ],
+      "product_attributes": [],
+      "spid": 176545181,
+      "is_photo": false,
+      "seller": {
+        "id": 6351,
+        "name": "Siêu Thị Linh Kiện",
+        "logo": "15/15/dd/0a3fcadb73c3be10af7db03b581fd1ea.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-09-26 06:20:44",
+        "delivery_date": "2022-08-09 20:10:20",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15920205,
+      "title": "Cực kì hài lòng",
+      "content": "sản phẩm đẹp. nhìn chất lượng.giá hợp lý..",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14139663,
+      "customer_id": 21644768,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1649925800,
+      "created_by": {
+        "id": 21644768,
+        "name": "tấn minh",
+        "full_name": "tấn minh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-05-09 11:08:45",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1649579038,
+        "contribute_info": {
+          "id": 21644768,
+          "name": "tấn minh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 85,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phụ Kiện Store 76"
+      ],
+      "product_attributes": [],
+      "spid": 58026010,
+      "is_photo": false,
+      "seller": {
+        "id": 137411,
+        "name": "Phụ Kiện Store 76",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/fa/4b/47/a0b35a2f81f3528c14bdfec21dfd1874.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-04-14 15:43:20",
+        "delivery_date": "2022-04-14 12:02:47",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17311255,
+      "title": "Bình thường",
+      "content": "Binh thuongn! Kho chinh goc",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14132929999999999,
+      "customer_id": 22856624,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1659707781,
+      "created_by": {
+        "id": 22856624,
+        "name": "Mark Nguyen",
+        "full_name": "Mark Nguyen",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-08-03 19:50:49",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659613954,
+        "contribute_info": {
+          "id": 22856624,
+          "name": "Mark Nguyen",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 97,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop Thịnh"
+      ],
+      "product_attributes": [],
+      "spid": 57311980,
+      "is_photo": false,
+      "seller": {
+        "id": 131912,
+        "name": "Shop Thịnh",
+        "logo": null
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-08-05 20:56:21",
+        "delivery_date": "2022-08-05 11:38:37",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 9 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14351982,
+      "title": "Cực kì hài lòng",
+      "content": "ok, xài tốt so với giá thành",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 1.75438596,
+      "new_score": 0.14106759999999999,
+      "customer_id": 16503299,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3008940,
+          "full_path": "https://salt.tikicdn.com/ts/review/c4/a6/f6/b27f7e7083b91fa1112c7fe4196ab697.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1641739328,
+      "created_by": {
+        "id": 16503299,
+        "name": "Đinh Viết Khương",
+        "full_name": "Đinh Viết Khương",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1263129783884569&height=200&width=200&ext=1584755681&hash=AeT5TmkxN6WBhtYP",
+        "created_time": "2020-02-20 08:55:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1641700322,
+        "contribute_info": {
+          "id": 16503299,
+          "name": "Đinh Viết Khương",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1263129783884569&height=200&width=200&ext=1584755681&hash=AeT5TmkxN6WBhtYP",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 16,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop Thịnh"
+      ],
+      "product_attributes": [],
+      "spid": 57311980,
+      "is_photo": true,
+      "seller": {
+        "id": 131912,
+        "name": "Shop Thịnh",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-01-09 21:42:08",
+        "delivery_date": "2022-01-09 12:27:22",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 9 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15476359,
+      "title": "Bình thường",
+      "content": "tạm ổn với mức giá , hở vỏ , laser lệch tâm .",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14103251999999999,
+      "customer_id": 14089558,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1647570588,
+      "created_by": {
+        "id": 14089558,
+        "name": "Lâm Ngọc Tiến",
+        "full_name": "Lâm Ngọc Tiến",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1164689677057385&height=200&width=200&ext=1571457288&hash=AeSCIJDMuhj_maFI",
+        "created_time": "2019-09-19 10:55:14",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647483572,
+        "contribute_info": {
+          "id": 14089558,
+          "name": "Lâm Ngọc Tiến",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1164689677057385&height=200&width=200&ext=1571457288&hash=AeSCIJDMuhj_maFI",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 44,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Shop Thịnh"
+      ],
+      "product_attributes": [],
+      "spid": 57311980,
+      "is_photo": false,
+      "seller": {
+        "id": 131912,
+        "name": "Shop Thịnh",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-03-18 09:29:48",
+        "delivery_date": "2022-03-17 10:55:05",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17963359,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14081714000000001,
+      "customer_id": 23280803,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1665805348,
+      "created_by": {
+        "id": 23280803,
+        "name": "Quốc Hùng",
+        "full_name": "Quốc Hùng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-08-26 15:11:04",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1665164913,
+        "contribute_info": {
+          "id": 23280803,
+          "name": "Quốc Hùng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 73,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Siêu Thị Linh Kiện"
+      ],
+      "product_attributes": [],
+      "spid": 176545181,
+      "is_photo": false,
+      "seller": {
+        "id": 6351,
+        "name": "Siêu Thị Linh Kiện",
+        "logo": "15/15/dd/0a3fcadb73c3be10af7db03b581fd1ea.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-10-15 10:42:28",
+        "delivery_date": "2022-10-09 13:25:08",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17856345,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14059706,
+      "customer_id": 21620548,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1664763325,
+      "created_by": {
+        "id": 21620548,
+        "name": "Văn Tiền",
+        "full_name": "Văn Tiền",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-05-06 22:21:33",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1662545695,
+        "contribute_info": {
+          "id": 21620548,
+          "name": "Văn Tiền",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 31,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Siêu Thị Linh Kiện"
+      ],
+      "product_attributes": [],
+      "spid": 176545181,
+      "is_photo": false,
+      "seller": {
+        "id": 6351,
+        "name": "Siêu Thị Linh Kiện",
+        "logo": "15/15/dd/0a3fcadb73c3be10af7db03b581fd1ea.jpg"
+      },
+      "product_id": 48509589,
+      "timeline": {
+        "review_created_date": "2022-10-03 09:15:25",
+        "delivery_date": "2022-09-11 12:36:00",
+        "current_date": "2025-09-15 12:07:45",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 114,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 6,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

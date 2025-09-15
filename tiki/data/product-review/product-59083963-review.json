@@ -1,0 +1,225 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 50
+    },
+    "5": {
+      "count": 1,
+      "percent": 50
+    }
+  },
+  "rating_average": 4.5,
+  "reviews_count": 2,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 12113702,
+      "title": "Cực kì hài lòng",
+      "content": "Rất phù hợp với nhu cầu gia đình",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13631562999999999,
+      "customer_id": 22180803,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1630919089,
+      "created_by": {
+        "id": 22180803,
+        "name": "Đặng Hồng ",
+        "full_name": "Đặng Hồng ",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/fc/08/fe/6a0b82d89911985e78ddb8ea434d4f19.png",
+        "created_time": "2021-06-15 17:42:11",
+        "purchased": true,
+        "purchased_at": 1623754107,
+        "contribute_info": {
+          "id": 22180803,
+          "name": "Đặng Hồng ",
+          "avatar": "https://salt.tikicdn.com/cache/256x256/ts/avatar/fc/08/fe/6a0b82d89911985e78ddb8ea434d4f19.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 59,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Pi Stores"
+      ],
+      "product_attributes": [],
+      "spid": 59083965,
+      "is_photo": false,
+      "seller": {
+        "id": 141077,
+        "name": "Pi Stores",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 59083963,
+      "timeline": {
+        "review_created_date": "2021-09-06 16:04:49",
+        "delivery_date": "2021-06-21 12:41:04",
+        "current_date": "2025-09-15 12:09:10",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 6104285,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12854278999999999,
+      "customer_id": 18301724,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1607689723,
+      "created_by": {
+        "id": 18301724,
+        "name": "Hoang Van Tinh",
+        "full_name": "Hoang Van Tinh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1606134231,
+        "contribute_info": {
+          "id": 18301724,
+          "name": "Hoang Van Tinh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 7,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [
+        "Giao hàng nhanh"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Pi Stores"
+      ],
+      "product_attributes": [],
+      "spid": 59083965,
+      "is_photo": false,
+      "seller": {
+        "id": 141077,
+        "name": "Pi Stores",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 59083963,
+      "timeline": {
+        "review_created_date": "2020-12-11 19:28:43",
+        "delivery_date": "2020-11-28 16:45:04",
+        "current_date": "2025-09-15 12:09:10",
+        "content": "Đã dùng 13 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 2,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

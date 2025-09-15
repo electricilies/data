@@ -1,0 +1,1350 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 2
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 2,
+      "percent": 4
+    },
+    "4": {
+      "count": 8,
+      "percent": 18
+    },
+    "5": {
+      "count": 33,
+      "percent": 76
+    }
+  },
+  "rating_average": 4.5999999999999996,
+  "reviews_count": 44,
+  "review_photo": {
+    "total": 3,
+    "total_photo": 3
+  },
+  "data": [
+    {
+      "id": 16453030,
+      "title": "Bình thường",
+      "content": "Shop bán cả loại tặng kèm và loại ko tặng kèm. Cứ nói là tặng kèm chứ tiền cũng tính vào đồ tặng kèm cả mà. Mình vẫn chọn loại tặng kèm túi chườm đá vì mô tả túi chườm nhìn khá đẹp và ưng. Thế mà kết quả nhận đc là 1 cái túi chườm bằng cao su ko thể nào xấu hơn đc 😡 biết thế thì mình đã mua loại bthg, loại chỉ có mỗi máy đo nhiệt độ rồi. Còn máy đo nhiệt độ đã dùng thử thì tạm thời là ok ko biết sau có lỗi hỏng gì ko. Nhưng ko hài lòng việc mô tả 1 kiểu hàng 1 kiểu ntn",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.01153436,
+      "new_score": 0.16455328999999999,
+      "customer_id": 184599,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [
+        {
+          "id": 3511000,
+          "full_path": "https://salt.tikicdn.com/ts/review/b6/70/4c/5ff65f7fb0354e0db3b87d2763fd2c33.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1653450787,
+      "created_by": {
+        "id": 184599,
+        "name": "Thái Anh Tú",
+        "full_name": "Thái Anh Tú",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2013-10-15 18:29:25",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1653312408,
+        "contribute_info": {
+          "id": 184599,
+          "name": "Thái Anh Tú",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 90,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết bị y tế Gia Đình HME"
+      ],
+      "product_attributes": [],
+      "spid": 126699566,
+      "is_photo": true,
+      "seller": {
+        "id": 133020,
+        "name": "Thiết bị y tế Gia Đình HME",
+        "logo": "6c/02/14/f68bd692ffe6cd92a488987d6ea974ae.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-05-25 10:53:07",
+        "delivery_date": "2022-05-25 10:21:20",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18744996,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm chất lượng, chăm sóc khách hàng tốt.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.24801587,
+      "new_score": 0.14688409999999999,
+      "customer_id": 7219898,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1675591803,
+      "created_by": {
+        "id": 7219898,
+        "name": "le hoang",
+        "full_name": "le hoang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-05-31 13:10:13",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1674135253,
+        "contribute_info": {
+          "id": 7219898,
+          "name": "le hoang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 144,
+            "total_thank": 34
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2023-02-05 17:10:03",
+        "delivery_date": "2023-02-03 09:26:46",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18788574,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14301269,
+      "customer_id": 28724830,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1676200658,
+      "created_by": {
+        "id": 28724830,
+        "name": "lehieu kabi",
+        "full_name": "lehieu kabi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2023-01-13 22:56:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1673626109,
+        "contribute_info": {
+          "id": 28724830,
+          "name": "lehieu kabi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2023-02-12 18:17:38",
+        "delivery_date": "2023-01-18 13:54:18",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Chất liệu sản phẩm tốt, bền, chắc chắn",
+          "Dễ đọc",
+          "Dễ sử dụng",
+          "Kết quả đo chính xác"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18737632,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14286470000000001,
+      "customer_id": 21596153,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1675499960,
+      "created_by": {
+        "id": 21596153,
+        "name": "HOÀNG TUẤN ANH",
+        "full_name": "HOÀNG TUẤN ANH",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a4/be/f0/47f3e0cd24e4acc69bb881da4beb3962.png",
+        "created_time": "2021-05-05 00:30:13",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1674738013,
+        "contribute_info": {
+          "id": 21596153,
+          "name": "HOÀNG TUẤN ANH",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a4/be/f0/47f3e0cd24e4acc69bb881da4beb3962.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 107,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2023-02-04 15:39:20",
+        "delivery_date": "2023-01-31 13:18:34",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12679101,
+      "title": "Rất không hài lòng",
+      "content": "Hôm nay 18/10/21 tôi vẫn chưa nhận được hàng nhưng sao lại báo giao hàng thành công ???",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14127624999999999,
+      "customer_id": 18653500,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1634520412,
+      "created_by": {
+        "id": 18653500,
+        "name": "Nguyễn Thị Phương Chi",
+        "full_name": "Nguyễn Thị Phương Chi",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-10-03 08:27:54",
+        "purchased": true,
+        "purchased_at": 1626758512,
+        "contribute_info": {
+          "id": 18653500,
+          "name": "Nguyễn Thị Phương Chi",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 9,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2021-10-18 08:26:52",
+        "delivery_date": "2021-09-16 10:04:08",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15390979,
+      "title": "Cực kì hài lòng",
+      "content": "nhanh chóng,chính xác tiện cho trẻ en",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13980861,
+      "customer_id": 12282931,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1647141711,
+      "created_by": {
+        "id": 12282931,
+        "name": "Tiểu Mai",
+        "full_name": "Tiểu Mai",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2385269445039056&height=200&width=200&ext=1561689514&hash=AeQzB6B0JnkCUyF3",
+        "created_time": "2019-05-29 09:39:36",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1644543232,
+        "contribute_info": {
+          "id": 12282931,
+          "name": "Đào Đình Thái",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2385269445039056&height=200&width=200&ext=1561689514&hash=AeQzB6B0JnkCUyF3",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 113,
+            "total_thank": 19
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-03-13 10:21:51",
+        "delivery_date": "2022-02-13 12:18:54",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17269196,
+      "title": "Cực kì hài lòng",
+      "content": "Nice",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13972072999999999,
+      "customer_id": 7674773,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1659351538,
+      "created_by": {
+        "id": 7674773,
+        "name": "Nguyễn Sơn Tùng",
+        "full_name": "Nguyễn Sơn Tùng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-08-16 09:29:02",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659059379,
+        "contribute_info": {
+          "id": 7674773,
+          "name": "Nguyễn Sơn Tùng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 10,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-08-01 17:58:58",
+        "delivery_date": "2022-07-31 15:40:53",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15527208,
+      "title": "Cực kì hài lòng",
+      "content": "Sp okkk msmsnsnsndndndndndndndndndnd",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13942182,
+      "customer_id": 9061772,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1647835539,
+      "created_by": {
+        "id": 9061772,
+        "name": "Leng Keng",
+        "full_name": "Leng Keng",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/1211532762318849/picture?type=large&return_ssl_resources=1",
+        "created_time": "2018-11-19 11:47:27",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1644544438,
+        "contribute_info": {
+          "id": 9061772,
+          "name": "Leng Keng",
+          "avatar": "https://graph.facebook.com/1211532762318849/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-03-21 11:05:39",
+        "delivery_date": "2022-02-14 10:09:36",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15245900,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm tốt, giao hàng nhanh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13910900000000001,
+      "customer_id": 5117152,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1646354418,
+      "created_by": {
+        "id": 5117152,
+        "name": "Trần Hoài Ân",
+        "full_name": "Trần Hoài Ân",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-03-19 10:26:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1646188674,
+        "contribute_info": {
+          "id": 5117152,
+          "name": "Trần Hoài Ân",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 23,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-03-04 07:40:18",
+        "delivery_date": "2022-03-03 10:12:28",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13331316,
+      "title": "Hài lòng",
+      "content": "xài tốt, nhưng không có túi chườm lạnh tặng kèm",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13895411999999999,
+      "customer_id": 1321410,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1637414291,
+      "created_by": {
+        "id": 1321410,
+        "name": "Huy Bằng",
+        "full_name": "Huy Bằng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-04-22 21:25:02",
+        "purchased": true,
+        "purchased_at": 1637244649,
+        "contribute_info": {
+          "id": 1321410,
+          "name": "Huy Bằng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2021-11-20 20:18:11",
+        "delivery_date": "2021-11-20 14:10:02",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 6 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16591328,
+      "title": "Cực kì hài lòng",
+      "content": "Tốt nh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13895212000000001,
+      "customer_id": 17884989,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1654449780,
+      "created_by": {
+        "id": 17884989,
+        "name": "Trinh Thi Phuong Ngan",
+        "full_name": "Trinh Thi Phuong Ngan",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-07-25 17:23:14",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1653288497,
+        "contribute_info": {
+          "id": 17884989,
+          "name": "Trinh Thi Phuong Ngan",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết bị y tế Gia Đình HME"
+      ],
+      "product_attributes": [],
+      "spid": 126699566,
+      "is_photo": false,
+      "seller": {
+        "id": 133020,
+        "name": "Thiết bị y tế Gia Đình HME",
+        "logo": "6c/02/14/f68bd692ffe6cd92a488987d6ea974ae.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-06-06 00:23:00",
+        "delivery_date": "2022-05-28 10:47:48",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16921884,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0051993200000000003,
+      "new_score": 0.13893145000000001,
+      "customer_id": 16610027,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1656819463,
+      "created_by": {
+        "id": 16610027,
+        "name": "Điêu Tuấn",
+        "full_name": "Điêu Tuấn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-02-27 22:32:20",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1655777116,
+        "contribute_info": {
+          "id": 16610027,
+          "name": "Điêu Tuấn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 81,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-07-03 10:37:43",
+        "delivery_date": "2022-06-27 10:26:20",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13636172,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng chính hãng nên yên tâm về chất lượng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13869593999999999,
+      "customer_id": 2116300,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1638717066,
+      "created_by": {
+        "id": 2116300,
+        "name": "Trịnh Minh Tuyến",
+        "full_name": "Trịnh Minh Tuyến",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-02-01 17:35:14",
+        "purchased": true,
+        "purchased_at": 1638025582,
+        "contribute_info": {
+          "id": 2116300,
+          "name": "Trịnh Minh Tuyến",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 25,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2021-12-05 22:11:06",
+        "delivery_date": "2021-12-05 18:18:23",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15185493,
+      "title": "Hài lòng",
+      "content": "máy đo nhiệt rất chuẩn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13863996000000001,
+      "customer_id": 805993,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1646027542,
+      "created_by": {
+        "id": 805993,
+        "name": "Đinh Đức Tâm",
+        "full_name": "Đinh Đức Tâm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-09-10 11:32:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1642813977,
+        "contribute_info": {
+          "id": 805993,
+          "name": "Đinh Đức Tâm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 66,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-02-28 12:52:22",
+        "delivery_date": "2022-01-29 11:48:20",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14245780,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.13863487999999999,
+      "customer_id": 8891187,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 2981433,
+          "full_path": "https://salt.tikicdn.com/ts/review/0d/9e/31/5e05741c09a1a96d8b858d2ee8ea5cf3.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1641268797,
+      "created_by": {
+        "id": null,
+        "name": "Khách Hàng",
+        "full_name": "Khách Hàng",
+        "email": null,
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": null,
+        "group_id": null,
+        "purchased": true,
+        "purchased_at": 1641127567
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": true,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": null
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-01-04 10:59:57",
+        "delivery_date": "2022-01-04 10:47:51",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 12 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14883370,
+      "title": "Cực kì hài lòng",
+      "content": "giao nhanh, đúng sản phẩm.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13844736999999999,
+      "customer_id": 26015414,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1644484386,
+      "created_by": {
+        "id": 26015414,
+        "name": "phạm thị lệ sin",
+        "full_name": "phạm thị lệ sin",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/31/0c/b9/1899f8bd2cff52d128b57695d82120ed.png",
+        "created_time": "2021-12-14 23:31:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1643441832,
+        "contribute_info": {
+          "id": 26015414,
+          "name": "phạm thị lệ sin",
+          "avatar": "https://salt.tikicdn.com/cache/256x256/ts/avatar/31/0c/b9/1899f8bd2cff52d128b57695d82120ed.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 39,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Thiết bị y tế Gia Đình HME"
+      ],
+      "product_attributes": [],
+      "spid": 126699566,
+      "is_photo": false,
+      "seller": {
+        "id": 133020,
+        "name": "Thiết bị y tế Gia Đình HME",
+        "logo": "6c/02/14/f68bd692ffe6cd92a488987d6ea974ae.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-02-10 16:13:06",
+        "delivery_date": "2022-02-09 18:04:02",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14933791,
+      "title": "Cực kì hài lòng",
+      "content": "sản phẩm tốt, giao nhanh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13836639000000001,
+      "customer_id": 8102183,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1644732291,
+      "created_by": {
+        "id": 8102183,
+        "name": "PHAN TẤN MỸ",
+        "full_name": "PHAN TẤN MỸ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-09-25 08:17:57",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1641952957,
+        "contribute_info": {
+          "id": 8102183,
+          "name": "PHAN TẤN MỸ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 22,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Y Tế Lộc"
+      ],
+      "product_attributes": [],
+      "spid": 72668862,
+      "is_photo": false,
+      "seller": {
+        "id": 4189,
+        "name": "Y Tế Lộc",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/f7/57/5d/a8899b07df1959b9f33b82635b4c77e6.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-02-13 13:04:51",
+        "delivery_date": "2022-01-13 15:53:34",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16416834,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13815340000000001,
+      "customer_id": 690454,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1653193270,
+      "created_by": {
+        "id": 690454,
+        "name": "Hà My",
+        "full_name": "Hà My",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-07-06 18:22:57",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647564090,
+        "contribute_info": {
+          "id": 690454,
+          "name": "Hà My",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-05-22 11:21:10",
+        "delivery_date": "2022-03-20 10:40:03",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14630752,
+      "title": "Cực kì hài lòng",
+      "content": "Đúng mẫu. Sử dụng tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13803578999999999,
+      "customer_id": 1458876,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1642851321,
+      "created_by": {
+        "id": 1458876,
+        "name": "Nguyễn Thanh Liêm",
+        "full_name": "Nguyễn Thanh Liêm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-06-24 09:04:30",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1642571933,
+        "contribute_info": {
+          "id": 1458876,
+          "name": "Nguyễn Thanh Liêm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 15,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2022-01-22 18:35:21",
+        "delivery_date": "2022-01-21 20:02:28",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 9631375,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm đúng mẫu, chưa sdung nhưng thấy rất thik..bạn giao hàng nhiệt tình nữa",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13801533999999999,
+      "customer_id": 17334881,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1620659122,
+      "created_by": {
+        "id": 17334881,
+        "name": "Ohui Ngọc Trâm",
+        "full_name": "Ohui Ngọc Trâm",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/v3.3/2730017870611178/picture?type=large&return_ssl_resources=1",
+        "created_time": "2020-05-13 00:40:59",
+        "purchased": true,
+        "purchased_at": 1619986483,
+        "contribute_info": {
+          "id": 17334881,
+          "name": "Ohui Ngọc Trâm",
+          "avatar": "https://graph.facebook.com/v3.3/2730017870611178/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 25,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Healthcare Mall"
+      ],
+      "product_attributes": [],
+      "spid": 46320014,
+      "is_photo": false,
+      "seller": {
+        "id": 18393,
+        "name": "Healthcare Mall",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e0/e2/9f/afe2ee0aa7bd30d02253e275f647dd24.png"
+      },
+      "product_id": 46320013,
+      "timeline": {
+        "review_created_date": "2021-05-10 22:05:22",
+        "delivery_date": "2021-05-10 18:53:10",
+        "current_date": "2025-09-15 12:07:47",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 44,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 3,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

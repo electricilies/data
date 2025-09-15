@@ -1,0 +1,680 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 7,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 7,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 17276586,
+      "title": "Cực kì hài lòng",
+      "content": "Giao hàng nhanh,đóng gói cẩn thận,nhân viên rất lễ phép.hàng đẹp,chất lượng sản phẩm phải xài 1 thời gian biết.cãm ơn TiKi,,,",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15026866999999999,
+      "customer_id": 17363686,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1659420698,
+      "created_by": {
+        "id": 17363686,
+        "name": "Khuc Giaomua",
+        "full_name": "Khuc Giaomua",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-05-17 09:59:06",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659307241,
+        "contribute_info": {
+          "id": 17363686,
+          "name": "Khuc Giaomua",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong",
+        "Chọn số chế độ 20S2PV - 4 chế độ "
+      ],
+      "product_attributes": [
+        "Chọn số chế độ: 20S2PV - 4 chế độ "
+      ],
+      "spid": 104648273,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 104648269,
+      "timeline": {
+        "review_created_date": "2022-08-02 13:11:38",
+        "delivery_date": "2022-08-02 12:06:35",
+        "current_date": "2025-09-15 12:10:04",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 2642259,
+          "review_id": 17276586,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Chào anh, Tín Phong xin chân thành cảm ơn vì anh đã mua và đánh giá sản phẩm của gian hàng Tín Phong. Tín Phong hi vọng được đồng hành cùng anh ở những sản phẩm khác ở tương lai. Trong quá trình sử dụng, nếu có bất cứ vấn đề gì cần hỗ trợ, anh đừng ngần ngại liên hệ với Tín Phong nhé, Tín Phong xin chúc anh và gia đình thật nhiều sức khỏe.",
+          "score": 0,
+          "create_at": 1663205659,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17581661,
+      "title": "Cực kì hài lòng",
+      "content": "Giao hàng nhanh, đóng gói tốt, dùng ổn!",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14323350000000001,
+      "customer_id": 6482850,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1662095022,
+      "created_by": {
+        "id": 6482850,
+        "name": "Vũ Văn Sỹ",
+        "full_name": "Vũ Văn Sỹ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-02-09 14:17:55",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661585083,
+        "contribute_info": {
+          "id": 6482850,
+          "name": "Vũ Văn Sỹ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 18,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong",
+        "Chọn số chế độ 20S2PV - 4 chế độ "
+      ],
+      "product_attributes": [
+        "Chọn số chế độ: 20S2PV - 4 chế độ "
+      ],
+      "spid": 104648273,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 104648269,
+      "timeline": {
+        "review_created_date": "2022-09-02 12:03:42",
+        "delivery_date": "2022-08-30 13:11:24",
+        "current_date": "2025-09-15 12:10:05",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [
+        {
+          "id": 2623428,
+          "review_id": 17581661,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Dạ Tín Phong xin chào anh Sỹ, Tín Phong chân thành cảm ơn anh vì đã tin tưởng và sử dụng, và đánh giá sản phẩm đến từ gian hàng của Tín Phong, Tín Phong hi vọng sẽ được đồng hành cùng anh trong những sản phẩm tiếp theo của mình trong thời gian tới. Nếu có vấn đề gì cần hỗ trợ, anh đừng ngại liên hệ Tín Phong nhé. Tín Phong xin chúc anh cùng gia đình thật nhiều sức khỏe.",
+          "score": 0,
+          "create_at": 1662392502,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "bếp làm nóng nhanh, nấu ăn nhanh chín",
+          "Dễ sử dụng",
+          "Dễ vệ sinh",
+          "tiết kiệm điện"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13227754,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng tốt giao nhanh rất hài lòng cho 5sao",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.077591560000000004,
+      "new_score": 0.13792802000000001,
+      "customer_id": 8931414,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1636975074,
+      "created_by": {
+        "id": 8931414,
+        "name": "hồ văn huấn ",
+        "full_name": "hồ văn huấn ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-11-12 14:39:22",
+        "purchased": true,
+        "purchased_at": 1636610796,
+        "contribute_info": {
+          "id": 8931414,
+          "name": "hồ văn huấn ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt",
+        "Giá tốt",
+        "Giao hàng nhanh",
+        "Đóng gói tốt",
+        "Nhà bán phục vụ tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong",
+        "Chọn số chế độ 20S2PV - 4 chế độ "
+      ],
+      "product_attributes": [
+        "Chọn số chế độ: 20S2PV - 4 chế độ "
+      ],
+      "spid": 104648273,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 104648269,
+      "timeline": {
+        "review_created_date": "2021-11-15 18:17:54",
+        "delivery_date": "2021-11-15 16:09:58",
+        "current_date": "2025-09-15 12:10:05",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [
+        {
+          "id": 2542749,
+          "review_id": 13227754,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Chào anh Huấn, Tín Phong xin chân thành cảm ơn anh đã tin tưởng, sử dụng sản phẩm của Tín Phong. Tín Phong luôn nỗ lực phát triển tốt hơn nữa nhằm mang đến cho khách hàng sản phẩm chất lượng và mức giá tốt nhất. Hy vọng anh có những trải nghiệm thật thú vị với sản phẩm của Tín Phong. Nếu có vấn đề gì cần hỗ trợ về sản phẩm hay khuyến mãi, hãy liên hệ với Tín Phong qua kênh chat nhé. Kính chúc anh sức khỏe, thành công và tiếp tục đồng hành cùng Tín Phong ở những sản phẩm khác.",
+          "score": 0,
+          "create_at": 1658914409,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13197113,
+      "title": "Cực kì hài lòng",
+      "content": "nấu nhanh, hơi ồn xíu nhưng ko sao ạ",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.01366564,
+      "new_score": 0.13771989000000001,
+      "customer_id": 16794226,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1636878937,
+      "created_by": {
+        "id": 16794226,
+        "name": "Hà Thị Minh Tâm",
+        "full_name": "Hà Thị Minh Tâm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-03-14 00:05:10",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1636561445,
+        "contribute_info": {
+          "id": 16794226,
+          "name": "Hà Thị Minh Tâm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 9,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong",
+        "Chọn số chế độ 20S2PV - 4 chế độ "
+      ],
+      "product_attributes": [
+        "Chọn số chế độ: 20S2PV - 4 chế độ "
+      ],
+      "spid": 104648273,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 104648269,
+      "timeline": {
+        "review_created_date": "2021-11-14 15:35:37",
+        "delivery_date": "2021-11-13 14:48:42",
+        "current_date": "2025-09-15 12:10:05",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 2542758,
+          "review_id": 13197113,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Chào chị Tâm, Tín Phong xin chân thành cảm ơn chị đã tin tưởng, sử dụng sản phẩm của Tín Phong. Tín Phong luôn nỗ lực phát triển tốt hơn nữa nhằm mang đến cho khách hàng sản phẩm chất lượng và mức giá tốt nhất. Hy vọng chị có những trải nghiệm thật thú vị với sản phẩm của Tín Phong. Nếu có vấn đề gì cần hỗ trợ về sản phẩm hay khuyến mãi, hãy liên hệ với Tín Phong qua kênh chat nhé. Kính chúc chị sức khỏe, thành công và tiếp tục đồng hành cùng Tín Phong ở những sản phẩm khác.",
+          "score": 0,
+          "create_at": 1658914473,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15063909,
+      "title": "Cực kì hài lòng",
+      "content": "sp ổn",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 1.6339869300000001,
+      "new_score": 0.13697745,
+      "customer_id": 14808414,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1645415932,
+      "created_by": {
+        "id": 14808414,
+        "name": "Diên Nguyễn",
+        "full_name": "Diên Nguyễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-11-07 09:08:31",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1645016134,
+        "contribute_info": {
+          "id": 14808414,
+          "name": "Diên Nguyễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt",
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong",
+        "Chọn số chế độ 20S2PV - 4 chế độ "
+      ],
+      "product_attributes": [
+        "Chọn số chế độ: 20S2PV - 4 chế độ "
+      ],
+      "spid": 104648273,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 104648269,
+      "timeline": {
+        "review_created_date": "2022-02-21 10:58:52",
+        "delivery_date": "2022-02-21 10:19:30",
+        "current_date": "2025-09-15 12:10:05",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 2177754,
+          "review_id": 15063909,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Chào Diên Nguyễn, gia dụng Tín Phong xin cảm ơn bạn đã chia sẻ đánh giá cho sản phẩm của gian hàng. Nếu cần hỗ trợ thêm thông tin gì về sản phẩm, hãy gửi tin nhắn về kênh chat của gian hàng gia dụng Tín Phong nhé. Chúc Diên Nguyễn thật nhiều sức khỏe.",
+          "score": 0,
+          "create_at": 1647318509,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14593675,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.1359339,
+      "customer_id": 1083525,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1642684545,
+      "created_by": {
+        "id": 1083525,
+        "name": "Lê Trần Đăng Khoa",
+        "full_name": "Lê Trần Đăng Khoa",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-12-29 18:14:33",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1642558285,
+        "contribute_info": {
+          "id": 1083525,
+          "name": "Lê Trần Đăng Khoa",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 190,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [
+        "Giá tốt",
+        "Nhà bán phục vụ tốt",
+        "Giao hàng nhanh",
+        "Chất lượng tốt",
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong",
+        "Chọn số chế độ 20S2PV - 4 chế độ "
+      ],
+      "product_attributes": [
+        "Chọn số chế độ: 20S2PV - 4 chế độ "
+      ],
+      "spid": 104648273,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 104648269,
+      "timeline": {
+        "review_created_date": "2022-01-20 20:15:45",
+        "delivery_date": "2022-01-20 10:49:22",
+        "current_date": "2025-09-15 12:10:05",
+        "content": "Đã dùng 9 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 giờ."
+      },
+      "comments": [
+        {
+          "id": 2180918,
+          "review_id": 14593675,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Tín Phong chào bạn, rất vui khi mang lại cho bạn trải nghiệm tốt về sản phẩm Bếp điện từ đơn Toshiba IC-20S2PV - mới 100%, chính hãng mẩu mới 1.2021 - 20S2PV - 4 chế độ. Mong rằng trong tương lai Tín Phong sẽ đồng hành cùng bạn trong tương lai. Mọi thắc mắc bạn vui lòng inbox cho Tín Phong để được giải đáp nhé. Chúc bạn một ngày vui vẻ!",
+          "score": 0,
+          "create_at": 1647398652,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12466831,
+      "title": "Bình thường",
+      "content": "Sử dụng tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.077591560000000004,
+      "new_score": 0.13513012999999999,
+      "customer_id": 23433325,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1633512905,
+      "created_by": {
+        "id": 23433325,
+        "name": "Trần Quang Hưng",
+        "full_name": "Trần Quang Hưng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-09-07 12:10:22",
+        "purchased": true,
+        "purchased_at": 1631158504,
+        "contribute_info": {
+          "id": 23433325,
+          "name": "Trần Quang Hưng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 21,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Gia dụng Tín Phong",
+        "Chọn số chế độ 20S2PV - 4 chế độ "
+      ],
+      "product_attributes": [
+        "Chọn số chế độ: 20S2PV - 4 chế độ "
+      ],
+      "spid": 104648273,
+      "is_photo": false,
+      "seller": {
+        "id": 14865,
+        "name": "Gia dụng Tín Phong",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg"
+      },
+      "product_id": 104648269,
+      "timeline": {
+        "review_created_date": "2021-10-06 16:35:05",
+        "delivery_date": "2021-10-06 14:59:24",
+        "current_date": "2025-09-15 12:10:05",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [
+        {
+          "id": 2543786,
+          "review_id": 12466831,
+          "commentator": "seller",
+          "customer_id": 14865,
+          "fullname": "Gia dụng Tín Phong",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/75/47/60/a1e4c61cb9347b29b7a429850efb752e.jpg",
+          "content": "Chào anh Hưng, Tín Phong xin chân thành cảm ơn anh đã tin tưởng, sử dụng sản phẩm của Tín Phong. Tín Phong luôn nỗ lực phát triển tốt hơn nữa nhằm mang đến cho khách hàng sản phẩm chất lượng và mức giá tốt nhất. Hy vọng anh có những trải nghiệm thật thú vị với sản phẩm của Tín Phong. Nếu có vấn đề gì cần hỗ trợ về sản phẩm hay khuyến mãi, hãy liên hệ với Tín Phong qua kênh chat nhé. Kính chúc anh sức khỏe, thành công và tiếp tục đồng hành cùng Tín Phong ở những sản phẩm khác.",
+          "score": 0,
+          "create_at": 1658971777,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 7,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

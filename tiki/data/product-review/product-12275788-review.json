@@ -1,0 +1,599 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 12
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 12
+    },
+    "5": {
+      "count": 6,
+      "percent": 76
+    }
+  },
+  "rating_average": 4.4000000000000004,
+  "reviews_count": 8,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 4
+  },
+  "data": [
+    {
+      "id": 13710812,
+      "title": "Rất không hài lòng",
+      "content": "Giao sai sản phẩm không đúng hàng tôi đặt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.52910053000000001,
+      "new_score": 0.15070121,
+      "customer_id": 25787834,
+      "comment_count": 0,
+      "rating": 1,
+      "images": [
+        {
+          "id": 2902938,
+          "full_path": "https://salt.tikicdn.com/ts/review/66/3f/89/da84df1f7ebea19eda82e6d418facbf8.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2902939,
+          "full_path": "https://salt.tikicdn.com/ts/review/05/c4/1e/005bf3e5c43aeeb038e8207c622c7a45.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2902940,
+          "full_path": "https://salt.tikicdn.com/ts/review/4b/7c/0d/6688703c062d9dba3f76cfa1f2bbebbd.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2902941,
+          "full_path": "https://salt.tikicdn.com/ts/review/ee/1c/ac/55f43982b21a3954d48c79c9903d5491.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1639057633,
+      "created_by": {
+        "id": 25787834,
+        "name": "sử lâm",
+        "full_name": "sử lâm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-12-02 16:46:16",
+        "purchased": true,
+        "purchased_at": 1639361276,
+        "contribute_info": {
+          "id": 25787834,
+          "name": "sử lâm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ABMA VIỆT NAM"
+      ],
+      "product_attributes": [],
+      "spid": 41345483,
+      "is_photo": true,
+      "seller": {
+        "id": 51365,
+        "name": "ABMA VIỆT NAM",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 12275788,
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16760755,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.13866086999999999,
+      "customer_id": 10402502,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1655595990,
+      "created_by": {
+        "id": 10402502,
+        "name": "Tuan Nguyen Minh",
+        "full_name": "Tuan Nguyen Minh",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/-z2kCXi4SmFg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZXwLzP0wBqjuoB0R2KvA0EXwfqfg/mo/photo.jpg",
+        "created_time": "2019-01-16 13:29:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1655085941,
+        "contribute_info": {
+          "id": 10402502,
+          "name": "Tuan Nguyen Minh",
+          "avatar": "https://lh3.googleusercontent.com/-z2kCXi4SmFg/AAAAAAAAAAI/AAAAAAAAAAA/AKxrwcZXwLzP0wBqjuoB0R2KvA0EXwfqfg/mo/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 13,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ABMA VIỆT NAM"
+      ],
+      "product_attributes": [],
+      "spid": 41345483,
+      "is_photo": false,
+      "seller": {
+        "id": 51365,
+        "name": "ABMA VIỆT NAM",
+        "logo": null
+      },
+      "product_id": 12275788,
+      "timeline": {
+        "review_created_date": "2022-06-19 06:46:30",
+        "delivery_date": "2022-06-17 08:56:21",
+        "current_date": "2025-09-15 12:13:55",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 3496167,
+      "title": "Cực kì hài lòng",
+      "content": "Quạt sử dụng tốt , chất lượng , đóng gói kỹ , giảm giá rồi , đúng giá không gọi là giá thấp nói chung là ok",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.036890930000000002,
+      "new_score": 0.13391196999999999,
+      "customer_id": 14572513,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1588231671,
+      "created_by": {
+        "id": 14572513,
+        "name": "Trần Thu Trang",
+        "full_name": "Trần Thu Trang",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/v3.3/141330763887225/picture?type=large&return_ssl_resources=1",
+        "purchased": true,
+        "purchased_at": 1587442530,
+        "contribute_info": {
+          "id": 14572513,
+          "name": "Trần Thu Trang",
+          "avatar": "https://graph.facebook.com/v3.3/141330763887225/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 31,
+            "total_thank": 11
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán ABMA VIỆT NAM"
+      ],
+      "product_attributes": [],
+      "spid": 41345483,
+      "is_photo": false,
+      "seller": {
+        "id": 51365,
+        "name": "ABMA VIỆT NAM",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 12275788,
+      "timeline": {
+        "review_created_date": "2020-04-30 14:27:51",
+        "delivery_date": "2020-04-23 15:04:28",
+        "current_date": "2025-09-15 12:13:55",
+        "content": "Đã dùng 7 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4492401,
+      "title": "Cực kì hài lòng",
+      "content": "Rất OK",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12694388000000001,
+      "customer_id": 5472972,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1597594138,
+      "created_by": {
+        "id": 5472972,
+        "name": "Lê Hữu Điền",
+        "full_name": "Lê Hữu Điền",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1588502767,
+        "contribute_info": {
+          "id": 5472972,
+          "name": "Lê Hữu Điền",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 28,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Kim Ngân Mobile"
+      ],
+      "product_attributes": [],
+      "spid": 52197349,
+      "is_photo": false,
+      "seller": {
+        "id": 20404,
+        "name": "Kim Ngân Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/8f/85/1b/ec62fc74660d1ada1a8a9b311f42518a.png"
+      },
+      "product_id": 12275788,
+      "timeline": {
+        "review_created_date": "2020-08-16 23:08:58",
+        "delivery_date": "2020-05-06 16:29:04",
+        "current_date": "2025-09-15 12:13:55",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4390642,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 18.518518520000001,
+      "new_score": 0.12627722999999999,
+      "customer_id": 7943070,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1596962904,
+      "created_by": {
+        "id": 7943070,
+        "name": "Phạm Ngọc Thạch",
+        "full_name": "Phạm Ngọc Thạch",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/10209855868353934/picture?type=large&return_ssl_resources=1",
+        "purchased": true,
+        "purchased_at": 1593859750,
+        "contribute_info": {
+          "id": 7943070,
+          "name": "Phạm Ngọc Thạch",
+          "avatar": "https://graph.facebook.com/10209855868353934/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 34,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Kim Ngân Mobile"
+      ],
+      "product_attributes": [],
+      "spid": 52197349,
+      "is_photo": false,
+      "seller": {
+        "id": 20404,
+        "name": "Kim Ngân Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/8f/85/1b/ec62fc74660d1ada1a8a9b311f42518a.png"
+      },
+      "product_id": 12275788,
+      "timeline": {
+        "review_created_date": "2020-08-09 15:48:24",
+        "delivery_date": "2020-07-08 14:16:44",
+        "current_date": "2025-09-15 12:13:55",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4030054,
+      "title": "Cực kì hài lòng",
+      "content": "đẹp",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12611174,
+      "customer_id": 15024989,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1594285474,
+      "created_by": {
+        "id": 15024989,
+        "name": "trần văn mạnh",
+        "full_name": "trần văn mạnh",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/2/8/8/2/10/120/8a640022ecab870320f5c754ea080206.jpg",
+        "purchased": true,
+        "purchased_at": 1593748595,
+        "contribute_info": {
+          "id": 15024989,
+          "name": "trần văn mạnh",
+          "avatar": "https://s120.avatar.talk.zdn.vn/2/8/8/2/10/120/8a640022ecab870320f5c754ea080206.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 11,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Kim Ngân Mobile"
+      ],
+      "product_attributes": [],
+      "spid": 52197349,
+      "is_photo": false,
+      "seller": {
+        "id": 20404,
+        "name": "Kim Ngân Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/8f/85/1b/ec62fc74660d1ada1a8a9b311f42518a.png"
+      },
+      "product_id": 12275788,
+      "timeline": {
+        "review_created_date": "2020-07-09 16:04:34",
+        "delivery_date": "2020-07-06 11:53:25",
+        "current_date": "2025-09-15 12:13:55",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 4052797,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.12576277999999999,
+      "customer_id": 12364089,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1594527154,
+      "created_by": {
+        "id": 12364089,
+        "name": "Nguyen My Ut",
+        "full_name": "Nguyen My Ut",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1575348067,
+        "contribute_info": {
+          "id": 12364089,
+          "name": "Nguyen My Ut",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Phân phối TTH Việt Nam"
+      ],
+      "product_attributes": [],
+      "spid": 19371683,
+      "is_photo": false,
+      "seller": {
+        "id": 24969,
+        "name": "Phân phối TTH Việt Nam",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/79/1e/9e/c52fce8d081d850997a26c5c768127ed.jpg"
+      },
+      "product_id": 12275788,
+      "timeline": {
+        "review_created_date": "2020-07-12 11:12:34",
+        "delivery_date": "2019-12-08 07:29:44",
+        "current_date": "2025-09-15 12:13:55",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 2176046,
+      "title": "Rất ưng ý",
+      "content": "Quạt đẹp, chắc chắn và tháo lắp dễ dàng thông minh",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0064726200000000001,
+      "new_score": 0.12225552000000001,
+      "customer_id": 6710542,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1556715224,
+      "created_by": {
+        "id": 6710542,
+        "name": "Duong Ngoc",
+        "full_name": "Duong Ngoc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "purchased": true,
+        "purchased_at": 1555897698,
+        "contribute_info": {
+          "id": 6710542,
+          "name": "Duong Ngoc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 5,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán GIA DỤNG VIỆT"
+      ],
+      "product_attributes": [],
+      "spid": 12528757,
+      "is_photo": false,
+      "seller": {
+        "id": 11119,
+        "name": "GIA DỤNG VIỆT",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/84/29/59/26243a4c8d7163c806e5a286808fded3.png"
+      },
+      "product_id": 12275788,
+      "timeline": {
+        "review_created_date": "2019-05-01 19:53:44",
+        "delivery_date": "2019-04-23 14:33:46",
+        "current_date": "2025-09-15 12:13:55",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 8,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}
