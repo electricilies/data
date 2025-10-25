@@ -1,0 +1,1725 @@
+{
+  "stars": {
+    "1": {
+      "count": 3,
+      "percent": 3
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 1,
+      "percent": 1
+    },
+    "4": {
+      "count": 5,
+      "percent": 5
+    },
+    "5": {
+      "count": 81,
+      "percent": 91
+    }
+  },
+  "rating_average": 4.7999999999999998,
+  "reviews_count": 90,
+  "review_photo": {
+    "total": 13,
+    "total_photo": 17
+  },
+  "data": [
+    {
+      "id": 19979315,
+      "title": "Rất không hài lòng",
+      "content": "Khách hàng đã liên hệ tiki là kho ứng dụng nhận hàng vì giao hàng trễ, tiki đã nhận thông tin và báo bên giao nhận hàng. Giao nhận hàng gọi điện báo khách là hàng của  *** nên  khách không biết cho gởi hàng vào tủ santa. Khách rất khó chịu, không hài lòng và đề nghị trả hàng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.01306587,
+      "new_score": 0.17691293,
+      "customer_id": 7625191,
+      "comment_count": 2,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1726231999,
+      "created_by": {
+        "id": 7625191,
+        "name": "LƯU NGUYÊN",
+        "full_name": "LƯU NGUYÊN",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/49/7f/9c/401c5acd8d8328cbf5dc72037436a261.png",
+        "created_time": "2018-09-02 23:43:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1725715448,
+        "contribute_info": {
+          "id": 7625191,
+          "name": "LƯU NGUYÊN",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/49/7f/9c/401c5acd8d8328cbf5dc72037436a261.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 32,
+            "total_thank": 11
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2024-09-13 19:53:19",
+        "delivery_date": "2024-09-13 16:15:21",
+        "current_date": "2025-10-25 22:27:27",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [
+        {
+          "id": 3262640,
+          "review_id": 19979315,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, Shop rất tiếc khi bạn có trải nghiệm chưa hài lòng tại lần mua sắm sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW. Shop đã liên hệ đến bạn để hỗ trợ thông tin cũng như đã cung cấp thông tin qua khung chat. Sản phẩm được vận chuyển bởi đơn vị vận chuyển đối tác của sàn Tiki, không phải của bên shop, sản phẩm đã được giao đúng đến bạn. Cảm ơn bạn đã luôn tin dùng sản phẩm của Brother ạ",
+          "score": 0,
+          "create_at": 1728195858,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3251348,
+          "review_id": 19979315,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Tiki rất xin lỗi về sự cố phát sinh. Qua kiểm tra, Tiki thấy đơn hàng đang được xử lý tại mã hỗ trợ 04163955. Tiki cảm ơn bạn nhiều.",
+          "score": 0,
+          "create_at": 1726232253,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20132507,
+      "title": "Cực kì hài lòng",
+      "content": "Mực oke phết, mà còn giá tốt nữa nha. Lười chụp hình nên lấy đại hình khác",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16803512000000001,
+      "customer_id": 5708865,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4407151,
+          "full_path": "https://salt.tikicdn.com/ts/review/4a/6a/5f/2e52ead8f2916a3aafbe6c63f9075ce8.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1749221508,
+      "created_by": {
+        "id": 5708865,
+        "name": "Quyên Võ",
+        "full_name": "Quyên Võ",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/05/a9/d3/e688daca295ece8b6587e0077cd54329.png",
+        "created_time": "2017-09-06 10:34:51",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1734787119,
+        "contribute_info": {
+          "id": 5708865,
+          "name": "Quyên Võ",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/05/a9/d3/e688daca295ece8b6587e0077cd54329.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": true,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2025-06-06 21:51:48",
+        "delivery_date": "2024-12-24 14:03:59",
+        "current_date": "2025-10-25 22:27:27",
+        "content": "Đã dùng 5 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+      },
+      "comments": [
+        {
+          "id": 3332346,
+          "review_id": 20132507,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào Anh/Chị, cám ơn Anh/Chị đã chọn mua sản phẩm của Shop. Shop sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của Anh/Chị trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1759313235,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Chất lượng in tốt",
+          "Mực ra đều",
+          "Rõ nét",
+          "Sử dụng dễ dàng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17421785,
+      "title": "Cực kì hài lòng",
+      "content": "Tiki giao hàng sớm hơn dự kiến, bản in đẹp nhưng mà có vài chấm đen, mình không biết có phải do Brum hay không. Nói chung là hài lòng với TN2385. Mình vẫn tiếp tục ủng hộ Tiki",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0044779099999999999,
+      "new_score": 0.16638749,
+      "customer_id": 8178979,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3797295,
+          "full_path": "https://salt.tikicdn.com/ts/review/08/dd/af/9241106b106e7c16adb21c64cce21b37.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3797296,
+          "full_path": "https://salt.tikicdn.com/ts/review/70/cc/bd/93338ee80cd3bed6c2704391eec72c88.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3797297,
+          "full_path": "https://salt.tikicdn.com/ts/review/76/e7/60/c294674c545ce8ef1d59eee0b0192a9c.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3797298,
+          "full_path": "https://salt.tikicdn.com/ts/review/32/c1/25/3d50e1b9ab827dfe58e1085e297590b0.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1660556896,
+      "created_by": {
+        "id": 8178979,
+        "name": "Huỳnh Đạt Ý",
+        "full_name": "Huỳnh Đạt Ý",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/9b/0c/c0/8ada2b001dd9acb7201440629b359d10.png",
+        "created_time": "2018-10-01 21:20:15",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1660312005,
+        "contribute_info": {
+          "id": 8178979,
+          "name": "Huỳnh Đạt Ý",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/9b/0c/c0/8ada2b001dd9acb7201440629b359d10.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 15,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": true,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2022-08-15 16:48:16",
+        "delivery_date": "2022-08-14 09:39:30",
+        "current_date": "2025-10-25 22:27:27",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 2584829,
+          "review_id": 17421785,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1660558536,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Chất lượng in tốt",
+          "Mực ra đều",
+          "Rõ nét",
+          "Sử dụng dễ dàng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15415661,
+      "title": "Rất không hài lòng",
+      "content": "Hộp mực bên trong túi bao bì đã bị cắt từ trước, mực rơi *** bao kín hộp mực ko thể sử dụng. Shop có trả lời tin nhắn nhưng không đưa ra được phương án giải quyết chỉ bảo sẽ ghi nhận và kiểm tra bộ phận liên quan sau nhiều tuần vẫn không có phương án.\r\nMua đắt hơn chỗ khác chỉ vì tin tưởng cửa hàng chính hãng nhưng rất thất vọng !",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0030234599999999999,
+      "new_score": 0.16624390999999999,
+      "customer_id": 21771795,
+      "comment_count": 2,
+      "rating": 1,
+      "images": [
+        {
+          "id": 3230442,
+          "full_path": "https://salt.tikicdn.com/ts/review/c9/72/b3/fddb583743bba526e3fc704348156cd2.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3230443,
+          "full_path": "https://salt.tikicdn.com/ts/review/7b/2a/65/e4650bd6889448a74d5d7919d0d97895.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1647251163,
+      "created_by": {
+        "id": 21771795,
+        "name": "Tu Truong",
+        "full_name": "Tu Truong",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-05-17 16:23:40",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1645200295,
+        "contribute_info": {
+          "id": 21771795,
+          "name": "Tu Truong",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 1,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": true,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2022-03-14 16:46:03",
+        "delivery_date": "2022-02-25 10:22:02",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2621233,
+          "review_id": 15415661,
+          "commentator": "customer",
+          "customer_id": 11689542,
+          "fullname": "Dung Nguyễn",
+          "avatar_url": "https://graph.facebook.com/505928586604146/picture?type=large&return_ssl_resources=1",
+          "content": "Bạn có thể báo để hoàn trả hàng mà, chờ đens bao h, bán hàng mà vô trách nhiệm",
+          "score": 0,
+          "create_at": 1662280877,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2183652,
+          "review_id": 15415661,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, Shop rất tiếc khi bạn chưa có được trải nghiệm hài lòng tại lần mua sắm sản phẩm “Brother TN-2385 ”. Shop rất tiếc, shop kiểm tra hiện tại trường hợp của bạn đang được bộ phận liên quan tiếp nhận và kiểm tra thêm với các bộ phận liên quan, khi có thông tin sẽ chủ động báo bạn sớm nhé. Rất mong bạn thông cảm cố gắng theo dõi thêm tại phần Chatnow nhé. Shop hy vọng sẽ tiếp tục phục vụ trong những đơn hàng tiếp theo. Trân trọng!",
+          "score": 0,
+          "create_at": 1647431980,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16957315,
+      "title": "Cực kì hài lòng",
+      "content": "hàng đẹp, chuẩn. mặc dù hơi mắc so với nhà phân phối khác nhưng vẫn chọn mua vì hy vọng uy tín \"chính hãng\". Nhận hàng và đã sử dụng hơn 1 ngày rồi nhưng hóa đơn điện tử chưa nhận được. Chất lượng thì OK còn dịch vụ sau bán hàng thì hơi kém.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0024067400000000001,
+      "new_score": 0.16012001000000001,
+      "customer_id": 21283273,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1657080936,
+      "created_by": {
+        "id": 21283273,
+        "name": "Tân Phạm",
+        "full_name": "Tân Phạm",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ff/78/1e/d4f4d656e71e2939367ba170b8912681.png",
+        "created_time": "2021-04-12 09:42:51",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1656898027,
+        "contribute_info": {
+          "id": 21283273,
+          "name": "Tân Phạm",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ff/78/1e/d4f4d656e71e2939367ba170b8912681.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 24,
+            "total_thank": 8
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2022-07-06 11:15:36",
+        "delivery_date": "2022-07-06 10:55:19",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 20 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 20 phút."
+      },
+      "comments": [
+        {
+          "id": 2481849,
+          "review_id": 16957315,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1657081806,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15044711,
+      "title": "Cực kì hài lòng",
+      "content": "hàng giao nhanh, đóng gói cẩn thận, chưa thay thế do mực máy in vẫn còn. mua ở đây được 2 lần. lần trước sử dụng ngon lành nên chắc lần này cũng vậy. khi nào sử dụng sẽ có thêm ý kiến.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0025070800000000001,
+      "new_score": 0.15562334,
+      "customer_id": 256665,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3149249,
+          "full_path": "https://salt.tikicdn.com/ts/review/24/ed/23/79a766bbb6231e9b0451394496e7e3ae.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1645317584,
+      "created_by": {
+        "id": 256665,
+        "name": "Phan Dinh Trung",
+        "full_name": "Phan Dinh Trung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2013-12-29 11:21:40",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1642234553,
+        "contribute_info": {
+          "id": 256665,
+          "name": "Phan Dinh Trung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 70,
+            "total_thank": 38
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": true,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2022-02-20 07:39:44",
+        "delivery_date": "2022-01-15 17:12:43",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 2107721,
+          "review_id": 15044711,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1645317901,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19933451,
+      "title": "Cực kì hài lòng",
+      "content": "đóng gói tốt, chưa dùng thử",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0098870899999999994,
+      "new_score": 0.15500494000000001,
+      "customer_id": 21139619,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1721617284,
+      "created_by": {
+        "id": 21139619,
+        "name": "Trần Nam",
+        "full_name": "Trần Nam",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-03-31 21:07:46",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1721098080,
+        "contribute_info": {
+          "id": 21139619,
+          "name": "Trần Nam",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2024-07-22 10:01:24",
+        "delivery_date": "2024-07-19 19:30:39",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20020697,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.017426460000000001,
+      "new_score": 0.15445327,
+      "customer_id": 30179676,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1730368571,
+      "created_by": {
+        "id": 30179676,
+        "name": "Apple User",
+        "full_name": "Apple User",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-10-22 16:05:41",
+        "group_id": 7,
+        "purchased": true,
+        "purchased_at": 1729588290,
+        "contribute_info": {
+          "id": 30179676,
+          "name": "Apple User",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2024-10-31 16:56:11",
+        "delivery_date": "2024-10-25 17:00:30",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19950432,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.01076241,
+      "new_score": 0.1541525,
+      "customer_id": 11653960,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1723262856,
+      "created_by": {
+        "id": 11653960,
+        "name": "Pham Kim Phung",
+        "full_name": "Pham Kim Phung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-04-07 13:40:46",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1723103273,
+        "contribute_info": {
+          "id": 11653960,
+          "name": "Pham Kim Phung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 180,
+            "total_thank": 11
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2024-08-10 11:07:36",
+        "delivery_date": "2024-08-10 10:07:35",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Không hẹn trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19952803,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.01088684,
+      "new_score": 0.15299740000000001,
+      "customer_id": 456873,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1723475459,
+      "created_by": {
+        "id": 456873,
+        "name": "Ngân Nguyễn",
+        "full_name": "Ngân Nguyễn",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/40/a6/38/4eca5054224fab8f249c4f422470a5a6.png",
+        "created_time": "2014-10-23 01:31:33",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1720940964,
+        "contribute_info": {
+          "id": 456873,
+          "name": "Ngân Nguyễn",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/40/a6/38/4eca5054224fab8f249c4f422470a5a6.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 86,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2024-08-12 22:10:59",
+        "delivery_date": "2024-07-15 10:58:13",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19916340,
+      "title": "Hài lòng",
+      "content": "Ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0091119500000000006,
+      "new_score": 0.15237445999999999,
+      "customer_id": 21421044,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1719894713,
+      "created_by": {
+        "id": 21421044,
+        "name": "sola nguyen",
+        "full_name": "sola nguyen",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/7d/b3/09/d4158f5ae9487be850286e9827ca56be.png",
+        "created_time": "2021-04-21 10:11:04",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1713086370,
+        "contribute_info": {
+          "id": 21421044,
+          "name": "sola nguyen",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/7d/b3/09/d4158f5ae9487be850286e9827ca56be.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 57,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2024-07-02 11:31:53",
+        "delivery_date": "2024-04-15 19:34:26",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Mực ra đều",
+          "Rõ nét",
+          "Sử dụng dễ dàng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19554407,
+      "title": "Hài lòng",
+      "content": "Đúng như mong đợi. Đóng gói kỹ càng, có túi khí chống sốc.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0043850499999999997,
+      "new_score": 0.1522809,
+      "customer_id": 356253,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1695778140,
+      "created_by": {
+        "id": 356253,
+        "name": "Nguyễn Hoàng Lê Vũ",
+        "full_name": "Nguyễn Hoàng Lê Vũ",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/0a/ce/c0/32802b8a2ca1099ce5ea9d12b7ed493c.png",
+        "created_time": "2014-05-29 15:01:49",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1686437184,
+        "contribute_info": {
+          "id": 356253,
+          "name": "Nguyễn Hoàng Lê Vũ",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/0a/ce/c0/32802b8a2ca1099ce5ea9d12b7ed493c.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 17,
+            "total_thank": 44
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2023-09-27 08:29:00",
+        "delivery_date": "2023-06-13 10:28:06",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 4 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+      },
+      "comments": [
+        {
+          "id": 3051840,
+          "review_id": 19554407,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào Anh/Chị, cám ơn Anh/Chị đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của Anh/Chị trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1695780907,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Chất lượng in tốt",
+          "Mực ra đều",
+          "Rõ nét",
+          "Sử dụng dễ dàng"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12954625,
+      "title": "Rất không hài lòng",
+      "content": "Đặt hàng cuối tháng 8, cuối tháng 9 mới báo hết hàng, tự hủy đơn của khách.\nCuối cùng phải đặt lại và chờ tới tận tháng 11.\n2 tháng cho một đơn hàng, lỡ hết việc công ty.\n\nQuy trình thật sự quá tệ.",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.00190394,
+      "new_score": 0.15189374999999999,
+      "customer_id": 19979126,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1635750518,
+      "created_by": {
+        "id": 19979126,
+        "name": "Yoshikuni Taiki",
+        "full_name": "Yoshikuni Taiki",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-01-21 10:51:16",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1632986974,
+        "contribute_info": {
+          "id": 19979126,
+          "name": "Yoshikuni Taiki",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 5,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2021-11-01 14:08:38",
+        "delivery_date": "2021-10-29 10:05:23",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [
+        {
+          "id": 1757099,
+          "review_id": 12954625,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, shop rất tiếc bạn chưa có trải nghiệm tốt ở lần mua sắm sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW lần này, Shop rất tiếc khi đã để bạn đợi hàng lâu. Do thời điểm bạn đặt hàng ảnh hưởng của dịch bệnh nên thời gian xử lý đơn hàng sẽ kéo dài hơn so với thời gian dự kiến ạ. Mong bạn thông cảm và hiểu giúp shop nhé. Shop hy vọng sẽ tiếp tục phục vụ trong những đơn hàng tiếp theo. Trân trọng!",
+          "score": 0,
+          "create_at": 1637211887,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19888408,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0081031999999999996,
+      "new_score": 0.15166407000000001,
+      "customer_id": 14637910,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1717162514,
+      "created_by": {
+        "id": 14637910,
+        "name": "Đinh Trường",
+        "full_name": "Đinh Trường",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-10-26 22:38:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1716782014,
+        "contribute_info": {
+          "id": 14637910,
+          "name": "Đinh Trường",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 250,
+            "total_thank": 46
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2024-05-31 20:35:14",
+        "delivery_date": "2024-05-31 11:42:02",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 9 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 18280070,
+      "title": "Cực kì hài lòng",
+      "content": "Không biết có sản phẩm khác để thay thế không nên không biết khen gì hơn ngoài chữ tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00278495,
+      "new_score": 0.14902409999999999,
+      "customer_id": 9124689,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1669310431,
+      "created_by": {
+        "id": 9124689,
+        "name": "Long Hồng",
+        "full_name": "Long Hồng",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1119175108250415&height=200&width=200&ext=1545501682&hash=AeTYDCzfyon9BpCq",
+        "created_time": "2018-11-23 01:02:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1683299415,
+        "contribute_info": {
+          "id": 9124689,
+          "name": "Long Hồng",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1119175108250415&height=200&width=200&ext=1545501682&hash=AeTYDCzfyon9BpCq",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 36,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2022-11-25 00:20:31",
+        "delivery_date": "2022-11-14 10:51:05",
+        "current_date": "2025-10-25 22:27:28",
+        "content": "Đã dùng 11 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+      },
+      "comments": [
+        {
+          "id": 2774539,
+          "review_id": 18280070,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1669399244,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Chất lượng in tốt",
+          "Mực ra đều",
+          "Rõ nét"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18700344,
+      "title": "Cực kì hài lòng",
+      "content": "Giao khá nhanh, đúng miêu tả. In tốt như toner theo máy ban đầu.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0030238800000000001,
+      "new_score": 0.14790148,
+      "customer_id": 12067763,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1675042807,
+      "created_by": {
+        "id": 12067763,
+        "name": "Va Hu",
+        "full_name": "Va Hu",
+        "region": null,
+        "avatar_url": "https://lh5.googleusercontent.com/-IKG8vvsaE5U/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd2fMPC3_IYbok8XUaYrPxmhHK2hw/mo/photo.jpg",
+        "created_time": "2019-05-13 09:40:02",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1724560958,
+        "contribute_info": {
+          "id": 12067763,
+          "name": "Va Hu",
+          "avatar": "https://lh5.googleusercontent.com/-IKG8vvsaE5U/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rd2fMPC3_IYbok8XUaYrPxmhHK2hw/mo/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 24,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2023-01-30 08:40:07",
+        "delivery_date": "2022-11-19 09:29:04",
+        "current_date": "2025-10-25 22:27:29",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [
+        {
+          "id": 2858949,
+          "review_id": 18700344,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1675045804,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19602490,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0045876099999999998,
+      "new_score": 0.1475775,
+      "customer_id": 17073077,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1697813748,
+      "created_by": {
+        "id": 17073077,
+        "name": "Nguyen  Phuong Ly",
+        "full_name": "Nguyen  Phuong Ly",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-04-09 20:06:34",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1696952775,
+        "contribute_info": {
+          "id": 17073077,
+          "name": "Nguyen  Phuong Ly",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 20,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2023-10-20 21:55:48",
+        "delivery_date": "2023-10-12 15:25:55",
+        "current_date": "2025-10-25 22:27:29",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [
+        {
+          "id": 3063646,
+          "review_id": 19602490,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào Anh/Chị, cám ơn Anh/Chị đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của Anh/Chị trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1697815807,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Chất lượng in tốt",
+          "Mực ra đều",
+          "Rõ nét"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19425245,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0039634900000000001,
+      "new_score": 0.14611303,
+      "customer_id": 1725562,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1690879867,
+      "created_by": {
+        "id": 1725562,
+        "name": "Bội Mẫn",
+        "full_name": "Bội Mẫn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-09-25 17:56:17",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1709601924,
+        "contribute_info": {
+          "id": 1725562,
+          "name": "Khách Hàng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia không xác định",
+            "total_review": 72,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2023-08-01 15:51:07",
+        "delivery_date": "2023-07-31 15:20:32",
+        "current_date": "2025-10-25 22:27:29",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3023193,
+          "review_id": 19425245,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1690881328,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 14500435,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm đúng như mô tả. Hàng hoá được đóng gói cẩn thận và giao hàng nhanh chóng.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0024318,
+      "new_score": 0.14605915,
+      "customer_id": 1316594,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3036515,
+          "full_path": "https://salt.tikicdn.com/ts/review/9d/14/68/45ab40d78d23bed1bc369221f0444af0.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1642330631,
+      "created_by": {
+        "id": 1316594,
+        "name": "HOA ANH DUC",
+        "full_name": "HOA ANH DUC",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-04-21 10:10:01",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1641870289,
+        "contribute_info": {
+          "id": 1316594,
+          "name": "HOA ANH DUC",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 138,
+            "total_thank": 8
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": true,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2022-01-16 17:57:11",
+        "delivery_date": "2022-01-14 14:30:14",
+        "current_date": "2025-10-25 22:27:29",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [
+        {
+          "id": 2020798,
+          "review_id": 14500435,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1642330804,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19363787,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0038150100000000002,
+      "new_score": 0.14569417000000001,
+      "customer_id": 26688724,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1688896699,
+      "created_by": {
+        "id": 26688724,
+        "name": "Trần Nguyễn Thiện Khiêm",
+        "full_name": "Trần Nguyễn Thiện Khiêm",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/7a/94/79/f6fe4718b06ea7adefe65e8c4a4fe350.jpg",
+        "created_time": "2022-01-31 07:05:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1688699602,
+        "contribute_info": {
+          "id": 26688724,
+          "name": "Trần Nguyễn Thiện Khiêm",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/7a/94/79/f6fe4718b06ea7adefe65e8c4a4fe350.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 12,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Brother Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 72520586,
+      "is_photo": false,
+      "seller": {
+        "id": 149312,
+        "name": "Brother Official Store",
+        "logo": "05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png"
+      },
+      "product_id": 277497700,
+      "timeline": {
+        "review_created_date": "2023-07-09 16:58:19",
+        "delivery_date": "2023-07-09 15:01:50",
+        "current_date": "2025-10-25 22:27:29",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [
+        {
+          "id": 3010731,
+          "review_id": 19363787,
+          "commentator": "seller",
+          "customer_id": 149312,
+          "fullname": "Brother Official Store",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/05/67/ad/a07e073a1bc008ddec29e854f953ef4c.png",
+          "content": "Chào bạn, cám ơn bạn đã chọn mua sản phẩm Brother TN-2385 Toner Mực Cho Máy In HL-L2321D, HL-2361DN, HL-2366DW, MFC-L2701D, MFC-L2701DW - Hàng Chính Hãng của Brother. Brother sẽ luôn cố gắng cải thiện chất lượng và dịch vụ hơn nữa để đem lại trải nghiệm mua sắm thật tốt cho khách hàng. Rất mong tiếp tục nhận được sự ủng hộ của bạn trong thời gian sắp tới.",
+          "score": 0,
+          "create_at": 1688897713,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "total": 90,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 5,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

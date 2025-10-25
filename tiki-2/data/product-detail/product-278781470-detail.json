@@ -1,0 +1,385 @@
+{
+  "id": 278781470,
+  "master_id": 278781470,
+  "sku": "8786006972746",
+  "name": "Thiết bị lưu trữ QNAP TS-h973AX-32G - Hàng Chính Hãng",
+  "url_key": "thiet-bi-luu-tru-qnap-ts-h973ax-32g-hang-chinh-hang-p278781470",
+  "url_path": "thiet-bi-luu-tru-qnap-ts-h973ax-32g-hang-chinh-hang-p278781470.html?spid=278781471",
+  "short_url": "https://tiki.vn/product-p278781470.html?spid=278781471",
+  "type": "simple",
+  "book_cover": null,
+  "short_description": "TS-h973AX-32G CPUAMD Ryzen Embedded V1500B 4-core/8-thread 2.2 GHz processorCPU Architecture64-bit x86Floating Point Unit Encryption Engine (AES-NI)System Memory32 GB SODIM...",
+  "price": 50000000,
+  "list_price": 50000000,
+  "original_price": 50000000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "freeship_xtra",
+      "type": "pdp_icon_badge",
+      "index": 2,
+      "icon": "https://salt.tikicdn.com/ts/upload/be/67/48/04a82ab8df178e1a13bde38316081865.png",
+      "icon_width": 91,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": true,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/01/70/f7/f8650b0632d03542800f11af488d688f.png",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 5,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<div class=\"spec-header\">\n<h4>TS-h973AX-32G</h4>\n<div class=\"button-download-spec__icon\">\n<div> </div>\n</div>\n</div>\n<div class=\"section-specs-table\">\n<table class=\"tab-sty2 hardware-spec-table\" style=\"height:1152px;\">\n\n<tbody>\n<tr style=\"height:36px;\">\n<td style=\"height:36px;width:216.865px;\">CPU</td>\n<td class=\"sp-tb\" style=\"height:36px;width:404.469px;\">AMD Ryzen Embedded V1500B 4-core/8-thread 2.2 GHz processor</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">CPU Architecture</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">64-bit x86</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Floating Point Unit</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\"> </td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Encryption Engine</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\"> (AES-NI)</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">System Memory</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">32 GB SODIMM DDR4 (2 x 16 GB)</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Maximum Memory</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">64 GB (2 x 32 GB)</td>\n</tr>\n<tr style=\"height:72px;\">\n<td style=\"height:72px;width:216.865px;\">Memory Slot</td>\n<td class=\"sp-tb\" style=\"height:72px;width:404.469px;\">2 x SODIMM DDR4<br />Support optional ECC memory\n<div class=\"tb-note\">For dual-DIMM configuration, you must use a pair of identical DDR4 modules.</div>\n</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Flash Memory</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">5GB (Dual boot OS protection)</td>\n</tr>\n<tr style=\"height:54px;\">\n<td style=\"height:54px;width:216.865px;\">Drive Bay</td>\n<td class=\"sp-tb\" style=\"height:54px;width:404.469px;\">5 x 3.5-inch + 4 x 2.5-inch\n<div class=\"tb-note\">The system is shipped without HDD/SSD.<br />For the HDD/SSD compatibility list, please visit </div>\n</td>\n</tr>\n<tr style=\"height:270px;\">\n<td style=\"height:270px;width:216.865px;\">Drive Compatibility</td>\n<td class=\"sp-tb\" style=\"height:270px;width:404.469px;\">3.5-inch bays:<br />3.5-inch SATA hard disk drives<br />2.5-inch SATA hard disk drives<br />2.5-inch SATA solid state drives<br /><br />2.5-inch bays:<br />2.5-inch SATA hard disk drives<br />2.5-inch SATA solid state drives<br />2.5-inch U.2 NVMe PCIe Gen3 x4 solid state drives (2.5-inch Bay #1 &amp; #2)\n<div class=\"tb-note\">* 2.5-inch bay #1 &amp; #2 support either U.2 NVMe SSDs or SATA 6Gb/s SSDs.<br />** U.2 NVMe solid-state drives can only be installed in 2.5-inch bay numbers 1 and 2. Installing these drives in other bays will damage the drive connectors.</div>\n</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Hot-swappable</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\"> </td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">SSD Cache Acceleration Support</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\"> </td>\n</tr>\n<tr style=\"height:36px;\">\n<td style=\"height:36px;width:216.865px;\">2.5 Gigabit Ethernet Port (2.5G/1G/100M)</td>\n<td class=\"sp-tb\" style=\"height:36px;width:404.469px;\">2 (2.5G/1G/100M)</td>\n</tr>\n<tr style=\"height:36px;\">\n<td style=\"height:36px;width:216.865px;\">5 Gigabit Ethernet Port (5G/2.5G/1G/100M)</td>\n<td class=\"sp-tb\" style=\"height:36px;width:404.469px;\">Optional via the QNA-UC5G1T USB to 5GbE network adapter</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">10 Gigabit Ethernet Port</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">1 x 10GBASE-T (10G/5G/2.5G/1G/100M)</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Wake on LAN (WOL)</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\"> </td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Jumbo Frame</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\"> </td>\n</tr>\n<tr style=\"height:36px;\">\n<td style=\"height:36px;width:216.865px;\">USB 3.2 Gen 2 (10Gbps) Port</td>\n<td class=\"sp-tb\" style=\"height:36px;width:404.469px;\">1 x Type-C USB 3.2 Gen 2<br />3 x Type-A USB 3.2 Gen 2</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Form Factor</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">Tower</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">LED Indicators</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">HDD 1-5, SSD 1-4, Power/Status, LAN, USB</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Buttons</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">Power, Reset, USB Copy</td>\n</tr>\n<tr style=\"height:54px;\">\n<td style=\"height:54px;width:216.865px;\">Dimensions (HxWxD)</td>\n<td class=\"sp-tb\" style=\"height:54px;width:404.469px;\">176.5 × 224.6 × 224.1 mm\n<div class=\"tb-note\">Dimensions do not include foot pad (foot pad may be up to 30mm / 1.18 inches high depending on model)</div>\n</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Weight (Net)</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">4.34 kg</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Weight (Gross)</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">5.08 kg</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Operating Temperature</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">0 - 40 °C (32°F - 104°F)</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Storage Temperature</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">-20 - 70°C (-4°F - 158°F)</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Relative Humidity</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">5-95% RH non-condensing, wet bulb: 27˚C (80.6˚F)</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Power Supply Unit</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">External, 120 W, AC 100 to 240 V</td>\n</tr>\n<tr style=\"height:36px;\">\n<td style=\"height:36px;width:216.865px;\">Power Consumption: Disk Standby Mode</td>\n<td class=\"sp-tb\" style=\"height:36px;width:404.469px;\">41.2 W</td>\n</tr>\n<tr style=\"height:36px;\">\n<td style=\"height:36px;width:216.865px;\">Power Consumption: Operating Mode, Typical</td>\n<td class=\"sp-tb\" style=\"height:36px;width:404.469px;\">55.41 W\n<div class=\"tb-note\">Tested with drives fully populated.</div>\n</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Fan</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">1 x 140mm, 12VDC</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">System Warning</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">Buzzer</td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Kensington Security Slot</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\"> </td>\n</tr>\n<tr style=\"height:18px;\">\n<td style=\"height:18px;width:216.865px;\">Standard Warranty</td>\n<td class=\"sp-tb\" style=\"height:18px;width:404.469px;\">3</td>\n</tr>\n<tr style=\"height:54px;\">\n<td style=\"height:54px;width:216.865px;\">Max. Number of Concurrent Connections (CIFS) - with Max. Memory</td>\n<td class=\"sp-tb\" style=\"height:54px;width:404.469px;\">2000</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div>\n<div class=\"gtx-trans-icon\"> </div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/01/70/f7/f8650b0632d03542800f11af488d688f.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/01/70/f7/f8650b0632d03542800f11af488d688f.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/01/70/f7/f8650b0632d03542800f11af488d688f.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/01/70/f7/f8650b0632d03542800f11af488d688f.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/01/70/f7/f8650b0632d03542800f11af488d688f.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/4a/58/45/91d8f837bc9c16cc5f7f11b5637359db.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4a/58/45/91d8f837bc9c16cc5f7f11b5637359db.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/4a/58/45/91d8f837bc9c16cc5f7f11b5637359db.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4a/58/45/91d8f837bc9c16cc5f7f11b5637359db.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4a/58/45/91d8f837bc9c16cc5f7f11b5637359db.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/85/c9/76/aa269fe0963c61f1ca876fb35df9d2fb.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/85/c9/76/aa269fe0963c61f1ca876fb35df9d2fb.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/85/c9/76/aa269fe0963c61f1ca876fb35df9d2fb.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/85/c9/76/aa269fe0963c61f1ca876fb35df9d2fb.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/85/c9/76/aa269fe0963c61f1ca876fb35df9d2fb.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/fc/c1/00/72af32f42d9c16eb93beef8168715414.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fc/c1/00/72af32f42d9c16eb93beef8168715414.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/fc/c1/00/72af32f42d9c16eb93beef8168715414.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fc/c1/00/72af32f42d9c16eb93beef8168715414.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fc/c1/00/72af32f42d9c16eb93beef8168715414.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/f9/92/11/99ef5c18afaec69c5bb7185e9651719e.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f9/92/11/99ef5c18afaec69c5bb7185e9651719e.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/f9/92/11/99ef5c18afaec69c5bb7185e9651719e.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f9/92/11/99ef5c18afaec69c5bb7185e9651719e.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f9/92/11/99ef5c18afaec69c5bb7185e9651719e.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/ea/e8/50/29330c73db864f182460411c4d9e6352.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ea/e8/50/29330c73db864f182460411c4d9e6352.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ea/e8/50/29330c73db864f182460411c4d9e6352.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ea/e8/50/29330c73db864f182460411c4d9e6352.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ea/e8/50/29330c73db864f182460411c4d9e6352.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/62/c6/16/f8bf229424dcf70a3d2c05716a6c8ed5.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/62/c6/16/f8bf229424dcf70a3d2c05716a6c8ed5.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/62/c6/16/f8bf229424dcf70a3d2c05716a6c8ed5.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/62/c6/16/f8bf229424dcf70a3d2c05716a6c8ed5.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/62/c6/16/f8bf229424dcf70a3d2c05716a6c8ed5.png"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 1640129,
+    "name": "QNAP",
+    "slug": "qnap"
+  },
+  "current_seller": {
+    "id": 224238,
+    "sku": "9213378298710",
+    "name": "Thegioimaychu",
+    "link": "https://tiki.vn/cua-hang/thegioimaychu",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/48/f9/5c/789147595de8665ad5135487499aa11e.jpg",
+    "price": 50000000,
+    "product_id": "278781471",
+    "store_id": 211270,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "QNAP"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Taiwan"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "TS-h973AX-32G"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Taiwan"
+        },
+        {
+          "code": "product_weight",
+          "name": "Trọng lượng sản phẩm",
+          "value": "6"
+        }
+      ]
+    },
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Tem bảo hành"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "3 Năm"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 5349,
+    "name": "Thiết Bị Lưu Trữ Qua Mạng NAS",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/laptop-may-vi-tinh-linh-kien/c1846",
+      "name": "Laptop - Máy Vi Tính - Linh kiện",
+      "category_id": 1846
+    },
+    {
+      "url": "/thiet-bi-luu-tru/c8060",
+      "name": "Thiết Bị Lưu Trữ",
+      "category_id": 8060
+    },
+    {
+      "url": "/thiet-bi-luu-tru-qua-mang-nas/c5349",
+      "name": "Thiết Bị Lưu Trữ Qua Mạng NAS",
+      "category_id": 5349
+    },
+    {
+      "url": "https://tiki.vn/thiet-bi-luu-tru-qnap-ts-h973ax-32g-hang-chinh-hang-p278781470.html",
+      "name": "Thiết bị lưu trữ QNAP TS-h973AX-32G - Hàng Chính Hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278781470&pid=278781471&seller_id=224238&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "dropship"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "3 Năm"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Tem bảo hành"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành bởi nhà bán hàng thông qua Tiki"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

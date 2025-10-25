@@ -1,0 +1,440 @@
+{
+  "id": 277570615,
+  "master_id": 277570615,
+  "sku": "5486299733601",
+  "name": "SuperWorkstation SYS-751A-I - Hàng Chính Hãng",
+  "url_key": "superworkstation-sys-751a-i-hang-chinh-hang-p277570615",
+  "url_path": "superworkstation-sys-751a-i-hang-chinh-hang-p277570615.html?spid=277570616",
+  "short_url": "https://tiki.vn/product-p277570615.html?spid=277570616",
+  "type": "simple",
+  "book_cover": null,
+  "short_description": "Key ApplicationsRenderingCADMultimedia/Digital Content creationEngineering/scientific researchKey Features 5th/4th Gen Intel  Xeon Scalable processor supportIntel C741 ChipsetTPM 2.0 bu...",
+  "price": 100000000,
+  "list_price": 100000000,
+  "original_price": 100000000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "freeship_xtra",
+      "type": "pdp_icon_badge",
+      "index": 2,
+      "icon": "https://salt.tikicdn.com/ts/upload/be/67/48/04a82ab8df178e1a13bde38316081865.png",
+      "icon_width": 91,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": true,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/cf/60/93/c174341f0b8b2bc2d287893a391e3241.png",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 211,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<table class=\"spec-key-features spec-table\">\n<tbody>\n<tr>\n<td valign=\"middle\" width=\"230\">\n<h3 class=\"tertiaryNavSection\">Key Applications</h3>\n<ul class=\"key-apps-list clearfix\">\n<li>Rendering</li>\n<li>CAD</li>\n<li>Multimedia/Digital Content creation</li>\n<li>Engineering/scientific research</li>\n</ul>\n<h3 class=\"tertiaryNavSection\">Key Features</h3>\n<p> </p>\n<ol class=\"key-feature-list\">\n<li>5th/4th Gen Intel  Xeon Scalable processor support</li>\n<li>Intel C741 Chipset<br />TPM 2.0 built-in already</li>\n<li>5 PCIe 5.0 x16, 1 PCIe 5.0 x8, 2 NVMe M.2 slots</li>\n<li>4x internal 3.5\" SATA rotating drive bays for easy access<br />2x 5.25\" peripheral drive bays<br />up to 4x NVMe SSD support with opitonal cables and converter trays<br />2x 2.5\" Front access SATA drive bays</li>\n<li>Compact and quiet operation<br />New front bezel with keylock for added security</li>\n<li>Supports up to two double width active GPUs<br />1 VGA, 6 USB 3.2 Gen1 (4 Rear, 2 Front),  2 USB 3.2 Gen2 (1 ineternal, 1 Front type C), 2 USB 2.0, 7.1 HD Audio</li>\n</ol>\n</td>\n</tr>\n</tbody>\n</table><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/cf/60/93/c174341f0b8b2bc2d287893a391e3241.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/cf/60/93/c174341f0b8b2bc2d287893a391e3241.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/cf/60/93/c174341f0b8b2bc2d287893a391e3241.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/cf/60/93/c174341f0b8b2bc2d287893a391e3241.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/cf/60/93/c174341f0b8b2bc2d287893a391e3241.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/0b/0f/21/48d1a686ebf4b1f26de11560a54337e9.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0b/0f/21/48d1a686ebf4b1f26de11560a54337e9.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/0b/0f/21/48d1a686ebf4b1f26de11560a54337e9.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0b/0f/21/48d1a686ebf4b1f26de11560a54337e9.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0b/0f/21/48d1a686ebf4b1f26de11560a54337e9.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/f6/11/6f/889db0cfa3f6d8d2b94de5c50790f69c.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f6/11/6f/889db0cfa3f6d8d2b94de5c50790f69c.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/f6/11/6f/889db0cfa3f6d8d2b94de5c50790f69c.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f6/11/6f/889db0cfa3f6d8d2b94de5c50790f69c.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f6/11/6f/889db0cfa3f6d8d2b94de5c50790f69c.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/45/68/d7/b718c6a122dcbdffdb7ef73b30297613.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/45/68/d7/b718c6a122dcbdffdb7ef73b30297613.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/45/68/d7/b718c6a122dcbdffdb7ef73b30297613.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/45/68/d7/b718c6a122dcbdffdb7ef73b30297613.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/45/68/d7/b718c6a122dcbdffdb7ef73b30297613.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/f2/ae/f5/41f18c7c71a7f4e10a44eb8c5a96d03e.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f2/ae/f5/41f18c7c71a7f4e10a44eb8c5a96d03e.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/f2/ae/f5/41f18c7c71a7f4e10a44eb8c5a96d03e.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f2/ae/f5/41f18c7c71a7f4e10a44eb8c5a96d03e.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f2/ae/f5/41f18c7c71a7f4e10a44eb8c5a96d03e.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/37/71/b9/c8881e3c272a9949e712063a0bddad62.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/37/71/b9/c8881e3c272a9949e712063a0bddad62.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/37/71/b9/c8881e3c272a9949e712063a0bddad62.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/37/71/b9/c8881e3c272a9949e712063a0bddad62.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/37/71/b9/c8881e3c272a9949e712063a0bddad62.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/1e/c1/ff/6b4777913f98214f5621c3be5364c409.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1e/c1/ff/6b4777913f98214f5621c3be5364c409.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/1e/c1/ff/6b4777913f98214f5621c3be5364c409.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1e/c1/ff/6b4777913f98214f5621c3be5364c409.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1e/c1/ff/6b4777913f98214f5621c3be5364c409.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/ff/e8/d0/2e37fa049e63852529eb11dc492fd0de.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ff/e8/d0/2e37fa049e63852529eb11dc492fd0de.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ff/e8/d0/2e37fa049e63852529eb11dc492fd0de.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ff/e8/d0/2e37fa049e63852529eb11dc492fd0de.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ff/e8/d0/2e37fa049e63852529eb11dc492fd0de.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/64/91/05/c68a86ca956c3e92bf0e405a88fc1777.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/64/91/05/c68a86ca956c3e92bf0e405a88fc1777.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/64/91/05/c68a86ca956c3e92bf0e405a88fc1777.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/64/91/05/c68a86ca956c3e92bf0e405a88fc1777.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/64/91/05/c68a86ca956c3e92bf0e405a88fc1777.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/96/3a/b2/d6cc9274aee2788eb984e806357b775c.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/96/3a/b2/d6cc9274aee2788eb984e806357b775c.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/96/3a/b2/d6cc9274aee2788eb984e806357b775c.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/96/3a/b2/d6cc9274aee2788eb984e806357b775c.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/96/3a/b2/d6cc9274aee2788eb984e806357b775c.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 4061137,
+    "name": "SUPERMICRO",
+    "slug": "supermicro"
+  },
+  "current_seller": {
+    "id": 224238,
+    "sku": "2716335184645",
+    "name": "Thegioimaychu",
+    "link": "https://tiki.vn/cua-hang/thegioimaychu",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/48/f9/5c/789147595de8665ad5135487499aa11e.jpg",
+    "price": 100000000,
+    "product_id": "277570616",
+    "store_id": 211270,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "bo_nho_do_hoa",
+          "name": "Bộ nhớ đồ họa",
+          "value": "Slot Count: 16 DIMM slots Max Memory (1DPC): Up to 2TB 5600MT/s ECC DDR5 RDIMM"
+        },
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "SUPERMICRO"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Mỹ"
+        },
+        {
+          "code": "card_mang_hinh",
+          "name": "Card đồ họa",
+          "value": " Support upto 2 GPU Ada 4000/4500/5000/6000, L4, A30"
+        },
+        {
+          "code": "card_reader",
+          "name": "Card Reader",
+          "value": "Raid Intel VROC Premium NVme"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "SYS-751A-I"
+        },
+        {
+          "code": "network_internet",
+          "name": "Cổng internet (LAN)",
+          "value": "2 RJ45 1GbE with Intel i350"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Taiwan"
+        },
+        {
+          "code": "product_weight",
+          "name": "Trọng lượng sản phẩm",
+          "value": "50"
+        },
+        {
+          "code": "ram_mini_pc",
+          "name": "RAM",
+          "value": "128"
+        }
+      ]
+    },
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Phiếu bảo hành"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "3 Năm"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 29014,
+    "name": "Towers - Máy Chủ - Server",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/laptop-may-vi-tinh-linh-kien/c1846",
+      "name": "Laptop - Máy Vi Tính - Linh kiện",
+      "category_id": 1846
+    },
+    {
+      "url": "/pc-may-tinh-bo/c8093",
+      "name": "PC - Máy Tính Bộ",
+      "category_id": 8093
+    },
+    {
+      "url": "/towers-may-chu-server/c29014",
+      "name": "Towers - Máy Chủ - Server",
+      "category_id": 29014
+    },
+    {
+      "url": "https://tiki.vn/superworkstation-sys-751a-i-hang-chinh-hang-p277570615.html",
+      "name": "SuperWorkstation SYS-751A-I - Hàng Chính Hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=277570615&pid=277570616&seller_id=224238&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "dropship"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "3 Năm"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Phiếu bảo hành"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành bởi nhà bán hàng thông qua Tiki"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}
