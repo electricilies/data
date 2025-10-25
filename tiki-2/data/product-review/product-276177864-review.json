@@ -1,0 +1,167 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 1,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 19568949,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0065933500000000004,
+      "new_score": 0.14728221,
+      "customer_id": 12166753,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1696415631,
+      "created_by": {
+        "id": 12166753,
+        "name": "Thắng Trọc",
+        "full_name": "Thắng Trọc",
+        "region": null,
+        "avatar_url": "https://lh4.googleusercontent.com/-igp8TLtkp3s/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reL-nBVUoq4J02xF-_uWJpl9IBOUg/mo/photo.jpg",
+        "created_time": "2019-05-20 17:20:57",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1696039885,
+        "contribute_info": {
+          "id": 12166753,
+          "name": "Thắng Trọc",
+          "avatar": "https://lh4.googleusercontent.com/-igp8TLtkp3s/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3reL-nBVUoq4J02xF-_uWJpl9IBOUg/mo/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Loại Nguyên bộ"
+      ],
+      "product_attributes": [
+        "Loại: Nguyên bộ"
+      ],
+      "spid": 272151892,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 276177864,
+      "timeline": {
+        "review_created_date": "2023-10-04 17:33:51",
+        "delivery_date": "2023-10-04 15:28:00",
+        "current_date": "2025-10-25 22:05:27",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

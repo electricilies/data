@@ -1,0 +1,260 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 2,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 2,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20164080,
+      "title": "Cực kì hài lòng",
+      "content": "TV chất lượng\r\nGiá của Tiki trading tốt\r\n5 sao",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16368253999999999,
+      "customer_id": 8161862,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1756390299,
+      "created_by": {
+        "id": 8161862,
+        "name": "Ty Huynh",
+        "full_name": "Ty Huynh",
+        "region": null,
+        "avatar_url": "https://lh3.googleusercontent.com/-0IKXFV5qCmQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWfeG8vHn98811Ika080iEPgTa9bA/mo/photo.jpg",
+        "created_time": "2018-10-01 14:50:06",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1756232293,
+        "contribute_info": {
+          "id": 8161862,
+          "name": "Ty Huynh",
+          "avatar": "https://lh3.googleusercontent.com/-0IKXFV5qCmQ/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DWfeG8vHn98811Ika080iEPgTa9bA/mo/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 278138259,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 278138258,
+      "timeline": {
+        "review_created_date": "2025-08-28 21:11:39",
+        "delivery_date": "2025-08-28 09:54:23",
+        "current_date": "2025-10-25 22:04:09",
+        "content": "Đã dùng 11 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20170775,
+      "title": "Cực kì hài lòng",
+      "content": "Sp tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16081941999999999,
+      "customer_id": 1108426,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1757985336,
+      "created_by": {
+        "id": 1108426,
+        "name": "Bui Chi Nguyen",
+        "full_name": "Bui Chi Nguyen",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-01-13 09:07:05",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1757691773,
+        "contribute_info": {
+          "id": 1108426,
+          "name": "Bui Chi Nguyen",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 76,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading"
+      ],
+      "product_attributes": [],
+      "spid": 278138259,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 278138258,
+      "timeline": {
+        "review_created_date": "2025-09-16 08:15:36",
+        "delivery_date": "2025-09-15 11:23:47",
+        "current_date": "2025-10-25 22:04:09",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao trễ hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "total": 2,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

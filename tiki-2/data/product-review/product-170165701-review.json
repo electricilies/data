@@ -1,0 +1,932 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 12,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 12,
+  "review_photo": {
+    "total": 3,
+    "total_photo": 3
+  },
+  "data": [
+    {
+      "id": 20038809,
+      "title": "Cực kì hài lòng",
+      "content": "Điện thoại dùng tốt , chữ số to , rõ ràng tiện lợi cho người cao tuổi sử dụng , độ bền chưa biết , đóng gói cẩn thận , giao hàng nhanh gọn ,rất hài lòng với sp",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.11990408,
+      "new_score": 0.17196294000000001,
+      "customer_id": 19657074,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4391913,
+          "full_path": "https://salt.tikicdn.com/ts/review/97/f0/7e/7e9b99f12b23f4ab0ecb1297ef912169.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1732781749,
+      "created_by": {
+        "id": 19657074,
+        "name": "Nguyễn Gia Phổ",
+        "full_name": "Nguyễn Gia Phổ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-12-24 17:59:05",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1732583583,
+        "contribute_info": {
+          "id": 19657074,
+          "name": "Nguyễn Gia Phổ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 44,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Xám"
+      ],
+      "spid": 170165705,
+      "is_photo": true,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2024-11-28 15:15:49",
+        "delivery_date": "2024-11-28 15:14:24",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 1 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 phút."
+      },
+      "comments": [
+        {
+          "id": 3302445,
+          "review_id": 20038809,
+          "commentator": "customer",
+          "customer_id": 11478081,
+          "fullname": "Đỗ Mạnh Hải ",
+          "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/47/85/23/85055771c71bf7ee493b0a74426bf498.png",
+          "content": "Loại này dùng dây viễn thông hay dùng thẻ sim shop?",
+          "score": 0,
+          "create_at": 1737976226,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 17944000,
+      "title": "Cực kì hài lòng",
+      "content": "Ngoài hình đẹp dù nhìn hơi kiểu lúa lúa trung quốc tí :) có chỗ viền mạ đẹp, có chỗ khác thì nhìn lúa. Theo gu mình là vậy.\r\n\r\nChất lượng good trong giá này. Tính năng đúng và đủ như đăng trên gian hàng.\r\n\r\nGói hàng, giao hàng đều good.\r\n\r\nĐể coi xài bền không.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.1627758,
+      "customer_id": 549631,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1665609612,
+      "created_by": {
+        "id": 549631,
+        "name": "Phan Khánh",
+        "full_name": "Phan Khánh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-01-30 08:42:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1664163550,
+        "contribute_info": {
+          "id": 549631,
+          "name": "Phan Khánh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 57,
+            "total_thank": 24
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Đen"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Đen"
+      ],
+      "spid": 170165703,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2022-10-13 04:20:12",
+        "delivery_date": "2022-09-27 09:28:33",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17852255,
+      "title": "Cực kì hài lòng",
+      "content": "Tôi mua 02 cái, điện thoại chắc chắn, màn hình to, chuông to, bàn phím to dễ dùng cho người có tuổi, nhiều tính năng, rất ổn, sau 1 tuần thấy dùng ổn, sau này chưa biết thế nào.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15551862999999999,
+      "customer_id": 6417412,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1664707627,
+      "created_by": {
+        "id": 6417412,
+        "name": "nhiên triệu",
+        "full_name": "nhiên triệu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-01-28 14:18:01",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1664157117,
+        "contribute_info": {
+          "id": 6417412,
+          "name": "nhiên triệu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 8,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Xám"
+      ],
+      "spid": 170165705,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2022-10-02 17:47:07",
+        "delivery_date": "2022-09-30 16:00:51",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19764254,
+      "title": "Cực kì hài lòng",
+      "content": "Mẫu đẹp, nghe to rỏ",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15133590999999999,
+      "customer_id": 2202213,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1707401909,
+      "created_by": {
+        "id": 2202213,
+        "name": "Nguyễn Văn Lâm",
+        "full_name": "Nguyễn Văn Lâm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-02-22 14:22:36",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706454982,
+        "contribute_info": {
+          "id": 2202213,
+          "name": "Nguyễn Văn Lâm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 133,
+            "total_thank": 22
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Xám"
+      ],
+      "spid": 170165705,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2024-02-08 21:18:29",
+        "delivery_date": "2024-01-30 10:40:27",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19356992,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14565265999999999,
+      "customer_id": 21371649,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1688700139,
+      "created_by": {
+        "id": 21371649,
+        "name": "nguyen huu loc",
+        "full_name": "nguyen huu loc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-04-17 10:23:09",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1688550277,
+        "contribute_info": {
+          "id": 21371649,
+          "name": "nguyen huu loc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 129,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Đỏ"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Đỏ"
+      ],
+      "spid": 170165707,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2023-07-07 10:22:19",
+        "delivery_date": "2023-07-07 09:48:13",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18107181,
+      "title": "Cực kì hài lòng",
+      "content": "sản phẩm đẹp",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.14541249000000001,
+      "customer_id": 8273923,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3972126,
+          "full_path": "https://salt.tikicdn.com/ts/review/c3/4f/13/300d08f180ad7800c40abaadf8e22193.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1667361533,
+      "created_by": {
+        "id": 8273923,
+        "name": "Nam Ho",
+        "full_name": "Nam Ho",
+        "region": null,
+        "avatar_url": "https://lh4.googleusercontent.com/-cehxltAWOZc/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DX2hx3iVB5pWPHgSYmGt4-5r11pAQ/mo/photo.jpg",
+        "created_time": "2018-10-07 14:57:07",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1666412056,
+        "contribute_info": {
+          "id": 8273923,
+          "name": "Nam Ho",
+          "avatar": "https://lh4.googleusercontent.com/-cehxltAWOZc/AAAAAAAAAAI/AAAAAAAAAAA/AAN31DX2hx3iVB5pWPHgSYmGt4-5r11pAQ/mo/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Xám"
+      ],
+      "spid": 170165705,
+      "is_photo": true,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2022-11-02 10:58:53",
+        "delivery_date": "2022-10-25 11:34:46",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19219333,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14481864,
+      "customer_id": 21371649,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1684751316,
+      "created_by": {
+        "id": 21371649,
+        "name": "nguyen huu loc",
+        "full_name": "nguyen huu loc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-04-17 10:23:09",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1684502776,
+        "contribute_info": {
+          "id": 21371649,
+          "name": "nguyen huu loc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 129,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Đen"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Đen"
+      ],
+      "spid": 170165703,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2023-05-22 17:28:36",
+        "delivery_date": "2023-05-22 09:25:28",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 8 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16356496,
+      "title": "Cực kì hài lòng",
+      "content": "Màn hình rõ, đt đẹp. Sài ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.14339507000000001,
+      "customer_id": 763165,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3485106,
+          "full_path": "https://salt.tikicdn.com/ts/review/0d/4d/e6/162e05d08d548becc76a1babc4fa25a6.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1652759248,
+      "created_by": {
+        "id": 763165,
+        "name": "DOAN THI NGOC VAN",
+        "full_name": "DOAN THI NGOC VAN",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-08-20 14:23:47",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1652407451,
+        "contribute_info": {
+          "id": 763165,
+          "name": "DOAN THI NGOC VAN",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 38,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Đen"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Đen"
+      ],
+      "spid": 170165703,
+      "is_photo": true,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2022-05-17 10:47:28",
+        "delivery_date": "2022-05-16 09:34:47",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18812782,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14308394999999999,
+      "customer_id": 13845855,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1676538056,
+      "created_by": {
+        "id": 13845855,
+        "name": "Hoang Vo",
+        "full_name": "Hoang Vo",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/v3.3/2437420013148524/picture?type=large&return_ssl_resources=1",
+        "created_time": "2019-09-06 09:16:26",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1675736691,
+        "contribute_info": {
+          "id": 13845855,
+          "name": "Nguyễn Thị Tuyết Nhung ",
+          "avatar": "https://graph.facebook.com/v3.3/2437420013148524/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 58,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Xám"
+      ],
+      "spid": 170165705,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2023-02-16 16:00:56",
+        "delivery_date": "2023-02-08 09:11:52",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18777552,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14297657,
+      "customer_id": 8513631,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1676029641,
+      "created_by": {
+        "id": 8513631,
+        "name": "Nguyen Dinh Cuong",
+        "full_name": "Nguyen Dinh Cuong",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-10-19 09:00:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1667963098,
+        "contribute_info": {
+          "id": 8513631,
+          "name": "Nguyen Dinh Cuong",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 148,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Đỏ"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Đỏ"
+      ],
+      "spid": 170165707,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2023-02-10 18:47:21",
+        "delivery_date": "2022-11-10 11:46:15",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16798082,
+      "title": "Cực kì hài lòng",
+      "content": "Qua tot luon🫶🫶🗣",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14031914000000001,
+      "customer_id": 11810952,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1655871888,
+      "created_by": {
+        "id": 11810952,
+        "name": "Lê Thị Kim Vui",
+        "full_name": "Lê Thị Kim Vui",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/c7/54/fe/423a979b30ce166e96e8095d95acea78.png",
+        "created_time": "2019-04-22 09:40:05",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1653624380,
+        "contribute_info": {
+          "id": 11810952,
+          "name": "Lê Thị Kim Vui",
+          "avatar": "https://salt.tikicdn.com/cache/256x256/ts/avatar/c7/54/fe/423a979b30ce166e96e8095d95acea78.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 9,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Đỏ"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Đỏ"
+      ],
+      "spid": 170165707,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2022-06-22 11:24:48",
+        "delivery_date": "2022-05-28 09:28:39",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17578197,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14002191999999999,
+      "customer_id": 10247010,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1662040203,
+      "created_by": {
+        "id": 10247010,
+        "name": "Nguyễn Thanh Tâm",
+        "full_name": "Nguyễn Thanh Tâm",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/1973469329415317/picture?type=large&return_ssl_resources=1",
+        "created_time": "2019-01-07 20:47:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1661244992,
+        "contribute_info": {
+          "id": 10247010,
+          "name": "Nguyễn Thanh Tâm",
+          "avatar": "https://graph.facebook.com/1973469329415317/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Viễn thông Hà Nhung",
+        "Màu Sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Xám"
+      ],
+      "spid": 170165705,
+      "is_photo": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png"
+      },
+      "product_id": 170165701,
+      "timeline": {
+        "review_created_date": "2022-09-01 20:50:03",
+        "delivery_date": "2022-08-29 10:54:08",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 12,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

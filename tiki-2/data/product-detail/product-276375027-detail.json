@@ -1,0 +1,465 @@
+{
+  "id": 276375027,
+  "master_id": 276375027,
+  "sku": "2221651938744",
+  "name": "Máy nước nóng trực tiếp Panasonic 4500W (CÓ BƠM) DH-4VP1VW Mẫu mới - HÀNG CHÍNH HÃNG - CHỈ GIAO HCM",
+  "url_key": "may-nuoc-nong-truc-tiep-panasonic-4500w-co-bom-dh-4vp1vw-mau-moi-hang-chinh-hang-chi-giao-hcm-p276375027",
+  "url_path": "may-nuoc-nong-truc-tiep-panasonic-4500w-co-bom-dh-4vp1vw-mau-moi-hang-chinh-hang-chi-giao-hcm-p276375027.html?spid=276414990",
+  "short_url": "https://tiki.vn/product-p276375027.html?spid=276414990",
+  "type": "simple",
+  "book_cover": null,
+  "short_description": "Đặc điểm nổi bậtCơ chế làm nóng trực tiếp kèm vòi sen 3 chế độ phun.Công suất 4500W mạnh mẽ làm nóng nước nhanh chóng.Vòi sen Ag+ kháng khuẩn bảo vệ an toàn sức khỏe người dùng.Bơm trợ lự...",
+  "price": 3859000,
+  "list_price": 5699000,
+  "original_price": 5699000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_authentic",
+      "code": "is_hero",
+      "type": "is_hero",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "text_overlay_product_image",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_hero",
+      "type": "pdp_icon_badge",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "freeship_xtra",
+      "type": "pdp_icon_badge",
+      "index": 2,
+      "icon": "https://salt.tikicdn.com/ts/upload/be/67/48/04a82ab8df178e1a13bde38316081865.png",
+      "icon_width": 91,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": true,
+      "is_hero": true,
+      "is_top_brand": true,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 1840000,
+  "discount_rate": 32,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/6b/55/e1/1af121f39b36548a9f32de6fe8a9af47.png",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 376,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<article class=\"4ever-article\">\n<p>Đặc điểm nổi bật</p>\n<ul>\n<li>\n<div>Cơ chế làm nóng trực tiếp kèm vòi sen 3 chế độ phun.</div>\n</li>\n<li>\n<div>Công suất 4500W mạnh mẽ làm nóng nước nhanh chóng.</div>\n</li>\n<li>\n<div>Vòi sen Ag+ kháng khuẩn bảo vệ an toàn sức khỏe người dùng.</div>\n</li>\n<li>\n<div>Bơm trợ lực vận hành êm ái, van cấp nước với chức năng lọc sạch.</div>\n</li>\n<li>\n<div>Khi xảy ra hiện tượng rò rỉ, hệ thống ELB sẽ tự động ngắt điện.</div>\n</li>\n<li>\n<div>Vỏ máy chống thấm nước đạt tiêu chuẩn IP25.</div>\n</li>\n<li>\n<div>Cảm biến nhiệt &amp; lưu lượng nước an toàn cho người dùng.</div>\n</li>\n<li>\n<div>Thông tin sản phẩm</div>\n</li>\n</ul>\n<ul>\n<li>\n<div>Loại máy:Làm nóng trực tiếp</div>\n</li>\n<li>\n<div>Công suất làm nóng:4500W</div>\n</li>\n<li>\n<div>Dung tích bình chứa:Không có bình chứa</div>\n</li>\n<li>\n<div>Bơm trợ lực:Bơm trợ lực</div>\n</li>\n<li>\n<div>Nhiệt độ làm nóng tối đa tham khảo:Khoảng 55°C</div>\n</li>\n<li>\n<div>Vòi sen:Có kèm theo vòi sen 3 chế độ phun</div>\n</li>\n<li>\n<div>Chế độ an toàn:Tương thích điện từ (EMC)9 tính năng an toàn điện (xem chi tiết trong bài viết)</div>\n</li>\n<li>\n<div>Tiện ích:Vòi sen tích hợp Ag+ kháng khuẩnVan cấp nước có chức năng lọcNúm xoay điều chỉnh nhiệt độ</div>\n</li>\n<li>\n<div>Tùy chỉnh nhiệt độ nước:3 mức Thấp - Trung bình - Cao</div>\n</li>\n<li>\n<div>Áp lực nước hoạt động:Tối thiểu 0.049 Mpa - Tối đa 0.38 Mpa</div>\n</li>\n<li>\n<div>Thời gian đun nóng có thể sử dụng được:Nóng liền</div>\n</li>\n<li>\n<div>Dòng sản phẩm:2024</div>\n</li>\n<li>\n<div>Thương hiệu của:Nhật Bản</div>\n</li>\n<li>\n<div>Sản xuất tại:Malaysia</div>\n</li>\n</ul>\n<p>Chất liệu - Kích thước</p>\n<ul>\n<li>\n<div>Chất liệu vỏ máy:Nhựa ABS</div>\n</li>\n<li>\n<div>Chất liệu vòi sen:Nhựa ABS kháng khuẩn</div>\n</li>\n<li>\n<div>Chất liệu giá đỡ vòi sen:Nhựa ABS kháng khuẩn</div>\n</li>\n<li>\n<div>Kích thước - Khối lượng:Cao 38 cm - Rộng 19 cm - Dày 9.3 cm - Nặng 2.7 kg ​Tắm thả ga, gia đình vui khỏe</div>\n</li>\n</ul>\n<p>Trẻ tắm và chơi đùa có thể làm nước bắn khắp nơi trong phòng tắm. Hãy bảo vệ những người thân yêu bằng 9 tính năng an toàn chống các mối nguy hiểm về điện và hỏa hoạn. Vòi sen vệ sinh hơn với công nghệ kháng khuẩn Ag+ giúp ngăn chặn vi khuẩn phát triển để mỗi lần tắm đều mang lại cảm giác thoải mái và thư giãn cho bạn.</p>\n<p>Luôn đặt sự an toàn của bạn và gia đình là ưu tiên số một, bạn hoàn toàn có thể yên tâm với 9 tính năng an toàn, với các công nghệ chống nước và chống nhiệt, cũng như ngăn ngừa hỏa hoạn, bỏng và điện giật.</p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/f1/73/f9/c8f64bba187d74b58d62418397edb1b7.png\" alt=\"f173f9eb20122cf231b6660ef1420c63.png\" /></p>\n<h3>9 tính năng an toàn</h3>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/32/ae/25/86a846f08e73899a93f485704c923fc9.png\" alt=\"32ae258cab2154e591f841b5ff74b0e2.png\" /></p>\n<h3>Luôn kháng khuẩn tối đa</h3>\n<p>Bề mặt sản phẩm sử dụng vật liệu kháng khuẩn Ag+ giúp ngăn ngừa vi khuẩn phát triển trong môi trường ẩm ướt, đảm bảo vòi sen tắm của bạn luôn sạch sẽ và hợp vệ sinh.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/8e/03/78/83fa204859ca0587d71addee870203f0.png\" alt=\"8e0378c5ec7ba7e269f9bf21a66904b0.png\" /></p>\n<p>Hoạt động bền bỉ với độ ồn thấp</p>\n<p>Tận hưởng dòng nước êm ái với máy nước nóng có bơm trợ lực được trang bị bơm DC sản xuất tại Nhật Bản, đảm bảo hiệu suất lâu dài cũng như cung cấp dòng nước mạnh với độ ồn thấp.</p>\n<p>Đầu sen 3 hướng có thể điều chỉnh tia nước</p>\n<h4>Đầu phun nước nhẹ nhàng</h4>\n<p>Sự kết hợp giữa các kiểu tia phun nước vừa êm ái, dễ chịu mang đến trải nghiệm tắm nhẹ nhàng và thư thái sau một ngày dài hoạt động.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/0a/78/c3/5098ed79668f16a693ddf14be7e5379b.png\" alt=\"0a78c3dc376c4c4464f8fcaca454a6be.png\" /></p>\n<h4>Tia nước có phạm vi rộng, êm ái</h4>\n<p>Những tia nước cực nhỏ sẽ làm sạch giúp bạn thư giãn sau một ngày dài.</p>\n<p><img src=\"https://salt.tikicdn.com/ts/product/2b/c8/31/22d75948fc5fdcf5ee2635816faca272.png\" alt=\"2bc83159dd1473ceb3d92046589a296e.png\" /></p>\n<h4>Tia nước có áp suất cao</h4>\n<p>Dòng nước mạnh giúp thư giãn cơ thể và giảm căng thẳng, rất phù hợp sau mỗi khi tập luyện hoặc sau một ngày bận rộn.</p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/be/69/e5/d2df391a69e26315b45c59dbd444e013.png\" alt=\"be69e55946e304bd3239317d1665752f.png\" /></p>\n<p> </p>\n<p> </p>\n</article><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6b/55/e1/1af121f39b36548a9f32de6fe8a9af47.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6b/55/e1/1af121f39b36548a9f32de6fe8a9af47.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6b/55/e1/1af121f39b36548a9f32de6fe8a9af47.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6b/55/e1/1af121f39b36548a9f32de6fe8a9af47.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6b/55/e1/1af121f39b36548a9f32de6fe8a9af47.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/7a/be/18/d94b53ba13cc2b468d2cb175083ad740.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7a/be/18/d94b53ba13cc2b468d2cb175083ad740.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/7a/be/18/d94b53ba13cc2b468d2cb175083ad740.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7a/be/18/d94b53ba13cc2b468d2cb175083ad740.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7a/be/18/d94b53ba13cc2b468d2cb175083ad740.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/c7/8a/6f/67280579bacf6c1c1fe67f302964a2c3.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c7/8a/6f/67280579bacf6c1c1fe67f302964a2c3.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/c7/8a/6f/67280579bacf6c1c1fe67f302964a2c3.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/8a/6f/67280579bacf6c1c1fe67f302964a2c3.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/8a/6f/67280579bacf6c1c1fe67f302964a2c3.png"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 18804,
+    "name": "Panasonic",
+    "slug": "panasonic"
+  },
+  "current_seller": {
+    "id": 218,
+    "sku": "2651514609342",
+    "name": "Gia Khang",
+    "link": "https://tiki.vn/cua-hang/gia-khang",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/fc/90/4f/36533bef6c1ef54a4d3349366502e786.jpg",
+    "price": 3859000,
+    "product_id": "276414990",
+    "store_id": 178,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [
+    {
+      "id": 292953,
+      "name": "ĐIỆN MÁY TẤN TÀI",
+      "link": "https://tiki.vn/cua-hang/dien-may-tan-tai",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/54/5e/c3/163e56a2f612f4e467dbf5c9c9630944.jpg",
+      "price": 4050000,
+      "product_id": "276375028",
+      "store_id": 280276
+    },
+    {
+      "id": 58532,
+      "name": "Trương Thiên Long",
+      "link": "https://tiki.vn/cua-hang/truong-thien-long",
+      "logo": "f6/6b/f5/cefd29bb0d3745e5bcd3a3d74fd67083.jpg",
+      "price": 3909000,
+      "product_id": "276423157",
+      "store_id": 55298
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "bom_tro_luc",
+          "name": "Bơm trợ lực",
+          "value": "Có"
+        },
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Panasonic"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Nhật Bản"
+        },
+        {
+          "code": "cong_suat",
+          "name": "Công suất",
+          "value": "4500"
+        },
+        {
+          "code": "dienap",
+          "name": "Điện áp",
+          "value": "220"
+        },
+        {
+          "code": "dimensions",
+          "name": "Kích thước",
+          "value": "<p>Cao 38 cm - Rộng 19 cm - Dày 9.3 cm</p>"
+        },
+        {
+          "code": "filter_water_heater_capability",
+          "name": "Dung tích máy nước nóng",
+          "value": "Dưới 15L"
+        },
+        {
+          "code": "filter_water_heater_product_kind",
+          "name": "Loại máy nước nóng",
+          "value": "Trực tiếp"
+        },
+        {
+          "code": "hien_thi_nhiet_do",
+          "name": "Hiển thị nhiệt độ",
+          "value": "KHÔNG"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "DH-4VP1VW"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Malaysia"
+        },
+        {
+          "code": "power",
+          "name": "Công suất",
+          "value": "4500"
+        },
+        {
+          "code": "safe_mode",
+          "name": "Chế độ an toàn",
+          "value": "CÓ "
+        }
+      ]
+    },
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "seller_delivery_method",
+          "name": "Phương thức giao hàng Seller Delivery",
+          "value": "Nhà bán giao hàng cho khách hàng"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "1 Năm"
+        }
+      ]
+    }
+  ],
+  "price_comparison": {
+    "sub_title": "Giá từ 3.909.000 ₫",
+    "title": "So sánh 2 nhà bán khác"
+  },
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 67227,
+    "name": "Máy nước nóng trực tiếp",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-tu-dien-lanh/c4221",
+      "name": "Điện Tử - Điện Lạnh",
+      "category_id": 4221
+    },
+    {
+      "url": "/may-nuoc-nong/c3866",
+      "name": "Máy nước nóng",
+      "category_id": 3866
+    },
+    {
+      "url": "/may-nuoc-nong-truc-tiep/c67227",
+      "name": "Máy nước nóng trực tiếp",
+      "category_id": 67227
+    },
+    {
+      "url": "https://tiki.vn/may-nuoc-nong-truc-tiep-panasonic-4500w-co-bom-dh-4vp1vw-mau-moi-hang-chinh-hang-chi-giao-hcm-p276375027.html",
+      "name": "Máy nước nóng trực tiếp Panasonic 4500W (CÓ BƠM) DH-4VP1VW Mẫu mới - HÀNG CHÍNH HÃNG - CHỈ GIAO HCM",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=276375027&pid=276414990&seller_id=218&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "seller_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "1 Năm"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

@@ -1,0 +1,1770 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 1,
+      "percent": 3
+    },
+    "4": {
+      "count": 2,
+      "percent": 6
+    },
+    "5": {
+      "count": 27,
+      "percent": 91
+    }
+  },
+  "rating_average": 4.9000000000000004,
+  "reviews_count": 30,
+  "review_photo": {
+    "total": 10,
+    "total_photo": 18
+  },
+  "data": [
+    {
+      "id": 19702905,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng chính hãng, nguyên hộp, mới 100%. Máy Nhật có nhiều cái thú vị, hộp mỏng dính, không cáp sạc nhưng được tặng ốp lưng, có 2 sim 1 sim vật lý 1 sim điện tử, có công nghệ 5G, có kháng nước IP 68\r\nNói chung là tuyệt vời trong tầm giá.\r\nMua hàng TIKI từ rất lâu rồi, bây giờ mới tải app lại và sử dụng ạ",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 50,
+      "new_score": 0.18419801999999999,
+      "customer_id": 983276,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4323913,
+          "full_path": "https://salt.tikicdn.com/ts/review/f0/b4/c5/915a51d1e2187abaec8e6c20bab94f27.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4323914,
+          "full_path": "https://salt.tikicdn.com/ts/review/3d/f6/7f/770ed56228d968e713dbd79347979a78.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4323915,
+          "full_path": "https://salt.tikicdn.com/ts/review/18/2c/06/1b4b6348aa1e9cf06278133bb816394c.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4323916,
+          "full_path": "https://salt.tikicdn.com/ts/review/91/70/ab/fb8b9026abe9f0f3ea58e6126c47bc36.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1703908217,
+      "created_by": {
+        "id": 983276,
+        "name": "Phan Nam",
+        "full_name": "Phan Nam",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-11-15 21:28:19",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1703729565,
+        "contribute_info": {
+          "id": 983276,
+          "name": "Phan Nam",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 23,
+            "total_thank": 27
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-12-30 10:50:17",
+        "delivery_date": "2023-12-29 16:35:30",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3227545,
+          "review_id": 19702905,
+          "commentator": "customer",
+          "customer_id": 29374567,
+          "fullname": "Khang Fat",
+          "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/21/8b/b5/fc9674c085cafb350afbc5fdc8838aa2.png",
+          "content": "Xiaomi là Hãng của Trung Quốc nội địa nhé, không phải của Nhật đâu! Bạn nên tìm hiểu kỹ càng hơn, đừng nói bóng gió khó nghe mà không suy nghĩ gì vậy!",
+          "score": 0,
+          "create_at": 1721517101,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Không hẹn trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19689099,
+      "title": "Hài lòng",
+      "content": "giao đúng như mẫu, nguyên seal có điện thoại và case điện thoại mềm. ko có sạc của xiaomi nên được bộ sạc của nhà bán thêm vào. chụp ảnh tạm, màu sáng hơn ảnh thật. nói chung tạm ổn giá tốt.\r\ntuy nhiên sao tôi không thấy phiếu bảo hành như giới thiệu, không biết nếu sau này cần thì bảo hành như thế nào?",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.17202655,
+      "customer_id": 2007271,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1703096329,
+      "created_by": {
+        "id": 2007271,
+        "name": "Trần Cẩm Hoa",
+        "full_name": "Trần Cẩm Hoa",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-12-23 21:15:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1702604659,
+        "contribute_info": {
+          "id": 2007271,
+          "name": "Trần Cẩm Hoa",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 15,
+            "total_thank": 15
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-12-21 01:18:49",
+        "delivery_date": "2023-12-18 18:52:33",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Không hẹn trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩu thả"
+        }
+      ]
+    },
+    {
+      "id": 19536530,
+      "title": "Bình thường",
+      "content": "Máy nguyên size , máy 4/64 phù hợp với đối tượng sử dụng ít, máy mình nhận có 1 chấm trắng nhìn kỹ mới thấy, nhưng chấp nhận được.lưu ý máy ko chơi game như liên quân mobile được, toàn bị thoát ra,",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.015498059999999999,
+      "new_score": 0.16707350000000001,
+      "customer_id": 6435689,
+      "comment_count": 3,
+      "rating": 3,
+      "images": [
+        {
+          "id": 4301222,
+          "full_path": "https://salt.tikicdn.com/ts/review/8b/fb/bf/ac76a9a476192170c288a08ee94f5b20.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1694996439,
+      "created_by": {
+        "id": 6435689,
+        "name": "nhauyen bui",
+        "full_name": "nhauyen bui",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/25/0e/82/034a30b7880d2d61f544e76b06a95e49.png",
+        "created_time": "2018-01-31 20:27:08",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1694618553,
+        "contribute_info": {
+          "id": 6435689,
+          "name": "LA HUYỀN ",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/25/0e/82/034a30b7880d2d61f544e76b06a95e49.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 34,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-09-18 07:20:39",
+        "delivery_date": "2023-09-17 11:59:52",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3227546,
+          "review_id": 19536530,
+          "commentator": "customer",
+          "customer_id": 29374567,
+          "fullname": "Khang Fat",
+          "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/21/8b/b5/fc9674c085cafb350afbc5fdc8838aa2.png",
+          "content": "Nếu muốn chơi game nặng tôi khuyên bạn nên mua con có ram 6gb trở lên của xiaomi, giá cũng không hề đắt mà chơi rất sướng tay.",
+          "score": 0,
+          "create_at": 1721517252,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3095039,
+          "review_id": 19536530,
+          "commentator": "customer",
+          "customer_id": 9129745,
+          "fullname": "Anh Tú",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "hàng có chấm bị lỗi còn chấp nhận được kkkk",
+          "score": 0,
+          "create_at": 1702603023,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3063750,
+          "review_id": 19536530,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào anh, Tiki rất tiếc vì sản phẩm Điện thoại Xiaomi Redmi Note 10T 5G 4GB/64GB - Màn 90HZ - Chống Nước IP68 - Hàng Nhập Khẩu - Bản quốc tế chưa được như mong đợi. Rất hy vọng các sản phẩm khác tại Tiki sẽ làm anh hài lòng hơn trong thời gian tới ạ. Tiki cảm ơn anh nhiều.",
+          "score": 0,
+          "create_at": 1697855603,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19736184,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm đúng như mô tả, điên thoại nguyên seal, Giao hàng nhanh, đáng giá tiền, dùng OK lắm",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.01824021,
+      "new_score": 0.16300766,
+      "customer_id": 11435205,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4330467,
+          "full_path": "https://salt.tikicdn.com/ts/review/d2/76/b9/756473b2f732b5faaf84c3be243c144e.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4330468,
+          "full_path": "https://salt.tikicdn.com/ts/review/fe/ac/80/86f57b5d39d7850dfdc75a024d6cec15.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1705732385,
+      "created_by": {
+        "id": 11435205,
+        "name": "Phạm Thanh Nhật",
+        "full_name": "Phạm Thanh Nhật",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/8/9/d/4/17/120/6acbbb7ea3d74df53e966faf026887ae.jpg",
+        "created_time": "2019-03-21 23:40:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1704510865,
+        "contribute_info": {
+          "id": 11435205,
+          "name": "Phạm Thanh Nhật",
+          "avatar": "https://s120.avatar.talk.zdn.vn/8/9/d/4/17/120/6acbbb7ea3d74df53e966faf026887ae.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 12,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-01-20 13:33:05",
+        "delivery_date": "2024-01-09 10:00:45",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 11 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Bộ nhớ lớn",
+          "Camera chụp hình đẹp",
+          "Độ phân giải sắc nét",
+          "Dung lương pin lớn"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19735210,
+      "title": "Cực kì hài lòng",
+      "content": "Máy thấy còn mới ! Hộp do shop đóng lại thôi.Shop có tặng được cục sạc. Ram thường tràn nhá! App tiếng nhật không thể xoá được.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.058726800000000003,
+      "new_score": 0.16043613000000001,
+      "customer_id": 17252974,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1705666911,
+      "created_by": {
+        "id": 17252974,
+        "name": "Sinh Slife",
+        "full_name": "Sinh Slife",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/37/89/2e/be4cee6e6af9ddcbdcd51e8d33f794a8.jpg",
+        "created_time": "2020-05-01 06:20:31",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1705348252,
+        "contribute_info": {
+          "id": 17252974,
+          "name": "Sinh Slife",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/37/89/2e/be4cee6e6af9ddcbdcd51e8d33f794a8.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-01-19 19:21:51",
+        "delivery_date": "2024-01-19 11:57:36",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 7 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Không hẹn trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19739099,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm như mô tả, có sạc cáp shop tặng kèm. Nói chung là hài lòng . Sẽ ủng hộ shop tiếp.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16008447000000001,
+      "customer_id": 8584143,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4331017,
+          "full_path": "https://salt.tikicdn.com/ts/review/79/f9/be/2aad65d570b2f129820792411ab2460e.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1705895774,
+      "created_by": {
+        "id": 8584143,
+        "name": "Thế Nhân Huỳnh",
+        "full_name": "Thế Nhân Huỳnh",
+        "region": null,
+        "avatar_url": "https://lh4.googleusercontent.com/-rXqTZsMX4YI/AAAAAAAAAAI/AAAAAAAAAGQ/dbDFAxzMUdg/photo.jpg",
+        "created_time": "2018-10-23 22:45:41",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1705502831,
+        "contribute_info": {
+          "id": 8584143,
+          "name": "Thế Nhân Huỳnh",
+          "avatar": "https://lh4.googleusercontent.com/-rXqTZsMX4YI/AAAAAAAAAAI/AAAAAAAAAGQ/dbDFAxzMUdg/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 6,
+            "total_thank": 32
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-01-22 10:56:14",
+        "delivery_date": "2024-01-22 09:09:51",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19720403,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm tốt giá cả hợp lý mọi người mua đi nhé",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.15947433,
+      "customer_id": 13526773,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4327393,
+          "full_path": "https://salt.tikicdn.com/ts/review/0f/39/ab/f7232fb70e2ab82962c67a1cbe45d0e7.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4327394,
+          "full_path": "https://salt.tikicdn.com/ts/review/87/aa/cc/e05834eb02d8e943018f1ee933e0f9cd.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1704900789,
+      "created_by": {
+        "id": 13526773,
+        "name": "Mai Xuân Thu",
+        "full_name": "Mai Xuân Thu",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/55/f3/05/9880486bc7c2ed868ca773f01c14c0db.png",
+        "created_time": "2019-08-18 14:08:02",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1703648441,
+        "contribute_info": {
+          "id": 13526773,
+          "name": "Mai Xuân Thu",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/55/f3/05/9880486bc7c2ed868ca773f01c14c0db.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 36,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-01-10 22:33:09",
+        "delivery_date": "2023-12-29 12:03:54",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 12 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Bộ nhớ lớn",
+          "Camera chụp hình đẹp",
+          "Dung lương pin lớn"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19767273,
+      "title": "Cực kì hài lòng",
+      "content": "tần giá đấy là ok thích hài lòng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.15851002,
+      "customer_id": 18648355,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4336452,
+          "full_path": "https://salt.tikicdn.com/ts/review/0b/d2/73/7bc9339ee1979ae7a482fb4cb3755c35.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4336453,
+          "full_path": "https://salt.tikicdn.com/ts/review/14/46/c5/7fa27ca4d57feb5720c1090a07a0945c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1707910625,
+      "created_by": {
+        "id": 18648355,
+        "name": "Giàng A Đùa",
+        "full_name": "Giàng A Đùa",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-10-02 18:19:15",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706662268,
+        "contribute_info": {
+          "id": 18648355,
+          "name": "Giàng A Đùa",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 18,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-02-14 18:37:05",
+        "delivery_date": "2024-02-02 17:30:47",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 12 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18918052,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng chính hãng Xiaomi phân phối chứ ko phải hàng tào lao ..5g ngon lành..có chống nước nữa.. Quá tuyệt vời",
+      "status": "approved",
+      "thank_count": 6,
+      "score": 0.01120957,
+      "new_score": 0.15836465999999999,
+      "customer_id": 28590888,
+      "comment_count": 2,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4145162,
+          "full_path": "https://salt.tikicdn.com/ts/review/30/d5/50/538f3528bc88956d58fd02789f56b83a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4145163,
+          "full_path": "https://salt.tikicdn.com/ts/review/2d/2d/e9/00c78a1e77aa1520177dbb804f1de918.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1678152406,
+      "created_by": {
+        "id": 28590888,
+        "name": "Ngoc ngoc",
+        "full_name": "Ngoc ngoc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-12-12 17:08:58",
+        "group_id": 32,
+        "purchased": true,
+        "purchased_at": 1677900374,
+        "contribute_info": {
+          "id": 28590888,
+          "name": "Ngoc ngoc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 38,
+            "total_thank": 14
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-03-07 08:26:46",
+        "delivery_date": "2023-03-06 16:44:53",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3104978,
+          "review_id": 18918052,
+          "commentator": "customer",
+          "customer_id": 983276,
+          "fullname": "Phan Nam",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Máy có tặng kèm ốp lưng dẻo, hoặc lên *** đặt",
+          "score": 0,
+          "create_at": 1704066970,
+          "badge": "https://salt.tikicdn.com/ts/reviews/b0/77/a5/1dc3901bd48bfc65a51760dc051ebbdb.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2980899,
+          "review_id": 18918052,
+          "commentator": "customer",
+          "customer_id": 17635962,
+          "fullname": "Từ hữu Thành",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "cho hỏi bạn mua ốp lưng ở đâu thế bạn",
+          "score": 0,
+          "create_at": 1685185775,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19729179,
+      "title": "Cực kì hài lòng",
+      "content": "Máy đẹp. \r\nChạy cũng ok.\r\nGiá phù hợp túi tiền\r\nHàng thị trường Nhật",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.15817364,
+      "customer_id": 29703599,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4329097,
+          "full_path": "https://salt.tikicdn.com/ts/review/55/d6/42/31352a1a7cbe1245b67bdd70104bd1f1.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1705371005,
+      "created_by": {
+        "id": 29703599,
+        "name": "Phuc Elektek",
+        "full_name": "Phuc Elektek",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-01-02 21:57:30",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1704873882,
+        "contribute_info": {
+          "id": 29703599,
+          "name": "Phuc Elektek",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 2 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-01-16 09:10:05",
+        "delivery_date": "2024-01-13 19:13:03",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19611084,
+      "title": "Cực kì hài lòng",
+      "content": "Đặt màu xám nhưng giao màu xanh thôi kệ nhìn cũng đẹp",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.01909771,
+      "new_score": 0.15522167000000001,
+      "customer_id": 6043437,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4302948,
+          "full_path": "https://salt.tikicdn.com/ts/review/d1/28/bd/d0268480c4d474b4a3942d838de3c74c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1698223195,
+      "created_by": {
+        "id": 6043437,
+        "name": "Não Cá Vàng",
+        "full_name": "Não Cá Vàng",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4f/00/4b/85614dc058f93844df42b15064d6accb.png",
+        "created_time": "2017-11-11 00:10:52",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1697813593,
+        "contribute_info": {
+          "id": 6043437,
+          "name": "Não Cá Vàng",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4f/00/4b/85614dc058f93844df42b15064d6accb.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 2,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-10-25 15:39:55",
+        "delivery_date": "2023-10-24 18:24:28",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19623641,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng rất OK nhà mọi chức năng như shop đăng , tiếc là k cho kính cường lực",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15412708,
+      "customer_id": 16067926,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1698837595,
+      "created_by": {
+        "id": 16067926,
+        "name": "Nguyễn hữu thông",
+        "full_name": "Nguyễn hữu thông",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-01-20 08:35:52",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1698618617,
+        "contribute_info": {
+          "id": 16067926,
+          "name": "Nguyễn hữu thông",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 17,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-11-01 18:19:55",
+        "delivery_date": "2023-11-01 15:35:58",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19531599,
+      "title": "Cực kì hài lòng",
+      "content": "Good",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.15320143999999999,
+      "customer_id": 8605423,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4285495,
+          "full_path": "https://salt.tikicdn.com/ts/review/50/92/fe/063fc47b1e5ab22054ad6546a6b0d08b.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4285496,
+          "full_path": "https://salt.tikicdn.com/ts/review/7a/d1/8c/6ee4ad40d67a2c8ea838630433a4d681.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1694770622,
+      "created_by": {
+        "id": 8605423,
+        "name": "Bui Anh Tuan",
+        "full_name": "Bui Anh Tuan",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1837025873227907&height=200&width=200&ext=1543048786&hash=AeRNFDMv4_euGtw5",
+        "created_time": "2018-10-25 15:40:07",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1694607674,
+        "contribute_info": {
+          "id": 8605423,
+          "name": "Bui Anh Tuan",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=1837025873227907&height=200&width=200&ext=1543048786&hash=AeRNFDMv4_euGtw5",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 9,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-09-15 16:37:02",
+        "delivery_date": "2023-09-15 15:21:46",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19759407,
+      "title": "Cực kì hài lòng",
+      "content": "Sp ok, nhưng đặt 2 màu lại giao cùng màu.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15285639000000001,
+      "customer_id": 166211,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1707025411,
+      "created_by": {
+        "id": 166211,
+        "name": "Nguyễn  Truyển",
+        "full_name": "Nguyễn  Truyển",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2013-08-29 16:44:51",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706491628,
+        "contribute_info": {
+          "id": 166211,
+          "name": "Nguyễn  Truyển",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 3,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-02-04 12:43:31",
+        "delivery_date": "2024-02-03 14:42:29",
+        "current_date": "2025-10-25 22:08:08",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao trễ hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19869053,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.01097206,
+      "new_score": 0.15128871999999999,
+      "customer_id": 1735332,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1715327671,
+      "created_by": {
+        "id": 1735332,
+        "name": "riah đức",
+        "full_name": "riah đức",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-09-28 23:42:33",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1715005317,
+        "contribute_info": {
+          "id": 1735332,
+          "name": "riah đức",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 1,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-05-10 14:54:31",
+        "delivery_date": "2024-05-09 17:59:56",
+        "current_date": "2025-10-25 22:08:08",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19834403,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15066909000000001,
+      "customer_id": 13013059,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1712451532,
+      "created_by": {
+        "id": 13013059,
+        "name": "Trịnh Phương Linh",
+        "full_name": "Trịnh Phương Linh",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/74/f2/eb/05f31af3157366ea98e24a80ccf068df.png",
+        "created_time": "2019-07-21 13:25:39",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1702129421,
+        "contribute_info": {
+          "id": 13013059,
+          "name": "Trịnh Phương Linh",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/74/f2/eb/05f31af3157366ea98e24a80ccf068df.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 9,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-04-07 07:58:52",
+        "delivery_date": "2023-12-11 16:40:10",
+        "current_date": "2025-10-25 22:08:08",
+        "content": "Đã dùng 4 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Camera chụp hình đẹp"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19759408,
+      "title": "Cực kì hài lòng",
+      "content": "Sp ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.1498564,
+      "customer_id": 166211,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1707025438,
+      "created_by": {
+        "id": 166211,
+        "name": "Nguyễn  Truyển",
+        "full_name": "Nguyễn  Truyển",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2013-08-29 16:44:51",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706491628,
+        "contribute_info": {
+          "id": 166211,
+          "name": "Nguyễn  Truyển",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 3,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-02-04 12:43:58",
+        "delivery_date": "2024-02-03 14:42:29",
+        "current_date": "2025-10-25 22:08:08",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao trễ hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19596097,
+      "title": "Cực kì hài lòng",
+      "content": "Ok dùng tốt .giá cả hợp lí",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14985467999999999,
+      "customer_id": 1218855,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1697547894,
+      "created_by": {
+        "id": 1218855,
+        "name": "Trần Thái Tân",
+        "full_name": "Trần Thái Tân",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/9f/6c/18/a08c65c6ba536ac7599944650ebe663d.png",
+        "created_time": "2016-03-12 11:28:15",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1697159419,
+        "contribute_info": {
+          "id": 1218855,
+          "name": "Trần Thái Tân",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/9f/6c/18/a08c65c6ba536ac7599944650ebe663d.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 16,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xanh đậm"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xanh đậm"
+      ],
+      "spid": 230157209,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2023-10-17 20:04:54",
+        "delivery_date": "2023-10-17 19:33:07",
+        "current_date": "2025-10-25 22:08:08",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19744109,
+      "title": "Cực kì hài lòng",
+      "content": "Tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.14967021,
+      "customer_id": 1451747,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1706143904,
+      "created_by": {
+        "id": 1451747,
+        "name": "Anh tuấn ",
+        "full_name": "Anh tuấn ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-06-21 12:27:45",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1704763394,
+        "contribute_info": {
+          "id": 1451747,
+          "name": "Anh tuấn ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 20,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-01-25 07:51:44",
+        "delivery_date": "2024-01-11 15:56:22",
+        "current_date": "2025-10-25 22:08:08",
+        "content": "Đã dùng 14 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19758782,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.1495117,
+      "customer_id": 7719065,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1706971636,
+      "created_by": {
+        "id": 7719065,
+        "name": "Phung Tran",
+        "full_name": "Phung Tran",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=998801310290695&height=200&width=200&ext=1537459035&hash=AeSoitqIA7Tjmleu",
+        "created_time": "2018-08-21 22:57:36",
+        "group_id": 12,
+        "purchased": true,
+        "purchased_at": 1706116284,
+        "contribute_info": {
+          "id": 7719065,
+          "name": "Phung Tran",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=998801310290695&height=200&width=200&ext=1537459035&hash=AeSoitqIA7Tjmleu",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 78,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu sắc Xám"
+      ],
+      "product_attributes": [
+        "Màu sắc: Xám"
+      ],
+      "spid": 230157222,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 230157205,
+      "timeline": {
+        "review_created_date": "2024-02-03 21:47:16",
+        "delivery_date": "2024-01-29 14:34:40",
+        "current_date": "2025-10-25 22:08:08",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 30,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 2,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

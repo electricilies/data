@@ -1,0 +1,543 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 2,
+      "percent": 33
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 4,
+      "percent": 67
+    }
+  },
+  "rating_average": 4.2999999999999998,
+  "reviews_count": 6,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20085978,
+      "title": "Bình thường",
+      "content": "Chỉ là vấn đề về âm thanh mà thôi, về âm bass thì nghe không rõ được nên nghe nhạc hoặc chơi game thì âm thanh nó không tụ lại mà nó \"rã\" ra. Nên kết luận: Tiền nào của nấy.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.012922869999999999,
+      "new_score": 0.17153439000000001,
+      "customer_id": 28786818,
+      "comment_count": 1,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1740222089,
+      "created_by": {
+        "id": 28786818,
+        "name": "Chắng Nguyên Thu",
+        "full_name": "Chắng Nguyên Thu",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/41/e6/41/7842684e982ddd52571f3b9f25b16b4e.png",
+        "created_time": "2023-02-03 19:19:38",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1739880735,
+        "contribute_info": {
+          "id": 28786818,
+          "name": "Chắng Nguyên Thu",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/41/e6/41/7842684e982ddd52571f3b9f25b16b4e.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tech7",
+        "Loại S12"
+      ],
+      "product_attributes": [
+        "Loại: S12"
+      ],
+      "spid": 275316654,
+      "is_photo": false,
+      "seller": {
+        "id": 58789,
+        "name": "Tech7",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/5f/fa/19/054b8bf6b43b6943948576f36b2e1562.jpg"
+      },
+      "product_id": 278539556,
+      "timeline": {
+        "review_created_date": "2025-02-22 18:01:29",
+        "delivery_date": "2025-02-20 13:56:07",
+        "current_date": "2025-10-25 22:13:42",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [
+        {
+          "id": 3308682,
+          "review_id": 20085978,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào anh Thu, Tiki rất tiếc vì sản phẩm Tai Nghe F16 Led Gaming Headset 7.1 cho máy tính Laptop hàng nhập khẩu chưa được như mong đợi. Rất hy vọng các sản phẩm khác tại Tiki sẽ làm anh hài lòng hơn trong thời gian tới ạ. Tiki cảm ơn anh nhiều.",
+          "score": 0,
+          "create_at": 1740223241,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20108357,
+      "title": "Bình thường",
+      "content": "Đeo tầm  30p sẽ bị hâm và ra mồ hôi và bị đau tai, vỏ đệm bịt tai bị bong tróc sau 2 tuần sử dụng.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.01732359,
+      "new_score": 0.16604029000000001,
+      "customer_id": 20799622,
+      "comment_count": 1,
+      "rating": 3,
+      "images": [],
+      "thanked": false,
+      "created_at": 1744195626,
+      "created_by": {
+        "id": 20799622,
+        "name": "Nguyên Tâm",
+        "full_name": "Nguyên Tâm",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-03-16 10:49:12",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1738811468,
+        "contribute_info": {
+          "id": 20799622,
+          "name": "Nguyên Tâm",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 68,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tech7",
+        "Loại S12"
+      ],
+      "product_attributes": [
+        "Loại: S12"
+      ],
+      "spid": 275316654,
+      "is_photo": false,
+      "seller": {
+        "id": 58789,
+        "name": "Tech7",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/5f/fa/19/054b8bf6b43b6943948576f36b2e1562.jpg"
+      },
+      "product_id": 278539556,
+      "timeline": {
+        "review_created_date": "2025-04-09 17:47:06",
+        "delivery_date": "2025-02-07 15:13:50",
+        "current_date": "2025-10-25 22:13:42",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [
+        {
+          "id": 3319051,
+          "review_id": 20108357,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Cám ơn bạn đã để lại nhận xét. Tiki rất tiếc về chất lượng sản phẩm chưa được như mong đợi của bạn. Tiki xin ghi nhận những ý kiến từ bạn để cải thiện chất lượng dịch vụ ngày một tốt hơn, hy vọng được tiếp tục đồng hành cùng bạn trong những đơn hàng sau. Trân trọng.",
+          "score": 0,
+          "create_at": 1744196141,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Âm thanh rõ",
+          "Bass mạnh",
+          "Chống ồn"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20165126,
+      "title": "Cực kì hài lòng",
+      "content": "Âm thanh tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16100566999999999,
+      "customer_id": 12293317,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1756657650,
+      "created_by": {
+        "id": 12293317,
+        "name": "Do Trang",
+        "full_name": "Do Trang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-05-29 22:53:55",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1753456019,
+        "contribute_info": {
+          "id": 12293317,
+          "name": "Do Trang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 38,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tech7",
+        "Loại S12"
+      ],
+      "product_attributes": [
+        "Loại: S12"
+      ],
+      "spid": 275316654,
+      "is_photo": false,
+      "seller": {
+        "id": 58789,
+        "name": "Tech7",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/5f/fa/19/054b8bf6b43b6943948576f36b2e1562.jpg"
+      },
+      "product_id": 278539556,
+      "timeline": {
+        "review_created_date": "2025-08-31 23:27:30",
+        "delivery_date": "2025-07-27 13:53:10",
+        "current_date": "2025-10-25 22:13:42",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20157116,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.19091256000000001,
+      "new_score": 0.15961520000000001,
+      "customer_id": 11188894,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1754808897,
+      "created_by": {
+        "id": 11188894,
+        "name": "Đức Thiện",
+        "full_name": "Đức Thiện",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/90/55/7e/dc7806349091806cd7c02c6fa3f4e2a4.png",
+        "created_time": "2019-03-08 11:39:02",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1754381895,
+        "contribute_info": {
+          "id": 11188894,
+          "name": "Đức Thiện",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/90/55/7e/dc7806349091806cd7c02c6fa3f4e2a4.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 370,
+            "total_thank": 10
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tech7",
+        "Loại S12"
+      ],
+      "product_attributes": [
+        "Loại: S12"
+      ],
+      "spid": 275316654,
+      "is_photo": false,
+      "seller": {
+        "id": 58789,
+        "name": "Tech7",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/5f/fa/19/054b8bf6b43b6943948576f36b2e1562.jpg"
+      },
+      "product_id": 278539556,
+      "timeline": {
+        "review_created_date": "2025-08-10 13:54:57",
+        "delivery_date": "2025-08-10 11:54:41",
+        "current_date": "2025-10-25 22:13:42",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20091697,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.013656720000000001,
+      "new_score": 0.15674319,
+      "customer_id": 20390920,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1741210736,
+      "created_by": {
+        "id": 20390920,
+        "name": "Lê Xuân Anh",
+        "full_name": "Lê Xuân Anh",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/1c/c4/42/c7cc62ddc1c1d51754000860c6a6d65d.png",
+        "created_time": "2021-02-20 15:18:55",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1738725620,
+        "contribute_info": {
+          "id": 20390920,
+          "name": "Lê Xuân Anh",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/1c/c4/42/c7cc62ddc1c1d51754000860c6a6d65d.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 68,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tech7",
+        "Loại S12"
+      ],
+      "product_attributes": [
+        "Loại: S12"
+      ],
+      "spid": 275316654,
+      "is_photo": false,
+      "seller": {
+        "id": 58789,
+        "name": "Tech7",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/5f/fa/19/054b8bf6b43b6943948576f36b2e1562.jpg"
+      },
+      "product_id": 278539556,
+      "timeline": {
+        "review_created_date": "2025-03-06 04:38:56",
+        "delivery_date": "2025-02-10 11:45:34",
+        "current_date": "2025-10-25 22:13:42",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20019990,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0078225199999999995,
+      "new_score": 0.15443638000000001,
+      "customer_id": 23868870,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1730288608,
+      "created_by": {
+        "id": 23868870,
+        "name": "LÊ VĂN THANH",
+        "full_name": "LÊ VĂN THANH",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-10-01 19:37:17",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1728015661,
+        "contribute_info": {
+          "id": 23868870,
+          "name": "LÊ VĂN THANH",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 31,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tech7",
+        "Loại S12"
+      ],
+      "product_attributes": [
+        "Loại: S12"
+      ],
+      "spid": 275316654,
+      "is_photo": false,
+      "seller": {
+        "id": 58789,
+        "name": "Tech7",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/5f/fa/19/054b8bf6b43b6943948576f36b2e1562.jpg"
+      },
+      "product_id": 278539556,
+      "timeline": {
+        "review_created_date": "2024-10-30 18:43:28",
+        "delivery_date": "2024-10-08 13:16:09",
+        "current_date": "2025-10-25 22:13:42",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 6,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

@@ -1,0 +1,2530 @@
+{
+  "stars": {
+    "1": {
+      "count": 30,
+      "percent": 1
+    },
+    "2": {
+      "count": 10,
+      "percent": 1
+    },
+    "3": {
+      "count": 15,
+      "percent": 1
+    },
+    "4": {
+      "count": 75,
+      "percent": 4
+    },
+    "5": {
+      "count": 1929,
+      "percent": 93
+    }
+  },
+  "rating_average": 4.9000000000000004,
+  "reviews_count": 2059,
+  "review_photo": {
+    "total": 501,
+    "total_photo": 812
+  },
+  "data": [
+    {
+      "id": 19999376,
+      "title": "Cực kì hài lòng",
+      "content": "Máy VN/A chính hãng Việt Nam. Trộm vía tỉ tỉ lần là đến giờ vẫn ngon, chưa lỗi lầm gì. \r\nĐã bao lần mua điện thoại, laptop trên Tiki Trading rồi khá yên tâm, lần này cũng không phải ngoại lệ. \r\nMáy rất mượt nha, với tác vụ hàng ngày thì không hề thua kém các đời máy mới hơn đâu. Nhỏ gọn nên cầm nắm rất thoải mái. Iphone tầm này chắc phải được hỗ trợ 3-4 năm nữa",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.02628608,
+      "new_score": 0.18637807000000001,
+      "customer_id": 263944,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4381187,
+          "full_path": "https://salt.tikicdn.com/ts/review/67/7f/81/0359966d2263262a71333553fb42027a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4381188,
+          "full_path": "https://salt.tikicdn.com/ts/review/98/80/6d/08f64ade901dd572886ba3ffd6fd415c.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4381189,
+          "full_path": "https://salt.tikicdn.com/ts/review/5e/6e/f6/d908e4263ff21da7bc403c825bf62142.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1728318943,
+      "created_by": {
+        "id": 263944,
+        "name": "Hoàng Hưng",
+        "full_name": "Hoàng Hưng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-01-06 10:09:09",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727506627,
+        "contribute_info": {
+          "id": 263944,
+          "name": "Hoàng Hưng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 76,
+            "total_thank": 18
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2024-10-07 23:35:43",
+        "delivery_date": "2024-09-28 15:43:31",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [
+        {
+          "id": 3263368,
+          "review_id": 19999376,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Cảm ơn anh Hoàng Hưng đã tin tưởng Tiki và cho Tiki 5⭐️! Tiki yêu anh nhiều ❤️",
+          "score": 0,
+          "create_at": 1728364046,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Bộ nhớ lớn",
+          "Camera chụp hình đẹp",
+          "Độ phân giải sắc nét",
+          "Dung lương pin lớn"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19733575,
+      "title": "Cực kì hài lòng",
+      "content": "Dù mua hàng ol rất nhiều sàn TMDT khác nhau . Nhưng mỗi khi mua hàng giá trị đều muốn mua ở Tiki 😄 do tiki đóng gói nên yên tâm hẳn , giao đúng hẹn 👍🏻 . Phần nữa bây giờ shipper bên tiki có thay đổi tốt , không còn kiểu nhá máy cho khách xong chưa bắt máy thì báo về hệ thống khách không nghe máy :))) bực việc này nên có 1 thời gian chán mua hàng bên tiki 😄😄 . Giờ mua hàng bên tiki vui vẻ hơn rồi 👍🏻👍🏻 shipper giao hàng đúng hẹn 10 điểm . Máy đẹp 😗",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.89263420999999998,
+      "new_score": 0.17857439,
+      "customer_id": 1984556,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4329982,
+          "full_path": "https://salt.tikicdn.com/ts/review/31/59/bf/d78405d6eb06328a569e9ed82b4c3d5c.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4329983,
+          "full_path": "https://salt.tikicdn.com/ts/review/1a/65/ea/121001b5c3f9ac918ee5e116bce6a124.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1705574866,
+      "created_by": {
+        "id": 1984556,
+        "name": "nguyễn nhi",
+        "full_name": "nguyễn nhi",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/12/f6/2f/a3f42297b35cae9d38cc3dde7145246f.png",
+        "created_time": "2016-12-15 14:53:27",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1705394769,
+        "contribute_info": {
+          "id": 1984556,
+          "name": "nguyễn nguyễn",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/12/f6/2f/a3f42297b35cae9d38cc3dde7145246f.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 256,
+            "total_thank": 24
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Hồng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Hồng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547428,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2024-01-18 17:47:46",
+        "delivery_date": "2024-01-18 13:37:30",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [
+        {
+          "id": 3119779,
+          "review_id": 19733575,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️từ bạn. Hy vọng bạn sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1705640354,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 18681723,
+      "title": "Cực kì hài lòng",
+      "content": "Hết xẩy nha anh chị em! Camera đẹp, màn hình siêu đẹp, cầm gọn không nặng tay, màu trắng cũng đẹp cực! Tiki giao nhanh hết hồn, giao hàng giá trị có mã OTP nhận rất yên tâm, hộp cũng có chống sốc đầy đủ. Nói chung mua Tiki rất sướng!",
+      "status": "approved",
+      "thank_count": 41,
+      "score": 0.0055599400000000002,
+      "new_score": 0.17819831,
+      "customer_id": 5157618,
+      "comment_count": 2,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4089878,
+          "full_path": "https://salt.tikicdn.com/ts/review/40/02/1f/517b14456f60e92c990c51a08869e341.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4089879,
+          "full_path": "https://salt.tikicdn.com/ts/review/9d/04/fe/fc5e64a330c56529702f6065f6380a83.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4089880,
+          "full_path": "https://salt.tikicdn.com/ts/review/e8/25/ec/ba18c24f75c47779859e5e8970133d35.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4089881,
+          "full_path": "https://salt.tikicdn.com/ts/review/e4/ef/51/b2d5dcf96d7b8368314c038b32cdd881.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4089882,
+          "full_path": "https://salt.tikicdn.com/ts/review/35/0d/b3/6b1e2fb246907a1ece396488060856e8.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1674715023,
+      "created_by": {
+        "id": 5157618,
+        "name": "Cao Thai Duy Hien",
+        "full_name": "Cao Thai Duy Hien",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/92/86/e1/bf0664a3d90005706013cc8d3b620ff1.png",
+        "created_time": "2017-04-02 12:19:11",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1674578469,
+        "contribute_info": {
+          "id": 5157618,
+          "name": "Cao Thai Duy Hien",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/92/86/e1/bf0664a3d90005706013cc8d3b620ff1.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 395,
+            "total_thank": 101
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2023-01-26 13:37:03",
+        "delivery_date": "2023-01-25 08:47:04",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3216190,
+          "review_id": 18681723,
+          "commentator": "customer",
+          "customer_id": 29998753,
+          "fullname": "Lê Huyền Trân",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "bn mua bao tiền vậy",
+          "score": 0,
+          "create_at": 1719149569,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3188502,
+          "review_id": 18681723,
+          "commentator": "customer",
+          "customer_id": 29921856,
+          "fullname": "Phan Thành Ngọc",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "có đc kiểm hàng kh ạ",
+          "score": 0,
+          "create_at": 1714630975,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16206956,
+      "title": "Cực kì hài lòng",
+      "content": "Giao rất nhanh trong sáng là đã nhận được. Hàng rất đẹp, màu xanh trầm nhìn đẹp lắm. Hàng nguyên seal luôn, máy ngoại hình nhìn qua thấy ổn, đẹp. Xài tầm vài ngày nữa mới biết nhưng ban đầu thấy ok rồi đó. Tiki đóng gói rất cẩn thận. Mình thấy rất hài lòng",
+      "status": "approved",
+      "thank_count": 46,
+      "score": 0.0056132500000000002,
+      "new_score": 0.17574360999999999,
+      "customer_id": 1635513,
+      "comment_count": 6,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3441430,
+          "full_path": "https://salt.tikicdn.com/ts/review/00/05/28/c933ca4d10338103c37f465501278348.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3441431,
+          "full_path": "https://salt.tikicdn.com/ts/review/96/d1/26/aa592629c7e74881a91fcea7dc287f62.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3441432,
+          "full_path": "https://salt.tikicdn.com/ts/review/78/4a/30/cea1ef005479fff4fbe263aaf14b4587.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3441433,
+          "full_path": "https://salt.tikicdn.com/ts/review/b3/f3/4a/e0ba247f63b12e9c58f66d681ad1f88f.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3441434,
+          "full_path": "https://salt.tikicdn.com/ts/review/d5/f4/4d/b8811ec1422d2f7336357bb284de804a.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1651756673,
+      "created_by": {
+        "id": 1635513,
+        "name": "Nguyễn Công Khanh",
+        "full_name": "Nguyễn Công Khanh",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/5b/25/f6/ae9275e200992b7776b255e7f2f688ea.png",
+        "created_time": "2016-08-23 21:23:23",
+        "group_id": 29,
+        "purchased": true,
+        "purchased_at": 1651716397,
+        "contribute_info": {
+          "id": 1635513,
+          "name": "Nguyễn Công Khanh",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/5b/25/f6/ae9275e200992b7776b255e7f2f688ea.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 444,
+            "total_thank": 277
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Xanh Lá",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu: Xanh Lá",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 168778795,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-05-05 20:17:53",
+        "delivery_date": "2022-05-05 11:35:43",
+        "current_date": "2025-10-25 22:08:22",
+        "content": "Đã dùng 9 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 giờ."
+      },
+      "comments": [
+        {
+          "id": 3311210,
+          "review_id": 16206956,
+          "commentator": "customer",
+          "customer_id": 30045027,
+          "fullname": "Tài khoản Google",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "s",
+          "score": 0,
+          "create_at": 1741180349,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2817824,
+          "review_id": 16206956,
+          "commentator": "customer",
+          "customer_id": 28593948,
+          "fullname": "TRUONG VAN THANH",
+          "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/28/fd/42/744ea8e090c3d1a2d08f5254f081d31d.png",
+          "content": "Gui hình anh",
+          "score": 0,
+          "create_at": 1671367369,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2465680,
+          "review_id": 16206956,
+          "commentator": "customer",
+          "customer_id": 20730726,
+          "fullname": "Mã Vĩnh Cường",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Hihi e nhầm giá, cần bán 1 máy VNJA new chưa kích hoạt màu đen 128gb, giá only 19.5*** a, tặng củ sạc ốp lưng a! ai mua liên hệ e *** Quận 4 HCM nhen!",
+          "score": 0,
+          "create_at": 1656413492,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2465679,
+          "review_id": 16206956,
+          "commentator": "customer",
+          "customer_id": 20730726,
+          "fullname": "Mã Vĩnh Cường",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "cần bán 1 máy VN/A new chưa kích hoạt màu đen 128gb, giá only 20.*** ạ, tặng củ sạc ốp lưng ạ! ai mua liên hệ e *** Quận 4 HCM nhen!",
+          "score": 0,
+          "create_at": 1656413430,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2430062,
+          "review_id": 16206956,
+          "commentator": "customer",
+          "customer_id": 8589854,
+          "fullname": "Thảo Nguyên Trần",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Này là LL/A hay VN/A vậy anh",
+          "score": 0,
+          "create_at": 1655119925,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2427062,
+          "review_id": 16206956,
+          "commentator": "customer",
+          "customer_id": 8624297,
+          "fullname": "Phương Lưu",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Mua vầy phần bảo hành sao ha b",
+          "score": 0,
+          "create_at": 1654963923,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20013556,
+      "title": "Bình thường",
+      "content": "Mua đc 10 tháng ạ. Em gọi hỗ trợ theo hl nhưng k đc. Vẫn còn bảo hàng ạ",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 55.555555560000002,
+      "new_score": 0.17537048,
+      "customer_id": 7621951,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [
+        {
+          "id": 4384281,
+          "full_path": "https://salt.tikicdn.com/ts/review/4f/1d/d4/212c8388654071f3460aee9ef2869945.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4384282,
+          "full_path": "https://salt.tikicdn.com/ts/review/20/64/fb/2c43a8ae5fed85c3b194428514b69487.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4384283,
+          "full_path": "https://salt.tikicdn.com/ts/review/8c/a8/49/f272bfc9630550f43e3c286eab8479b6.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4384284,
+          "full_path": "https://salt.tikicdn.com/ts/review/50/35/06/da1334d3af9773e364c29fadd1c6d395.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4384285,
+          "full_path": "https://salt.tikicdn.com/ts/review/14/cd/bf/7ef5f1cdaf80151fc6d84ad58190bead.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729660973,
+      "created_by": {
+        "id": 7621951,
+        "name": "Thương",
+        "full_name": "Thương",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-08-10 07:03:08",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1701919175,
+        "contribute_info": {
+          "id": 7621951,
+          "name": "Thương",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Hồng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Hồng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547428,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2024-10-23 12:22:53",
+        "delivery_date": "2023-12-09 19:52:10",
+        "current_date": "2025-10-25 22:08:23",
+        "content": "Đã dùng 1 năm",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 năm."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19380980,
+      "title": "Cực kì hài lòng",
+      "content": "Điện thoại đẹp, chắc chắn, có tem của tiki để kiểm tra đề phòng hàng bị đánh tráo, mọi người nên quay video khi khui hàng để đảm bảo lợi ích nếu có vấn đề xảy ra. các tính năng khác của điện thoại mình k chuyên k đánh giá được, trừ điểm đơn vị giao hàng, giao hàng chậm trễ, trung chuyển nhiều, hàng giá trị cao, dễ vỡ nên mình lo lắng nhiều",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.037319360000000003,
+      "new_score": 0.17514608000000001,
+      "customer_id": 10002177,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4253438,
+          "full_path": "https://salt.tikicdn.com/ts/review/9b/ba/79/6ad1c2f40f327dc361772b6031466b0a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4253439,
+          "full_path": "https://salt.tikicdn.com/ts/review/8f/ae/4d/3ff5bb54c7be59c313373dba32ada220.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1689400436,
+      "created_by": {
+        "id": 10002177,
+        "name": "Tuan Huynh",
+        "full_name": "Tuan Huynh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-12-25 10:25:55",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1689143461,
+        "contribute_info": {
+          "id": 10002177,
+          "name": "Tuan Huynh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 20,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2023-07-15 12:53:56",
+        "delivery_date": "2023-07-14 09:47:12",
+        "current_date": "2025-10-25 22:08:23",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19491821,
+      "title": "Cực kì hài lòng",
+      "content": "Giáo hàng đúng hẹn, có gửi tin nhắn OTP trước khi giao hàng, đóng gói cẩn thận, hàng mới đẹp, nhân viên giao hàng thân thiện, cám ơn shop, cám ơn Tiki",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.01789257,
+      "new_score": 0.17416038,
+      "customer_id": 7538572,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4277577,
+          "full_path": "https://salt.tikicdn.com/ts/review/3c/87/81/57092ce49393ef86e5f8bfcc5d7667e3.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4277578,
+          "full_path": "https://salt.tikicdn.com/ts/review/ab/b2/f7/cda626d48e25d8bc30399a110f1eda39.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4277579,
+          "full_path": "https://salt.tikicdn.com/ts/review/12/5f/c2/27581541325ae281368466c8a07d720d.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4277580,
+          "full_path": "https://salt.tikicdn.com/ts/review/d7/5b/90/53ffabbc1c4f2f5a8f268c3d270db314.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4277581,
+          "full_path": "https://salt.tikicdn.com/ts/review/43/9e/39/5e6f92eee91054cadf79e6eca68c3528.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1693198263,
+      "created_by": {
+        "id": 7538572,
+        "name": "Ta Anh Dung",
+        "full_name": "Ta Anh Dung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-07-27 13:38:06",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1692945146,
+        "contribute_info": {
+          "id": 7538572,
+          "name": "Ta Anh Dung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 39,
+            "total_thank": 47
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2023-08-28 11:51:03",
+        "delivery_date": "2023-08-26 10:09:31",
+        "current_date": "2025-10-25 22:08:23",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20140539,
+      "title": "Cực kì hài lòng",
+      "content": "Điện thoại nhỏ, gọn, đẹp. \r\nThao tác đơn giản, mượt.\r\nHệ điều hành mới nhất vẫn được cập nhật.\r\n=>Đáng quan tâm trong tầm giá so với các dòng điện thoại khác.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.17308082999999999,
+      "customer_id": 6194811,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1751016173,
+      "created_by": {
+        "id": 6194811,
+        "name": "Nguyễn Quốc Huy",
+        "full_name": "Nguyễn Quốc Huy",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-12-12 00:44:09",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1744950121,
+        "contribute_info": {
+          "id": 6194811,
+          "name": "Nguyễn Quốc Huy",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 20,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2025-06-27 16:22:53",
+        "delivery_date": "2025-04-19 22:03:26",
+        "current_date": "2025-10-25 22:08:23",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "Bộ nhớ lớn",
+          "Camera chụp hình đẹp",
+          "Độ phân giải sắc nét",
+          "Dung lương pin lớn"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16337146,
+      "title": "Cực kì hài lòng",
+      "content": "Đóng gói chắc chắn có bọc lớp giấy bìa ở ngoài và 1 lớp giấy bóng nilong ngoài hộp, sản phẩm mới đẹp giá rẻ hơn 1tr so với mua ở cells hoặc mấy chỗ khác, giao nhanh, bảo mật khi giao hàng khi gửi mã về cho khách hàng",
+      "status": "approved",
+      "thank_count": 11,
+      "score": 0.0065631400000000003,
+      "new_score": 0.17176361000000001,
+      "customer_id": 5691906,
+      "comment_count": 4,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3479782,
+          "full_path": "https://salt.tikicdn.com/ts/review/6b/1d/9f/5fc0f4b0884e92fcf0f5fe54e4f152e4.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3479783,
+          "full_path": "https://salt.tikicdn.com/ts/review/07/54/ed/db7b22db009340a51f11be781cd96ef9.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3479784,
+          "full_path": "https://salt.tikicdn.com/ts/review/ed/93/da/8920f1aa46ac668b3bd316b9ee63ce32.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3479785,
+          "full_path": "https://salt.tikicdn.com/ts/review/d4/f2/42/810c1ba7a4f3625e9a56b0ea6dff7b89.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3479786,
+          "full_path": "https://salt.tikicdn.com/ts/review/e7/6f/c6/288c9ed9d6bdae6c58c7065e2e68be13.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1652607215,
+      "created_by": {
+        "id": 5691906,
+        "name": "Dương Đăng",
+        "full_name": "Dương Đăng",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/ae/d0/6a/074d298048474c8ce90e392c9589a24e.png",
+        "created_time": "2017-09-05 18:35:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1652589575,
+        "contribute_info": {
+          "id": 5691906,
+          "name": "Dương Đăng",
+          "avatar": "https://salt.tikicdn.com/cache/256x256/ts/avatar/ae/d0/6a/074d298048474c8ce90e392c9589a24e.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 35,
+            "total_thank": 25
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 123547409,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-05-15 16:33:35",
+        "delivery_date": "2022-05-15 13:17:54",
+        "current_date": "2025-10-25 22:08:23",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [
+        {
+          "id": 3095846,
+          "review_id": 16337146,
+          "commentator": "customer",
+          "customer_id": 8144191,
+          "fullname": "Thành Sơn",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "hello",
+          "score": 0,
+          "create_at": 1702803518,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2731653,
+          "review_id": 16337146,
+          "commentator": "customer",
+          "customer_id": 28401945,
+          "fullname": "Nguyễn thị Ha",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Cho hỏi sp mới hay qua sử dụng ?",
+          "score": 0,
+          "create_at": 1667188197,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2531187,
+          "review_id": 16337146,
+          "commentator": "customer",
+          "customer_id": 17001203,
+          "fullname": "Van Chieu Nguyen",
+          "avatar_url": "https://s120.avatar.talk.zdn.vn/8/a/9/f/2/120/3deb32d55a4c2a4e7075ce81f0ad58ea.jpg",
+          "content": "Trả góp mấy tháng xong, thủ tục ở đâu với ngân hàng hè",
+          "score": 0,
+          "create_at": 1658504336,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2465681,
+          "review_id": 16337146,
+          "commentator": "customer",
+          "customer_id": 20730726,
+          "fullname": "Mã Vĩnh Cường",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "cần bán 1 máy VNJA new chưa kích hoạt màu đen 128gb, giá only 19.5*** a, tặng củ sạc ốp lưng a! ai mua liên hệ e *** Quận 4 HCM nhen!",
+          "score": 0,
+          "create_at": 1656413525,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14370040,
+      "title": "Cực kì hài lòng",
+      "content": "Tiki có hệ thống vận chuyển, shipper riêng nên khi đặt hành điện tử giá trị cao rất yên tâm. Không lo tráo hàng, nhận hàng phải có otp. Đặt hành lúc 22h khuya, hôm sau sáng 9h30 đã nhận được. Gói băng keo kỹ, sp được niêm phong thêm bằng keo của tiki, nếu đã bị gỡ là biết ngay. Nguyên seal, phụ kiện, bảo hành đầy đủ. Màu hồng trên thị trường hiếm với mắc hơn các màu còn lại tầm 1-2tr nhưng trên tiki same same nhau. Đã v trả góp không tốn đồng phí nào. Màu hồng siêu cưng luôn á mng, dùng được 2 tuần rồi, check máy chính hãng bảo hành đầy đủ nhe.",
+      "status": "approved",
+      "thank_count": 52,
+      "score": 0.0071941599999999998,
+      "new_score": 0.17171890000000001,
+      "customer_id": 471889,
+      "comment_count": 10,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3007980,
+          "full_path": "https://salt.tikicdn.com/ts/review/ba/bc/dc/039a82478e728552421fa65c55f3fb11.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3007981,
+          "full_path": "https://salt.tikicdn.com/ts/review/4e/43/9f/37816f769165389917caa840817c563f.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3007982,
+          "full_path": "https://salt.tikicdn.com/ts/review/de/5c/e3/84af064f70eb1f7c947132c2b41a3fc2.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3007983,
+          "full_path": "https://salt.tikicdn.com/ts/review/12/a7/73/55c38b9824b0950fd1f9e6719b105264.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1641824220,
+      "created_by": {
+        "id": 471889,
+        "name": "Đoàn Linh",
+        "full_name": "Đoàn Linh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-11-06 19:10:02",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1640788079,
+        "contribute_info": {
+          "id": 471889,
+          "name": "Đoàn Linh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 14,
+            "total_thank": 60
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Hồng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Hồng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547428,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-01-10 21:17:00",
+        "delivery_date": "2021-12-30 09:46:07",
+        "current_date": "2025-10-25 22:08:23",
+        "content": "Đã dùng 12 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+      },
+      "comments": [
+        {
+          "id": 2465684,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 20730726,
+          "fullname": "Mã Vĩnh Cường",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "cần bán 1 máy VNJA new chưa kích hoạt màu đen 128gb, giá only 19.5*** a, tặng củ sạc ốp lưng a! ai mua liên hệ e *** Quận 4 HCM nhen!",
+          "score": 0,
+          "create_at": 1656413673,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2344378,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 5919248,
+          "fullname": "Hoàng Thanh Tâm",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Anh em nào muốn kiếm tiền kb zalo nhé ***",
+          "score": 0,
+          "create_at": 1652083210,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2311884,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 8119725,
+          "fullname": "Nguyễn Diệu LInh",
+          "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/ed/60/91/d893352789475104e88a0b53c6d691a5.jpg",
+          "content": "ai mua kg tôi pass lại cho",
+          "score": 0,
+          "create_at": 1650890058,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2296354,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 1822573,
+          "fullname": "Pham Van Truong",
+          "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/12/40/26/6f75dc867abe2e4fc4b87747c01e98fc.png",
+          "content": "dùng móca mua sâmsung đc giảm thôi ip ko đc",
+          "score": 0,
+          "create_at": 1650431066,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2269541,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 471889,
+          "fullname": "Đoàn Linh",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Mình thanh toán qua thẻ HSBC ạ. Thời điểm đó mình thử của citi, Tech đều không mất phí gì hết à. Không biết là do ctrinh của tiki hay sao nữa",
+          "score": 0,
+          "create_at": 1649690564,
+          "badge": "https://salt.tikicdn.com/ts/reviews/1a/c6/8e/aed2b9016c8a2840ea0d9268605c8d3c.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2169534,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 13378517,
+          "fullname": "Le Van Tuat",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Liên hệ shop chổ nào v",
+          "score": 0,
+          "create_at": 1647083720,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        },
+        {
+          "id": 2061780,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 8906788,
+          "fullname": "Phạm Khánh Linh",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "bạn ơi bạn dùng loại thẻ của ngân hàng nào vậy ạ, mình add thẻ vào cứ bảo ko hỗ trợ trả góp 😞",
+          "score": 0,
+          "create_at": 1643739689,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2027899,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 8026237,
+          "fullname": "Giang Le",
+          "avatar_url": "https://s120.avatar.talk.zdn.vn/c/1/4/0/28/120/7dca057e43e2bd0e9fa90b53739fd1e3.jpg",
+          "content": "có được kiểm tra hàng trước ko",
+          "score": 0,
+          "create_at": 1642480169,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2012217,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 10971136,
+          "fullname": "Lê Trung Nghĩa",
+          "avatar_url": "https://graph.facebook.com/2335223016759003/picture?type=large&return_ssl_resources=1",
+          "content": "Thẻ nào cũng mất phí mà a",
+          "score": 0,
+          "create_at": 1642069259,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2003427,
+          "review_id": 14370040,
+          "commentator": "customer",
+          "customer_id": 924849,
+          "fullname": "Thiên Long",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Bạn xài thẻ gì mà trả góp không mất phí vậy bạn, thẻ của mình chọn trả góp có phí",
+          "score": 0,
+          "create_at": 1641887441,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16534107,
+      "title": "Cực kì hài lòng",
+      "content": "Điện thoại đẹp, màu sang lắm luôn. Tiki bảo mật khi mua hàng tốt và vận chuyển rất ổn. Mình có check cover dt chưa active và bắt đầu kích hoạt bảo hành ngay khi mình active máy. Chất lượng oke. 10 điểm cho Tiki ♥️",
+      "status": "approved",
+      "thank_count": 11,
+      "score": 0.0069654900000000004,
+      "new_score": 0.17146889000000001,
+      "customer_id": 12075551,
+      "comment_count": 2,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3532432,
+          "full_path": "https://salt.tikicdn.com/ts/review/98/66/24/7ac04bce1e7ac47c641b7fd3e6c44202.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3532433,
+          "full_path": "https://salt.tikicdn.com/ts/review/b9/12/0b/d430516945227c8400c98fd09f618317.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3532434,
+          "full_path": "https://salt.tikicdn.com/ts/review/a0/cf/e1/06c7aa7988c1a4a4f0544e22acbb3164.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3532435,
+          "full_path": "https://salt.tikicdn.com/ts/review/ac/8e/ec/f152c91baad9564714982d924df33ac0.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3532436,
+          "full_path": "https://salt.tikicdn.com/ts/review/70/c4/cc/8c170bea3ee81a2a2636e5ab1a6adbe6.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1654052649,
+      "created_by": {
+        "id": 12075551,
+        "name": "Cao Thị Kiều Oanh",
+        "full_name": "Cao Thị Kiều Oanh",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/61/f8/0c/8fd54dfc0e5f480785cd48576f5ac1e4.png",
+        "created_time": "2019-05-13 20:21:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1653974689,
+        "contribute_info": {
+          "id": 12075551,
+          "name": "Cao Thị Kiều Oanh",
+          "avatar": "https://salt.tikicdn.com/cache/256x256/ts/avatar/61/f8/0c/8fd54dfc0e5f480785cd48576f5ac1e4.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 11,
+            "total_thank": 14
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Xanh Dương",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Xanh Dương",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547420,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-06-01 10:04:09",
+        "delivery_date": "2022-06-01 09:29:34",
+        "current_date": "2025-10-25 22:08:24",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 2603376,
+          "review_id": 16534107,
+          "commentator": "customer",
+          "customer_id": 8126825,
+          "fullname": "Dương Văn Thấu",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Không hiểu tại sao máy ở Vietnam lại rễ hơn ở Mỹ? Mua trong hãng Apple giá cao hơn ở Vietnam bán?",
+          "score": 0,
+          "create_at": 1661315636,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2465683,
+          "review_id": 16534107,
+          "commentator": "customer",
+          "customer_id": 20730726,
+          "fullname": "Mã Vĩnh Cường",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "cần bán 1 máy VNJA new chưa kích hoạt màu đen 128gb, giá only 19.5*** a, tặng củ sạc ốp lưng a! ai mua liên hệ e *** Quận 4 HCM nhen!",
+          "score": 0,
+          "create_at": 1656413608,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16809488,
+      "title": "Cực kì hài lòng",
+      "content": "Về chất lượng máy thì chưa sử dụng nên chưa biết ntn.\nNhưng khi nhận máy thì ối dồi ôi:)) máy hơn 20 củ mà tiki đóng gói chán quá cơ. Hộp thì to lắc lắc lắc bên trong có tý giấy vụn thôi. Mở ra thì hộp máy bị móp. Mình có cả video mà ko đăng được.\nNhưng mở máy ra thì okie ko có viết xước cũng như tem còn nguyên.\nTrừ 1 sao phần vận chuyển",
+      "status": "approved",
+      "thank_count": 3,
+      "score": 0.0076813599999999999,
+      "new_score": 0.17110731000000001,
+      "customer_id": 6972869,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [
+        {
+          "id": 3617284,
+          "full_path": "https://salt.tikicdn.com/ts/review/c0/17/27/14044d45f2de0b39725385499f715f12.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3617285,
+          "full_path": "https://salt.tikicdn.com/ts/review/b5/ce/6a/22e8c0bb4caa2616428038a54a554330.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3617286,
+          "full_path": "https://salt.tikicdn.com/ts/review/6f/51/34/8d2e5f5c5e78ff42de29a6dc556e72df.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1655958508,
+      "created_by": {
+        "id": 6972869,
+        "name": "Đỗ Vân",
+        "full_name": "Đỗ Vân",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-04-20 23:51:34",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1655705411,
+        "contribute_info": {
+          "id": 6972869,
+          "name": "Đỗ Vân",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 10,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-06-23 11:28:28",
+        "delivery_date": "2022-06-23 11:02:37",
+        "current_date": "2025-10-25 22:08:24",
+        "content": "Đã dùng 26 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 26 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20017539,
+      "title": "Cực kì hài lòng",
+      "content": "Mua về cho nhỏ cháu xài, kiu nó chụp hình quài mà nó quên nên chụp cái túi tặng, sản phẩm chính hãng còn nguyên seal chưa bị bóc, xài quá ổn áp luôn, màu đẹp.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.17078291000000001,
+      "customer_id": 386699,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4385207,
+          "full_path": "https://salt.tikicdn.com/ts/review/02/6e/21/cf62e51a04a54c955aa100d05c9177aa.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1730035471,
+      "created_by": {
+        "id": 386699,
+        "name": "nhoc si",
+        "full_name": "nhoc si",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-07-28 11:50:27",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1728808916,
+        "contribute_info": {
+          "id": 386699,
+          "name": "nhoc si",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 32,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2024-10-27 20:24:31",
+        "delivery_date": "2024-10-14 18:25:29",
+        "current_date": "2025-10-25 22:08:24",
+        "content": "Đã dùng 13 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 ngày."
+      },
+      "comments": [
+        {
+          "id": 3274302,
+          "review_id": 20017539,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ bạn. Sự hài lòng của bạn là động lực to lớn với Tiki đó ạ. Hy vọng bạn sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1730101943,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Bộ nhớ lớn",
+          "Camera chụp hình đẹp",
+          "Độ phân giải sắc nét"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15307814,
+      "title": "Bình thường",
+      "content": "Tiki giao hàng trước dự kiến, tuy nhiên đóng gói hàng không tốt đối với sản phẩm đắt tiền. Chỉ có 2 miếng giấy lót trên dưới rất ẩu, mà không có xốp cố định sản phẩm để tránh va đập. Nilon bọc ngoài điện thoại cũng không phải là loại nilon hạn chế va đập, bọc vô cùng sơ sài. Nói chung khá thất vọng về cách đóng gói sản phẩm có giá trị như vậy của Tiki.",
+      "status": "approved",
+      "thank_count": 3,
+      "score": 0.037684380000000003,
+      "new_score": 0.16914504,
+      "customer_id": 1938534,
+      "comment_count": 0,
+      "rating": 3,
+      "images": [
+        {
+          "id": 3205209,
+          "full_path": "https://salt.tikicdn.com/ts/review/10/41/42/98def87535e397ae800482a5d058fbeb.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3205210,
+          "full_path": "https://salt.tikicdn.com/ts/review/43/8e/af/c4473a799269b642c967d9e5aba2496f.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3205211,
+          "full_path": "https://salt.tikicdn.com/ts/review/f8/ca/f6/01d2a5a0c3b215f8bcc779d2d7fdc186.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1646667905,
+      "created_by": {
+        "id": 1938534,
+        "name": "Do Hai Ninh",
+        "full_name": "Do Hai Ninh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-12-01 23:56:49",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1646275300,
+        "contribute_info": {
+          "id": 1938534,
+          "name": "Do Hai Ninh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 2,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-03-07 22:45:05",
+        "delivery_date": "2022-03-06 15:50:26",
+        "current_date": "2025-10-25 22:08:24",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18446264,
+      "title": "Cực kì hài lòng",
+      "content": "- đóng gói cẩn thận\r\n- hàng nguyên seal, chính hãng.\r\nđã mua nhiều thiết bị điện tử trên tiki với địa chỉ nhận hàng HCM, HN, Nghệ An, Hải Phòng, Đồng Nai\r\n và đều rất hài lòng",
+      "status": "approved",
+      "thank_count": 6,
+      "score": 0.0063402500000000004,
+      "new_score": 0.16911367999999999,
+      "customer_id": 1736753,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4049561,
+          "full_path": "https://salt.tikicdn.com/ts/review/fb/e1/36/9e04a6d94e69fde47550ccba8f3847a8.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4049562,
+          "full_path": "https://salt.tikicdn.com/ts/review/37/da/b9/6dbdfc85bc751cf863b59ca73fc7fc42.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4049563,
+          "full_path": "https://salt.tikicdn.com/ts/review/a1/b2/31/4a8acbc70e46d642072f0921c827ddba.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4049564,
+          "full_path": "https://salt.tikicdn.com/ts/review/30/92/5b/5524d8d09b61a1e43a70edf47f6a366e.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1671282394,
+      "created_by": {
+        "id": 1736753,
+        "name": "NGUYEN XUAN TRANG",
+        "full_name": "NGUYEN XUAN TRANG",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-09-29 14:41:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1670766216,
+        "contribute_info": {
+          "id": 1736753,
+          "name": "NGUYEN XUAN TRANG",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 76,
+            "total_thank": 54
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Đen",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Đen",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547399,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-12-17 20:06:34",
+        "delivery_date": "2022-12-16 11:12:16",
+        "current_date": "2025-10-25 22:08:25",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20005056,
+      "title": "Cực kì hài lòng",
+      "content": "Rất nhiều lần mua đồ apple trên tiki rồi, cực an tâm, hàng chính hãng, giao nhanh, đóng gói chuẩn.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.16819190000000001,
+      "customer_id": 1622419,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4382428,
+          "full_path": "https://salt.tikicdn.com/ts/review/54/f9/d9/68b6b5a3a507abe6c76531204b7971c3.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4382429,
+          "full_path": "https://salt.tikicdn.com/ts/review/ea/1e/d7/f1487d21789953fa7eb7555cd712a7e4.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1728815405,
+      "created_by": {
+        "id": 1622419,
+        "name": "Phương Nguyễn",
+        "full_name": "Phương Nguyễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-08-19 12:13:24",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1728796717,
+        "contribute_info": {
+          "id": 1622419,
+          "name": "Phương Nguyễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 25,
+            "total_thank": 223
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2024-10-13 17:30:05",
+        "delivery_date": "2024-10-13 14:49:52",
+        "current_date": "2025-10-25 22:08:25",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [
+        {
+          "id": 3266407,
+          "review_id": 20005056,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Cảm ơn bạn đã tin tưởng dịch vụ và lựa chọn sản phẩm của Tiki nè. Hy vọng, sản phẩm, dịch vụ của Tiki sẽ giúp bạn có những trải nghiệm tuyệt vời nhất. Rất mong bạn sẽ tiếp tục ủng hộ Tiki trong thời gian tới ạ. ❤️",
+          "score": 0,
+          "create_at": 1728887385,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13770684,
+      "title": "Cực kì hài lòng",
+      "content": "Tiki giao nhanh thần tốc luôn ạ, mình đặt 10h30 đến 13h kém 10 giao rồi, trước khi tài xế đến Tiki sẽ gửi đến điện thoại bạn mã OTP, đọc đúng mới nhận hàng được, mình đợi 0H 12/12 để săn mã 1tr2 nhưng app Tiki lag quá đành đợi sáng 10H sáng back lại mã, nhưng vào không thấy mã đâu cả :))) thế là mình mua 13 256G giá 23990 áp được mã giảm 400k và trong vòng 45 ngày được hoàn vào thẻ Sacombank Tiki 3tr nữa! Lần đầu mua đồ giá trị cao trên Tiki cũng lo nhưng may mắn mình có trải nghiệm khá ok! Mong Tiki khắc phục tình trạng quá tải khi đến giờ sale ^^",
+      "status": "approved",
+      "thank_count": 16,
+      "score": 0.0060752899999999997,
+      "new_score": 0.16774689000000001,
+      "customer_id": 2238006,
+      "comment_count": 8,
+      "rating": 5,
+      "images": [
+        {
+          "id": 2875398,
+          "full_path": "https://salt.tikicdn.com/ts/review/de/f0/80/8fa0e5eeb8ad61c10e5175687add4547.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2875399,
+          "full_path": "https://salt.tikicdn.com/ts/review/22/4c/e4/54d478e1aa8c1d924ed0403d9eb0b2ce.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 2875400,
+          "full_path": "https://salt.tikicdn.com/ts/review/6b/5e/d6/e473a37df56635e15421b9501ed0792a.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1639298149,
+      "created_by": {
+        "id": 2238006,
+        "name": "Phùng Thị Khánh Ly",
+        "full_name": "Phùng Thị Khánh Ly",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-03-05 00:40:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1639279222,
+        "contribute_info": {
+          "id": 2238006,
+          "name": "Phùng Thị Khánh Ly",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 56,
+            "total_thank": 20
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Xanh Dương",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu: Xanh Dương",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 123547425,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2021-12-12 15:35:49",
+        "delivery_date": "2021-12-12 12:51:51",
+        "current_date": "2025-10-25 22:08:25",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [
+        {
+          "id": 2664630,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 28238957,
+          "fullname": "NGUYỄN TRỌNG HOÀNG",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "zzz",
+          "score": 0,
+          "create_at": 1664105040,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2136052,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 7476916,
+          "fullname": "Hà Phạm",
+          "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/26/5a/4d/16ed23b5a1141b4113faf70440be6814.png",
+          "content": "Mình tưởng thẻ chỉ được hoàn tối đa 600k/tháng thôi í? Bạn có chọn trả góp không hay sao ạ? Mình cũng mới nhận thẻ Tiki Card của SCB và tính mua Iphone mà không biết có được hoàn như vậy không?",
+          "score": 0,
+          "create_at": 1646047351,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 1948602,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 2238006,
+          "fullname": "Phùng Thị Khánh Ly",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "@Do Phương Thanh: Giá IP13 256G hôm đó là 23990- mã giảm Tiki 400k-790k hoàn tiền qua cashbag-3000k được hoàn về thẻ Sacombank Tiki là mình mua được giá 19tr8 đó ạ, nhưng 3tr mình vẫn đang đợi được hoàn, và làm thẻ Sacombank Tiki phí thường niên là 999k ạ, mình làm thẻ dựa trên thẻ tín dụng mình đã có sẵn ở Sacombank nên duyệt nhanh, tầm 5 ngày là nv Sacom giao thẻ cho mình rồi",
+          "score": 0,
+          "create_at": 1640577899,
+          "badge": "https://salt.tikicdn.com/ts/reviews/1a/c6/8e/aed2b9016c8a2840ea0d9268605c8d3c.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 1948447,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 16512386,
+          "fullname": "Do Phương Thanh",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Vậy  là mua giá cuối là bn a? Làm thẻ mất bao lâu ạ?",
+          "score": 0,
+          "create_at": 1640576504,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 1935046,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 11890507,
+          "fullname": "Nguyệt Quế",
+          "avatar_url": "https://graph.facebook.com/2297518676978553/picture?type=large&return_ssl_resources=1",
+          "content": "Anh chị ơi cho mình hỏi mua trên tiki thì bảo hành như thế nào ạ? em cám ơn nhiều",
+          "score": 0,
+          "create_at": 1640160753,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 1930394,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 12610733,
+          "fullname": "Ngoc Tran giao Chiều Ba Giờ",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Mới mua hôm qua hôm nay giảm 1tr400 đau lòng chiến sĩ",
+          "score": 0,
+          "create_at": 1640066865,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 1917312,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 2238006,
+          "fullname": "Phùng Thị Khánh Ly",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Có nhiều hình thức lắm ạ, bạn google hoặc gọi điện cho tiki hoặc sacombank tư vấn cho ạ, mình được duyệt trên thẻ tín dụng sacombank cũ nên rất nhanh, có mấy ngày à, thẻ platinum thì phí 999k/năm, làm xong là bạn được free 1 năm gói Tiki now cao cấp luôn, còn chi tiêu đc hoàn tiền nữa nên mình thấy khá ok",
+          "score": 0,
+          "create_at": 1639726719,
+          "badge": "https://salt.tikicdn.com/ts/reviews/1a/c6/8e/aed2b9016c8a2840ea0d9268605c8d3c.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 1912085,
+          "review_id": 13770684,
+          "commentator": "customer",
+          "customer_id": 25245536,
+          "fullname": "Đào Đặng Ngọc Quí",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "taoo thẻ đó khó k bn",
+          "score": 0,
+          "create_at": 1639636439,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19798854,
+      "title": "Cực kì hài lòng",
+      "content": "Rất hài lòng về Tiki, giao hàng nhanh, hàng chuẩn chính hãng. Đã từng mua Iphone trên Tiki và giờ thêm một lần nữa đặt niềm tin ở Tiki, và dĩ nhiên là Tiki ko làm mình thất vọng. Cảm ơn các bạn rất nhiều!",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.45250896000000002,
+      "new_score": 0.16733244,
+      "customer_id": 7372382,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1709910660,
+      "created_by": {
+        "id": 7372382,
+        "name": "Nguyễn Chí Hải",
+        "full_name": "Nguyễn Chí Hải",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-06-28 13:35:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1709709525,
+        "contribute_info": {
+          "id": 7372382,
+          "name": "Nguyễn Chí Hải",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 9,
+            "total_thank": 14
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Xanh Dương",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Xanh Dương",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547420,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "21/ce/5c/b52d0b8576680dc3666474ae31b091ec.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2024-03-08 22:11:00",
+        "delivery_date": "2024-03-06 15:35:58",
+        "current_date": "2025-10-25 22:08:26",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [
+        {
+          "id": 3154576,
+          "review_id": 19798854,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ bạn Hải. Sự hài lòng của bạn là động lực to lớn với Tiki đó ạ. Hy vọng bạn sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1709969622,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 18410017,
+      "title": "Cực kì hài lòng",
+      "content": "Điện thoại đẹp lắm nha mn, cầm thích lắm. Đặc biệt màu xanh lá hợp với các bạn mạng mộc và mạng kim nha. Cầm chắc tay và cảm giác đập hộp rất ư là vui nhé mọi người. Còn có mã Cod  nhận hàng, rất chuyên nghiệp",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.02396382,
+      "new_score": 0.16652216,
+      "customer_id": 28562411,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4040608,
+          "full_path": "https://salt.tikicdn.com/ts/review/bf/54/54/4aa4f5f0b3cd5fc8b9d5d6d434190478.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1670921943,
+      "created_by": {
+        "id": 28562411,
+        "name": "Mai Thị Huỳnh Như",
+        "full_name": "Mai Thị Huỳnh Như",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-12-07 20:32:23",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1670790793,
+        "contribute_info": {
+          "id": 28562411,
+          "name": "Mai Thị Huỳnh Như",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 7,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Xanh Lá",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Xanh Lá",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 168778791,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ee/fa/a0/98f3f134f85cff2c6972c31777629aa0.png"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-12-13 15:59:03",
+        "delivery_date": "2022-12-13 12:21:31",
+        "current_date": "2025-10-25 22:08:26",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14393776,
+      "title": "Cực kì hài lòng",
+      "content": "Tiki giao siêu tốc rất nhanh. Đặt lúc 9h thì tầm 11h nhận được hàng. Mã chuẩn VN/A\nGiá gốc 22,250k thêm voucher moca 1tr5 và shopback hoàn thêm 620k thì mình mua với giá tầm 20tr2 khá hời so với ở store. Đt mượn, pin lâu hết",
+      "status": "approved",
+      "thank_count": 25,
+      "score": 0.0049522000000000004,
+      "new_score": 0.16634247999999999,
+      "customer_id": 5888084,
+      "comment_count": 13,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3012458,
+          "full_path": "https://salt.tikicdn.com/ts/review/de/38/4c/5dd70c96272c672961fa5c5d7441f6d3.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3012459,
+          "full_path": "https://salt.tikicdn.com/ts/review/e7/5c/37/f7c02e872467a88c1155be8ebef68e7a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3012460,
+          "full_path": "https://salt.tikicdn.com/ts/review/ae/e2/7f/c4ea3c1f1bdee89cdfb6a00f2028dca7.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3012461,
+          "full_path": "https://salt.tikicdn.com/ts/review/8a/17/e1/51da6397e5fba6ba6f4cd1134ea0f4e8.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1641914707,
+      "created_by": {
+        "id": 5888084,
+        "name": "Nguyen Le Cat Quynh",
+        "full_name": "Nguyen Le Cat Quynh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-10-08 20:31:20",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1641780345,
+        "contribute_info": {
+          "id": 5888084,
+          "name": "Nguyen Le Cat Quynh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 9,
+            "total_thank": 25
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu Trắng",
+        "Dung lượng 128GB"
+      ],
+      "product_attributes": [
+        "Màu: Trắng",
+        "Dung lượng: 128GB"
+      ],
+      "spid": 123547403,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 184059211,
+      "timeline": {
+        "review_created_date": "2022-01-11 22:25:07",
+        "delivery_date": "2022-01-10 10:55:36",
+        "current_date": "2025-10-25 22:08:26",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3227828,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 8264863,
+          "fullname": "Lưu Lệ Quân",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Cho mình hỏi mã shopback tìm ở đâu?",
+          "score": 0,
+          "create_at": 1721549048,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2664628,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 28238957,
+          "fullname": "NGUYỄN TRỌNG HOÀNG",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "hello",
+          "score": 0,
+          "create_at": 1664105003,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2179243,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 26867373,
+          "fullname": "Pham Thu Huong",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "sản phẩm tốt",
+          "score": 0,
+          "create_at": 1647335647,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2164450,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 1812760,
+          "fullname": "Be Ba",
+          "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/28/6a/60/65bd37f53ebb2a761f0f61f17dd1a8de.png",
+          "content": "https://app.shopback.com/6IfLv2Pxhob",
+          "score": 0,
+          "create_at": 1646916032,
+          "badge": "https://salt.tikicdn.com/ts/reviews/b0/77/a5/1dc3901bd48bfc65a51760dc051ebbdb.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2164446,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 1812760,
+          "fullname": "Be Ba",
+          "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/28/6a/60/65bd37f53ebb2a761f0f61f17dd1a8de.png",
+          "content": "link tải app shopback hoàn tiền cho ai cần nhé: https://app.shopback.com/6IfLv2Pxhob",
+          "score": 0,
+          "create_at": 1646915923,
+          "badge": "https://salt.tikicdn.com/ts/reviews/b0/77/a5/1dc3901bd48bfc65a51760dc051ebbdb.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2037401,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 12783069,
+          "fullname": "Vinh Văn",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "có mã k chỉ giúp với hi",
+          "score": 0,
+          "create_at": 1642695491,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2018104,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 2225236,
+          "fullname": "Phạm trịnh ái nhi",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Minh cũng bị giới hạn, có bạn nào quan tâm cho tụi minh biết dc ko? Do  Tài chính eo hạn nên có dc voucher thì rất tốt ạ. Cam on moi nguoi",
+          "score": 0,
+          "create_at": 1642225748,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2017496,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 10544805,
+          "fullname": "Quốc Nguyên",
+          "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/f5/92/b0/22c535d6441d5c077d6b5bff2935a41f.png",
+          "content": "mã moca 1.5 tr của mình cũng ko áp dụng được, chắc là bị giới hạn rồi.",
+          "score": 0,
+          "create_at": 1642213207,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2017006,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 11289369,
+          "fullname": "tran thi loan",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Mã moca mình có mà k hiều sao nó cứ bảo k thoả mãn trong khi máy 22tr ấy ạ . Kb mã này có bị giới hạn số lượt k chư mình chưa dùng mã này bao giờ mà cứ báo k thoả mãn đieu kiện ai biết chỉ em với ạ . Em cảm ơn ạ",
+          "score": 0,
+          "create_at": 1642178926,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2014524,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 9689311,
+          "fullname": "VÕ TRÍ NHÂN",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Lên CH play tải app shopback về rồi trước khi mua hàng Tiki vô app shopback trước, nhập mã giới thiệu 5XN1U6 lúc đăng ký nhe bạn! Mấy sàn khác cũng hoàn luôn á!",
+          "score": 0,
+          "create_at": 1642141529,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2012765,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 2225236,
+          "fullname": "Phạm trịnh ái nhi",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Bạn ơi, săn mã moca và shopback thế nào vay ah?",
+          "score": 0,
+          "create_at": 1642086943,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2006650,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 5888084,
+          "fullname": "Nguyen Le Cat Quynh",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Mua hàng thành công thì shopback mới ghi nhận rồi khoảng 65 ngày sau mới hoàn tiền về bạn ạ",
+          "score": 0,
+          "create_at": 1641976783,
+          "badge": "https://salt.tikicdn.com/ts/reviews/1a/c6/8e/aed2b9016c8a2840ea0d9268605c8d3c.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 2005262,
+          "review_id": 14393776,
+          "commentator": "customer",
+          "customer_id": 15080307,
+          "fullname": "ph phương",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "bạn ơi mình cũng vào đặt qua shopback ấy nhưng ko thấy mã -620k ở đâu b chỉ giúp mình đc ko ạ",
+          "score": 0,
+          "create_at": 1641955309,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 2061,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 104,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

@@ -1,0 +1,181 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 1,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20183867,
+      "title": "Cực kì hài lòng",
+      "content": "Rất OK nha!",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16481167999999999,
+      "customer_id": 595505,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4416504,
+          "full_path": "https://salt.tikicdn.com/ts/review/d9/ea/f4/d3fcc56172d3e2cd7fccceb735e50f14.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1761105164,
+      "created_by": {
+        "id": null,
+        "name": "Khách Hàng",
+        "full_name": "Khách Hàng",
+        "email": null,
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": null,
+        "group_id": null,
+        "purchased": true,
+        "purchased_at": 1760927453
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán DEVO SHOP",
+        "màu sắc Xanh dương"
+      ],
+      "product_attributes": [
+        "màu sắc: Xanh dương"
+      ],
+      "spid": 278731903,
+      "is_photo": true,
+      "seller": {
+        "id": 159903,
+        "name": "DEVO SHOP",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/6a/3f/7c/f0ccd3ae2a8d5f05bdf2ef4ae17b436c.jpg"
+      },
+      "product_id": 278731885,
+      "timeline": {
+        "review_created_date": "2025-10-22 10:52:44",
+        "delivery_date": "2025-10-21 14:38:39",
+        "current_date": "2025-10-25 22:10:45",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

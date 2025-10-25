@@ -1,0 +1,659 @@
+{
+  "id": 278620827,
+  "master_id": 278620827,
+  "sku": "9704963528499",
+  "name": "Điện thoại Samsung Galaxy A06 5G - Đã kích hoạt bảo hành điện tử - Hàng chính hãng",
+  "url_key": "dien-thoai-samsung-galaxy-a06-5g-4gb-64gb-da-kich-hoat-bao-hanh-dien-tu-hang-chinh-hang-p278620827",
+  "url_path": "dien-thoai-samsung-galaxy-a06-5g-4gb-64gb-da-kich-hoat-bao-hanh-dien-tu-hang-chinh-hang-p278620827.html?spid=278620832",
+  "short_url": "https://tiki.vn/product-p278620827.html?spid=278620832",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "Điện thoại Samsung Galaxy A06 5G (4/64GB)Điện thoại 5G - Số 1 về giá trong Galaxy AThông số kỹ thuậtMàn Hình- Công nghệ màn hình: PLS LCD- Độ phân giải: 720 x 1600 (HD+)- Kích thước: 6...",
+  "price": 2350000,
+  "list_price": 3920000,
+  "original_price": 3920000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "right_price",
+      "code": "price_badge",
+      "type": "price_badge",
+      "index": 0,
+      "icon": "https://salt.tikicdn.com/ts/upload/1c/d0/ac/e89ef64c4a607d248e9e524b69aa1d0c.png",
+      "icon_width": 75,
+      "icon_height": 22,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "left_authentic",
+      "code": "is_hero",
+      "type": "is_hero",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "text_overlay_product_image",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_hero",
+      "type": "pdp_icon_badge",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": true,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 1570000,
+  "discount_rate": 40,
+  "rating_average": 4.5,
+  "review_count": 19,
+  "review_text": "(19)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 45,
+  "all_time_quantity_sold": 42,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p>Điện thoại Samsung Galaxy A06 5G (4/64GB)<br />Điện thoại 5G - Số 1 về giá trong Galaxy A</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/21/00/72/99e1274522e4414f763779d89cd22743.jpg\" alt=\"\" width=\"750\" height=\"420\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/53/b1/bf/20fa7521ef49fb662d3fb2db97976051.jpeg\" alt=\"\" width=\"750\" height=\"437\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/c2/a5/c7/2991f2d1224d8195cdcc0e1cfd4ed6e7.jpg\" alt=\"\" width=\"750\" height=\"287\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/da/68/ae/d4940229516fd217db0abda08968f115.jpg\" alt=\"\" width=\"750\" height=\"287\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/5b/bd/6a/2926c1e8e4e481b84ff2bd26890d3491.jpg\" alt=\"\" width=\"750\" height=\"287\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/7d/36/e8/fec6def8e5d6c0cbad5a2797b2a0ed34.jpg\" alt=\"\" width=\"750\" height=\"287\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/b9/f9/ee/cf308155f0cfe4c40d1227be5779493b.jpg\" alt=\"\" width=\"750\" height=\"343\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/74/25/94/dbcf1863cebc1aecbe8bcc3cfa1ef245.jpg\" alt=\"\" width=\"750\" height=\"343\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/9e/ba/65/0f9ff53c0232e1bab944fa7a2175ffc0.jpg\" alt=\"\" width=\"750\" height=\"343\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/db/0c/b8/e5c914bab2becf252714ec7c03a02005.jpg\" alt=\"\" width=\"750\" height=\"1164\" /></p>\n<p><strong>Thông số kỹ thuật</strong></p>\n<p>Màn Hình<br />- Công nghệ màn hình: PLS LCD<br />- Độ phân giải: 720 x 1600 (HD&#43;)<br />- Kích thước: 6.7 inch<br />- Tần số quét: 90Hz<br />- Độ sáng tối đa: 480 nits<br />- Mặt kính cảm ứng: Glass</p>\n<p>Camera sau<br />- Độ phân giải: 50&#43;2MP<br />- Quay phim: FHD (1920 x 1080)&#64;30fps| Quay chậm 120fps &#64;HD<br />- TÍnh năng: Zoom quang học 10x, Panorama, Xóa phông, Chế độ ban đêm, Chuyên nghiệp, Hyperlapse, Chuyển động siêu chậm, Tự động lấy nét.</p>\n<p>Camera trước<br />- Độ phân giải: 8MP<br />- Tính năng: Chụp làm đẹp</p>\n<p>Hệ điều hành &amp; CPU<br />- Hệ điều hành: Android 15<br />- CPU: MediaTek Dimensity 6300<br />- Tốc độ CPU: 2.4GHz,2GHz, Octa-Core<br />- Chip đồ họa (GPU): Mali-G57</p>\n<p>Bộ nhớ &amp; Lưu trữ<br />- RAM: 4GB<br />- Bộ nhớ trong: 64GB<br />- Bộ nhớ còn lại (khả dụng) khoảng: 109.4GB<br />- Thẻ nhớ: MicroSD 1.5 TB</p>\n<p>Kết nối<br />- Mạng di động: Hỗ trợ 5G<br />- Sim: SIM 1 &#43; (SIM 2 hoặc 1 thẻ nhớ)</p>\n<p>Pin và sạc<br />- Dung lượng pin: 5000 mAh<br />- Công nghệ pin: Sạc nhanh<br />- Hỗ trợ sạc tối đa: 25W</p>\n<p>Thông tin chung<br />- Thiết kế: Nguyên khối<br />- Chất liệu khung viền: Nhựa<br />- Chất liệu mặt lưng máy: Nhựa<br />- Kích thước: 167.3 x 77.3 x 8.0 mm<br />- Khối lượng:191g</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 18802,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "current_seller": {
+    "id": 1,
+    "sku": "9983746637476",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 2350000,
+    "product_id": "278620832",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Samsung"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Việt Nam"
+        }
+      ]
+    },
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Xanh"
+        },
+        {
+          "label": "Xám"
+        },
+        {
+          "label": "Đen"
+        }
+      ]
+    },
+    {
+      "code": "option2",
+      "name": "Dung lượng",
+      "position": 0,
+      "show_preview_image": false,
+      "values": [
+        {
+          "label": "(4GB/128GB)"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 278620831,
+      "discount_rate": 40,
+      "id": 278620832,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/6c/98/3d2411e91022407ef4c1268873068d3e.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fd/a3/82/8934146b55bbbd9f39bbb2a05d8f9a3b.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3b/d3/b4/b7894139a8906ab5a22abcd9ffa3fafc.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/88/e6/25/55ae6a57ed4dbbd3bac264759263a1b2.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7b/da/e3/502030299c57e7eaecbd8d814cee1062.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0f/53/1e/703e84f5f648c125c2e51366538ed3c6.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8c/4d/59/8a97d32d1d79cb7ce82969a21aeb4a50.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện thoại Samsung Galaxy A06 5G - Đã kích hoạt bảo hành điện tử - Hàng chính hãng - Đen - (4GB/128GB)",
+      "option1": "Đen",
+      "option2": "(4GB/128GB)",
+      "original_price": 3920000,
+      "price": 2350000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "5703873315188",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ce/dc/3e/05f3bad9ce8b5f364ae224a73144357d.jpg"
+    },
+    {
+      "child_id": 278620833,
+      "discount_rate": 40,
+      "id": 278620834,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/09/6c/98/9b4593e9bbdd4b4982e7d1a78baf026f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/09/6c/98/9b4593e9bbdd4b4982e7d1a78baf026f.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/6c/98/9b4593e9bbdd4b4982e7d1a78baf026f.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0f/53/1e/24be9340bd2f645219925ed568d8f52b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/0f/53/1e/24be9340bd2f645219925ed568d8f52b.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0f/53/1e/24be9340bd2f645219925ed568d8f52b.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3c/e7/ec/548235f0466cf6df03b045588fd3c06d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/3c/e7/ec/548235f0466cf6df03b045588fd3c06d.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3c/e7/ec/548235f0466cf6df03b045588fd3c06d.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7b/da/e3/45d57e61d247aa7adfd0457d62838fcd.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7b/da/e3/45d57e61d247aa7adfd0457d62838fcd.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7b/da/e3/45d57e61d247aa7adfd0457d62838fcd.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/88/e6/25/2881c4a406df104f930243e597fa9b86.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/88/e6/25/2881c4a406df104f930243e597fa9b86.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/88/e6/25/2881c4a406df104f930243e597fa9b86.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/8c/4d/59/ab518adf52d49ba1dc8cdf4c6646d2ef.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/8c/4d/59/ab518adf52d49ba1dc8cdf4c6646d2ef.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8c/4d/59/ab518adf52d49ba1dc8cdf4c6646d2ef.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fd/a3/82/dbd4ac19e1e8af27a6c88c4d1ae63862.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/fd/a3/82/dbd4ac19e1e8af27a6c88c4d1ae63862.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fd/a3/82/dbd4ac19e1e8af27a6c88c4d1ae63862.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện thoại Samsung Galaxy A06 5G - Đã kích hoạt bảo hành điện tử - Hàng chính hãng - Xanh - (4GB/128GB)",
+      "option1": "Xanh",
+      "option2": "(4GB/128GB)",
+      "original_price": 3920000,
+      "price": 2350000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "3757417373651",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/3c/e7/ec/548235f0466cf6df03b045588fd3c06d.jpg"
+    },
+    {
+      "child_id": 278620835,
+      "discount_rate": 40,
+      "id": 278620836,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/09/6c/98/df7a16e1da40e2e4cc96c5a5fd9dfb17.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/09/6c/98/df7a16e1da40e2e4cc96c5a5fd9dfb17.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/6c/98/df7a16e1da40e2e4cc96c5a5fd9dfb17.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0f/53/1e/5c3eb9d72b354f25509e90a90664a284.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/0f/53/1e/5c3eb9d72b354f25509e90a90664a284.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0f/53/1e/5c3eb9d72b354f25509e90a90664a284.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/22/2f/b3/68cb737172c82a9c82264ac4ef0d2701.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/22/2f/b3/68cb737172c82a9c82264ac4ef0d2701.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/22/2f/b3/68cb737172c82a9c82264ac4ef0d2701.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3b/d3/b4/b3e304e60bc30528d73304c1701bdd68.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/3b/d3/b4/b3e304e60bc30528d73304c1701bdd68.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3b/d3/b4/b3e304e60bc30528d73304c1701bdd68.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7b/da/e3/14900880b4c2a80fdf9110df76e44974.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7b/da/e3/14900880b4c2a80fdf9110df76e44974.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7b/da/e3/14900880b4c2a80fdf9110df76e44974.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/88/e6/25/6c7c88519a1a63d1598143025a33e1c1.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/88/e6/25/6c7c88519a1a63d1598143025a33e1c1.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/88/e6/25/6c7c88519a1a63d1598143025a33e1c1.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/8c/4d/59/5c05080def083fc934a80b884c5b5fce.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/8c/4d/59/5c05080def083fc934a80b884c5b5fce.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8c/4d/59/5c05080def083fc934a80b884c5b5fce.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/fd/a3/82/1aa02b2d38e489df69946a27ee3f74a7.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/fd/a3/82/1aa02b2d38e489df69946a27ee3f74a7.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/fd/a3/82/1aa02b2d38e489df69946a27ee3f74a7.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện thoại Samsung Galaxy A06 5G - Đã kích hoạt bảo hành điện tử - Hàng chính hãng - Xám - (4GB/128GB)",
+      "option1": "Xám",
+      "option2": "(4GB/128GB)",
+      "original_price": 3920000,
+      "price": 2350000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "6736089407419",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/22/2f/b3/68cb737172c82a9c82264ac4ef0d2701.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 42",
+    "value": 42
+  },
+  "categories": {
+    "id": 1789,
+    "name": "Điện Thoại - Máy Tính Bảng",
+    "is_leaf": false
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-thoai-may-tinh-bang/c1789",
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "category_id": 1789
+    },
+    {
+      "url": "/dien-thoai-smartphone/c1795",
+      "name": "Điện thoại Smartphone",
+      "category_id": 1795
+    },
+    {
+      "url": "https://tiki.vn/dien-thoai-samsung-galaxy-a06-5g-4gb-64gb-da-kich-hoat-bao-hanh-dien-tu-hang-chinh-hang-p278620827.html",
+      "name": "Điện thoại Samsung Galaxy A06 5G - Đã kích hoạt bảo hành điện tử - Hàng chính hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278620827&pid=278620832&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "deal_specs": {
+    "deal_id": 567030462,
+    "is_hot_deal": true,
+    "qty": 50,
+    "max_sale_qty": 5,
+    "qty_ordered": 0,
+    "special_to_date": 1761411600,
+    "price": 2350000,
+    "list_price": 3920000,
+    "original_price": 3920000,
+    "discount_rate": 40,
+    "progress": 0,
+    "progress_text": "Vừa mở bán",
+    "v5": 15
+  },
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

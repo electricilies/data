@@ -18,3 +18,13 @@ tiki pages="50" path="./tiki/data":
   for page in {1..{{pages}}}; do
     ./tiki/script.sh "$page" "$path"
   done
+
+[unix]
+tiki-2 category_id pages="20" path="./tiki-2/data":
+  #!/usr/bin/env bash
+
+  set -euo pipefail
+  just mkdir {{path}}
+  for page in {1..{{pages}}}; do
+    ./tiki-2/script.sh {{category_id}} "$page" {{path}}
+  done

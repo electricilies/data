@@ -1,0 +1,184 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 1,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20179156,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16071257,
+      "customer_id": 21377404,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1760004637,
+      "created_by": {
+        "id": 21377404,
+        "name": "Sakigen Generators",
+        "full_name": "Sakigen Generators",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/256x256/ts/avatar/d5/6d/29/23831fbc3bfc06205f4e0a6bd98b422d.png",
+        "created_time": "2021-04-17 20:00:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1758283876,
+        "contribute_info": {
+          "id": 21377404,
+          "name": "Sakigen Generators",
+          "avatar": "https://salt.tikicdn.com/cache/256x256/ts/avatar/d5/6d/29/23831fbc3bfc06205f4e0a6bd98b422d.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Philips TV Official Store"
+      ],
+      "product_attributes": [],
+      "spid": 278442630,
+      "is_photo": false,
+      "seller": {
+        "id": 7361,
+        "name": "Philips TV Official Store",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/dc/5a/95/743aff93b5d001aca93cbc0e1477251a.jpg"
+      },
+      "product_id": 278442629,
+      "timeline": {
+        "review_created_date": "2025-10-09 17:10:37",
+        "delivery_date": "2025-09-23 17:24:09",
+        "current_date": "2025-10-25 22:03:51",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 3333423,
+          "review_id": 20179156,
+          "commentator": "customer",
+          "customer_id": 11954541,
+          "fullname": "Ho thanh tuan",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "sản phẩm này có xem kenh truyền hình việt nam được không",
+          "score": 0,
+          "create_at": 1761180997,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Âm thanh rõ",
+          "Độ phân giải sắc nét",
+          "Màn hình đẹp",
+          "Nhẹ"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

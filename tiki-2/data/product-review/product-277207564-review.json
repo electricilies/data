@@ -1,0 +1,1453 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 4
+    },
+    "2": {
+      "count": 1,
+      "percent": 4
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 3,
+      "percent": 15
+    },
+    "5": {
+      "count": 16,
+      "percent": 77
+    }
+  },
+  "rating_average": 4.5,
+  "reviews_count": 21,
+  "review_photo": {
+    "total": 2,
+    "total_photo": 2
+  },
+  "data": [
+    {
+      "id": 20149030,
+      "title": "Không hài lòng",
+      "content": "Gắn vào máy hay bị sút ra khi giặt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 28.055555559999998,
+      "new_score": 0.16210002000000001,
+      "customer_id": 30308808,
+      "comment_count": 1,
+      "rating": 2,
+      "images": [],
+      "thanked": false,
+      "created_at": 1753000936,
+      "created_by": {
+        "id": 30308808,
+        "name": "Nguyễn Văn Khánh ",
+        "full_name": "Nguyễn Văn Khánh ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2025-02-28 18:29:30",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1741694029,
+        "contribute_info": {
+          "id": 30308808,
+          "name": "Nguyễn Văn Khánh ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt"
+      ],
+      "product_attributes": [],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2025-07-20 15:42:16",
+        "delivery_date": "2025-03-13 15:51:37",
+        "current_date": "2025-10-25 22:04:42",
+        "content": "Đã dùng 4 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 tháng."
+      },
+      "comments": [
+        {
+          "id": 3327590,
+          "review_id": 20149030,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn Khánh, Tiki rất tiếc về chất lượng sản phẩm chưa được như mong đợi của bạn. Hy vọng bạn sẽ có những trải nghiệm tuyệt vời hơn với các sản phẩm ở những đơn hàng sau.  ",
+          "score": 0,
+          "create_at": 1753001268,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20047344,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.047361939999999998,
+      "new_score": 0.15522040000000001,
+      "customer_id": 22919712,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1734000744,
+      "created_by": {
+        "id": 22919712,
+        "name": "Lê Thị Đoan trang ",
+        "full_name": "Lê Thị Đoan trang ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-08-08 13:03:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1721734218,
+        "contribute_info": {
+          "id": 22919712,
+          "name": "Lê Thị Đoan trang ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 10,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2024-12-12 17:52:24",
+        "delivery_date": "2024-07-27 15:26:24",
+        "current_date": "2025-10-25 22:04:42",
+        "content": "Đã dùng 5 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12765140,
+      "title": "Rất không hài lòng",
+      "content": "Tiki giao sai sản phẩm do lổi Tiki. Tôi chờ thu hồi từ 26/7/21 đến nay 21/10/21. Mãi ko thấy thu hồi trã lại tiền cho tôi.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00234191,
+      "new_score": 0.14722077,
+      "customer_id": 11654744,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [
+        {
+          "id": 2636699,
+          "full_path": "https://salt.tikicdn.com/ts/review/dc/6b/10/66912bd9970b159225ebd989fd3943d7.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1634888991,
+      "created_by": {
+        "id": 11654744,
+        "name": "Hoang Gia Tho",
+        "full_name": "Hoang Gia Tho",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-04-07 15:03:03",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1627263058,
+        "contribute_info": {
+          "id": 11654744,
+          "name": "Hoang Gia Tho",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": true,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-10-22 14:49:51",
+        "delivery_date": "2021-07-30 10:23:07",
+        "current_date": "2025-10-25 22:04:42",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [
+        {
+          "id": 1853096,
+          "review_id": 12765140,
+          "commentator": "seller",
+          "customer_id": 183206,
+          "fullname": "Linh kiện điện lạnh Văn Đạt",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+          "content": "shop đã nhận hàng thu hồi và hoàn tiền cho anh, xin lỗi anh vì đơn hàng mình trùng đợt TPHCM phong tỏa nên không thu hồi nên thời gian xử lý lâu",
+          "score": 0,
+          "create_at": 1638327332,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14015162,
+      "title": "Cực kì hài lòng",
+      "content": "san pham y hinh. ma sao co 1 cai day......",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00244918,
+      "new_score": 0.14121576999999999,
+      "customer_id": 24038716,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 2930309,
+          "full_path": "https://salt.tikicdn.com/ts/review/32/dc/48/86feb836ead8a23df29d35fc43d6cb76.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1640231341,
+      "created_by": {
+        "id": 24038716,
+        "name": "Quoc thoai",
+        "full_name": "Quoc thoai",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-10-11 19:26:40",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1639829580,
+        "contribute_info": {
+          "id": 24038716,
+          "name": "Quoc thoai",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 17,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": true,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-12-23 10:49:01",
+        "delivery_date": "2021-12-23 10:46:22",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 3 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14651779,
+      "title": "Hài lòng",
+      "content": "Lưới lọc dùng tốt, chắc tôi phải mua mấy cái nữa :D",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0020991299999999998,
+      "new_score": 0.14058846,
+      "customer_id": 26563394,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1642942872,
+      "created_by": {
+        "id": 26563394,
+        "name": "Nguyễn Phú Hùng",
+        "full_name": "Nguyễn Phú Hùng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-01-17 20:19:22",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1642429455,
+        "contribute_info": {
+          "id": 26563394,
+          "name": "Nguyễn Phú Hùng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Giao hàng nhanh"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2022-01-23 20:01:12",
+        "delivery_date": "2022-01-20 08:20:16",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17774675,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00269178,
+      "new_score": 0.14041891000000001,
+      "customer_id": 13251606,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1663919825,
+      "created_by": {
+        "id": 13251606,
+        "name": "Nguyễn Văn Hùng Long",
+        "full_name": "Nguyễn Văn Hùng Long",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/b/6/a/e/10/120/368cb7556130e559c30b440e03c3add8.jpg",
+        "created_time": "2019-08-04 20:30:37",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1656928310,
+        "contribute_info": {
+          "id": 13251606,
+          "name": "Nguyễn Văn Hùng Long",
+          "avatar": "https://s120.avatar.talk.zdn.vn/b/6/a/e/10/120/368cb7556130e559c30b440e03c3add8.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 10,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2022-09-23 14:57:05",
+        "delivery_date": "2022-07-07 17:32:16",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15334456,
+      "title": "Cực kì hài lòng",
+      "content": "tốt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0021880900000000002,
+      "new_score": 0.13714042000000001,
+      "customer_id": 23592380,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1646818855,
+      "created_by": {
+        "id": 23592380,
+        "name": "Vân Nguyễn",
+        "full_name": "Vân Nguyễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-09-16 10:50:33",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1645704213,
+        "contribute_info": {
+          "id": 23592380,
+          "name": "Vân Nguyễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2022-03-09 16:40:55",
+        "delivery_date": "2022-03-08 07:50:03",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15500793,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0022089700000000002,
+      "new_score": 0.13698919000000001,
+      "customer_id": 16289909,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1647681077,
+      "created_by": {
+        "id": 16289909,
+        "name": "nghê gia khánh",
+        "full_name": "nghê gia khánh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-02-06 16:48:49",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1646827850,
+        "contribute_info": {
+          "id": 16289909,
+          "name": "nghê gia khánh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 23,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2022-03-19 16:11:17",
+        "delivery_date": "2022-03-15 16:06:21",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 11445026,
+      "title": "Cực kì hài lòng",
+      "content": "sản phẩm như hình, giao hàng nhanh, rất uy tín",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00180182,
+      "new_score": 0.13640183,
+      "customer_id": 22612570,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1627223782,
+      "created_by": {
+        "id": 22612570,
+        "name": "Huỳnh Minh Hiền",
+        "full_name": "Huỳnh Minh Hiền",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-07-13 12:01:57",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1626152890,
+        "contribute_info": {
+          "id": 22612570,
+          "name": "Huỳnh Minh Hiền",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-07-25 21:36:22",
+        "delivery_date": "2021-07-16 13:52:05",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 9 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14182114,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0020557100000000001,
+      "new_score": 0.13556383,
+      "customer_id": 273251,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1640932400,
+      "created_by": {
+        "id": 273251,
+        "name": "Trần Nho",
+        "full_name": "Trần Nho",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-01-17 10:36:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1640587667,
+        "contribute_info": {
+          "id": 273251,
+          "name": "Trần Nho",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 146,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [
+        "Giao hàng nhanh"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-12-31 13:33:20",
+        "delivery_date": "2021-12-29 14:34:11",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 14009038,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0020401600000000001,
+      "new_score": 0.13540682000000001,
+      "customer_id": 15577859,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1640188972,
+      "created_by": {
+        "id": 15577859,
+        "name": "Châu Huy Hoàng ",
+        "full_name": "Châu Huy Hoàng ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-12-20 12:39:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1639840570,
+        "contribute_info": {
+          "id": 15577859,
+          "name": "Châu Huy Hoàng ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-12-22 23:02:52",
+        "delivery_date": "2021-12-22 11:34:52",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 11 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13965588,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0020372400000000001,
+      "new_score": 0.13537756000000001,
+      "customer_id": 12118564,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1640050438,
+      "created_by": {
+        "id": 12118564,
+        "name": "NGUYỄN HOÀNG THUỲ TRANG",
+        "full_name": "NGUYỄN HOÀNG THUỲ TRANG",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-05-16 22:03:41",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1638343741,
+        "contribute_info": {
+          "id": 12118564,
+          "name": "NGUYỄN HOÀNG THUỲ TRANG",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-12-21 08:33:58",
+        "delivery_date": "2021-12-06 10:45:24",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13692522,
+      "title": "Cực kì hài lòng",
+      "content": "ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0020152199999999999,
+      "new_score": 0.13528392,
+      "customer_id": 20140893,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1638975798,
+      "created_by": {
+        "id": 20140893,
+        "name": "đức trung",
+        "full_name": "đức trung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-01-31 21:38:24",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1638683831,
+        "contribute_info": {
+          "id": 20140893,
+          "name": "đức trung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 10,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-12-08 22:03:18",
+        "delivery_date": "2021-12-08 18:07:56",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 13616666,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0020081500000000002,
+      "new_score": 0.13507730000000001,
+      "customer_id": 25659460,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1638628795,
+      "created_by": {
+        "id": 25659460,
+        "name": "Đàm hạnh",
+        "full_name": "Đàm hạnh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-11-27 10:37:41",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1637984682,
+        "contribute_info": {
+          "id": 25659460,
+          "name": "Đàm hạnh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-12-04 21:39:55",
+        "delivery_date": "2021-12-03 13:14:23",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12739239,
+      "title": "Cực kì hài lòng",
+      "content": "🙂",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0019335800000000001,
+      "new_score": 0.13453254000000001,
+      "customer_id": 23865289,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1634786896,
+      "created_by": {
+        "id": 23865289,
+        "name": "nguyễn văn đạt",
+        "full_name": "nguyễn văn đạt",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-10-01 13:21:46",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1633074558,
+        "contribute_info": {
+          "id": 23865289,
+          "name": "nguyễn văn đạt",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-10-21 10:28:16",
+        "delivery_date": "2021-10-21 10:11:06",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 17 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 17 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12517200,
+      "title": "Cực kì hài lòng",
+      "content": "quá ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00191505,
+      "new_score": 0.134521,
+      "customer_id": 15312336,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1633785329,
+      "created_by": {
+        "id": 15312336,
+        "name": "Trung Nguyen",
+        "full_name": "Trung Nguyen",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=192473695128086&height=200&width=200&ext=1578182521&hash=AeQYnrTLNCM5Ex5e",
+        "created_time": "2019-12-06 07:02:51",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1632729240,
+        "contribute_info": {
+          "id": 15312336,
+          "name": "Trung Nguyen",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=192473695128086&height=200&width=200&ext=1578182521&hash=AeQYnrTLNCM5Ex5e",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 10,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-10-09 20:15:29",
+        "delivery_date": "2021-10-01 12:40:14",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 8 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 8 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 10924593,
+      "title": "Hài lòng",
+      "content": "Hơi đắt nhưng dùng ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00177539,
+      "new_score": 0.13411972,
+      "customer_id": 7372800,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1625572426,
+      "created_by": {
+        "id": 7372800,
+        "name": " thúy phượng",
+        "full_name": " thúy phượng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-06-28 14:53:28",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647956208,
+        "contribute_info": {
+          "id": 7372800,
+          "name": " thúy phượng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Đóng gói tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-07-06 18:53:46",
+        "delivery_date": "2021-07-06 14:47:07",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 4 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12339337,
+      "title": "Cực kì hài lòng",
+      "content": "tot",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0018953799999999999,
+      "new_score": 0.13402558000000001,
+      "customer_id": 23315610,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1632702258,
+      "created_by": {
+        "id": 23315610,
+        "name": "Vo Thi Le Trinh",
+        "full_name": "Vo Thi Le Trinh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-08-29 20:14:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1630243067,
+        "contribute_info": {
+          "id": 23315610,
+          "name": "Vo Thi Le Trinh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 57,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-09-27 07:24:18",
+        "delivery_date": "2021-09-01 11:55:15",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12317315,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0018925400000000001,
+      "new_score": 0.13379247,
+      "customer_id": 7997897,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1632545485,
+      "created_by": {
+        "id": 7997897,
+        "name": "Nguyễn Thị Mộng Thu",
+        "full_name": "Nguyễn Thị Mộng Thu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-09-13 08:59:40",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1632193418,
+        "contribute_info": {
+          "id": 7997897,
+          "name": "Nguyễn Thị Mộng Thu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-09-25 11:51:25",
+        "delivery_date": "2021-09-25 11:39:00",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 12 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 12084425,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00185904,
+      "new_score": 0.13339018999999999,
+      "customer_id": 350300,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1630640809,
+      "created_by": {
+        "id": 350300,
+        "name": "Đỗ Thánh",
+        "full_name": "Đỗ Thánh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-05-18 22:01:38",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1628393765,
+        "contribute_info": {
+          "id": 350300,
+          "name": "Đỗ Thánh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 16,
+            "total_thank": 376
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Linh kiện điện lạnh Văn Đạt",
+        "Cái 1 cái"
+      ],
+      "product_attributes": [
+        "Cái: 1 cái"
+      ],
+      "spid": 109187381,
+      "is_photo": false,
+      "seller": {
+        "id": 183206,
+        "name": "Linh kiện điện lạnh Văn Đạt",
+        "logo": ""
+      },
+      "product_id": 277207564,
+      "timeline": {
+        "review_created_date": "2021-09-03 10:46:49",
+        "delivery_date": "2021-08-21 12:03:15",
+        "current_date": "2025-10-25 22:04:43",
+        "content": "Đã dùng 13 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 13 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 21,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 2,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

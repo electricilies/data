@@ -1,0 +1,164 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 100
+    },
+    "5": {
+      "count": 0,
+      "percent": 0
+    }
+  },
+  "rating_average": 4,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20139077,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15873736999999999,
+      "customer_id": 13039943,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1750652604,
+      "created_by": {
+        "id": 13039943,
+        "name": "Tuấn Anh Vũ Gia",
+        "full_name": "Tuấn Anh Vũ Gia",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/a/6/4/1/5/120/aa85f9ef068804d8999d2d08441e54ab.jpg",
+        "created_time": "2019-07-23 06:15:19",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1750321055,
+        "contribute_info": {
+          "id": 13039943,
+          "name": "Tuấn Anh Vũ Gia",
+          "avatar": "https://s120.avatar.talk.zdn.vn/a/6/4/1/5/120/aa85f9ef068804d8999d2d08441e54ab.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 8,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán CST Telecom"
+      ],
+      "product_attributes": [],
+      "spid": 277610549,
+      "is_photo": false,
+      "seller": {
+        "id": 54082,
+        "name": "CST Telecom",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/0d/c9/5c/2ee24a0cace9ec8828f3d9ccce301a02.jpg"
+      },
+      "product_id": 277610548,
+      "timeline": {
+        "review_created_date": "2025-06-23 11:23:24",
+        "delivery_date": "2025-06-22 16:19:13",
+        "current_date": "2025-10-25 22:04:37",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

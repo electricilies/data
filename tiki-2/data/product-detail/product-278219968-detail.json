@@ -1,0 +1,493 @@
+{
+  "id": 278219968,
+  "master_id": 278219968,
+  "sku": "4454318932218",
+  "name": "Điện thoại OPPO A3 8GB/128GB - Hàng Chính Hãng",
+  "url_key": "dien-thoai-oppo-a3-6gb-128gb-hang-chinh-hang-p278219968",
+  "url_path": "dien-thoai-oppo-a3-6gb-128gb-hang-chinh-hang-p278219968.html?spid=278219978",
+  "short_url": "https://tiki.vn/product-p278219968.html?spid=278219978",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "Chiếc điện thoại bền bỉ, hiệu suất tốt bởi cấu hình từ Snapdragon 6s 4G Gen 1, pin siêu lớn 5.100mAh, sạc nhanh 45W, độ bền chuẩn quân đội và kháng bụi/nước IP54.Đạt chuẩn độ bền quân đội bền bỉOP...",
+  "price": 5290000,
+  "list_price": 5290000,
+  "original_price": 5290000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_authentic",
+      "code": "is_hero",
+      "type": "is_hero",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "text_overlay_product_image",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_hero",
+      "type": "pdp_icon_badge",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": true,
+      "is_top_brand": true,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 4.7,
+  "review_count": 6,
+  "review_text": "(6)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 117,
+  "all_time_quantity_sold": 2612,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<div class=\"ProductContent_description-container__miT3z\">\n<p><strong>Chiếc điện thoại bền bỉ, hiệu suất tốt bởi cấu hình từ Snapdragon 6s 4G Gen 1, pin siêu lớn 5.100mAh, sạc nhanh 45W, độ bền chuẩn quân đội và kháng bụi/nước IP54.</strong></p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/bb/8e/e2/fb531cf14a632e72daeefebed14a81fc.jpg\" alt=\"OPPO A3 (ảnh 1)\" />\n<h3><strong>Đạt chuẩn độ bền quân đội bền bỉ</strong></h3>\n<p>OPPO A3 sở hữu thiết kế bền bỉ, khung máy hợp kim, tổng thể đạt chuẩn độ bền quân đội. Theo đó, OPPO A3 đã vượt qua những bài kiểm tra khắt khe về khả năng chống sốc, rơi, đảm bảo sử dụng dài lâu theo năm tháng. Phần cấu trúc máy được  chế tác tương tự giống bọt biển để lại những khoảng trống thích hợp, gia tăng độ bền vượt trội, khả năng chống chịu khi va đập.</p>\n<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/b9/0d/1f/cb5e3e62ee41bc1f956a2a02c48300dc.jpg\" alt=\"Độ bền OPPO A3\" /></p>\n<h3><strong>Kháng nước kháng bụi IP54</strong></h3>\n<p>Ngoài độ bền, thì OPPO A3 còn ghi điểm bởi chuẩn kháng bụi nước/bụi IP54. Đây là một chuẩn quan trọng, giúp bảo vệ thiết bị khỏi các tác động từ môi trường bên ngoài. Cụ thể, điện thoại sẽ được bảo vệ tốt, đảm bảo thẩm mỹ khi có thể chống lại hầu hết các hạt bụi. Đối với tính năng kháng nước, OPPO A3 sẽ chống được nước phun từ mọi hướng. Điều này đặc biệt hữu ích khi người dùng phải sử dụng thiết bị trong những điều kiện thời tiết không thuận lợi, như mưa nhẹ hoặc môi trường ẩm ướt. Sự kết hợp giữa độ bền vượt trội và khả năng kháng nước, bụi của OPPO A3 giúp thiết bị trở thành một lựa chọn lý tưởng cho những ai cần một chiếc điện thoại đáng tin cậy, có thể sử dụng trong nhiều điều kiện khác nhau mà không phải lo lắng về vấn đề hư hỏng.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/34/fd/f7/90a4e7f4288f999f8e72678eebfdedf5.jpg\" alt=\"Kháng nước OPPO A3\" />\n<h3><strong>Kiểu dáng gọn nhẹ, nổi bật bởi sắc màu trendy</strong></h3>\n<p>OPPO A3 thu hút người dùng với kiểu dáng gọn nhẹ và sắc màu trendy, đáp ứng nhu cầu thẩm mỹ và thời trang của người dùng hiện đại. Với thiết kế mỏng chỉ 7.68mm và trọng lượng 186g, OPPO A3 mang lại cảm giác thoải mái khi cầm nắm và sử dụng. Mặt lưng của máy được thiết kế tinh tế, sang trọng với cụm camera tương tự như những dòng flagship cao cấp. Đặc biệt, sắc màu tím trendy của OPPO A3 là điểm nhấn ấn tượng, trong khi phiên bản màu đen lại mang đến sự giản đơn, tinh tế, phù hợp với những ai yêu thích phong cách thanh lịch. Sự đa dạng về màu sắc giúp người dùng dễ dàng lựa chọn phiên bản phù hợp với phong cách cá nhân của mình.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/fe/3e/64/4b5755b21fd2ff353d9162767b2d8bbf.jpg\" alt=\"Thiết kế OPPO A3\" />\n<h3><strong>Sức mạnh ổn định từ Snapdragon 6s Gen 1</strong></h3>\n<p>OPPO A3 được trang bị chipset ổn định từ nhà Qualcomm là Snapdragon 6s Gen 1 tiến trình 11nm phiên bản 4G. Chipset này có thể xử lý nhanh và mượt các tác vụ hằng ngày, đáp ứng nhu cầu sử dụng các bạn học sinh, sinh viên, tìm kiếm thông tin, tài liệu học tập. Không những vậy, smartphone còn là thiết bị giải trí lý tưởng sau ngày học tập chăm chỉ, giúp bạn có tinh thần thoải mái, cân bằng cuộc sống học tập và giải trí hiệu quả.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/07/8f/9b/e03f29285e84c0c286abf0d39825c8b3.jpg\" alt=\"Hiệu năng OPPO A3\" />\n<h3><strong>Thỏa thích lưu trữ và đa nhiệm</strong></h3>\n<p>Bộ nhớ của OPPO A3 cũng là một điểm cộng lớn với dung lượng lưu trữ lên đến 128GB. Điều này giúp người dùng, đặc biệt là thế hệ Gen Z, có thể lưu trữ một lượng lớn ảnh, video, tài liệu học tập mà không lo lắng về việc hết dung lượng. Kết hợp với 6GB RAM, OPPO A3 dễ dàng xử lý đa nhiệm, cho phép mở nhiều ứng dụng cùng lúc mà không gặp phải tình trạng giật lag.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/3d/90/85/da613441eae76fcd664f2d116f0b4713.jpg\" alt=\"Bộ nhớ OPPO A3\" />\n<h3><strong>Viên pin 5.100mAh, sẵn sàng cho mọi hoạt động</strong></h3>\n<p>OPPO A3 sẵn sàng cho mọi hoạt động, luôn đồng hành cùng người dùng để đi học, hoạt động thể dục, thể thao, đi chơi, gặp gỡ bạn bè, giải trí, xem phim, chơi game với viên pin 5.100mAh. Theo OPPO, trong một lần sạc, OPPO A3 đáp ứng 9 giờ chơi PUBG liên tục. Ngoài ra, thiết bị có thể kéo dài thời gian sử dụng đến 14 ngày ở chế độ chờ. Trong các chuyến du lịch, OPPO A3 còn là một người bạn đồng hành để người dùng thoải mái sử dụng tác vụ nhiếp ảnh tốn nhiều pin mà không sợ bị gián đoạn giữa chừng.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/1a/52/87/8826b1096ad95f7aef7d5ba53cab5dc7.jpg\" alt=\"Pin OPPO A3\" />\n<h3><strong>Màn hình 90Hz sắc nét, độ sáng đạt 1000 nits</strong></h3>\n<p>Màn hình của OPPO A3 được cải tiến đáng kể so với các thế hệ trước. Với kích thước 6.7 inch, tấm nền LCD cùng thiết kế “đục lỗ” hiện đại, OPPO A3 tối ưu không gian hiển thị, mang đến trải nghiệm thị giác tốt cho người dùng. Màn hình có tần số quét 90Hz và độ sáng lên đến 1000 nits, giúp hiển thị chi tiết sắc nét ngay cả dưới ánh sáng mạnh ngoài trời. Đặc biệt, tính năng cảm ứng kháng nước Splash Touch cho phép bạn thao tác mượt mà ngay cả khi tay ướt, tăng cường tính tiện dụng trong mọi điều kiện.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/09/f5/b8/159e55753b3ab9dd44fa60675db76483.jpg\" alt=\"Màn hình OPPO A3\" />\n<h3><strong>Sạc nhanh 45W, rút ngắn thời gian sạc hiệu quả</strong></h3>\n<p>So với các đại diện trong cùng phân khúc, OPPO A3 ghi điểm bởi sạc nhanh đến 45W, giúp rút ngắn thời gian sạc đáng kể. Chỉ cần 15 phút sạc là bạn đã có ngay 30% sử dụng tiếp tục cả ngày dài. Viên pin 5.100mAh của OPPO A3 có thể được sạc đầy trong vòng 74 phút, giúp tiết kiệm thời gian và đảm bảo máy luôn sẵn sàng cho mọi hoạt động.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/4e/ff/90/9ba623d468d4b31de5ca8c1aa148e041.jpg\" alt=\"Sạc nhanh OPPO A3\" />\n<h3><strong>Camera chính 50MP, ghi lại khung hình sắc nét</strong></h3>\n<p>Nhiếp ảnh điện thoại chất lượng trong tầm giá với camera chính đạt độ phân giải 50MP. Người dùng có thể thỏa thích chụp sắc nét từ nội dung học tập của bài giảng, những khoảnh khắc yêu thích hàng ngày đến những chuyến du lịch vui vẻ cùng bạn bè, người thân. Đi kèm đó là camera trước 5MP để bạn chụp selfie cũng như thực hiện các cuộc gọi video call rõ ràng.</p>\n<img src=\"https://salt.tikicdn.com/cache/w750/ts/product/17/86/b4/90e83d34b490189a2417a551fd564731.jpg\" alt=\"Camera OPPO A3\" />\n</div>\n<div class=\"flex w-full flex-col items-center justify-end\">Rút gọn</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 25643,
+    "name": "OPPO",
+    "slug": "oppo"
+  },
+  "current_seller": {
+    "id": 1,
+    "sku": "2022716995679",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 5290000,
+    "product_id": "278219978",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "OPPO"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Trung Quốc"
+        }
+      ]
+    },
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Trắng"
+        },
+        {
+          "label": "Đen"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 278219969,
+      "discount_rate": 0,
+      "id": 278219978,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ff/1a/4f/acc018dbc1857bf2ded7587d2222a858.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/8b/75/e7/610af13131f40593fe957d1d691b597b.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d4/85/2c/fa9c9dc9d6f300c5eebe0ba4297c9bbe.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện thoại OPPO A3 8GB/128GB - Hàng Chính Hãng - Đen",
+      "option1": "Đen",
+      "original_price": 5290000,
+      "price": 5290000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "5331426672351",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/06/86/b4/83714e05899252ed2497c12553219ae0.jpg"
+    },
+    {
+      "child_id": 278240504,
+      "discount_rate": 0,
+      "id": 278240505,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/12/1c/02/ebd2c94da5ac9b7472b63c61af029393.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/12/1c/02/ebd2c94da5ac9b7472b63c61af029393.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/12/1c/02/ebd2c94da5ac9b7472b63c61af029393.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/22/99/21/b7208d9c10e0fe66914223792ff9281f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/22/99/21/b7208d9c10e0fe66914223792ff9281f.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/22/99/21/b7208d9c10e0fe66914223792ff9281f.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/2c/fe/59/7c62ed5b34dd632b6e6e5962e3e0e3df.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/2c/fe/59/7c62ed5b34dd632b6e6e5962e3e0e3df.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/2c/fe/59/7c62ed5b34dd632b6e6e5962e3e0e3df.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/59/b1/55/d8e4fd21fea3433ca0774c0c4c32cdfc.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/59/b1/55/d8e4fd21fea3433ca0774c0c4c32cdfc.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/59/b1/55/d8e4fd21fea3433ca0774c0c4c32cdfc.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/bc/4d/ce/f9bd60f042285450e1ca97ea87bd0b65.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/bc/4d/ce/f9bd60f042285450e1ca97ea87bd0b65.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/bc/4d/ce/f9bd60f042285450e1ca97ea87bd0b65.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện thoại OPPO A3 8GB/128GB - Hàng Chính Hãng - Trắng",
+      "option1": "Trắng",
+      "original_price": 5290000,
+      "price": 5290000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "6529287031634",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/28/50/02/5fb991d06aa5c4ec4dbb735e224a868f.png"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 2k",
+    "value": 2612
+  },
+  "categories": {
+    "id": 1795,
+    "name": "Điện thoại Smartphone",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-thoai-may-tinh-bang/c1789",
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "category_id": 1789
+    },
+    {
+      "url": "/dien-thoai-smartphone/c1795",
+      "name": "Điện thoại Smartphone",
+      "category_id": 1795
+    },
+    {
+      "url": "https://tiki.vn/dien-thoai-oppo-a3-6gb-128gb-hang-chinh-hang-p278219968.html",
+      "name": "Điện thoại OPPO A3 8GB/128GB - Hàng Chính Hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trả góp từ 440.833<sup><small>₫</small></sup>/tháng",
+      "icon": "https://salt.tikicdn.com/ts/upload/39/c5/e5/da087b9fd6fa5cf4c5aa0d6d2eb454df.png",
+      "summary": "Qua thẻ tín dụng Visa, Mastercard, JCB.",
+      "title": "Trả góp từ 440.833 <sup><small>₫</small></sup>/tháng",
+      "type": "installment",
+      "url": "https://tiki.vn/installment?masterId=278219968&&spid=278219978"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278219968&pid=278219978&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

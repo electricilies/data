@@ -1,0 +1,238 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 50
+    },
+    "5": {
+      "count": 1,
+      "percent": 50
+    }
+  },
+  "rating_average": 4.5,
+  "reviews_count": 2,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 1
+  },
+  "data": [
+    {
+      "id": 20022005,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng chính hãng .giá tốt.4g mạnh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16015207000000001,
+      "customer_id": 10182058,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4386032,
+          "full_path": "https://salt.tikicdn.com/ts/review/a5/a6/78/2576811f0c52d55d8a26728177c3ac19.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1730520727,
+      "created_by": {
+        "id": 10182058,
+        "name": "Nguyễn Ngọc Thắng",
+        "full_name": "Nguyễn Ngọc Thắng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-01-05 08:04:20",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1730370127,
+        "contribute_info": {
+          "id": 10182058,
+          "name": "Nguyễn Ngọc Thắng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 34,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu Sắc  Black/Đen"
+      ],
+      "product_attributes": [
+        "Màu Sắc:  Black/Đen"
+      ],
+      "spid": 274019971,
+      "is_photo": true,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 274019962,
+      "timeline": {
+        "review_created_date": "2024-11-02 11:12:07",
+        "delivery_date": "2024-11-02 10:30:17",
+        "current_date": "2025-10-25 22:08:04",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20043887,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.79365079000000005,
+      "new_score": 0.15511179,
+      "customer_id": 2024781,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1733486478,
+      "created_by": {
+        "id": 2024781,
+        "name": "Hoàng Đình Thanh",
+        "full_name": "Hoàng Đình Thanh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-12-30 10:47:13",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1728965597,
+        "contribute_info": {
+          "id": 2024781,
+          "name": "Hoàng Đình Thanh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 36,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán THẮNG THAO MOBILE",
+        "Màu Sắc Xanh Đen"
+      ],
+      "product_attributes": [
+        "Màu Sắc: Xanh Đen"
+      ],
+      "spid": 274019972,
+      "is_photo": false,
+      "seller": {
+        "id": 179232,
+        "name": "THẮNG THAO MOBILE",
+        "logo": "83/e1/c3/2c071fbb04d92608a1dbdf96f7269ca3.jpg"
+      },
+      "product_id": 274019962,
+      "timeline": {
+        "review_created_date": "2024-12-06 19:01:18",
+        "delivery_date": "2024-10-17 16:59:50",
+        "current_date": "2025-10-25 22:08:04",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 2,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

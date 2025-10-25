@@ -1,0 +1,276 @@
+{
+  "stars": {
+    "1": {
+      "count": 1,
+      "percent": 50
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 50
+    },
+    "5": {
+      "count": 0,
+      "percent": 0
+    }
+  },
+  "rating_average": 2.5,
+  "reviews_count": 2,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20001928,
+      "title": "Rất không hài lòng",
+      "content": "Sản phẩm rất tệ làm không được gì hết không ăn cua",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.056216929999999998,
+      "new_score": 0.15866986,
+      "customer_id": 17778937,
+      "comment_count": 2,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1728553237,
+      "created_by": {
+        "id": 17778937,
+        "name": "Nguyen Chinh",
+        "full_name": "Nguyen Chinh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-07-13 10:45:24",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729402796,
+        "contribute_info": {
+          "id": 17778937,
+          "name": "Nguyen Chinh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 16,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+        "Loại Trắng 1 rảnh"
+      ],
+      "product_attributes": [
+        "Loại: Trắng 1 rảnh"
+      ],
+      "spid": 273912497,
+      "is_photo": false,
+      "seller": {
+        "id": 6878,
+        "name": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/84/f0/28/118a95ffca18fb22c37ba59257476b0e.jpg"
+      },
+      "product_id": 276621556,
+      "timeline": {
+        "review_created_date": "2024-10-10 16:40:37",
+        "delivery_date": "2024-10-10 11:20:47",
+        "current_date": "2025-10-25 22:04:46",
+        "content": "Đã dùng 5 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 giờ."
+      },
+      "comments": [
+        {
+          "id": 3268534,
+          "review_id": 20001928,
+          "commentator": "seller",
+          "customer_id": 6878,
+          "fullname": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/84/f0/28/118a95ffca18fb22c37ba59257476b0e.jpg",
+          "content": "Shop chào anh ạ, Shop có hỗ trợ đổi lại cái mới cho anh rồi ạ. Shop rất tiếc vì sự cố chất lượng hàng hóa chưa làm hài lòng trải nghiệm của mình ạ. Bên shop bao đổi trả và hoàn tiền 100% trong vòng 14 ngày không cần lý do ạ!",
+          "score": 0,
+          "create_at": 1729240081,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3264616,
+          "review_id": 20001928,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn, Tiki đã nhận được nhận xét từ bạn, Tiki rất tiếc vì sản phẩm nhận được phát sinh sự cố và chưa đáp ứng như kì vọng từ bạn. Tiki có liên hệ với bạn nhưng không thành công (không nghe máy). Trường hợp bạn có nhu cầu kiểm tra, bạn vui lòng liên hệ với Tiki tại https://tiki.vn/lien-he/gui-yeu-cau hoặc qua tổng đài 19006035 theo thời gian xử lí của chính sách Tiki bạn nhé. Trân trọng",
+          "score": 0,
+          "create_at": 1728553369,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20001418,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.055281879999999999,
+      "new_score": 0.15406444,
+      "customer_id": 13015002,
+      "comment_count": 1,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1728527599,
+      "created_by": {
+        "id": 13015002,
+        "name": "Tran Minh Kha",
+        "full_name": "Tran Minh Kha",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-07-21 15:43:16",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1728216801,
+        "contribute_info": {
+          "id": 13015002,
+          "name": "Tran Minh Kha",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+        "Loại Trắng 1 rảnh"
+      ],
+      "product_attributes": [
+        "Loại: Trắng 1 rảnh"
+      ],
+      "spid": 273912497,
+      "is_photo": false,
+      "seller": {
+        "id": 6878,
+        "name": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/84/f0/28/118a95ffca18fb22c37ba59257476b0e.jpg"
+      },
+      "product_id": 276621556,
+      "timeline": {
+        "review_created_date": "2024-10-10 09:33:19",
+        "delivery_date": "2024-10-08 12:20:39",
+        "current_date": "2025-10-25 22:04:46",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [
+        {
+          "id": 3270709,
+          "review_id": 20001418,
+          "commentator": "seller",
+          "customer_id": 6878,
+          "fullname": "VẬT TƯ ĐIỆN LẠNH THUẬN DUNG",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/84/f0/28/118a95ffca18fb22c37ba59257476b0e.jpg",
+          "content": "Shop Vật Tư Điện Lạnh Thuận Dung xin cám ơn quý khách đã dành thời gian đánh giá sản phẩm của Shop. Shop có chính sách đổi trả trong 14 ngày, nếu sản phẩm có vấn đề gì xin quý khách liên hệ lại Shop ạ. Xin cám ơn quý khách đã tin tưởng và mua sắm tại Shop Vật Tư Điện Lạnh Thuận Dun",
+          "score": 0,
+          "create_at": 1729570942,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 2,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

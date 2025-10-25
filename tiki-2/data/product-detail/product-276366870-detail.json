@@ -1,0 +1,478 @@
+{
+  "id": 276366870,
+  "master_id": 276366870,
+  "sku": "7487023740304",
+  "name": "Tủ lạnh Hitachi Inverter 617 lít R-HW620RV XK - HÀNG CHÍNH HÃNG - CHỈ GIAO HCM",
+  "url_key": "thong-so-ky-thuat-tu-lanh-hitachi-inverter-617-lit-r-hw620rv-xk-hang-chinh-hang-chi-giao-hcm-p276366870",
+  "url_path": "thong-so-ky-thuat-tu-lanh-hitachi-inverter-617-lit-r-hw620rv-xk-hang-chinh-hang-chi-giao-hcm-p276366870.html?spid=276415968",
+  "short_url": "https://tiki.vn/product-p276366870.html?spid=276415968",
+  "type": "simple",
+  "book_cover": null,
+  "short_description": "Thông số kỹ thuật Tủ lạnh Hitachi Inverter 617 lít R-HW620RV XĐặc điểm sản phẩmModel:R-HW620RV XMàu sắc:Gương pha lêNhà sản xuất:HitachiXuất xứ:Nhật BảnNăm ra mắt :2024Thời g...",
+  "price": 66379000,
+  "list_price": 109699000,
+  "original_price": 109699000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_authentic",
+      "code": "is_hero",
+      "type": "is_hero",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "text_overlay_product_image",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "bottom_review",
+      "code": "is_imported",
+      "type": "is_imported",
+      "index": 0,
+      "icon": null,
+      "icon_width": 16,
+      "icon_height": 16,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": "Made in Japan"
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_hero",
+      "type": "pdp_icon_badge",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "freeship_xtra",
+      "type": "pdp_icon_badge",
+      "index": 2,
+      "icon": "https://salt.tikicdn.com/ts/upload/be/67/48/04a82ab8df178e1a13bde38316081865.png",
+      "icon_width": 91,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": true,
+      "is_hero": true,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 43320000,
+  "discount_rate": 39,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/05/1e/af/29bc69cc58e4b39b812e57c854eae19e.png",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 378,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<div class=\"plainmodal-content\">\n<h2 class=\"popup_title\">Thông số kỹ thuật Tủ lạnh Hitachi Inverter 617 lít R-HW620RV X</h2>\n<article class=\"popup_content\">\n<table class=\"productSpecification_table\"><caption class=\"productSpecification_title\">Đặc điểm sản phẩm</caption>\n<tbody class=\"popup\">\n<tr>\n<td class=\"title\" style=\"width:259px;\">Model:</td>\n<td class=\"value\" style=\"width:94px;\">R-HW620RV X</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Màu sắc:</td>\n<td class=\"value\" style=\"width:94px;\">Gương pha lê</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Nhà sản xuất:</td>\n<td class=\"value\" style=\"width:94px;\">Hitachi</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Xuất xứ:</td>\n<td class=\"value\" style=\"width:94px;\">Nhật Bản</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Năm ra mắt :</td>\n<td class=\"value\" style=\"width:94px;\">2024</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Thời gian bảo hành:</td>\n<td class=\"value\" style=\"width:94px;\">24 Tháng</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Địa điểm bảo hành:</td>\n<td class=\"value\" style=\"width:94px;\">Hãng đến tận nơi</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Kiểu tủ lạnh:</td>\n<td class=\"value\" style=\"width:94px;\">Multi doors</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Số cửa tủ lạnh:</td>\n<td class=\"value\" style=\"width:94px;\">6 cửa</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Dung tích tổng:</td>\n<td class=\"value\" style=\"width:94px;\">648 lít</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Dung tích sử dụng:</td>\n<td class=\"value\" style=\"width:94px;\">617 lít</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Dung tích ngăn đá:</td>\n<td class=\"value\" style=\"width:94px;\">182 lít</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Dung tích ngăn lạnh:</td>\n<td class=\"value\" style=\"width:94px;\">317 lít</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Công suất tủ lạnh:</td>\n<td class=\"value\" style=\"width:94px;\">445 kW/năm</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Đóng tuyết:</td>\n<td class=\"value\" style=\"width:94px;\">Không</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Chất liệu khay:</td>\n<td class=\"value\" style=\"width:94px;\">Kính cường lực</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Công nghệ làm lạnh:</td>\n<td class=\"value\" style=\"width:94px;\">Moisture cooling</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Công nghệ bảo quản thực phẩm:</td>\n<td class=\"value\" style=\"width:94px;\">Aero-care</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Kháng khuẩn / Khử mùi:</td>\n<td class=\"value\" style=\"width:94px;\">Platinum</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Chất liệu bên ngoài:</td>\n<td class=\"value\" style=\"width:94px;\">Thép</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Công nghệ Inverter:</td>\n<td class=\"value\" style=\"width:94px;\">Có Inverter</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Làm đá tự động:</td>\n<td class=\"value\" style=\"width:94px;\">Có</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Lấy nước bên ngoài:</td>\n<td class=\"value\" style=\"width:94px;\">Không</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Chuông báo cửa:</td>\n<td class=\"value\" style=\"width:94px;\">Có</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Kết nối Wifi:</td>\n<td class=\"value\" style=\"width:94px;\">Có</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Tiện ích khác:</td>\n<td class=\"value\" style=\"width:94px;\">Delicious Freezing</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Khối lượng sản phẩm (kg):</td>\n<td class=\"value\" style=\"width:94px;\">125 kg</td>\n</tr>\n<tr>\n<td class=\"title\" style=\"width:259px;\">Kích thước sản phẩm:</td>\n<td class=\"value\" style=\"width:94px;\">685 x 738 x 1833 mm</td>\n</tr>\n</tbody>\n</table>\n<br /><img src=\"https://salt.tikicdn.com/ts/product/cf/9c/8b/9b76f252335d384536b6a03aa1d2277b.jpg\" alt=\"Tủ lạnh Hitachi Inverter 617 lít R-HW620RV X\" />\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/d5/b6/d6/abb1ba0a58cd9f1b085c256cd5812ba8.png\" alt=\"\" width=\"696\" height=\"522\" /></p>\n<h3 class=\"featureContent_title\"><strong>Tủ lạnh Hitachi Multi Doors 6 cửa, mặt Gương Pha Lê bóng bẩy sang trọng </strong></h3>\n<p class=\"featureContent_caption\"><strong>Tủ lạnh Hitachi Inverter 617 lít R-HW620RV XK</strong> - thuộc dòng tủ lạnh Multi Doors thiết kế đến 6 cửa mở tiết kiệm điện vì chỉ cần mở đúng phần cần lấy đồ, nhiều ngăn kệ để bạn tha hồ lưu trữ và phân loại thực phẩm. Đặc biệt, cửa tử làm từ Gương Pha Lê cao cấp, phản chiếu không gian xung quanh giúp nâng tầm đẳng cấp không gian bếp nhà bạn.<br /><br />Tủ có dung tích 617 lít, phù hợp với gia đình đa thế hệ. Hơn nữa, tủ lạnh có nhiều công nghệ hiện đại như Ngăn Chân Không Vacuum Compartment trữ tươi thịt cá nấu không cần rã đông, Inverter siêu  tiết kiệm điện, Ngăn Rau Quả Thông Minh Aero-care giữ ẩm tốt, Tấm Cách Nhiệt Chân Không VIP giữ nhiệt tốt,... Tất cả tạo nên môi trường lý tưởng giữ thực phẩm tươi ngon và trọn dinh dưỡng.<br /><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/f0/ef/5e/690f3c727269a76bea93d1930e6b623c.jpg\" alt=\"Tủ Lạnh Hitachi Inverter 617 lít R-HW620RV XK Giá Tốt, Chính Hãng | Nguyễn  Kim\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/96/66/80/a8ef9d925186070439603926e59846eb.png\" alt=\"\" width=\"1354\" height=\"788\" /></p>\n<h3 class=\"featureContent_title\"><strong>Ngăn Chân Không Vacuum Compartment bảo quản thịt cá nấu ngay không cần rã đông</strong></h3>\n<p class=\"featureContent_caption\"><strong>Tủ lạnh Hitachi Inverter R-HW620RV XK</strong> tích hợp Ngăn hút chân không Vacuum Compartment có cấu trúc ngăn trữ hoàn toàn kín khí, chịu được áp suất ở ngưỡng 0.8 atm (áp suất khí quyển) nhờ máy bơm chân không hút không khí và giảm lượng oxy (nguyên nhân tạo nên hiện tượng oxy hóa gây mất chất).<br /><br />Kết quả là thịt, cá và các sản phẩm từ sữa để trong ngăn này giữ được sự tươi ngon và dinh dưỡng tuyệt vời, có thể dễ dàng cắt thái, tẩm ướp gia vị để nấu ngay các bữa ăn ngon mà không cần tốn thời gian và công sức rã đông như trước. </p>\n<p class=\"featureContent_caption\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/79/7f/0d/58aa390d8e776b1b4c3083c508bc8f8a.jpg\" alt=\"Tủ lạnh Hitachi Inverter 617 lít R-HW620RV XK ngăn chân không cấp đông mềm\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/3a/1d/5f/a4e6233a7b3723c36b44f83d14f09810.png\" alt=\"\" width=\"1354\" height=\"788\" /></p>\n<h3 class=\"featureContent_title\"><strong>Tiết kiệm điện, vận hành êm ái, bền bỉ với máy nén Inverter</strong></h3>\n<p class=\"featureContent_caption\">Tủ lạnh Hitachi trang bị Máy Nén Inverter hiệu suất cao cho hiệu quả tiết kiệm điện vượt trội và làm lạnh hiệu quả. Kết hợp với Cảm Biến Nhiệt Eco phát hiện sự biến động nhiệt để luôn duy trì nhiệt độ lý tưởng tại từng ngăn. Vì thế, khi sở hữu chiếc tủ lạnh Inverter đến từ Hitachi - thương hiệu tủ lạnh được xếp hạng tiết kiệm điện hàng đầu thế giới này, bạn sẽ không cần lo lắng mỗi khi nhận hóa đơn tiền điện hàng tháng nữa.</p>\n<p class=\"featureContent_caption\"><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/94/bd/ff/cddd3d1a13b43754feeefc14bb9225f9.jpg\" alt=\"Tủ lạnh Hitachi Inverter 617 lít R-HW620RV XK công nghệ inverter tiết kiệm điện\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/12/45/e1/92405e9d54a50951c99427ee31828ad9.png\" alt=\"\" width=\"750\" height=\"436\" /></p>\n<p class=\"featureContent_caption\"><br /><br /> </p>\n</article>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/05/1e/af/29bc69cc58e4b39b812e57c854eae19e.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/05/1e/af/29bc69cc58e4b39b812e57c854eae19e.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/05/1e/af/29bc69cc58e4b39b812e57c854eae19e.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/05/1e/af/29bc69cc58e4b39b812e57c854eae19e.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/05/1e/af/29bc69cc58e4b39b812e57c854eae19e.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6b/33/c7/1b406059693f5a521532049e2ada1482.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6b/33/c7/1b406059693f5a521532049e2ada1482.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6b/33/c7/1b406059693f5a521532049e2ada1482.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6b/33/c7/1b406059693f5a521532049e2ada1482.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6b/33/c7/1b406059693f5a521532049e2ada1482.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/e1/6e/97/537a22ec7aeb5d83035bfe4b9d23f99d.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e1/6e/97/537a22ec7aeb5d83035bfe4b9d23f99d.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/e1/6e/97/537a22ec7aeb5d83035bfe4b9d23f99d.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e1/6e/97/537a22ec7aeb5d83035bfe4b9d23f99d.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e1/6e/97/537a22ec7aeb5d83035bfe4b9d23f99d.png"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 19061,
+    "name": "Hitachi",
+    "slug": "hitachi"
+  },
+  "current_seller": {
+    "id": 218,
+    "sku": "9848136560822",
+    "name": "Gia Khang",
+    "link": "https://tiki.vn/cua-hang/gia-khang",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/fc/90/4f/36533bef6c1ef54a4d3349366502e786.jpg",
+    "price": 66379000,
+    "product_id": "276415968",
+    "store_id": 178,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [
+    {
+      "id": 292953,
+      "name": "ĐIỆN MÁY TẤN TÀI",
+      "link": "https://tiki.vn/cua-hang/dien-may-tan-tai",
+      "logo": "https://vcdn.tikicdn.com/ts/seller/54/5e/c3/163e56a2f612f4e467dbf5c9c9630944.jpg",
+      "price": 67749000,
+      "product_id": "276366871",
+      "store_id": 280276
+    },
+    {
+      "id": 58532,
+      "name": "Trương Thiên Long",
+      "link": "https://tiki.vn/cua-hang/truong-thien-long",
+      "logo": "f6/6b/f5/cefd29bb0d3745e5bcd3a3d74fd67083.jpg",
+      "price": 66469000,
+      "product_id": "276424613",
+      "store_id": 55298
+    }
+  ],
+  "specifications": [
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Hitachi"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Nhật Bản"
+        },
+        {
+          "code": "chat_lieu_khay",
+          "name": "Chất liệu khay ngăn",
+          "value": "KÍNH CHỊU LỰC"
+        },
+        {
+          "code": "cong_suat",
+          "name": "Công suất",
+          "value": "445 kW/năm"
+        },
+        {
+          "code": "dienap",
+          "name": "Điện áp",
+          "value": "220"
+        },
+        {
+          "code": "dimensions",
+          "name": "Kích thước",
+          "value": "<table class=\"productSpecification_table\">\n<tbody class=\"popup\">\n<tr>\n<td class=\"value\">685 x 738 x 1833 mm</td>\n</tr>\n</tbody>\n</table>"
+        },
+        {
+          "code": "dung_tich_ngan_da",
+          "name": "Dung tích ngăn đá",
+          "value": "182"
+        },
+        {
+          "code": "dung_tich_ngan_lanh",
+          "name": "Dung tích ngăn lạnh",
+          "value": "317"
+        },
+        {
+          "code": "dung_tich_tong",
+          "name": "Dung tích tổng",
+          "value": "617"
+        },
+        {
+          "code": "filter_refrigerator_capacity",
+          "name": "Dung tích",
+          "value": "Trên 450L"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "R-HW620RV(XK)"
+        },
+        {
+          "code": "kieu_tu_lanh",
+          "name": "Kiểu tủ lạnh",
+          "value": "Side by side"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Nhật Bản"
+        }
+      ]
+    },
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "seller_delivery_method",
+          "name": "Phương thức giao hàng Seller Delivery",
+          "value": "Nhà bán giao hàng cho khách hàng"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "2 Năm"
+        }
+      ]
+    }
+  ],
+  "price_comparison": {
+    "sub_title": "Giá từ 66.469.000 ₫",
+    "title": "So sánh 2 nhà bán khác"
+  },
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 67189,
+    "name": "Tủ lạnh side by side",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-tu-dien-lanh/c4221",
+      "name": "Điện Tử - Điện Lạnh",
+      "category_id": 4221
+    },
+    {
+      "url": "/tu-lanh/c2328",
+      "name": "Tủ lạnh",
+      "category_id": 2328
+    },
+    {
+      "url": "/tu-lanh-side-by-side/c67189",
+      "name": "Tủ lạnh side by side",
+      "category_id": 67189
+    },
+    {
+      "url": "https://tiki.vn/thong-so-ky-thuat-tu-lanh-hitachi-inverter-617-lit-r-hw620rv-xk-hang-chinh-hang-chi-giao-hcm-p276366870.html",
+      "name": "Tủ lạnh Hitachi Inverter 617 lít R-HW620RV XK - HÀNG CHÍNH HÃNG - CHỈ GIAO HCM",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=276366870&pid=276415968&seller_id=218&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "seller_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "2 Năm"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

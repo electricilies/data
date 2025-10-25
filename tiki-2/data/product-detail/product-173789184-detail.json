@@ -1,0 +1,349 @@
+{
+  "id": 173789184,
+  "master_id": 173789184,
+  "sku": "3981361426341",
+  "name": "Điện thoại bàn treo tường TC990",
+  "url_key": "dien-thoai-ban-uniden-as-7101-hanh-chinh-hang-p173789184",
+  "url_path": "dien-thoai-ban-uniden-as-7101-hanh-chinh-hang-p173789184.html?spid=173789188",
+  "short_url": "https://tiki.vn/product-p173789184.html?spid=173789188",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "TC 990 : Chuyên treo tường, có thể để bàn Phù hợp sử dụng trong phòng bếp, phòng tắm,cầu thangCó thể sử dụng thử đường lineBảo hành 12 tháng chính hãngGiá bán đã có Vat...",
+  "price": 250000,
+  "list_price": 250000,
+  "original_price": 250000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "freeship_xtra",
+      "type": "pdp_icon_badge",
+      "index": 2,
+      "icon": "https://salt.tikicdn.com/ts/upload/be/67/48/04a82ab8df178e1a13bde38316081865.png",
+      "icon_width": 91,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": true,
+      "is_hero": false,
+      "is_top_brand": false
+    }
+  },
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 5,
+  "review_count": 7,
+  "review_text": "(7)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 1297,
+  "all_time_quantity_sold": 51,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<ul>\n<li>TC 990 : Chuyên treo tường, có thể để bàn </li>\n<li>Phù hợp sử dụng trong phòng bếp, phòng tắm,cầu thang</li>\n<li>Có thể sử dụng thử đường line</li>\n<li>Bảo hành 12 tháng chính hãng</li>\n<li>Giá bán đã có Vat</li>\n</ul><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 216771,
+    "name": "Uniden",
+    "slug": "uniden"
+  },
+  "current_seller": {
+    "id": 113592,
+    "sku": "8710933965464",
+    "name": "Viễn thông Hà Nhung",
+    "link": "https://tiki.vn/cua-hang/vien-thong-ha-nhung",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/4b/54/1a/f385a79a716cb3505f152e7af8c769aa.png",
+    "price": 250000,
+    "product_id": "173789188",
+    "store_id": 105082,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    },
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Uniden"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Trung Quốc"
+        },
+        {
+          "code": "included_accessories",
+          "name": "Phụ kiện đi kèm",
+          "value": "<p>Dây line, dây xoắn, phiếu bảo hành 1 năm, hướng dẫn sử dụng</p>"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "TC 990"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Trung Quốc"
+        },
+        {
+          "code": "product_weight",
+          "name": "Trọng lượng sản phẩm",
+          "value": "0.5"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Trắng"
+        },
+        {
+          "label": "ĐEN"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 173789185,
+      "discount_rate": 0,
+      "id": 173789186,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4c/d9/8e/b8b5032ec7fc55d5d410f04ccdcb4c52.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/4c/d9/8e/b8b5032ec7fc55d5d410f04ccdcb4c52.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4c/d9/8e/b8b5032ec7fc55d5d410f04ccdcb4c52.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện thoại bàn treo tường TC990 - Trắng",
+      "option1": "Trắng",
+      "original_price": 250000,
+      "price": 250000,
+      "selected": false,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung"
+      },
+      "sku": "4429871369095",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ec/2b/36/bec39db4dba5addc07fef50afdea2ead.jpg"
+    },
+    {
+      "child_id": 173789187,
+      "discount_rate": 0,
+      "id": 173789188,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện thoại bàn treo tường TC990 - ĐEN",
+      "option1": "ĐEN",
+      "original_price": 250000,
+      "price": 250000,
+      "selected": true,
+      "seller": {
+        "id": 113592,
+        "name": "Viễn thông Hà Nhung"
+      },
+      "sku": "5995860054258",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/ec/2b/36/b9bed2790bf57d8f1a52a13663263429.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 51",
+    "value": 51
+  },
+  "categories": {
+    "id": 8061,
+    "name": "Điện thoại bàn",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-thoai-may-tinh-bang/c1789",
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "category_id": 1789
+    },
+    {
+      "url": "/dien-thoai-ban/c8061",
+      "name": "Điện thoại bàn",
+      "category_id": 8061
+    },
+    {
+      "url": "https://tiki.vn/dien-thoai-ban-uniden-as-7101-hanh-chinh-hang-p173789184.html",
+      "name": "Điện thoại bàn treo tường TC990",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=173789184&pid=173789188&seller_id=113592&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "dropship"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    }
+  ]
+}

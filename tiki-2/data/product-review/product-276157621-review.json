@@ -1,0 +1,328 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 33
+    },
+    "5": {
+      "count": 2,
+      "percent": 67
+    }
+  },
+  "rating_average": 4.7000000000000002,
+  "reviews_count": 3,
+  "review_photo": {
+    "total": 1,
+    "total_photo": 1
+  },
+  "data": [
+    {
+      "id": 20168161,
+      "title": "Cực kì hài lòng",
+      "content": "Đóng gói cẩn thận thank shop, giao nhanh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16329763,
+      "customer_id": 10613774,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1757408693,
+      "created_by": {
+        "id": 10613774,
+        "name": "Vu Vo",
+        "full_name": "Vu Vo",
+        "region": null,
+        "avatar_url": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2150978831599592&height=200&width=200&ext=1551438079&hash=AeTuyF2GoJ9ozyAs",
+        "created_time": "2019-01-30 18:01:52",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1756957893,
+        "contribute_info": {
+          "id": 10613774,
+          "name": "Vu Vo",
+          "avatar": "https://platform-lookaside.fbsbx.com/platform/profilepic/?asid=2150978831599592&height=200&width=200&ext=1551438079&hash=AeTuyF2GoJ9ozyAs",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 4,
+            "total_thank": 1
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HD Kim Sơn"
+      ],
+      "product_attributes": [],
+      "spid": 276157622,
+      "is_photo": false,
+      "seller": {
+        "id": 188506,
+        "name": "HD Kim Sơn",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ba/f4/b2/ace7bc8f4beaaba564ccf713c21adbd8.jpg"
+      },
+      "product_id": 276157621,
+      "timeline": {
+        "review_created_date": "2025-09-09 16:04:53",
+        "delivery_date": "2025-09-06 08:39:17",
+        "current_date": "2025-10-25 22:05:29",
+        "content": "Đã dùng 3 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20139719,
+      "title": "Hài lòng",
+      "content": "Ok. Lên sóng",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16270651,
+      "customer_id": 398613,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [
+        {
+          "id": 4408535,
+          "full_path": "https://salt.tikicdn.com/ts/review/73/7e/0a/b9b876d5f6a47fbcb3b25bbded191184.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1750822130,
+      "created_by": {
+        "id": 398613,
+        "name": "Tô Hồng Quân",
+        "full_name": "Tô Hồng Quân",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/01/b4/de/4a79867fb40e6462e818ab442e217b71.png",
+        "created_time": "2014-08-14 13:05:19",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1750581845,
+        "contribute_info": {
+          "id": 398613,
+          "name": "Tô Hồng Quân",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/01/b4/de/4a79867fb40e6462e818ab442e217b71.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 95,
+            "total_thank": 7
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HD Kim Sơn"
+      ],
+      "product_attributes": [],
+      "spid": 276157622,
+      "is_photo": true,
+      "seller": {
+        "id": 188506,
+        "name": "HD Kim Sơn",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ba/f4/b2/ace7bc8f4beaaba564ccf713c21adbd8.jpg"
+      },
+      "product_id": 276157621,
+      "timeline": {
+        "review_created_date": "2025-06-25 10:28:50",
+        "delivery_date": "2025-06-25 10:14:58",
+        "current_date": "2025-10-25 22:05:29",
+        "content": "Đã dùng 14 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20061099,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15565944000000001,
+      "customer_id": 22284547,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1736079448,
+      "created_by": {
+        "id": 22284547,
+        "name": "Nguyên N",
+        "full_name": "Nguyên N",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4d/14/9b/18157bcfc68501a84ab73d93bb3efc60.png",
+        "created_time": "2021-06-21 06:39:15",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1735823331,
+        "contribute_info": {
+          "id": 22284547,
+          "name": "Nguyên N",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4d/14/9b/18157bcfc68501a84ab73d93bb3efc60.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 218,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HD Kim Sơn"
+      ],
+      "product_attributes": [],
+      "spid": 276157622,
+      "is_photo": false,
+      "seller": {
+        "id": 188506,
+        "name": "HD Kim Sơn",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/ba/f4/b2/ace7bc8f4beaaba564ccf713c21adbd8.jpg"
+      },
+      "product_id": 276157621,
+      "timeline": {
+        "review_created_date": "2025-01-05 19:17:28",
+        "delivery_date": "2025-01-05 12:50:57",
+        "current_date": "2025-10-25 22:05:29",
+        "content": "Đã dùng 6 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "total": 3,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

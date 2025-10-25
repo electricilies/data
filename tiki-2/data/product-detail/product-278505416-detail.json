@@ -1,0 +1,658 @@
+{
+  "id": 278505416,
+  "master_id": 278505416,
+  "sku": "4743831313819",
+  "name": "Điện Thoại Samsung Galaxy A07 (4/128GB), Màn Hình Lớn 6.7'', Pin 5000mAh, IP54 Kháng Nước Kháng Bụi - Hàng Chính Hãng",
+  "url_key": "dien-thoai-samsung-galaxy-a07-4-128gb-man-hinh-lon-6-7-pin-5000mah-ip54-khang-nuoc-khang-bui-hang-chinh-hang-p278505416",
+  "url_path": "dien-thoai-samsung-galaxy-a07-4-128gb-man-hinh-lon-6-7-pin-5000mah-ip54-khang-nuoc-khang-bui-hang-chinh-hang-p278505416.html?spid=278505418",
+  "short_url": "https://tiki.vn/product-p278505416.html?spid=278505418",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "Galaxy A07 - Màn Hình To Sắc Nét, Giải Trí Cực Đã...",
+  "price": 2850000,
+  "list_price": 3390000,
+  "original_price": 3390000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "right_price",
+      "code": "price_badge",
+      "type": "price_badge",
+      "index": 0,
+      "icon": "https://salt.tikicdn.com/ts/upload/1c/d0/ac/e89ef64c4a607d248e9e524b69aa1d0c.png",
+      "icon_width": 75,
+      "icon_height": 22,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "left_authentic",
+      "code": "is_hero",
+      "type": "is_hero",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "text_overlay_product_image",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_hero",
+      "type": "pdp_icon_badge",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": true,
+      "is_top_brand": true,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 540000,
+  "discount_rate": 16,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 71,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p>Galaxy A07 - Màn Hình To Sắc Nét, Giải Trí Cực Đã</p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/bd/97/38/f5135718f51ab5c2c0d1ea9c231625a7.jpg\" alt=\"\" width=\"750\" height=\"392\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/bf/74/88/84432201d7355d138a32ec00bc899f28.jpg\" alt=\"\" width=\"750\" height=\"375\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/3e/e7/62/c1ef41fff0e23909705621c7d50181bb.jpg\" alt=\"\" width=\"750\" height=\"375\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/83/dc/03/3930e80de9383e9637707e488fa4625b.jpg\" alt=\"\" width=\"750\" height=\"425\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/f8/fb/87/8d3e9076a1ecf1dc99ccf864c492b410.jpg\" alt=\"\" width=\"750\" height=\"375\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/00/23/3a/1af5fb674d2c6b1807c65e296f178497.jpg\" alt=\"\" width=\"750\" height=\"375\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/73/9e/32/29ad642ba8b9762cd9f2940365539e12.jpg\" alt=\"\" width=\"750\" height=\"375\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/13/d9/0e/47af7f4317e5f75f8149525815478559.jpg\" alt=\"\" width=\"750\" height=\"375\" /></p>\n<p><img title=\"\" src=\"https://salt.tikicdn.com/ts/tmp/0b/14/a2/0377e60d19d47057444f94faa375151e.jpg\" alt=\"\" width=\"750\" height=\"1251\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 18802,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "current_seller": {
+    "id": 1,
+    "sku": "3706296109351",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 2850000,
+    "product_id": "278505418",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    },
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Samsung"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Việt Nam"
+        }
+      ]
+    }
+  ],
+  "product_links": [
+    {
+      "type": "gift",
+      "id": 276334569,
+      "name": "[GIFT] - Tai nghe Samsung có dây IA500 3.5mm - Hàng Chính Hãng",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/52/d7/b6/81896008705fb4e3e971031585ea63fc.png",
+      "price": 300000,
+      "list_price": 0,
+      "inventory_status": "available",
+      "is_free_gift": false,
+      "url": "",
+      "is_installation_package": false
+    }
+  ],
+  "gift_item_title": "1 quà tặng kèm trị giá 300.000₫",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Tím bạc"
+        },
+        {
+          "label": "Xanh lục bảo"
+        },
+        {
+          "label": "Đen huyền"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 278505419,
+      "discount_rate": 16,
+      "id": 278505420,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1d/7b/f0/b566535bfc5dacaa91a49e357102e5d0.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/1d/7b/f0/b566535bfc5dacaa91a49e357102e5d0.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1d/7b/f0/b566535bfc5dacaa91a49e357102e5d0.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/66/31/ff/317d5813c8f0fd45de15e86efda40c24.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/66/31/ff/317d5813c8f0fd45de15e86efda40c24.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/66/31/ff/317d5813c8f0fd45de15e86efda40c24.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7a/79/93/187316accf3368de402ffc9b7d5f762a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7a/79/93/187316accf3368de402ffc9b7d5f762a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7a/79/93/187316accf3368de402ffc9b7d5f762a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7e/3b/d4/2c475d456ba15db07bb92d2e4956445e.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7e/3b/d4/2c475d456ba15db07bb92d2e4956445e.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7e/3b/d4/2c475d456ba15db07bb92d2e4956445e.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/83/2e/dd/294513037aad219b9116520043638962.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/83/2e/dd/294513037aad219b9116520043638962.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/83/2e/dd/294513037aad219b9116520043638962.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c7/ba/eb/4bfdb2b24d9bd28d6c35f5e7e1da8815.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/c7/ba/eb/4bfdb2b24d9bd28d6c35f5e7e1da8815.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/ba/eb/4bfdb2b24d9bd28d6c35f5e7e1da8815.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d9/95/32/9c98a7098979e20cea1836458abafa68.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/d9/95/32/9c98a7098979e20cea1836458abafa68.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d9/95/32/9c98a7098979e20cea1836458abafa68.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e4/d8/a0/a5d1ab6d8b5cca12388aa42e1c339ae7.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/e4/d8/a0/a5d1ab6d8b5cca12388aa42e1c339ae7.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e4/d8/a0/a5d1ab6d8b5cca12388aa42e1c339ae7.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện Thoại Samsung Galaxy A07 (4/128GB), Màn Hình Lớn 6.7'', Pin 5000mAh, IP54 Kháng Nước Kháng Bụi - Hàng Chính Hãng - Đen huyền",
+      "option1": "Đen huyền",
+      "original_price": 3390000,
+      "price": 2850000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "4702564143375",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/7a/79/93/187316accf3368de402ffc9b7d5f762a.jpg"
+    },
+    {
+      "child_id": 278505421,
+      "discount_rate": 16,
+      "id": 278505422,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1d/7b/f0/f8601c1a9254af58b60ee7a5efb4f4ed.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/1d/7b/f0/f8601c1a9254af58b60ee7a5efb4f4ed.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1d/7b/f0/f8601c1a9254af58b60ee7a5efb4f4ed.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/66/31/ff/1ff67e4c780f9dc9f669317ad4665c10.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/66/31/ff/1ff67e4c780f9dc9f669317ad4665c10.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/66/31/ff/1ff67e4c780f9dc9f669317ad4665c10.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7e/3b/d4/d1eed25a5fa437df965441d1a0eed002.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7e/3b/d4/d1eed25a5fa437df965441d1a0eed002.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7e/3b/d4/d1eed25a5fa437df965441d1a0eed002.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/83/2e/dd/a74b44233fb482424cbb9ffec742b6ed.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/83/2e/dd/a74b44233fb482424cbb9ffec742b6ed.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/83/2e/dd/a74b44233fb482424cbb9ffec742b6ed.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c7/ba/eb/e5b12a96a65aca816979de4fad52fc55.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/c7/ba/eb/e5b12a96a65aca816979de4fad52fc55.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/ba/eb/e5b12a96a65aca816979de4fad52fc55.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d9/95/32/9796b0c53c751d34418111297506bf15.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/d9/95/32/9796b0c53c751d34418111297506bf15.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d9/95/32/9796b0c53c751d34418111297506bf15.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e4/d8/a0/494aeab0dca7fd8317830d25dfb20dba.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/e4/d8/a0/494aeab0dca7fd8317830d25dfb20dba.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e4/d8/a0/494aeab0dca7fd8317830d25dfb20dba.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f3/0a/23/a9aadf085f8df01052c390d5617cdd1b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/f3/0a/23/a9aadf085f8df01052c390d5617cdd1b.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f3/0a/23/a9aadf085f8df01052c390d5617cdd1b.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện Thoại Samsung Galaxy A07 (4/128GB), Màn Hình Lớn 6.7'', Pin 5000mAh, IP54 Kháng Nước Kháng Bụi - Hàng Chính Hãng - Xanh lục bảo",
+      "option1": "Xanh lục bảo",
+      "original_price": 3390000,
+      "price": 2850000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "1757234891538",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/f3/0a/23/a9aadf085f8df01052c390d5617cdd1b.jpg"
+    },
+    {
+      "child_id": 278505417,
+      "discount_rate": 16,
+      "id": 278505418,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1d/7b/f0/b3e1b26fb8b2e4246132e70877756a17.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/83/2e/dd/3314c74442535a830a2fc506b61a8401.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d9/95/32/a5459a540eacf1893ffb6a49490e987c.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c7/ba/eb/0221841e7947769a02994124b20f791a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/66/31/ff/9c3c40b6e332a3d6d76e663a9ebb859c.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7e/3b/d4/a8ba237717adf9e35dc4880b97af1692.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e4/d8/a0/06a93bdb265c3f892abe492a2272ff8c.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Điện Thoại Samsung Galaxy A07 (4/128GB), Màn Hình Lớn 6.7'', Pin 5000mAh, IP54 Kháng Nước Kháng Bụi - Hàng Chính Hãng - Tím bạc",
+      "option1": "Tím bạc",
+      "original_price": 3390000,
+      "price": 2850000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "3611011456312",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/a7/b1/60/8053b3d20c792fa5db420b0bca24bd02.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 1795,
+    "name": "Điện thoại Smartphone",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-thoai-may-tinh-bang/c1789",
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "category_id": 1789
+    },
+    {
+      "url": "/dien-thoai-smartphone/c1795",
+      "name": "Điện thoại Smartphone",
+      "category_id": 1795
+    },
+    {
+      "url": "https://tiki.vn/dien-thoai-samsung-galaxy-a07-4-128gb-man-hinh-lon-6-7-pin-5000mah-ip54-khang-nuoc-khang-bui-hang-chinh-hang-p278505416.html",
+      "name": "Điện Thoại Samsung Galaxy A07 (4/128GB), Màn Hình Lớn 6.7'', Pin 5000mAh, IP54 Kháng Nước Kháng Bụi - Hàng Chính Hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278505416&pid=278505418&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "deal_specs": {
+    "deal_id": 567030468,
+    "is_hot_deal": true,
+    "qty": 10,
+    "max_sale_qty": 2,
+    "qty_ordered": 0,
+    "special_to_date": 1761411599,
+    "price": 2850000,
+    "list_price": 3390000,
+    "original_price": 3390000,
+    "discount_rate": 16,
+    "progress": 0,
+    "progress_text": "Vừa mở bán",
+    "v5": 15
+  },
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

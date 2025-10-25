@@ -1,0 +1,848 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 1,
+      "percent": 11
+    },
+    "5": {
+      "count": 8,
+      "percent": 89
+    }
+  },
+  "rating_average": 4.9000000000000004,
+  "reviews_count": 9,
+  "review_photo": {
+    "total": 3,
+    "total_photo": 6
+  },
+  "data": [
+    {
+      "id": 20159055,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm nguyên seal, săn được giá tốt. Điện thoại đẹp, phù hợp nhu cầu.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 50,
+      "new_score": 0.17824191,
+      "customer_id": 6904160,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4411954,
+          "full_path": "https://salt.tikicdn.com/ts/review/f1/00/c2/5ac374eae8ba8eae2a6baca0d03bd62a.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4411955,
+          "full_path": "https://salt.tikicdn.com/ts/review/42/dd/e6/3eb888e57e702dad6eb6bfeb80e667be.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4411956,
+          "full_path": "https://salt.tikicdn.com/ts/review/3c/a2/0f/caf44d7d5b92dabfd870f0601944027b.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4411957,
+          "full_path": "https://salt.tikicdn.com/ts/review/96/26/ae/a34f5bdd15f534737ecb8578a822a4e4.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1755250982,
+      "created_by": {
+        "id": 6904160,
+        "name": "duan pc",
+        "full_name": "duan pc",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4a/74/5f/78344663525da6d3467b274c06cef310.png",
+        "created_time": "2018-04-10 15:21:04",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1755243230,
+        "contribute_info": {
+          "id": 6904160,
+          "name": "duan pc",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/4a/74/5f/78344663525da6d3467b274c06cef310.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 72,
+            "total_thank": 19
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc  Xanh  "
+      ],
+      "product_attributes": [
+        "Màu sắc:  Xanh  "
+      ],
+      "spid": 278438032,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2025-08-15 16:43:02",
+        "delivery_date": "2025-08-15 16:03:22",
+        "current_date": "2025-10-25 22:08:04",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20104015,
+      "title": "Cực kì hài lòng",
+      "content": "Ổn ok dùng tốt. Sau cơ dịp lại ủng hộ tiếp",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.31708595000000001,
+      "new_score": 0.16406202,
+      "customer_id": 8465898,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4402200,
+          "full_path": "https://salt.tikicdn.com/ts/review/65/c3/34/224a1cb07e51454343b210d8f3b509f5.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1743351571,
+      "created_by": {
+        "id": 8465898,
+        "name": "Nguyễn Trung Việt ",
+        "full_name": "Nguyễn Trung Việt ",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a2/0f/e5/6726b5771abf76eab0b46dd9dcba07cf.png",
+        "created_time": "2018-10-16 11:56:34",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1742649805,
+        "contribute_info": {
+          "id": 8465898,
+          "name": "Nguyễn Trung Việt ",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a2/0f/e5/6726b5771abf76eab0b46dd9dcba07cf.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hồng Hạnh Mobile",
+        "Màu sắc  Đen"
+      ],
+      "product_attributes": [
+        "Màu sắc:  Đen"
+      ],
+      "spid": 273668662,
+      "is_photo": true,
+      "seller": {
+        "id": 29952,
+        "name": "Hồng Hạnh Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2025-03-30 23:19:31",
+        "delivery_date": "2025-03-26 15:54:12",
+        "current_date": "2025-10-25 22:08:04",
+        "content": "Đã dùng 4 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 4 ngày."
+      },
+      "comments": [
+        {
+          "id": 3317843,
+          "review_id": 20104015,
+          "commentator": "seller",
+          "customer_id": 29952,
+          "fullname": "Hồng Hạnh Mobile",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg",
+          "content": "Chào bạn\nCám ơn bạn đã tin tưởng và ủng hộ shop Hồng Hạnh Mobile.\nHi vọng bạn hài lòng về sản phẩm và dịch vụ, sẽ tiếp tục đồng hành cùng HHM trong những đơn hàng kế tiếp ạ!\nCần hỗ trợ liên hệ shop nhé\nNếu bạn thích sản phẩm của chúng tôi, chào mừng bạn chia sẻ đến với gia đình, bạn bè, những người bạn yêu thích\nShop trân trọng cám ơn bạn đã hài lòng, tin tưởng, ủng hộ, chia sẻ, đánh giá 5* cho shop ❤ 5* của bạn là sự hỗ trợ tốt nhất ❤\nHồng Hạnh Mobile | Chính Hãng - Uy Tín - Chất Lượng",
+          "score": 0,
+          "create_at": 1743355159,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20175969,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16054477,
+      "customer_id": 27191554,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1759210115,
+      "created_by": {
+        "id": 27191554,
+        "name": "Giang Đức Thắng",
+        "full_name": "Giang Đức Thắng",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-03-28 08:44:02",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1757060522,
+        "contribute_info": {
+          "id": 27191554,
+          "name": "Giang Đức Thắng",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 7,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc  Xanh  "
+      ],
+      "product_attributes": [
+        "Màu sắc:  Xanh  "
+      ],
+      "spid": 278438032,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2025-09-30 12:28:35",
+        "delivery_date": "2025-09-05 18:09:18",
+        "current_date": "2025-10-25 22:08:05",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20172520,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16036460999999999,
+      "customer_id": 27336405,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1758357132,
+      "created_by": {
+        "id": 27336405,
+        "name": "Thanh Tuấn",
+        "full_name": "Thanh Tuấn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-04-17 11:35:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1754983042,
+        "contribute_info": {
+          "id": 27336405,
+          "name": "Thanh Tuấn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc  Xanh  "
+      ],
+      "product_attributes": [
+        "Màu sắc:  Xanh  "
+      ],
+      "spid": 278438032,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2025-09-20 15:32:12",
+        "delivery_date": "2025-08-12 17:35:59",
+        "current_date": "2025-10-25 22:08:05",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20172521,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16036460999999999,
+      "customer_id": 27336405,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1758357141,
+      "created_by": {
+        "id": 27336405,
+        "name": "Thanh Tuấn",
+        "full_name": "Thanh Tuấn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-04-17 11:35:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1754983425,
+        "contribute_info": {
+          "id": 27336405,
+          "name": "Thanh Tuấn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc  Đen"
+      ],
+      "product_attributes": [
+        "Màu sắc:  Đen"
+      ],
+      "spid": 278438031,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2025-09-20 15:32:21",
+        "delivery_date": "2025-08-12 17:36:36",
+        "current_date": "2025-10-25 22:08:05",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20170125,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16025503999999999,
+      "customer_id": 16632768,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1757838340,
+      "created_by": {
+        "id": 16632768,
+        "name": "Mai Võ Thanh Hậu",
+        "full_name": "Mai Võ Thanh Hậu",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-02-29 21:57:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1757830889,
+        "contribute_info": {
+          "id": 16632768,
+          "name": "Mai Võ Thanh Hậu",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 5,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc  Đen"
+      ],
+      "product_attributes": [
+        "Màu sắc:  Đen"
+      ],
+      "spid": 278438031,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2025-09-14 15:25:40",
+        "delivery_date": "2025-09-14 14:55:11",
+        "current_date": "2025-10-25 22:08:05",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19965766,
+      "title": "Cực kì hài lòng",
+      "content": "Chạy mượt mà nói chung điện thoại giá sinh viên vậy là OK rồi",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.035201450000000002,
+      "new_score": 0.15861555999999999,
+      "customer_id": 11159019,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1724824023,
+      "created_by": {
+        "id": 11159019,
+        "name": "Son Tran",
+        "full_name": "Son Tran",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b2/1c/d0/5ee63ea5d5c23d7fec286635ab255a94.png",
+        "created_time": "2019-03-06 09:37:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1724719282,
+        "contribute_info": {
+          "id": 11159019,
+          "name": "Son Tran",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b2/1c/d0/5ee63ea5d5c23d7fec286635ab255a94.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 19,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hồng Hạnh Mobile",
+        "Màu sắc  Đen"
+      ],
+      "product_attributes": [
+        "Màu sắc:  Đen"
+      ],
+      "spid": 273668662,
+      "is_photo": false,
+      "seller": {
+        "id": 29952,
+        "name": "Hồng Hạnh Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2024-08-28 12:47:03",
+        "delivery_date": "2024-08-28 10:55:04",
+        "current_date": "2025-10-25 22:08:05",
+        "content": "Đã dùng 2 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 giờ."
+      },
+      "comments": [
+        {
+          "id": 3244254,
+          "review_id": 19965766,
+          "commentator": "seller",
+          "customer_id": 29952,
+          "fullname": "Hồng Hạnh Mobile",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg",
+          "content": "Chào bạn\nCám ơn bạn đã tin tưởng và ủng hộ shop Hồng Hạnh Mobile.\nHi vọng bạn hài lòng về sản phẩm và dịch vụ, sẽ tiếp tục đồng hành cùng HHM trong những đơn hàng kế tiếp ạ!\nCần hỗ trợ liên hệ shop nhé\nNếu bạn thích sản phẩm của chúng tôi, chào mừng bạn chia sẻ đến với gia đình, bạn bè, những người bạn yêu thích\nShop trân trọng cám ơn bạn đã hài lòng, tin tưởng, ủng hộ, chia sẻ, đánh giá 5* cho shop ❤ 5* của bạn là sự hỗ trợ tốt nhất ❤\nHồng Hạnh Mobile | Chính Hãng - Uy Tín - Chất Lượng",
+          "score": 0,
+          "create_at": 1724836352,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20032184,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.15474927999999999,
+      "customer_id": 7526204,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1731770130,
+      "created_by": {
+        "id": 7526204,
+        "name": "Đức Thuận",
+        "full_name": "Đức Thuận",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-07-25 09:44:42",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1730891830,
+        "contribute_info": {
+          "id": 7526204,
+          "name": "Đức Thuận",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hồng Hạnh Mobile",
+        "Màu sắc  Đen"
+      ],
+      "product_attributes": [
+        "Màu sắc:  Đen"
+      ],
+      "spid": 273668662,
+      "is_photo": false,
+      "seller": {
+        "id": 29952,
+        "name": "Hồng Hạnh Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2024-11-16 22:15:30",
+        "delivery_date": "2024-11-10 19:15:47",
+        "current_date": "2025-10-25 22:08:05",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [
+        {
+          "id": 3282443,
+          "review_id": 20032184,
+          "commentator": "seller",
+          "customer_id": 29952,
+          "fullname": "Hồng Hạnh Mobile",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg",
+          "content": "Chào bạn\nCám ơn bạn đã tin tưởng và ủng hộ shop Hồng Hạnh Mobile.\nHi vọng bạn hài lòng về sản phẩm và dịch vụ, sẽ tiếp tục đồng hành cùng HHM trong những đơn hàng kế tiếp ạ!\nCần hỗ trợ liên hệ shop nhé\nNếu bạn thích sản phẩm của chúng tôi, chào mừng bạn chia sẻ đến với gia đình, bạn bè, những người bạn yêu thích\nShop trân trọng cám ơn bạn đã hài lòng, tin tưởng, ủng hộ, chia sẻ, đánh giá 5* cho shop ❤ 5* của bạn là sự hỗ trợ tốt nhất ❤\nHồng Hạnh Mobile | Chính Hãng - Uy Tín - Chất Lượng",
+          "score": 0,
+          "create_at": 1731843232,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19762231,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng giao đúng mẫu",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.15409585000000001,
+      "customer_id": 7692321,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4335674,
+          "full_path": "https://salt.tikicdn.com/ts/review/3e/1b/29/246ec52927064b0d1f274240723f01fa.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1707212239,
+      "created_by": {
+        "id": 7692321,
+        "name": "Từ Thị Thanh Trúc",
+        "full_name": "Từ Thị Thanh Trúc",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/26/c9/5c/b1ee137168292a061dd5ed9f971f58f3.png",
+        "created_time": "2018-08-18 14:04:54",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1706957611,
+        "contribute_info": {
+          "id": 7692321,
+          "name": "Từ Thị Thanh Trúc",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/26/c9/5c/b1ee137168292a061dd5ed9f971f58f3.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 156,
+            "total_thank": 5
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hồng Hạnh Mobile",
+        "Màu sắc  Xanh  "
+      ],
+      "product_attributes": [
+        "Màu sắc:  Xanh  "
+      ],
+      "spid": 273668664,
+      "is_photo": true,
+      "seller": {
+        "id": 29952,
+        "name": "Hồng Hạnh Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg"
+      },
+      "product_id": 273668660,
+      "timeline": {
+        "review_created_date": "2024-02-06 16:37:19",
+        "delivery_date": "2024-02-06 15:31:38",
+        "current_date": "2025-10-25 22:08:05",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 3136815,
+          "review_id": 19762231,
+          "commentator": "seller",
+          "customer_id": 29952,
+          "fullname": "Hồng Hạnh Mobile",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg",
+          "content": "Chào bạn\nCám ơn bạn đã tin tưởng và ủng hộ shop Hồng Hạnh Mobile.\nHi vọng bạn hài lòng về sản phẩm và dịch vụ, sẽ tiếp tục đồng hành cùng HHM trong những đơn hàng kế tiếp ạ!\nCần hỗ trợ liên hệ shop nhé\nNếu bạn thích sản phẩm của chúng tôi, chào mừng bạn chia sẻ đến với gia đình, bạn bè, những người bạn yêu thích\nShop trân trọng cám ơn bạn đã hài lòng, tin tưởng, ủng hộ, chia sẻ, đánh giá 5* cho shop ❤ 5* của bạn là sự hỗ trợ tốt nhất ❤\nHồng Hạnh Mobile | Chính Hãng - Uy Tín - Chất Lượng",
+          "score": 0,
+          "create_at": 1707265431,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    }
+  ],
+  "paging": {
+    "total": 9,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

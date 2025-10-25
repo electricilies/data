@@ -1,0 +1,574 @@
+{
+  "id": 277614251,
+  "master_id": 277614251,
+  "sku": "2804301844850",
+  "name": "Apple iPad Air M3 11-Inch Wi-Fi ",
+  "url_key": "apple-ipad-air-m3-11-inch-wi-fi-p277614251",
+  "url_path": "apple-ipad-air-m3-11-inch-wi-fi-p277614251.html?spid=277614253",
+  "short_url": "https://tiki.vn/product-p277614251.html?spid=277614253",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "...",
+  "price": 13750000,
+  "list_price": 16990000,
+  "original_price": 16990000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": false,
+      "is_top_brand": true,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 3240000,
+  "discount_rate": 19,
+  "rating_average": 5,
+  "review_count": 5,
+  "review_text": "(5)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 200,
+  "all_time_quantity_sold": 27,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/fd/d8/7b/40a3cd2cf269aba8c90378883f4d2651.png\" alt=\"\" width=\"750\" height=\"4368\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 17827,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "current_seller": {
+    "id": 1,
+    "sku": "6396597399566",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 13750000,
+    "product_id": "277614253",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Mỹ"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Trung Quốc"
+        }
+      ]
+    },
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Blue"
+        },
+        {
+          "label": "Space Gray"
+        }
+      ]
+    },
+    {
+      "code": "option2",
+      "name": "Dung lượng",
+      "position": 0,
+      "show_preview_image": false,
+      "values": [
+        {
+          "label": "128GB"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 277614254,
+      "discount_rate": 19,
+      "id": 277614255,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/d2/2cafeb512f3887748afd7d4b37298cf1.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/11/6e/d2/2cafeb512f3887748afd7d4b37298cf1.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/11/6e/d2/2cafeb512f3887748afd7d4b37298cf1.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/12/7e/f3/3c3ec08f1ed95467925267f4d0ca9c45.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/12/7e/f3/3c3ec08f1ed95467925267f4d0ca9c45.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/12/7e/f3/3c3ec08f1ed95467925267f4d0ca9c45.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/48/6a/78/77ac0e4fb33d184638f04681736c2384.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/48/6a/78/77ac0e4fb33d184638f04681736c2384.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/48/6a/78/77ac0e4fb33d184638f04681736c2384.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/67/cc/14/27d3cb145e59bbc0cbdd43eef3212265.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/67/cc/14/27d3cb145e59bbc0cbdd43eef3212265.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/67/cc/14/27d3cb145e59bbc0cbdd43eef3212265.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6d/a5/17/5271de763399d0525f732072dff52ba8.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/6d/a5/17/5271de763399d0525f732072dff52ba8.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6d/a5/17/5271de763399d0525f732072dff52ba8.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/75/45/8e/7a8dfab1294b326e789ebc9aac19bf8c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/75/45/8e/7a8dfab1294b326e789ebc9aac19bf8c.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/75/45/8e/7a8dfab1294b326e789ebc9aac19bf8c.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9a/6e/d3/9d1ffdc21cf3977fbd5714f71027b755.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/9a/6e/d3/9d1ffdc21cf3977fbd5714f71027b755.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9a/6e/d3/9d1ffdc21cf3977fbd5714f71027b755.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9e/45/87/026efd30d0207832d9409b3a8669ee5d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/9e/45/87/026efd30d0207832d9409b3a8669ee5d.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9e/45/87/026efd30d0207832d9409b3a8669ee5d.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e1/0a/81/df1cde75452b72c56247b053e25519e1.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/e1/0a/81/df1cde75452b72c56247b053e25519e1.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e1/0a/81/df1cde75452b72c56247b053e25519e1.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ed/72/6b/8c6c0b31cd9b96eca6ee58087d250cfa.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/ed/72/6b/8c6c0b31cd9b96eca6ee58087d250cfa.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ed/72/6b/8c6c0b31cd9b96eca6ee58087d250cfa.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Apple iPad Air M3 11-Inch Wi-Fi  - Space Gray - 128GB",
+      "option1": "Space Gray",
+      "option2": "128GB",
+      "original_price": 16990000,
+      "price": 13750000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "3550122650691",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/12/7e/f3/3c3ec08f1ed95467925267f4d0ca9c45.jpg"
+    },
+    {
+      "child_id": 277614252,
+      "discount_rate": 19,
+      "id": 277614253,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/d5/c2/e3/e76e46deb33e4a5ae7a6a52ed0f9ad62.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ed/72/6b/4fc4986d3b841abf7ea4a4583b4e80dc.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/75/45/8e/e0d9873420c41bc9e9a308c179726f57.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/67/cc/14/7ec29b8754a87e047fd39d000479ded4.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9a/6e/d3/02d060d045b5d069301ca969157a8e52.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6d/a5/17/41e346884fc93b43dc6027c94b222b92.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/11/6e/d2/a9b92754eb852244341c59e74f876844.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/48/6a/78/161c0c53f62ebf65bd837ea30390c32c.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4e/c1/03/b21ce63cfb475f2caa4c4b699ff195ea.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Apple iPad Air M3 11-Inch Wi-Fi  - Blue - 128GB",
+      "option1": "Blue",
+      "option2": "128GB",
+      "original_price": 16990000,
+      "price": 13750000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "2403204639769",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/09/df/ff/81c1aa7c7c08ba3a6d07e7743ac7d26f.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 27",
+    "value": 27
+  },
+  "categories": {
+    "id": 1794,
+    "name": "Máy tính bảng",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-thoai-may-tinh-bang/c1789",
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "category_id": 1789
+    },
+    {
+      "url": "/may-tinh-bang/c1794",
+      "name": "Máy tính bảng",
+      "category_id": 1794
+    },
+    {
+      "url": "https://tiki.vn/apple-ipad-air-m3-11-inch-wi-fi-p277614251.html",
+      "name": "Apple iPad Air M3 11-Inch Wi-Fi ",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trả góp từ 1.145.833<sup><small>₫</small></sup>/tháng",
+      "icon": "https://salt.tikicdn.com/ts/upload/39/c5/e5/da087b9fd6fa5cf4c5aa0d6d2eb454df.png",
+      "summary": "Qua thẻ tín dụng Visa, Mastercard, JCB.",
+      "title": "Trả góp từ 1.145.833 <sup><small>₫</small></sup>/tháng",
+      "type": "installment",
+      "url": "https://tiki.vn/installment?masterId=277614251&&spid=277614253"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=277614251&pid=277614253&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}
