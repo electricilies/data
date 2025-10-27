@@ -1,0 +1,9 @@
+category:
+  jq -r '[.[].breadcrumbs.[0] | [.category_id, .name]] | sort | unique | .[] | @csv' ./product-detail/concat-detail.json
+
+# But this may be replaced
+product-option:
+  jq -r '.[] | select(has("configurable_options")) | .configurable_options.[].name' ./product-detail/concat-detail.json | sort | uniq
+
+brand:
+  jq -r '[.[].brand] | unique_by(.id) | .[] | [.id, .name] | @csv' ./product-detail/concat-detail.json
