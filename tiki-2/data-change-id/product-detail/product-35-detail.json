@@ -1,0 +1,710 @@
+{
+  "id": 35,
+  "master_id": 35,
+  "sku": "6477332696485",
+  "name": "Máy Tính Bảng Samsung Galaxy Tab A9 Plus Wifi 4GB/64GB - Đã Kích Hoạt Bảo Hành Điện Tử - Hàng Chính Hãng",
+  "url_key": "may-tinh-bang-samsung-galaxy-tab-a9-plus-wifi-4gb-64gb-hang-chinh-hang-p274101262",
+  "url_path": "may-tinh-bang-samsung-galaxy-tab-a9-plus-wifi-4gb-64gb-hang-chinh-hang-p274101262.html?spid=274101980",
+  "short_url": "https://tiki.vn/product-p274101262.html?spid=274101980",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "Samsung Galaxy Tab A9 Plus – Hiệu suất vượt trộiNằm trong phân khúc tầm trung, Galaxy Tab A9 Plus không đi kèm trái tim khủng như Galaxy S9 nhưng vẫn đem đến hiệu năng vượt trội so với đối thủ cùng p...",
+  "price": 3590000,
+  "list_price": 5990000,
+  "original_price": 5990000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "right_price",
+      "code": "price_badge",
+      "type": "price_badge",
+      "index": 0,
+      "icon": "https://salt.tikicdn.com/ts/upload/1c/d0/ac/e89ef64c4a607d248e9e524b69aa1d0c.png",
+      "icon_width": 75,
+      "icon_height": 22,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "left_authentic",
+      "code": "is_hero",
+      "type": "is_hero",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "text_overlay_product_image",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "text_badge",
+      "type": "text_badge",
+      "index": 0,
+      "icon": null,
+      "icon_width": 0,
+      "icon_height": 0,
+      "text_color": "#FFF0F1",
+      "background_color": "#D93843",
+      "href": null,
+      "text": "25-10"
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_hero",
+      "type": "pdp_icon_badge",
+      "index": 1,
+      "icon": "https://salt.tikicdn.com/ts/upload/94/36/e7/c5297f3fad0a83fb56f98be877904467.png",
+      "icon_width": 76,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": true,
+      "is_top_brand": true,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 2400000,
+  "discount_rate": 40,
+  "rating_average": 4.8,
+  "review_count": 103,
+  "review_text": "(103)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 632,
+  "all_time_quantity_sold": 437,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<h3><strong>Samsung Galaxy Tab A9 Plus – Hiệu suất vượt trội</strong></h3>\n<p><span style=\"font-weight:400\">Nằm trong phân khúc tầm trung, Galaxy Tab A9 Plus không đi kèm trái tim khủng như Galaxy S9 nhưng vẫn đem đến hiệu năng vượt trội so với đối thủ cùng phân khúc. Máy được trang bị bộ vi xử lý Snapdragon 695 8 nhân, RAM 4GB xử lý mọi tác vụ một cách mượt mà và nhanh chóng.</span></p>\n<p><span style=\"font-weight:400\"><img src=\"https://salt.tikicdn.com/ts/tmp/c0/80/67/1f901615538367725ed029fb64340c04.jpg\" alt=\"\" width=\"750\" height=\"419\" /></span></p>\n<p><span style=\"font-weight:400\">Đây là trợ thủ đắc lực trong học tập, công việc và giải trí. Ngoài ra, bộ nhớ trong tối đa 64GB đem đến không gian lưu trữ rộng lớn cho người dùng.</span></p>\n<h3><strong>Màn hình lớn, sắc nét</strong></h3>\n<p><span style=\"font-weight:400\">Galaxy Tab A9 Plus là mẫu tablet tầm trung sở hữu màn hình lớn nhất hiện nay của Samsung với kích thước lên tới 11 inch. Bên cạnh màn hình cực khủng, máy còn được trang bị thông số kỹ thuật ấn tượng: Tấm nền TFT, độ phân giải full HD&#43;, tần số quét 90Hz. </span></p>\n<p><span style=\"font-weight:400\"><img src=\"https://salt.tikicdn.com/ts/tmp/8e/cf/69/3e49c52ad0af509d4ef5c79134a12451.jpg\" alt=\"\" width=\"750\" height=\"474\" /></span></p>\n<p><span style=\"font-weight:400\">Màn hình Samsung Galaxy Tab A9 Plus được tích hợp các công nghệ hiện đại bậc nhất giúp tái hiện hình ảnh sắc nét, màu sắc chân thực và có độ tương phản cao. Tab A9 Plus rất thích hợp để giải trí và làm việc nhờ kích thước màn hình lớn và khả năng hiển thị tốt.</span></p>\n<h3><strong>Xóa tan nỗi lo về năng lượng</strong></h3>\n<p><span style=\"font-weight:400\">Samsung trang bị cho Tab A9 Plus viên pin dung lượng lên tới 7040mAh. Với viên pin này người dùng có thể an tâm sử dụng trong suốt một ngày dài. Giải trí hay làm việc đều không phải bận tâm đến vấn đề nạp năng lượng, chỉ với một lần sạc thoải mái sử dụng.</span></p>\n<p><span style=\"font-weight:400\"><img src=\"https://salt.tikicdn.com/ts/tmp/30/11/76/503457cb69fd1f55cb3e946ef97b8b5d.jpg\" alt=\"\" width=\"750\" height=\"419\" /></span></p>\n<p><span style=\"font-weight:400\">Với Samsung Tab A9 Plus, người dùng có thêm một người bạn đồng hành tin cậy trong công việc, học tập và giải trí.</span></p>\n<h3><strong>Thiết kế sang trọng và cao cấp</strong></h3>\n<p><span style=\"font-weight:400\">Samsung Galaxy Tab A9 Plus kế thừa phong cách thiết kế tối giản, sang trọng từ dòng Galaxy Tab S. Toàn bộ thân máy được hoàn thiện từ chất liệu nhôm với khả năng chống nứt vỡ rất tốt. Các góc cạnh được cắt gọt tỷ mỷ tăng thêm tính thẩm mỹ và đem lại sự thoải mái cho người dùng. </span></p>\n<p><span style=\"font-weight:400\"><img src=\"https://salt.tikicdn.com/ts/tmp/58/7b/1a/40792b2d5dddb2fabf95b9dae7a579f9.jpg\" alt=\"\" width=\"750\" height=\"419\" /></span></p>\n<p><span style=\"font-weight:400\">Galaxy Tab A9 Plus được trang bị cổng kết nối USB-C cho tốc truyền tải dữ liệu ấn tượng, giúp người dùng tiết kiệm thời gian khi sử dụng. Ngoài ra, Samsung còn tích hợp cho Tab A9 Plus Bluetooth 5.1 đem đến kết nối nhanh chóng, ổn định và mượt mà với các thiết bị không dây khác.</span></p>\n<h3><strong>Chụp ảnh, quay phim rõ nét</strong></h3>\n<p><span style=\"font-weight:400\">Galaxy Tab A9 Plus được trang bị hệ thống camera gồm: camera sau 8MP và camera trước 5MP. Tuy độ phân giải không cao nhưng máy vẫn đem đến khả năng chụp ảnh và quay video sắc nét. Đặc biệt, Tab A9 Plus quay được video Full HD 1080p tốc độ 30FPS bắt trọn mọi khoảnh khắc, đem đến những thước phim ấn tượng.</span></p>\n<p><span style=\"font-weight:400\"><img src=\"https://salt.tikicdn.com/ts/tmp/5c/f3/4b/c9a7288e204ac194cfeade9738499328.jpg\" alt=\"\" width=\"750\" height=\"419\" /></span></p>\n<p><span style=\"font-weight:400\">Samsung Galaxy Tab A9 Plus là một trong số những mẫu tablet ấn tượng vừa được ra mắt. Với thiết kế sang trọng, cấu hình mạnh mẽ, màn hình siêu lớn và viên pin khủng, Tab A9 Plus chắc chắn sẽ trở thành cánh tay phải của người dùng, đáp ứng tốt mọi nhu cầu sử dụng.</span></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 18802,
+    "name": "Samsung",
+    "slug": "samsung"
+  },
+  "current_seller": {
+    "id": 1,
+    "sku": "3368774264002",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 3590000,
+    "product_id": "274101980",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    },
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "battery_capacity",
+          "name": "Dung lượng pin",
+          "value": " 7040 mAh"
+        },
+        {
+          "code": "bluetooth",
+          "name": "Bluetooth",
+          "value": " v5.1"
+        },
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Samsung"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Hàn Quốc"
+        },
+        {
+          "code": "camera_sau",
+          "name": "Camera sau",
+          "value": " 8 MP"
+        },
+        {
+          "code": "camera_truoc",
+          "name": "Camera trước",
+          "value": " 5 MP"
+        },
+        {
+          "code": "cart_slot",
+          "name": "Hỗ trợ thẻ nhớ ngoài",
+          "value": "Micro SD"
+        },
+        {
+          "code": "chip_do_hoa",
+          "name": "Chip đồ họa (GPU)",
+          "value": "Adreno 619"
+        },
+        {
+          "code": "chip_set",
+          "name": "Chip set",
+          "value": "Snapdragon 695 8 nhân"
+        },
+        {
+          "code": "chuc_nang_khac",
+          "name": "Chức năng khác",
+          "value": "<p><br />Ứng dụng kép (Dual Messenger)</p> <p>4 loa</p> <p>Âm thanh Dolby Atmos</p> <p>Chạm 2 lần tắt/mở màn hình</p> <p>Samsung DeX (Giao diện tương tự PC)</p> <p>Chế độ trẻ em (Samsung Kids)</p> <p>Không gian thứ hai (Thư mục bảo mật)</p> <p>Đa cửa sổ</p> <p>Mở khóa bằng khuôn mặt</p>"
+        },
+        {
+          "code": "cpu_speed",
+          "name": "Tốc độ CPU",
+          "value": " 2.2 GHz"
+        },
+        {
+          "code": "display_type",
+          "name": "Loại/ Công nghệ màn hình",
+          "value": " TFT LCD"
+        },
+        {
+          "code": "gps",
+          "name": "GPS",
+          "value": " BDS  /GALILEO  /QZSS  /GPS  /GLONASS"
+        },
+        {
+          "code": "included_accessories",
+          "name": "Phụ kiện đi kèm",
+          "value": "Bộ sản phẩm bao gồm: Thân máy, cáp dữ liệu, tài liệu hướng dẫn sử dụng, dụng cụ lấy thẻ nhớ."
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "Galaxy Tab A9 Plus Wifi 4GB/64GB "
+        },
+        {
+          "code": "jack_headphone",
+          "name": "Jack tai nghe",
+          "value": " 3.5 mm"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Trung Quốc"
+        },
+        {
+          "code": "port_sac",
+          "name": "Cổng sạc",
+          "value": " Type-C"
+        },
+        {
+          "code": "quay_phim",
+          "name": "Quay phim",
+          "value": " FullHD 1080p@30fps, HD 720p@30fps"
+        },
+        {
+          "code": "ram",
+          "name": "RAM",
+          "value": "4GB"
+        },
+        {
+          "code": "resolution",
+          "name": "Độ phân giải",
+          "value": "1920 x 1200 pixels"
+        },
+        {
+          "code": "rom",
+          "name": "ROM",
+          "value": "64GB"
+        },
+        {
+          "code": "screen_size",
+          "name": "Kích thước màn hình",
+          "value": "11 inch"
+        },
+        {
+          "code": "tinh_nang_camera",
+          "name": "Tính năng camera",
+          "value": "<ul> <li>Bộ lọc màu</li> <li>Chuyên nghiệp (Pro)</li> <li>Xóa phông</li> <li>Tua nhanh thời gian (Time‑lapse)</li> <li>Toàn cảnh (Panorama)</li> <li>Quét mã QR</li> <li>HDR</li> <li>Làm đẹp</li> <li>Ánh sáng yếu (Chụp đêm)</li> <li>Zoom kỹ thuật số</li> <li>Chụp hẹn giờ</li> <li>Quét tài liệu</li> <li>Tự động lấy nét</li> </ul>"
+        },
+        {
+          "code": "wifi",
+          "name": "Wifi",
+          "value": "<ul> <li>Dual-band</li> <li>Wi-Fi 802.11 a/b/g/n/ac</li> <li>Wi-Fi Direct</li> </ul>"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Xám"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 274101263,
+      "discount_rate": 40,
+      "id": 274101980,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/5a/12/dc/7baae737fdefad1659945ed49506295b.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b7/00/35/511b7443abe99b61eb8426f0e0efae4d.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/85/24/33/92e223c85549db4fe6acf10a5d0e098a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b6/30/df/42fe8618ba32f45eeafdfe0bda2b2aaa.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/db/db/a6/cbaef5de97276179ac037eb1e911f707.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/a1/b4/58c449c0ed926424a1dfb54c97fd4a2f.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/6d/c3/4c/4303226434ac5cb16b1e05eac1c1dc21.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/dc/fd/19/32241bdf261d0bc77decc7a074cb917d.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/48/42/e1/65a14fc98111378467b6439a79e4d1d7.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/52/64/4b/ea547808a02e9630b48023c6505d59ed.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/7a/50/d2/28c14864a4d04c90d101734bc58af228.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Máy Tính Bảng Samsung Galaxy Tab A9 Plus Wifi 4GB/64GB - Đã Kích Hoạt Bảo Hành Điện Tử - Hàng Chính Hãng - Xám",
+      "option1": "Xám",
+      "original_price": 5990000,
+      "price": 3590000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "7549463665785",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/11/05/33/c86a2665b38da0da05c3dde562cf022c.png"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 437",
+    "value": 437
+  },
+  "categories": {
+    "id": 1794,
+    "name": "Máy tính bảng",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-thoai-may-tinh-bang/c1789",
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "category_id": 1789
+    },
+    {
+      "url": "/may-tinh-bang/c1794",
+      "name": "Máy tính bảng",
+      "category_id": 1794
+    },
+    {
+      "url": "https://tiki.vn/may-tinh-bang-samsung-galaxy-tab-a9-plus-wifi-4gb-64gb-hang-chinh-hang-p274101262.html",
+      "name": "Máy Tính Bảng Samsung Galaxy Tab A9 Plus Wifi 4GB/64GB - Đã Kích Hoạt Bảo Hành Điện Tử - Hàng Chính Hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trả góp từ 299.166<sup><small>₫</small></sup>/tháng",
+      "icon": "https://salt.tikicdn.com/ts/upload/39/c5/e5/da087b9fd6fa5cf4c5aa0d6d2eb454df.png",
+      "summary": "Qua thẻ tín dụng Visa, Mastercard, JCB.",
+      "title": "Trả góp từ 299.166 <sup><small>₫</small></sup>/tháng",
+      "type": "installment",
+      "url": "https://tiki.vn/installment?masterId=274101262&&spid=274101980"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=274101262&pid=274101980&seller_id=1&qty=1"
+    }
+  ],
+  "video_url": "https://sand.tikicdn.com/ts/video/63/dd/03/62c77f154f52d41783a68f5ff4fabdba.mp4",
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "deal_specs": {
+    "deal_id": 567030450,
+    "is_hot_deal": true,
+    "qty": 10,
+    "max_sale_qty": 2,
+    "qty_ordered": 0,
+    "special_to_date": 1761411600,
+    "price": 3590000,
+    "list_price": 5990000,
+    "original_price": 5990000,
+    "discount_rate": 40,
+    "progress": 0,
+    "progress_text": "Vừa mở bán",
+    "v5": 15
+  },
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

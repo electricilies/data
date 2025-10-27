@@ -1,0 +1,477 @@
+{
+  "id": 604,
+  "master_id": 604,
+  "sku": "2910403233409",
+  "name": "Apple Watch Ultra 3 GPS + Cellular 49mm | Ocean Band (2025)",
+  "url_key": "apple-watch-ultra-3-gps-cellular-49mm-ocean-band-2025-hang-chinh-hang-p278764266",
+  "url_path": "apple-watch-ultra-3-gps-cellular-49mm-ocean-band-2025-hang-chinh-hang-p278764266.html?spid=278764271",
+  "short_url": "https://tiki.vn/product-p278764266.html?spid=278764271",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "...",
+  "price": 23500000,
+  "list_price": 23990000,
+  "original_price": 23990000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "right_price",
+      "code": "price_badge",
+      "type": "price_badge",
+      "index": 0,
+      "icon": "https://salt.tikicdn.com/ts/upload/1c/d0/ac/e89ef64c4a607d248e9e524b69aa1d0c.png",
+      "icon_width": 75,
+      "icon_height": 22,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 490000,
+  "discount_rate": 2,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 9,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p><img src=\"https://salt.tikicdn.com/cache/w750/ts/product/f8/70/c3/41d13ea410225b1c1f2670bca08f15c1.jpg\" alt=\"\" width=\"100%\" /></p>\n<p><iframe class=\"w-100\" title=\"Apple Watch\"></iframe></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 17827,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "current_seller": {
+    "id": 1,
+    "sku": "5514124429783",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 23500000,
+    "product_id": "278764271",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Hóa đơn"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    },
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Mỹ"
+        },
+        {
+          "code": "included_accessories",
+          "name": "Phụ kiện đi kèm",
+          "value": "<p>Đồng hồ Apple Watch + Dây cáp sạc</p>"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Trung Quốc"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Titan tự nhiên - Dây xanh"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 278764270,
+      "discount_rate": 2,
+      "id": 278764271,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/f3/58/42/c5f2ba53aa0a9dc9a4873801e495914c.jpeg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/4a/58/d3/547d4f8b16d3a169655d1292f35df5ee.jpeg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/65/28/78/f2b78474402c2e5b62c936778bf48053.jpeg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/9d/34/e7/6e3e236946eca4ca4e530f7572da8d12.jpeg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/31/08/f9/e7b9e3fae0e0580625d73f83f0bbcdc6.jpeg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/0b/96/6b/ec4cb9f85c126e24699c4957c15c5365.jpeg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Apple Watch Ultra 3 GPS + Cellular 49mm | Ocean Band (2025) - Titan tự nhiên - Dây xanh",
+      "option1": "Titan tự nhiên - Dây xanh",
+      "original_price": 23990000,
+      "price": 23450000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "1500587315009",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/e8/b6/95/51855c64873f4538663fc9e38948f8cb.jpeg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 2657,
+    "name": "Đồng Hồ Thông Minh",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/thiet-bi-kts-phu-kien-so/c1815",
+      "name": "Thiết Bị Số - Phụ Kiện Số",
+      "category_id": 1815
+    },
+    {
+      "url": "/thiet-bi-deo-thong-minh-va-phu-kien/c8039",
+      "name": "Thiết Bị Đeo Thông Minh và Phụ Kiện",
+      "category_id": 8039
+    },
+    {
+      "url": "/dong-ho-thong-minh/c2657",
+      "name": "Đồng Hồ Thông Minh",
+      "category_id": 2657
+    },
+    {
+      "url": "https://tiki.vn/apple-watch-ultra-3-gps-cellular-49mm-ocean-band-2025-hang-chinh-hang-p278764266.html",
+      "name": "Apple Watch Ultra 3 GPS + Cellular 49mm | Ocean Band (2025)",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trả góp từ 1.958.333<sup><small>₫</small></sup>/tháng",
+      "icon": "https://salt.tikicdn.com/ts/upload/39/c5/e5/da087b9fd6fa5cf4c5aa0d6d2eb454df.png",
+      "summary": "Qua thẻ tín dụng Visa, Mastercard, JCB.",
+      "title": "Trả góp từ 1.958.333 <sup><small>₫</small></sup>/tháng",
+      "type": "installment",
+      "url": "https://tiki.vn/installment?masterId=278764266&&spid=278764271"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278764266&pid=278764271&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Hóa đơn"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "deal_specs": {
+    "deal_id": 566731864,
+    "is_hot_deal": true,
+    "qty": 50,
+    "max_sale_qty": 5,
+    "qty_ordered": 0,
+    "special_to_date": 1761408000,
+    "price": 23500000,
+    "list_price": 23990000,
+    "original_price": 23990000,
+    "discount_rate": 2,
+    "progress": 0,
+    "progress_text": "Vừa mở bán",
+    "v5": 15
+  },
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí lên đến 365 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý hoặc sản phẩm không đúng cam kết - trong 30 ngày (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành…, không áp dụng đơn hàng trả góp).",
+          "Lỗi từ nhà sản xuất - trong 365 ngày (sản phẩm chưa qua sửa chữa, còn nguyên hộp, phụ kiện, phiếu bảo hành nếu có). Sản phẩm không đáp ứng điều kiện sẽ được bảo hành hoặc sửa chữa theo quy định hãng."
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí"
+  }
+}

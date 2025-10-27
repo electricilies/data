@@ -1,0 +1,187 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 1,
+      "percent": 100
+    }
+  },
+  "rating_average": 5,
+  "reviews_count": 1,
+  "review_photo": {
+    "total": 0,
+    "total_photo": 0
+  },
+  "data": [
+    {
+      "id": 20177735,
+      "title": "Cực kì hài lòng",
+      "content": "Đẹp hàng tôt",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16177889000000001,
+      "customer_id": 8465898,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1759687316,
+      "created_by": {
+        "id": 8465898,
+        "name": "Nguyễn Trung Việt ",
+        "full_name": "Nguyễn Trung Việt ",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a2/0f/e5/6726b5771abf76eab0b46dd9dcba07cf.png",
+        "created_time": "2018-10-16 11:56:34",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1756157390,
+        "contribute_info": {
+          "id": 8465898,
+          "name": "Nguyễn Trung Việt ",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/a2/0f/e5/6726b5771abf76eab0b46dd9dcba07cf.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Hồng Hạnh Mobile",
+        "Màu sắc  Đen"
+      ],
+      "product_attributes": [
+        "Màu sắc:  Đen"
+      ],
+      "spid": 277738693,
+      "is_photo": false,
+      "seller": {
+        "id": 29952,
+        "name": "Hồng Hạnh Mobile",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg"
+      },
+      "product_id": 131,
+      "timeline": {
+        "review_created_date": "2025-10-06 01:01:56",
+        "delivery_date": "2025-08-29 18:54:50",
+        "current_date": "2025-10-25 22:07:42",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [
+        {
+          "id": 3332582,
+          "review_id": 20177735,
+          "commentator": "seller",
+          "customer_id": 29952,
+          "fullname": "Hồng Hạnh Mobile",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/e8/09/c9/d7ba4998e3f8db0139e9864134770b8a.jpg",
+          "content": "Chào bạn\nCám ơn bạn đã tin tưởng và ủng hộ shop Hồng Hạnh Mobile.\nHi vọng bạn hài lòng về sản phẩm và dịch vụ, sẽ tiếp tục đồng hành cùng HHM trong những đơn hàng kế tiếp ạ!\nCần hỗ trợ liên hệ shop nhé\nNếu bạn thích sản phẩm của chúng tôi, chào mừng bạn chia sẻ đến với gia đình, bạn bè, những người bạn yêu thích\nShop trân trọng cám ơn bạn đã hài lòng, tin tưởng, ủng hộ, chia sẻ, đánh giá 5* cho shop ❤ 5* của bạn là sự hỗ trợ tốt nhất ❤\nHồng Hạnh Mobile | Chính Hãng - Uy Tín - Chất Lượng",
+          "score": 0,
+          "create_at": 1759768909,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Bộ nhớ lớn",
+          "Camera chụp hình đẹp",
+          "Độ phân giải sắc nét",
+          "Dung lương pin lớn"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 1,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

@@ -1,0 +1,2003 @@
+{
+  "stars": {
+    "1": {
+      "count": 2,
+      "percent": 1
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 1,
+      "percent": 1
+    },
+    "4": {
+      "count": 0,
+      "percent": 0
+    },
+    "5": {
+      "count": 135,
+      "percent": 98
+    }
+  },
+  "rating_average": 4.9000000000000004,
+  "reviews_count": 138,
+  "review_photo": {
+    "total": 27,
+    "total_photo": 38
+  },
+  "data": [
+    {
+      "id": 20123662,
+      "title": "Cực kì hài lòng",
+      "content": "mua tặng, bạn nó nói hộp hơi trầy. tiki chú ý giúp, hàng giá ko rẻ, vì cái hộp ko đáng, mua xài với mua tặng khác nhau, ngta quánh giá t. trừ 1* trên cmt, vẫn giữ nguyên * vì thấy thôi kệ cũng đc.",
+      "status": "approved",
+      "thank_count": 3,
+      "score": 0.025718499999999998,
+      "new_score": 0.18031952000000001,
+      "customer_id": 5400886,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4405369,
+          "full_path": "https://salt.tikicdn.com/ts/review/60/2e/f6/fc65e229abf3214510c03e6c5a8353bb.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4405370,
+          "full_path": "https://salt.tikicdn.com/ts/review/09/7f/52/0c864f5685e3738726b7926da5dea5bd.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1747238592,
+      "created_by": {
+        "id": 5400886,
+        "name": "Lương Duyên",
+        "full_name": "Lương Duyên",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-06-24 12:42:23",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1746607870,
+        "contribute_info": {
+          "id": 5400886,
+          "name": "Lương Duyên",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 62,
+            "total_thank": 153
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-05-14 23:03:12",
+        "delivery_date": "2025-05-09 16:08:52",
+        "current_date": "2025-10-25 22:07:49",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20081764,
+      "title": "Cực kì hài lòng",
+      "content": "Mình đã mua rất nhiều iphone của Tiki Trading, luôn yên tâm về chất lượng. Iphone 6 kì này mình mua của Tiki rất đẹp, đóng gói kĩ lưỡng, giao hàng nhanh chóng💖💖💖💖",
+      "status": "approved",
+      "thank_count": 3,
+      "score": 0.024132580000000001,
+      "new_score": 0.17656704000000001,
+      "customer_id": 28472784,
+      "comment_count": 2,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4396806,
+          "full_path": "https://salt.tikicdn.com/ts/review/b2/6c/95/8406aa4e696db51fa071b8d47200e7d7.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4396807,
+          "full_path": "https://salt.tikicdn.com/ts/review/92/cf/0c/b24b91bf9c89b43e6f7330f373bcf5d5.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1739572410,
+      "created_by": {
+        "id": 28472784,
+        "name": "Apple User",
+        "full_name": "Apple User",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-11-16 07:15:23",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1738922409,
+        "contribute_info": {
+          "id": 28472784,
+          "name": "Apple User",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 2,
+            "total_thank": 3
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-02-15 05:33:30",
+        "delivery_date": "2025-02-07 19:27:13",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 7 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 ngày."
+      },
+      "comments": [
+        {
+          "id": 3311794,
+          "review_id": 20081764,
+          "commentator": "customer",
+          "customer_id": 7601954,
+          "fullname": "Tien tuyet Binh",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Xin hỏi iphone hàng nào ạ",
+          "score": 0,
+          "create_at": 1741357393,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3306646,
+          "review_id": 20081764,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Cảm ơn bạn đã tin tưởng dịch vụ và lựa chọn sản phẩm của Tiki nè. Hy vọng những sản phẩm, dịch vụ của Tiki sẽ giúp bạn có những trải nghiệm tuyệt vời nhất. Rất mong bạn sẽ tiếp tục ủng hộ Tiki trong thời gian tới ạ. ❤️",
+          "score": 0,
+          "create_at": 1739761942,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "Bộ nhớ lớn",
+          "Camera chụp hình đẹp",
+          "Độ phân giải sắc nét",
+          "Dung lương pin lớn"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19994916,
+      "title": "Cực kì hài lòng",
+      "content": "Camera chụp đẹp, máy mạnh, pin trâu. Tiki đóng gói và giao nhanh lắm.",
+      "status": "approved",
+      "thank_count": 3,
+      "score": 0.028117909999999999,
+      "new_score": 0.17155693,
+      "customer_id": 8324898,
+      "comment_count": 3,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4380123,
+          "full_path": "https://salt.tikicdn.com/ts/review/8c/66/91/5aed136b452e7eb5d876c360d730e904.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4380124,
+          "full_path": "https://salt.tikicdn.com/ts/review/b3/2f/b6/b24649a31731f007d69371a2317336a4.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4380125,
+          "full_path": "https://salt.tikicdn.com/ts/review/ec/35/32/43a40ef317bb414662ab6dd97c9e3771.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4380126,
+          "full_path": "https://salt.tikicdn.com/ts/review/e7/e4/d3/d81e49276209a9159a789183afb8b927.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1727845559,
+      "created_by": {
+        "id": 8324898,
+        "name": "Steve Gate",
+        "full_name": "Steve Gate",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/0/9/b/f/27/120/14dbdb01acc0f49c0c219bc69b00ade7.jpg",
+        "created_time": "2018-10-10 12:29:25",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727691301,
+        "contribute_info": {
+          "id": 8324898,
+          "name": "Steve Gate",
+          "avatar": "https://s120.avatar.talk.zdn.vn/0/9/b/f/27/120/14dbdb01acc0f49c0c219bc69b00ade7.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 46,
+            "total_thank": 18
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Tự Nhiên",
+        "Dung lượng 512GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Tự Nhiên",
+        "Dung lượng: 512GB"
+      ],
+      "spid": 276109951,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-10-02 12:05:59",
+        "delivery_date": "2024-10-01 12:22:42",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3262562,
+          "review_id": 19994916,
+          "commentator": "customer",
+          "customer_id": 8324898,
+          "fullname": "Steve Gate",
+          "avatar_url": "https://s120.avatar.talk.zdn.vn/0/9/b/f/27/120/14dbdb01acc0f49c0c219bc69b00ade7.jpg",
+          "content": "T mệt m quá. Đang dùng đây",
+          "score": 0,
+          "create_at": 1728125209,
+          "badge": "https://salt.tikicdn.com/ts/reviews/1a/c6/8e/aed2b9016c8a2840ea0d9268605c8d3c.png",
+          "status": 1,
+          "is_reported": false
+        },
+        {
+          "id": 3261653,
+          "review_id": 19994916,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Cảm ơn bạn đã tin tưởng dịch vụ và lựa chọn sản phẩm của Tiki nè. Hy vọng, sản phẩm, dịch vụ của Tiki sẽ giúp bạn có những trải nghiệm tuyệt vời nhất. Rất mong bạn sẽ tiếp tục ủng hộ Tiki trong thời gian tới ạ. ❤️",
+          "score": 0,
+          "create_at": 1727937301,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        },
+        {
+          "id": 3261064,
+          "review_id": 19994916,
+          "commentator": "customer",
+          "customer_id": 5937264,
+          "fullname": "Nguyễn Chiến Thắng",
+          "avatar_url": "https://tiki.vn/assets/img/avatar.png",
+          "content": "Nhìn cách bóc là mua về bán",
+          "score": 0,
+          "create_at": 1727849269,
+          "badge": "",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20029579,
+      "title": "Bình thường",
+      "content": "Để giao trong 2 giờ mà giao gần 4 tiếng. Giao trúng ngay máy xung đột phần mềm mắc công chạy ra trung tâm bảo hành. Đóng gói ổn, ngoại hình máy đẹp không lỗi.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 8.4027777799999992,
+      "new_score": 0.17107961999999999,
+      "customer_id": 7730013,
+      "comment_count": 1,
+      "rating": 3,
+      "images": [
+        {
+          "id": 4387562,
+          "full_path": "https://salt.tikicdn.com/ts/review/df/54/64/831c340ff231a887eb5d3c6a94a5d6e9.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1731440304,
+      "created_by": {
+        "id": 7730013,
+        "name": "Ng Quynh Minh Huy",
+        "full_name": "Ng Quynh Minh Huy",
+        "region": null,
+        "avatar_url": "https://graph.facebook.com/1820537761399970/picture?type=large&return_ssl_resources=1",
+        "created_time": "2018-08-23 13:56:33",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1731308787,
+        "contribute_info": {
+          "id": 7730013,
+          "name": "Ng Quynh Minh Huy",
+          "avatar": "https://graph.facebook.com/1820537761399970/picture?type=large&return_ssl_resources=1",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 7,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-11-13 02:38:24",
+        "delivery_date": "2024-11-11 18:03:14",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3280629,
+          "review_id": 20029579,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Cảm ơn bạn đã gửi nhận xét đến Tiki. Hiện tại, bộ phận Kỹ thuật của Tiki đã liên hệ qua điện thoại để giải thích tình trạng sản phẩm cho bạn rồi ạ. Đồng thời, Tiki xin phép ghi nhận góp ý của bạn và sẽ cố gắng cải thiện hơn về chất lượng dịch vụ, hy vọng sẽ phục vụ bạn tốt hơn trong đơn hàng tiếp theo ạ. Tiki cảm ơn bạn nhiều.",
+          "score": 0,
+          "create_at": 1731462619,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao trễ hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Không hẹn trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20000970,
+      "title": "Rất không hài lòng",
+      "content": "Máy bị lỗi reset. Yêu cầu hỗ trợ thì *** yêu cầu cung cấp hình ảnh khùng điên gì ko liên quan",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 44.722222219999999,
+      "new_score": 0.17105326000000001,
+      "customer_id": 1203761,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [
+        {
+          "id": 4381601,
+          "full_path": "https://salt.tikicdn.com/ts/review/69/46/7c/97e39165d9b7c0e748594dcfd0da5389.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4381602,
+          "full_path": "https://salt.tikicdn.com/ts/review/7f/b9/fe/c6a82857ed2c851a9de31e753f8c7164.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4381603,
+          "full_path": "https://salt.tikicdn.com/ts/review/d7/b5/93/4a08937e30e8de1458104e8447fd8bff.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1728474662,
+      "created_by": {
+        "id": 1203761,
+        "name": "Phẩm Quốc Thông",
+        "full_name": "Phẩm Quốc Thông",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-03-05 18:51:29",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727400617,
+        "contribute_info": {
+          "id": 1203761,
+          "name": "Phẩm Quốc Thông",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 5,
+            "total_thank": 8
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Tự Nhiên",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Tự Nhiên",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109950,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-10-09 18:51:02",
+        "delivery_date": "2024-09-27 11:54:37",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 12 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 12 ngày."
+      },
+      "comments": [
+        {
+          "id": 3264229,
+          "review_id": 20000970,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Chào bạn, Tiki đã nhận được thông tin đánh giá/nhận xét từ bạn. Tiki rất tiếc vì sản phẩm bạn nhận được đang có vấn đề phát sinh. Thông tin của bạn đang được kiểm tra tại yêu cầu số 04189705. Tiki cám ơn bạn.",
+          "score": 0,
+          "create_at": 1728474780,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20110678,
+      "title": "Rất không hài lòng",
+      "content": "Mua hàng bị Tiki lửa đảo chiếm đoạt tài sản , mua trả góp 12 tháng lệch hơn 2 tr , cuối cùng bị Tpbank bắt trả 1 lần 34, 9***đ   , bị *** hơn 2 triệu",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 4.0079365100000004,
+      "new_score": 0.17039990999999999,
+      "customer_id": 386687,
+      "comment_count": 1,
+      "rating": 1,
+      "images": [],
+      "thanked": false,
+      "created_at": 1744635734,
+      "created_by": {
+        "id": 386687,
+        "name": "Khoi Ngoc",
+        "full_name": "Khoi Ngoc",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-07-28 11:21:35",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1736795545,
+        "contribute_info": {
+          "id": 386687,
+          "name": "Khoi Ngoc",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 16,
+            "total_thank": 11
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Tự Nhiên",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Tự Nhiên",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109950,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-04-14 20:02:14",
+        "delivery_date": "2025-01-19 14:37:42",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [
+        {
+          "id": 3319390,
+          "review_id": 20110678,
+          "commentator": "tikicare",
+          "customer_id": 0,
+          "fullname": "Tiki Care",
+          "avatar_url": "https://salt.tikicdn.com/ts/ta/21/ce/5c/f3809056f0195db1a6295a50ac68ee0e.jpg",
+          "content": "Cảm ơn anh Khôi đã gửi nhận xét đến Tiki. Qua kiểm tra, Tiki thấy đơn hàng đã được xử lý tại mã hỗ trợ 04322609. Tiki cảm ơn anh nhiều.",
+          "score": 0,
+          "create_at": 1744679769,
+          "badge": "",
+          "status": 1,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20181739,
+      "title": "Cực kì hài lòng",
+      "content": "Sản phẩm đẹp , giá tốt , giao nhanh",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16681835,
+      "customer_id": 6802224,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4416144,
+          "full_path": "https://salt.tikicdn.com/ts/review/7f/38/3a/41e662467ec1f1864804724ddde76c9c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1760505459,
+      "created_by": {
+        "id": 6802224,
+        "name": "Phạm Phú Hiển",
+        "full_name": "Phạm Phú Hiển",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/36/62/5e/9a30a51fcfc45097b81a7bf5a982ee3e.png",
+        "created_time": "2018-03-27 02:45:07",
+        "group_id": 12,
+        "purchased": true,
+        "purchased_at": 1760498802,
+        "contribute_info": {
+          "id": 6802224,
+          "name": "Phạm Phú Hiển",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/36/62/5e/9a30a51fcfc45097b81a7bf5a982ee3e.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 62,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Trắng",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Trắng",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109956,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-10-15 12:17:39",
+        "delivery_date": "2025-10-15 12:14:18",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 3 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 phút."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20009292,
+      "title": "Cực kì hài lòng",
+      "content": "Camera chụp ảnh đẹp, màu vàng nổi bật. Tiki sale rẻ - giảm 1tr quá OK .",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.16614566,
+      "customer_id": 8324898,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4383247,
+          "full_path": "https://salt.tikicdn.com/ts/review/de/a6/e9/b89b0c83b470bf650d00fd2b2073ebff.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4383248,
+          "full_path": "https://salt.tikicdn.com/ts/review/2c/7b/64/1f8e34114e8b4c713f200a081eb2a03f.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729227799,
+      "created_by": {
+        "id": 8324898,
+        "name": "Steve Gate",
+        "full_name": "Steve Gate",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/0/9/b/f/27/120/14dbdb01acc0f49c0c219bc69b00ade7.jpg",
+        "created_time": "2018-10-10 12:29:25",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1729177662,
+        "contribute_info": {
+          "id": 8324898,
+          "name": "Steve Gate",
+          "avatar": "https://s120.avatar.talk.zdn.vn/0/9/b/f/27/120/14dbdb01acc0f49c0c219bc69b00ade7.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 46,
+            "total_thank": 18
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-10-18 12:03:19",
+        "delivery_date": "2024-10-18 11:03:38",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 3268839,
+          "review_id": 20009292,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ anh. Sự hài lòng của anh là động lực to lớn với Tiki đó ạ. Hy vọng anh sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1729325104,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19991692,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng nhận được đúng như mô tả, đóng gói cẩn thận. Giao hàng siêu nhanh",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.084967319999999999,
+      "new_score": 0.16600539,
+      "customer_id": 17700939,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4379305,
+          "full_path": "https://salt.tikicdn.com/ts/review/11/88/a4/10023a119b9e1d8626b528761101d13d.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4379306,
+          "full_path": "https://salt.tikicdn.com/ts/review/54/57/10/e5647fca9a56b65ab2dba270c37fefb2.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1727501370,
+      "created_by": {
+        "id": 17700939,
+        "name": "Nguyễn Minh Vũ",
+        "full_name": "Nguyễn Minh Vũ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-07-03 10:34:15",
+        "group_id": 32,
+        "purchased": true,
+        "purchased_at": 1727495831,
+        "contribute_info": {
+          "id": 17700939,
+          "name": "Nguyễn Minh Vũ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 14,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Tự Nhiên",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Tự Nhiên",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109950,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-09-28 12:29:30",
+        "delivery_date": "2024-09-28 11:49:40",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 1 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 giờ."
+      },
+      "comments": [
+        {
+          "id": 3259885,
+          "review_id": 19991692,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️từ anh Vũ. Hy vọng anh sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1727589841,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20007589,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng nhận được đúng như mô tả, đóng gói cẩn thận. Giao hàng nhanh",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.15438139000000001,
+      "new_score": 0.16592223,
+      "customer_id": 17700939,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4382868,
+          "full_path": "https://salt.tikicdn.com/ts/review/d9/b4/1e/9a5b07540b0326e78175cfe6e16cb23d.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4382869,
+          "full_path": "https://salt.tikicdn.com/ts/review/b1/00/44/c90b52b446ee28482a306864fa2e788f.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1729059205,
+      "created_by": {
+        "id": 17700939,
+        "name": "Nguyễn Minh Vũ",
+        "full_name": "Nguyễn Minh Vũ",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2020-07-03 10:34:15",
+        "group_id": 32,
+        "purchased": true,
+        "purchased_at": 1728749398,
+        "contribute_info": {
+          "id": 17700939,
+          "name": "Nguyễn Minh Vũ",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 5 năm",
+            "total_review": 14,
+            "total_thank": 4
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Trắng",
+        "Dung lượng 512GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Trắng",
+        "Dung lượng: 512GB"
+      ],
+      "spid": 276109957,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-10-16 13:13:25",
+        "delivery_date": "2024-10-16 13:02:33",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 11 phút",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 11 phút."
+      },
+      "comments": [
+        {
+          "id": 3267882,
+          "review_id": 20007589,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ anh Vũ. Sự hài lòng của anh là động lực to lớn với Tiki đó ạ. Hy vọng anh sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1729144422,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20105440,
+      "title": "Cực kì hài lòng",
+      "content": "Ok giất tốt tôi có nhu cầu tôi sẽ mua tiếp",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.37243947999999999,
+      "new_score": 0.16391995000000001,
+      "customer_id": 29851730,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4402386,
+          "full_path": "https://salt.tikicdn.com/ts/review/b5/e4/9f/428e29b0314e3cd8523d6d487d5f588a.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1743625844,
+      "created_by": {
+        "id": 29851730,
+        "name": "Trần Thị Thủy",
+        "full_name": "Trần Thị Thủy",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b6/65/af/317c3bb9257ad25cb3b1b81344da0d75.jpg",
+        "created_time": "2024-03-20 15:09:49",
+        "group_id": 29,
+        "purchased": true,
+        "purchased_at": 1743069733,
+        "contribute_info": {
+          "id": 29851730,
+          "name": "Tran Thủy",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b6/65/af/317c3bb9257ad25cb3b1b81344da0d75.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 2 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-04-03 03:30:44",
+        "delivery_date": "2025-03-28 14:56:46",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 6 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20174152,
+      "title": "Cực kì hài lòng",
+      "content": "ok rất tốt tôi thaya tiki rất tuyệt vời",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.10482180000000001,
+      "new_score": 0.16378350999999999,
+      "customer_id": 30495492,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1758762273,
+      "created_by": {
+        "id": 30495492,
+        "name": "trai pho",
+        "full_name": "trai pho",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/64/87/e4/f590b3360ba29544f2c962b83b079500.png",
+        "created_time": "2025-09-12 23:39:16",
+        "group_id": 7,
+        "purchased": true,
+        "purchased_at": 1758269059,
+        "contribute_info": {
+          "id": 30495492,
+          "name": "trai pho",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/64/87/e4/f590b3360ba29544f2c962b83b079500.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 tháng",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-09-25 08:04:33",
+        "delivery_date": "2025-09-20 12:20:24",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 5 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 5 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20176848,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16359410999999999,
+      "customer_id": 30494607,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4415152,
+          "full_path": "https://salt.tikicdn.com/ts/review/61/40/60/a63043d728643f6216e0680ac28c041c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1759443730,
+      "created_by": {
+        "id": 30494607,
+        "name": "Cong anh tran",
+        "full_name": "Cong anh tran",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/84/6b/12/7ba1148367d2bf30de65094a4c9feafe.png",
+        "created_time": "2025-09-12 04:26:58",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1759389251,
+        "contribute_info": {
+          "id": 30494607,
+          "name": "Cong anh tran",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/84/6b/12/7ba1148367d2bf30de65094a4c9feafe.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 tháng",
+            "total_review": 4,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Đen",
+        "Dung lượng 512GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Đen",
+        "Dung lượng: 512GB"
+      ],
+      "spid": 276109960,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-10-03 05:22:10",
+        "delivery_date": "2025-10-02 16:34:15",
+        "current_date": "2025-10-25 22:07:50",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20110249,
+      "title": "Cực kì hài lòng",
+      "content": "Giao hang nhanh chất lượng uy tín",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 1.05820106,
+      "new_score": 0.16304796999999999,
+      "customer_id": 29851730,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4402893,
+          "full_path": "https://salt.tikicdn.com/ts/review/5f/ec/b3/90a4e886aca6b1e8fdbe279e71cd6916.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1744547661,
+      "created_by": {
+        "id": 29851730,
+        "name": "Trần Thị Thủy",
+        "full_name": "Trần Thị Thủy",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b6/65/af/317c3bb9257ad25cb3b1b81344da0d75.jpg",
+        "created_time": "2024-03-20 15:09:49",
+        "group_id": 29,
+        "purchased": true,
+        "purchased_at": 1744280797,
+        "contribute_info": {
+          "id": 29851730,
+          "name": "Tran Thủy",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/b6/65/af/317c3bb9257ad25cb3b1b81344da0d75.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 2 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 512GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 512GB"
+      ],
+      "spid": 276109954,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-04-13 19:34:21",
+        "delivery_date": "2025-04-12 10:55:43",
+        "current_date": "2025-10-25 22:07:51",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20183130,
+      "title": "Cực kì hài lòng",
+      "content": "iPhone 16 đẹp từng centimet",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16303753000000001,
+      "customer_id": 29946042,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1760911935,
+      "created_by": {
+        "id": 29946042,
+        "name": "Lê Văn Tân",
+        "full_name": "Lê Văn Tân",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-05-17 18:03:12",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1760690349,
+        "contribute_info": {
+          "id": 29946042,
+          "name": "Lê Văn Tân",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 2 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Đen",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Đen",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109959,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-10-20 05:12:15",
+        "delivery_date": "2025-10-18 14:33:25",
+        "current_date": "2025-10-25 22:07:51",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Không hẹn trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20081968,
+      "title": "Cực kì hài lòng",
+      "content": "Máy giao nhanh nhưng hộp hơi cũ nhé Tiki ơi",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16280235000000001,
+      "customer_id": 30185408,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4396869,
+          "full_path": "https://salt.tikicdn.com/ts/review/01/9d/cd/b3d62b55714695b162f6bb470e293411.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1739596941,
+      "created_by": {
+        "id": 30185408,
+        "name": "Sun Be",
+        "full_name": "Sun Be",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2024-10-26 14:50:31",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1739506687,
+        "contribute_info": {
+          "id": 30185408,
+          "name": "Sun Be",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 66,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-02-15 12:22:21",
+        "delivery_date": "2025-02-14 14:48:42",
+        "current_date": "2025-10-25 22:07:51",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [
+        {
+          "id": 3306607,
+          "review_id": 20081968,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Cảm ơn bạn đã để lại nhận xét tại Tiki. Hy vọng sẽ được phục vụ bạn ngày càng tốt hơn trong những đơn hàng sau nha.",
+          "score": 0,
+          "create_at": 1739761279,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20018546,
+      "title": "Cực kì hài lòng",
+      "content": "Tiki giao nhanh lẹ",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 38.888888889999997,
+      "new_score": 0.16173578999999999,
+      "customer_id": 1982881,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4385399,
+          "full_path": "https://salt.tikicdn.com/ts/review/1e/d6/04/54cf932335634e26753de7dc25a31ba4.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4385400,
+          "full_path": "https://salt.tikicdn.com/ts/review/0a/9b/f5/76de557c91021fa812845ce9cec11da4.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1730128007,
+      "created_by": {
+        "id": 1982881,
+        "name": "Nguyễn Thanh Điền",
+        "full_name": "Nguyễn Thanh Điền",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-12-14 22:54:36",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1730092108,
+        "contribute_info": {
+          "id": 1982881,
+          "name": "Nguyễn Thanh Điền",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 9 năm",
+            "total_review": 10,
+            "total_thank": 30
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Tự Nhiên",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Tự Nhiên",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109950,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-10-28 22:06:47",
+        "delivery_date": "2024-10-28 14:40:03",
+        "current_date": "2025-10-25 22:07:51",
+        "content": "Đã dùng 7 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 7 giờ."
+      },
+      "comments": [
+        {
+          "id": 3274728,
+          "review_id": 20018546,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ anh Thanh Điền. Sự hài lòng của anh là động lực to lớn với Tiki đó ạ. Hy vọng anh sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1730178956,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 19991213,
+      "title": "Cực kì hài lòng",
+      "content": "Dù giá cao hơn thị trường nhưng được cái giao nhanh",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 1.07638889,
+      "new_score": 0.16118062,
+      "customer_id": 377752,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4379164,
+          "full_path": "https://salt.tikicdn.com/ts/review/94/fe/09/3956e0cf93b7b846a30e81e1456c4b5c.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1727441777,
+      "created_by": {
+        "id": 377752,
+        "name": "Nguyễn Hữu Khương",
+        "full_name": "Nguyễn Hữu Khương",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-07-10 10:05:29",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1727373304,
+        "contribute_info": {
+          "id": 377752,
+          "name": "Nguyễn Hữu Khương",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 118,
+            "total_thank": 20
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2024-09-27 19:56:17",
+        "delivery_date": "2024-09-27 10:56:22",
+        "current_date": "2025-10-25 22:07:51",
+        "content": "Đã dùng 9 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 9 giờ."
+      },
+      "comments": [
+        {
+          "id": 3258971,
+          "review_id": 19991213,
+          "commentator": "seller",
+          "customer_id": 1,
+          "fullname": "Tiki Trading",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+          "content": "Tiki rất vui khi nhận được đánh giá 5⭐️ từ anh. Sự hài lòng của anh là động lực to lớn với Tiki đó ạ. Hy vọng anh Khương sẽ tiếp tục ủng hộ Tiki nha!",
+          "score": 0,
+          "create_at": 1727496964,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 20183876,
+      "title": "Cực kì hài lòng",
+      "content": "Ok",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 9.2592592600000003,
+      "new_score": 0.16107866000000001,
+      "customer_id": 28402945,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1761106669,
+      "created_by": {
+        "id": 28402945,
+        "name": "Đào Minh",
+        "full_name": "Đào Minh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2022-10-31 14:35:23",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1756132950,
+        "contribute_info": {
+          "id": 28402945,
+          "name": "Đào Minh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 3 năm",
+            "total_review": 11,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Sa Mạc",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Sa Mạc",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109953,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-10-22 11:17:49",
+        "delivery_date": "2025-08-26 11:59:18",
+        "current_date": "2025-10-25 22:07:51",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20183031,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 27.777777780000001,
+      "new_score": 0.16089537000000001,
+      "customer_id": 30333026,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1760870127,
+      "created_by": {
+        "id": 30333026,
+        "name": "Do quoc lam",
+        "full_name": "Do quoc lam",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2025-03-24 05:13:36",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1760705751,
+        "contribute_info": {
+          "id": 30333026,
+          "name": "Do quoc lam",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 1 năm",
+            "total_review": 6,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán Tiki Trading",
+        "Màu sắc Titan Tự Nhiên",
+        "Dung lượng 256GB"
+      ],
+      "product_attributes": [
+        "Màu sắc: Titan Tự Nhiên",
+        "Dung lượng: 256GB"
+      ],
+      "spid": 276109950,
+      "is_photo": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg"
+      },
+      "product_id": 73,
+      "timeline": {
+        "review_created_date": "2025-10-19 17:35:27",
+        "delivery_date": "2025-10-18 14:01:59",
+        "current_date": "2025-10-25 22:07:51",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 138,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 7,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

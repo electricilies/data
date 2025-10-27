@@ -1,0 +1,1531 @@
+{
+  "stars": {
+    "1": {
+      "count": 0,
+      "percent": 0
+    },
+    "2": {
+      "count": 0,
+      "percent": 0
+    },
+    "3": {
+      "count": 0,
+      "percent": 0
+    },
+    "4": {
+      "count": 2,
+      "percent": 10
+    },
+    "5": {
+      "count": 18,
+      "percent": 90
+    }
+  },
+  "rating_average": 4.9000000000000004,
+  "reviews_count": 20,
+  "review_photo": {
+    "total": 6,
+    "total_photo": 10
+  },
+  "data": [
+    {
+      "id": 17798853,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng nguyên đai nguyên kiện, bóc seal rất đã luôn. Máy nhỏ gọn, dễ mang theo, đọc đủ tư thế, ban đêm đèn không chói lóa như điện thoại nên rất dễ đọc. Màn hình mượt mượt, pin ổn không phải sạc thường xuyên nhưng tới dưới 10% là máy k cho đọc nữa phải đi sạc nha :) đi kèm máy là 1 tờ hướng dẫn siêu chi tiết của shop luôn. Mình chỉ cần cài font và từ điển, sử dụng trình duyệt của máy nên mình chưa phải hỏi shop gì, đọc hướng dẫn là đủ rồi :) đã trải qua 2 đợt update nhưng shop cũng update font theo luôn nên mình không gặp trở ngại gì khi dùng máy. Giá máy ở đây rẻ hơn chỗ khác mà hong có gì phải chê hết :) đây là em máy đọc sách đầu tiên mình mua cũng hơi lo lắng vì shop hong có web riêng như những chỗ khác nhưng rất vui vì đã chọn tin tưởng shop. Chúc shop ăn nên làm ra nhập em Clara 2e về 🤣🤣 có thưởng tết mình quay lại hốt.\r\n\r\nXém quên cái túi tặng kèm của shop cũng dày dặn lắm, khuyến khích các bạn nên mua kèm cho an tâm :)))",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.00344816,
+      "new_score": 0.16382838,
+      "customer_id": 253186,
+      "comment_count": 1,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1664164949,
+      "created_by": {
+        "id": 253186,
+        "name": "Nguyễn Thị Như Ý",
+        "full_name": "Nguyễn Thị Như Ý",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2013-12-21 17:10:43",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658295799,
+        "contribute_info": {
+          "id": 253186,
+          "name": "Nguyễn Thị Như Ý",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 18,
+            "total_thank": 6
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-09-26 11:02:29",
+        "delivery_date": "2022-07-25 11:41:08",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [
+        {
+          "id": 2669829,
+          "review_id": 17798853,
+          "commentator": "seller",
+          "customer_id": 211303,
+          "fullname": "HLA SHOP",
+          "avatar_url": "https://vcdn.tikicdn.com/ts/seller/d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg",
+          "content": "Cám ơn chị đã viết nhận xét. Webside của shop trên tiki bảo mật, có in trên góc phiếu bảo hành và tờ hướng dẫn ^^! Sắp tới shop sẽ có bạn SEO hỗ trợ lên tìm kiểm để k bị lẫn với shop bán quần áo ^^!~",
+          "score": 0,
+          "create_at": 1664273257,
+          "badge": "https://salt.tikicdn.com/ts/review/05/6f/c0/d7462c4721ae3d6aabb2f51ff13fa44f.png",
+          "status": 2,
+          "is_reported": false
+        }
+      ],
+      "vote_attributes": {
+        "agree": [
+          "cảm ứng nhạy, lướt mượt",
+          "đọc không mỏi mắt",
+          "hình ảnh, chữ rõ nét",
+          "thiết kế gọn, nhẹ, tiện lợi"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 20006955,
+      "title": "Cực kì hài lòng",
+      "content": "Shop đóng gói kĩ càng và hướng dẫn sử dụng chu đáo ! 10đ cho shop",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 33.333333330000002,
+      "new_score": 0.16269595000000001,
+      "customer_id": 1433765,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4382788,
+          "full_path": "https://salt.tikicdn.com/ts/review/24/0c/12/c60b4cdf247caa7ffa13d822daee3230.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1728992440,
+      "created_by": {
+        "id": 1433765,
+        "name": "Nguyễn Trần Thanh Huy",
+        "full_name": "Nguyễn Trần Thanh Huy",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-06-14 16:22:21",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1728664356,
+        "contribute_info": {
+          "id": 1433765,
+          "name": "Nguyễn Trần Thanh Huy",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 13,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara 2E"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara 2E"
+      ],
+      "spid": 270794187,
+      "is_photo": true,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "https://vcdn.tikicdn.com/ts/seller/d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2024-10-15 18:40:40",
+        "delivery_date": "2024-10-15 12:11:55",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 6 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 6 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": [
+        {
+          "question": "Thời gian giao hàng?",
+          "option": "Giao đúng hẹn"
+        },
+        {
+          "question": "Thái độ của shipper?",
+          "option": "Lịch sự"
+        },
+        {
+          "question": "Giờ giao hàng?",
+          "option": "Có hẹn giờ trước"
+        },
+        {
+          "question": "Cách đóng gói sản phẩm?",
+          "option": "Cẩn thận"
+        }
+      ]
+    },
+    {
+      "id": 18644531,
+      "title": "Cực kì hài lòng",
+      "content": "Máy mới rất đẹp ạ\r\nShop hỗ trợ nhiệt tình\r\nCòn được tặng cả túi đựng máy",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0081597200000000005,
+      "new_score": 0.15538051,
+      "customer_id": 5728787,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 4083274,
+          "full_path": "https://salt.tikicdn.com/ts/review/79/1e/4c/f66fad0d8f09808aa02b9d3671c91a47.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 4083275,
+          "full_path": "https://salt.tikicdn.com/ts/review/db/b8/7e/8993f9cb3d716315fe661c8b7702a1bc.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1673781096,
+      "created_by": {
+        "id": 5728787,
+        "name": "Nguyễn thị tố Dung",
+        "full_name": "Nguyễn thị tố Dung",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-09-06 12:14:46",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1673335959,
+        "contribute_info": {
+          "id": 5728787,
+          "name": "Nguyễn thị tố Dung",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 6,
+            "total_thank": 16
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": true,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2023-01-15 18:11:36",
+        "delivery_date": "2023-01-15 15:03:45",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 3 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15143588,
+      "title": "Cực kì hài lòng",
+      "content": "hàng dùng tốt, máy mới nguyên seal",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00714943,
+      "new_score": 0.14839147,
+      "customer_id": 11270250,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3170457,
+          "full_path": "https://salt.tikicdn.com/ts/review/ed/dc/91/7753657c894c11382b1426f545787de2.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3170458,
+          "full_path": "https://salt.tikicdn.com/ts/review/c2/26/f2/c25c8d8a495ed4b8f1f74927b86ad19c.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3170459,
+          "full_path": "https://salt.tikicdn.com/ts/review/63/70/15/926246e0eb25a858079b36a99ce95dcd.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1645797984,
+      "created_by": {
+        "id": 11270250,
+        "name": "Nguyễn Hải Đăng",
+        "full_name": "Nguyễn Hải Đăng",
+        "region": null,
+        "avatar_url": "https://s120.avatar.talk.zdn.vn/c/8/1/e/5/120/a3c4b9a0bd710fed12a2ab13f440eb9e.jpg",
+        "created_time": "2019-03-13 07:12:24",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1645451662,
+        "contribute_info": {
+          "id": 11270250,
+          "name": "Nguyễn Hải Đăng",
+          "avatar": "https://s120.avatar.talk.zdn.vn/c/8/1/e/5/120/a3c4b9a0bd710fed12a2ab13f440eb9e.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": true,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-02-25 21:06:24",
+        "delivery_date": "2022-02-23 10:38:24",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 19406241,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.58479532000000001,
+      "new_score": 0.1459723,
+      "customer_id": 13938602,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1690213582,
+      "created_by": {
+        "id": 13938602,
+        "name": "Olala Hùng",
+        "full_name": "Olala Hùng",
+        "region": null,
+        "avatar_url": "https://lh4.googleusercontent.com/-h8TnA9DzNpM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdwPjI5cWUWD82-v5lRqADGlQXR4Q/photo.jpg",
+        "created_time": "2019-09-10 20:28:59",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1684420053,
+        "contribute_info": {
+          "id": 13938602,
+          "name": "Olala Hùng",
+          "avatar": "https://lh4.googleusercontent.com/-h8TnA9DzNpM/AAAAAAAAAAI/AAAAAAAAAAA/ACHi3rdwPjI5cWUWD82-v5lRqADGlQXR4Q/photo.jpg",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2023-07-24 22:46:22",
+        "delivery_date": "2023-05-22 10:44:08",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cảm ứng nhạy, lướt mượt",
+          "đọc không mỏi mắt",
+          "hình ảnh, chữ rõ nét",
+          "thiết kế gọn, nhẹ, tiện lợi"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15943823,
+      "title": "Cực kì hài lòng",
+      "content": "Máy đẹp, nguyên seal, copy fonts, chép sách vào là chiến thôi",
+      "status": "approved",
+      "thank_count": 2,
+      "score": 0.0060273699999999998,
+      "new_score": 0.14538514999999999,
+      "customer_id": 265573,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3365396,
+          "full_path": "https://salt.tikicdn.com/ts/review/e5/9b/61/94d4d86d8a705482ce816a02d0231894.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1650071751,
+      "created_by": {
+        "id": 265573,
+        "name": "Huynh Nguyen",
+        "full_name": "Huynh Nguyen",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2014-01-08 09:22:51",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1649651280,
+        "contribute_info": {
+          "id": 265573,
+          "name": "Huynh Nguyen",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 54,
+            "total_thank": 28
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": true,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-04-16 08:15:51",
+        "delivery_date": "2022-04-15 14:50:50",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16792382,
+      "title": "Cực kì hài lòng",
+      "content": "giao nhanh hơn dự kiến, máy xài ổn.",
+      "status": "approved",
+      "thank_count": 1,
+      "score": 0.0051673600000000002,
+      "new_score": 0.14465355999999999,
+      "customer_id": 8369659,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3612432,
+          "full_path": "https://salt.tikicdn.com/ts/review/bf/e5/fc/d53eee5d941c98a8437f24f8d1536196.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1655819350,
+      "created_by": {
+        "id": 8369659,
+        "name": "Bùi Ngọc Luân",
+        "full_name": "Bùi Ngọc Luân",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/52/69/3c/04ef5e46f0ac0eca0dc8126de5fe8b97.png",
+        "created_time": "2018-10-11 17:56:32",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1655419766,
+        "contribute_info": {
+          "id": 8369659,
+          "name": "Bùi Ngọc Luân",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/52/69/3c/04ef5e46f0ac0eca0dc8126de5fe8b97.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 34,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": true,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-06-21 20:49:10",
+        "delivery_date": "2022-06-20 10:26:14",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15158702,
+      "title": "Cực kì hài lòng",
+      "content": "Shop tư vấn nhiệt tình",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0062673499999999997,
+      "new_score": 0.14447554000000001,
+      "customer_id": 8356785,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [
+        {
+          "id": 3173499,
+          "full_path": "https://salt.tikicdn.com/ts/review/83/fd/1a/e6ee7d1138ec597f015a00a0c26fcdc6.jpg",
+          "status": "approved"
+        },
+        {
+          "id": 3173500,
+          "full_path": "https://salt.tikicdn.com/ts/review/3f/f6/79/218909cd6bb9c8735c1e8fffe1ad9514.jpg",
+          "status": "approved"
+        }
+      ],
+      "thanked": false,
+      "created_at": 1645880387,
+      "created_by": {
+        "id": 8356785,
+        "name": "Lê Thu Trang",
+        "full_name": "Lê Thu Trang",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-10-11 10:09:13",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1645541480,
+        "contribute_info": {
+          "id": 8356785,
+          "name": "Lê Thu Trang",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 7 năm",
+            "total_review": 4,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": true,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-02-26 19:59:47",
+        "delivery_date": "2022-02-24 09:08:47",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16221938,
+      "title": "Cực kì hài lòng",
+      "content": "Máy xịn, nguyên seal. Shop tư vấn, hỗ trợ nhiệt tình.",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.00516652,
+      "new_score": 0.14233546999999999,
+      "customer_id": 187595,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1651845789,
+      "created_by": {
+        "id": 187595,
+        "name": "Nguyễn  Hiệp",
+        "full_name": "Nguyễn  Hiệp",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2013-10-22 11:25:46",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1651548413,
+        "contribute_info": {
+          "id": 187595,
+          "name": "Nguyễn  Hiệp",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 12 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-05-06 21:03:09",
+        "delivery_date": "2022-05-04 12:21:25",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18352837,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0098415499999999993,
+      "new_score": 0.14175229,
+      "customer_id": 736593,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1670232986,
+      "created_by": {
+        "id": 736593,
+        "name": "Duy Nhp",
+        "full_name": "Duy Nhp",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-08-04 13:35:05",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1662132659,
+        "contribute_info": {
+          "id": 736593,
+          "name": "Duy Nhp",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 3,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-12-05 16:36:26",
+        "delivery_date": "2022-09-05 11:39:42",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 3 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 3 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 18066655,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0084623800000000002,
+      "new_score": 0.14105266,
+      "customer_id": 25593193,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1666920462,
+      "created_by": {
+        "id": 25593193,
+        "name": "Huỳnh nguyễn",
+        "full_name": "Huỳnh nguyễn",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2021-11-25 16:50:31",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1664981181,
+        "contribute_info": {
+          "id": 25593193,
+          "name": "Huỳnh nguyễn",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 4 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-10-28 08:27:42",
+        "delivery_date": "2022-10-09 13:28:35",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cảm ứng nhạy, lướt mượt",
+          "đọc không mỏi mắt",
+          "hình ảnh, chữ rõ nét",
+          "thiết kế gọn, nhẹ, tiện lợi"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17989391,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0081711400000000003,
+      "new_score": 0.14087527,
+      "customer_id": 5492057,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1666080556,
+      "created_by": {
+        "id": 5492057,
+        "name": "Chế Thị Nhật Phương",
+        "full_name": "Chế Thị Nhật Phương",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-07-20 16:27:38",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659337697,
+        "contribute_info": {
+          "id": 5492057,
+          "name": "Chế Thị Nhật Phương",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 26,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-10-18 15:09:16",
+        "delivery_date": "2022-08-06 11:06:23",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cảm ứng nhạy, lướt mượt",
+          "đọc không mỏi mắt",
+          "hình ảnh, chữ rõ nét",
+          "thiết kế gọn, nhẹ, tiện lợi"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17609731,
+      "title": "Cực kì hài lòng",
+      "content": "Hàng tôt2",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0071115700000000002,
+      "new_score": 0.14083820999999999,
+      "customer_id": 5955300,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1662432943,
+      "created_by": {
+        "id": 5955300,
+        "name": "Le Minh",
+        "full_name": "Le Minh",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-10-21 11:31:06",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1659926493,
+        "contribute_info": {
+          "id": 5955300,
+          "name": "Le Minh",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 187,
+            "total_thank": 2
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-09-06 09:55:43",
+        "delivery_date": "2022-08-11 09:05:18",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [
+          "cảm ứng nhạy, lướt mượt",
+          "đọc không mỏi mắt",
+          "hình ảnh, chữ rõ nét",
+          "thiết kế gọn, nhẹ, tiện lợi"
+        ],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17842768,
+      "title": "Hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0077085499999999998,
+      "new_score": 0.14056474999999999,
+      "customer_id": 7298678,
+      "comment_count": 0,
+      "rating": 4,
+      "images": [],
+      "thanked": false,
+      "created_at": 1664610313,
+      "created_by": {
+        "id": 7298678,
+        "name": "Nguyễn Việt Tiến",
+        "full_name": "Nguyễn Việt Tiến",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2018-06-14 18:42:20",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1663263443,
+        "contribute_info": {
+          "id": 7298678,
+          "name": "Nguyễn Việt Tiến",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-10-01 14:45:13",
+        "delivery_date": "2022-09-17 13:32:14",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 14 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 14 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 17213674,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0063138500000000002,
+      "new_score": 0.13935425000000001,
+      "customer_id": 15243014,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1658878956,
+      "created_by": {
+        "id": 15243014,
+        "name": "Nguyen Hanh Nguyen",
+        "full_name": "Nguyen Hanh Nguyen",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2019-12-01 22:04:04",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1658377457,
+        "contribute_info": {
+          "id": 15243014,
+          "name": "Nguyen Hanh Nguyen",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 6 năm",
+            "total_review": 27,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-07-27 06:42:36",
+        "delivery_date": "2022-07-25 12:44:04",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 16529638,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0054723799999999998,
+      "new_score": 0.13832536000000001,
+      "customer_id": 711081,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1654007461,
+      "created_by": {
+        "id": 711081,
+        "name": "Dương Hữu Trạng",
+        "full_name": "Dương Hữu Trạng",
+        "region": null,
+        "avatar_url": "https://salt.tikicdn.com/cache/512x512/ts/avatar/8d/e4/b1/89d03735cd0a355bfe41b956ffaaee88.png",
+        "created_time": "2015-07-20 07:19:00",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1653554228,
+        "contribute_info": {
+          "id": 711081,
+          "name": "Dương Hữu Trạng",
+          "avatar": "https://salt.tikicdn.com/cache/512x512/ts/avatar/8d/e4/b1/89d03735cd0a355bfe41b956ffaaee88.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 26,
+            "total_thank": 15
+          }
+        }
+      },
+      "suggestions": [],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-05-31 21:31:01",
+        "delivery_date": "2022-05-31 11:14:43",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 10 giờ",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 10 giờ."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15985501,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0049674100000000002,
+      "new_score": 0.13754073,
+      "customer_id": 1000040,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1650292464,
+      "created_by": {
+        "id": 1000040,
+        "name": "Đoàn Trà",
+        "full_name": "Đoàn Trà",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-11-24 16:29:48",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647092009,
+        "contribute_info": {
+          "id": 1000040,
+          "name": "Đoàn Trà",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-04-18 21:34:24",
+        "delivery_date": "2022-03-15 09:38:47",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15943325,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0049395899999999998,
+      "new_score": 0.13749320000000001,
+      "customer_id": 550276,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1650067420,
+      "created_by": {
+        "id": 550276,
+        "name": "Ngan Tran",
+        "full_name": "Ngan Tran",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2015-01-30 21:07:20",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1647923075,
+        "contribute_info": {
+          "id": 550276,
+          "name": "Ngan Tran",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 11 năm",
+            "total_review": 1,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Nhà bán phục vụ tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-04-16 07:03:40",
+        "delivery_date": "2022-03-26 10:03:22",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15929285,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0049303799999999998,
+      "new_score": 0.13747672999999999,
+      "customer_id": 1470455,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1649989432,
+      "created_by": {
+        "id": 1470455,
+        "name": "Huỳnh Đăng Khoa",
+        "full_name": "Huỳnh Đăng Khoa",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2016-06-29 03:25:07",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1649593825,
+        "contribute_info": {
+          "id": 1470455,
+          "name": "Huỳnh Đăng Khoa",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 10 năm",
+            "total_review": 16,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Đóng gói tốt",
+        "Chất lượng tốt",
+        "Nhà bán phục vụ tốt",
+        "Giao hàng nhanh",
+        "Giá tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-04-15 09:23:52",
+        "delivery_date": "2022-04-14 09:15:54",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 1 ngày",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 1 ngày."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    },
+    {
+      "id": 15633070,
+      "title": "Cực kì hài lòng",
+      "content": "",
+      "status": "approved",
+      "thank_count": 0,
+      "score": 0.0047430700000000003,
+      "new_score": 0.13713891,
+      "customer_id": 6241328,
+      "comment_count": 0,
+      "rating": 5,
+      "images": [],
+      "thanked": false,
+      "created_at": 1648389953,
+      "created_by": {
+        "id": 6241328,
+        "name": "kororo0310",
+        "full_name": "kororo0310",
+        "region": null,
+        "avatar_url": "//tiki.vn/assets/img/avatar.png",
+        "created_time": "2017-12-19 17:35:41",
+        "group_id": 8,
+        "purchased": true,
+        "purchased_at": 1644219471,
+        "contribute_info": {
+          "id": 6241328,
+          "name": "kororo0310",
+          "avatar": "//tiki.vn/assets/img/avatar.png",
+          "summary": {
+            "joined_time": "Đã tham gia 8 năm",
+            "total_review": 2,
+            "total_thank": 0
+          }
+        }
+      },
+      "suggestions": [
+        "Chất lượng tốt",
+        "Giao hàng nhanh",
+        "Đóng gói tốt",
+        "Nhà bán phục vụ tốt",
+        "Giá tốt"
+      ],
+      "attributes": [
+        "Mua từ nhà bán HLA SHOP",
+        "Hình thức Clara HD"
+      ],
+      "product_attributes": [
+        "Hình thức: Clara HD"
+      ],
+      "spid": 137948561,
+      "is_photo": false,
+      "seller": {
+        "id": 211303,
+        "name": "HLA SHOP",
+        "logo": "d5/80/4b/a2c584801b38dd7d954fecc64c86cb5c.jpg"
+      },
+      "product_id": 14,
+      "timeline": {
+        "review_created_date": "2022-03-27 21:05:53",
+        "delivery_date": "2022-02-09 15:15:39",
+        "current_date": "2025-10-25 22:08:07",
+        "content": "Đã dùng 2 tháng",
+        "explain": "Khi viết đánh giá, khách hàng đã dùng sản phẩm 2 tháng."
+      },
+      "comments": [],
+      "vote_attributes": {
+        "agree": [],
+        "disagree": []
+      },
+      "delivery_rating": []
+    }
+  ],
+  "paging": {
+    "total": 20,
+    "per_page": 20,
+    "current_page": 1,
+    "last_page": 1,
+    "from": 1,
+    "to": 20
+  },
+  "sort_options": [
+    [
+      {
+        "label": "Hữu ích",
+        "value": "score|desc"
+      },
+      {
+        "label": "Mới nhất",
+        "value": "id|desc"
+      },
+      {
+        "label": "Có hình ảnh",
+        "value": "has_image"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả khách hàng",
+        "value": "customer|all"
+      },
+      {
+        "label": "Khách đã mua hàng",
+        "value": "bought"
+      }
+    ],
+    [
+      {
+        "label": "Tất cả sao",
+        "value": "stars|all"
+      },
+      {
+        "label": "5 sao",
+        "value": "stars|5"
+      },
+      {
+        "label": "4 sao",
+        "value": "stars|4"
+      },
+      {
+        "label": "3 sao",
+        "value": "stars|3"
+      },
+      {
+        "label": "2 sao",
+        "value": "stars|2"
+      },
+      {
+        "label": "1 sao",
+        "value": "stars|1"
+      },
+      {
+        "label": "Hài lòng",
+        "value": "stars|4|5"
+      },
+      {
+        "label": "Chưa hài lòng",
+        "value": "stars|1|2|3"
+      }
+    ]
+  ],
+  "exclude_image": false,
+  "attribute_vote_summary": []
+}

@@ -1,0 +1,375 @@
+{
+  "id": 653,
+  "master_id": 653,
+  "sku": "7017932423745",
+  "name": "Thiết Bị Lưu Trữ QNAP TS-673A-8G - Hàng Chính Hãng",
+  "url_key": "thiet-bi-luu-tru-qnap-ts-673a-8g-hang-chinh-hang-p278778124",
+  "url_path": "thiet-bi-luu-tru-qnap-ts-673a-8g-hang-chinh-hang-p278778124.html?spid=278778125",
+  "short_url": "https://tiki.vn/product-p278778124.html?spid=278778125",
+  "type": "simple",
+  "book_cover": null,
+  "short_description": "TS-673A-8G CPUAMD Ryzen Embedded V1500B 4-core/8-thread 2.2 GHz processorCPU Architecture64-bit x86Graphic ProcessorsOptional via a PCIe adapterFloating Point Unit Encryptio...",
+  "price": 27800000,
+  "list_price": 27800000,
+  "original_price": 27800000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "freeship_xtra",
+      "type": "pdp_icon_badge",
+      "index": 2,
+      "icon": "https://salt.tikicdn.com/ts/upload/be/67/48/04a82ab8df178e1a13bde38316081865.png",
+      "icon_width": 91,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": true,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/96/d8/7c/192c9a8cb388efcf8ad7f943a32f6f7f.png",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 5,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<div class=\"spec-header\">\n<h4>TS-673A-8G</h4>\n<div class=\"button-download-spec__icon\">\n<div> </div>\n</div>\n</div>\n<div class=\"section-specs-table\">\n<table class=\"tab-sty2 hardware-spec-table\">\n\n<tbody>\n<tr>\n<td width=\"35%\">CPU</td>\n<td class=\"sp-tb\">AMD Ryzen Embedded V1500B 4-core/8-thread 2.2 GHz processor</td>\n</tr>\n<tr>\n<td width=\"35%\">CPU Architecture</td>\n<td class=\"sp-tb\">64-bit x86</td>\n</tr>\n<tr>\n<td width=\"35%\">Graphic Processors</td>\n<td class=\"sp-tb\">Optional via a PCIe adapter</td>\n</tr>\n<tr>\n<td width=\"35%\">Floating Point Unit</td>\n<td class=\"sp-tb\"> </td>\n</tr>\n<tr>\n<td width=\"35%\">Encryption Engine</td>\n<td class=\"sp-tb\"> (AES-NI)</td>\n</tr>\n<tr>\n<td width=\"35%\">Hardware-accelerated Transcoding</td>\n<td class=\"sp-tb\">Optional via a PCIe adapter</td>\n</tr>\n<tr>\n<td width=\"35%\">System Memory</td>\n<td class=\"sp-tb\">8 GB SODIMM DDR4 (1 x 8 GB)</td>\n</tr>\n<tr>\n<td width=\"35%\">Maximum Memory</td>\n<td class=\"sp-tb\">64 GB (2 x 32 GB)</td>\n</tr>\n<tr>\n<td width=\"35%\">Memory Slot</td>\n<td class=\"sp-tb\">2 x SODIMM DDR4<br />Support ECC memory\n<div class=\"tb-note\">For dual-DIMM configurations, you must use a pair of identical DDR4 modules.</div>\n</td>\n</tr>\n<tr>\n<td width=\"35%\">Flash Memory</td>\n<td class=\"sp-tb\">5GB (Dual boot OS protection)</td>\n</tr>\n<tr>\n<td width=\"35%\">Drive Bay</td>\n<td class=\"sp-tb\">6 x 3.5-inch SATA 6Gb/s, 3Gb/s</td>\n</tr>\n<tr>\n<td width=\"35%\">Drive Compatibility</td>\n<td class=\"sp-tb\">3.5-inch SATA hard disk drives<br />2.5-inch SATA solid state drives</td>\n</tr>\n<tr>\n<td width=\"35%\">Hot-swappable</td>\n<td class=\"sp-tb\">\n<div class=\"tb-note\">The following are not hot-swappable: M.2 SSDs, SSD cache drives, SSDs using PCIe expansion slots.</div>\n</td>\n</tr>\n<tr>\n<td width=\"35%\">M.2 Slot</td>\n<td class=\"sp-tb\">2 x M.2 2280 PCIe Gen3 x1 slots\n<div class=\"tb-note\">The M.2 SSD is not included as standard.<br />M.2 SSD operations can easily generate excessive heat. It is recommended to install a heatsink (from QNAP or a third-party provider) on the M.2 SSD.</div>\n</td>\n</tr>\n<tr>\n<td width=\"35%\">SSD Cache Acceleration Support</td>\n<td class=\"sp-tb\"> </td>\n</tr>\n<tr>\n<td width=\"35%\">GPU pass-through</td>\n<td class=\"sp-tb\"> </td>\n</tr>\n<tr>\n<td width=\"35%\">2.5 Gigabit Ethernet Port (2.5G/1G/100M)</td>\n<td class=\"sp-tb\">2(2.5G/1G/100M)</td>\n</tr>\n<tr>\n<td width=\"35%\">5 Gigabit Ethernet Port (5G/2.5G/1G/100M)</td>\n<td class=\"sp-tb\">Optional via a PCIe adapter</td>\n</tr>\n<tr>\n<td width=\"35%\">10 Gigabit Ethernet Port</td>\n<td class=\"sp-tb\">Optional via a PCIe adapter</td>\n</tr>\n<tr>\n<td width=\"35%\">Wake on LAN (WOL)</td>\n<td class=\"sp-tb\"> </td>\n</tr>\n<tr>\n<td width=\"35%\">Jumbo Frame</td>\n<td class=\"sp-tb\"> </td>\n</tr>\n<tr>\n<td width=\"35%\">PCIe Slot</td>\n<td class=\"sp-tb\">2<br />Slot 1: PCIe Gen 3 x4<br />Slot 2: PCIe Gen 3 x4\n<div class=\"tb-note\">Card dimensions for PCIe slot 1~Slot 2：200 x 111.15 x 18.76 mm / 7.87 x 4.38 x 0.74 inches.<br />Wider cards can be installed if the next PCIe slot will not be used.</div>\n</td>\n</tr>\n<tr>\n<td width=\"35%\">USB 3.2 Gen 2 (10Gbps) Port</td>\n<td class=\"sp-tb\">3 x Type-A USB 3.2 Gen 2 10Gbps<br />1 x Type-C USB 3.2 Gen 1 5Gbps</td>\n</tr>\n<tr>\n<td width=\"35%\">HDMI Output</td>\n<td class=\"sp-tb\">Optional via a PCIe adapter</td>\n</tr>\n<tr>\n<td width=\"35%\">Form Factor</td>\n<td class=\"sp-tb\">Tower</td>\n</tr>\n<tr>\n<td width=\"35%\">LED Indicators</td>\n<td class=\"sp-tb\">Status/Power, USB, LAN, Drive 1-6, M.2 SSD 1-2</td>\n</tr>\n<tr>\n<td width=\"35%\">Buttons</td>\n<td class=\"sp-tb\">Power, Reset, USB Auto Copy</td>\n</tr>\n<tr>\n<td width=\"35%\">Dimensions (HxWxD)</td>\n<td class=\"sp-tb\">180.2 × 264.3 × 279.6 mm\n<div class=\"tb-note\">Dimensions do not include foot pad (foot pad may be up to 30mm / 1.18 inches high depending on model)</div>\n</td>\n</tr>\n<tr>\n<td width=\"35%\">Weight (Net)</td>\n<td class=\"sp-tb\">6.4 kg</td>\n</tr>\n<tr>\n<td width=\"35%\">Weight (Gross)</td>\n<td class=\"sp-tb\">7.3 kg</td>\n</tr>\n<tr>\n<td width=\"35%\">Operating Temperature</td>\n<td class=\"sp-tb\">0 - 40 °C (32°F - 104°F)</td>\n</tr>\n<tr>\n<td width=\"35%\">Storage Temperature</td>\n<td class=\"sp-tb\">-20 - 70°C (-4°F - 158°F)</td>\n</tr>\n<tr>\n<td width=\"35%\">Relative Humidity</td>\n<td class=\"sp-tb\">5-95% RH non-condensing, wet bulb: 27˚C (80.6˚F)</td>\n</tr>\n<tr>\n<td width=\"35%\">Power Supply Unit</td>\n<td class=\"sp-tb\">250W, 100-240V AC, 50-60Hz, 3.5A</td>\n</tr>\n<tr>\n<td width=\"35%\">Power Consumption: Disk Standby Mode</td>\n<td class=\"sp-tb\">21.891 W</td>\n</tr>\n<tr>\n<td width=\"35%\">Power Consumption: Operating Mode, Typical</td>\n<td class=\"sp-tb\">45.898 W\n<div class=\"tb-note\">Tested with drives fully populated.</div>\n</td>\n</tr>\n<tr>\n<td width=\"35%\">Fan</td>\n<td class=\"sp-tb\">System fan: 2 x 92mm<br />CPU fan: 1 x 60mm</td>\n</tr>\n<tr>\n<td width=\"35%\">System Warning</td>\n<td class=\"sp-tb\">Buzzer</td>\n</tr>\n<tr>\n<td width=\"35%\">Kensington Security Slot</td>\n<td class=\"sp-tb\"> </td>\n</tr>\n<tr>\n<td width=\"35%\">Standard Warranty</td>\n<td class=\"sp-tb\">3</td>\n</tr>\n<tr>\n<td width=\"35%\">Max. Number of Concurrent Connections (CIFS) - with Max. Memory</td>\n<td class=\"sp-tb\">2000</td>\n</tr>\n</tbody>\n</table>\n</div>\n<div>\n<div class=\"gtx-trans-icon\"> </div>\n</div><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/96/d8/7c/192c9a8cb388efcf8ad7f943a32f6f7f.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/96/d8/7c/192c9a8cb388efcf8ad7f943a32f6f7f.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/96/d8/7c/192c9a8cb388efcf8ad7f943a32f6f7f.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/96/d8/7c/192c9a8cb388efcf8ad7f943a32f6f7f.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/96/d8/7c/192c9a8cb388efcf8ad7f943a32f6f7f.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/ae/51/86/1625b4d4f4b84aee1e0fe0e4b45ace90.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/ae/51/86/1625b4d4f4b84aee1e0fe0e4b45ace90.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/ae/51/86/1625b4d4f4b84aee1e0fe0e4b45ace90.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ae/51/86/1625b4d4f4b84aee1e0fe0e4b45ace90.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/ae/51/86/1625b4d4f4b84aee1e0fe0e4b45ace90.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/15/7f/69/fa4785531547cea6742b1617175b97fe.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/15/7f/69/fa4785531547cea6742b1617175b97fe.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/15/7f/69/fa4785531547cea6742b1617175b97fe.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/15/7f/69/fa4785531547cea6742b1617175b97fe.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/15/7f/69/fa4785531547cea6742b1617175b97fe.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/32/e8/56/c0cc51b4ee7f9c8347000aabcd018307.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/32/e8/56/c0cc51b4ee7f9c8347000aabcd018307.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/32/e8/56/c0cc51b4ee7f9c8347000aabcd018307.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/32/e8/56/c0cc51b4ee7f9c8347000aabcd018307.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/32/e8/56/c0cc51b4ee7f9c8347000aabcd018307.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/08/ed/22/bfc1008b676500a619e14eda08f973a6.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/08/ed/22/bfc1008b676500a619e14eda08f973a6.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/08/ed/22/bfc1008b676500a619e14eda08f973a6.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/08/ed/22/bfc1008b676500a619e14eda08f973a6.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/08/ed/22/bfc1008b676500a619e14eda08f973a6.png"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/21/cd/49/bb8a4e4014f3502f496cb57f1e850542.png",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/21/cd/49/bb8a4e4014f3502f496cb57f1e850542.png",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/21/cd/49/bb8a4e4014f3502f496cb57f1e850542.png",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/21/cd/49/bb8a4e4014f3502f496cb57f1e850542.png",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/21/cd/49/bb8a4e4014f3502f496cb57f1e850542.png"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 1640129,
+    "name": "QNAP",
+    "slug": "qnap"
+  },
+  "current_seller": {
+    "id": 224238,
+    "sku": "9773584088216",
+    "name": "Thegioimaychu",
+    "link": "https://tiki.vn/cua-hang/thegioimaychu",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/48/f9/5c/789147595de8665ad5135487499aa11e.jpg",
+    "price": 27800000,
+    "product_id": "278778125",
+    "store_id": 211270,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Tem bảo hành"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "3 Năm"
+        }
+      ]
+    },
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "QNAP"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Taiwan"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "TS-673A-8G"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Taiwan"
+        },
+        {
+          "code": "product_weight",
+          "name": "Trọng lượng sản phẩm",
+          "value": "8"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 5349,
+    "name": "Thiết Bị Lưu Trữ Qua Mạng NAS",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/laptop-may-vi-tinh-linh-kien/c1846",
+      "name": "Laptop - Máy Vi Tính - Linh kiện",
+      "category_id": 1846
+    },
+    {
+      "url": "/thiet-bi-luu-tru/c8060",
+      "name": "Thiết Bị Lưu Trữ",
+      "category_id": 8060
+    },
+    {
+      "url": "/thiet-bi-luu-tru-qua-mang-nas/c5349",
+      "name": "Thiết Bị Lưu Trữ Qua Mạng NAS",
+      "category_id": 5349
+    },
+    {
+      "url": "https://tiki.vn/thiet-bi-luu-tru-qnap-ts-673a-8g-hang-chinh-hang-p278778124.html",
+      "name": "Thiết Bị Lưu Trữ QNAP TS-673A-8G - Hàng Chính Hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278778124&pid=278778125&seller_id=224238&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "dropship"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "3 Năm"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Tem bảo hành"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành bởi nhà bán hàng thông qua Tiki"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}
