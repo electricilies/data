@@ -1,5 +1,8 @@
 category:
-  jq -r '[.[].breadcrumbs.[0] | [.category_id, .name]] | sort | unique | .[] | @csv' ./product-detail/concat-detail.json
+  jq -r '[.[].breadcrumbs.[] | select(.category_id != 0)] | unique_by(.category_id) | .[] | [.category_id, .name] | @csv' ./product-detail/concat-detail.json
+
+product-category:
+  jq -r '.[] | {id, category_id: (.breadcrumbs.[] | select(.category_id != 0) | .category_id)} | [.id, .category_id] | @csv' ./product-detail/concat-detail.json
 
 # But this may be replaced
 product-option:
