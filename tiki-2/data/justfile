@@ -10,3 +10,6 @@ product-option:
 
 brand:
   jq -r '[.[].brand] | unique_by(.id) | .[] | [.id, .name] | @csv' ./product-detail/concat-detail.json
+
+specification:
+  jq -r '[.[].specifications.[].attributes] | add | unique_by(.code) | to_entries | .[] | [.key + 1, .value.code, .value.name] | @csv' ./product-detail/concat-detail.json
