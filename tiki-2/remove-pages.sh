@@ -4,7 +4,7 @@ set -euo pipefail
 SEARCH_DIR="data/search"
 DATA_DIR="data"
 
-for json in "$SEARCH_DIR"/category-*-page-{6..20}.json; do
+for json in "$SEARCH_DIR"/category-*-page-{2..20}.json; do
   echo "Processing $json..."
 
   # Extract IDs (integers, no quotes)

@@ -1,6 +1,9 @@
 category:
   jq -r '[.[].breadcrumbs.[] | select(.category_id != 0)] | unique_by(.category_id) | .[] | [.category_id, .name] | @csv' ./product-detail/concat-detail.json
 
+product:
+  jq -r -f ./queries/detail-concat/product.jq ./product-detail/concat-detail.json | jq -s .
+
 product-category:
   jq -r '.[] | {id, category_id: (.breadcrumbs.[] | select(.category_id != 0) | .category_id)} | [.id, .category_id] | @csv' ./product-detail/concat-detail.json
 
