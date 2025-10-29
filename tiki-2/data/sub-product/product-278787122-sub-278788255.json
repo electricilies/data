@@ -1,0 +1,570 @@
+{
+  "id": 278787122,
+  "master_id": 278787122,
+  "sku": "1268901281655",
+  "name": "Thiết Bị Edge AI Lanner EAI-I131 - Hàng Chính Hãng",
+  "url_key": "thiet-bi-edge-ai-lanner-eai-i131-hang-chinh-hang-p278787122",
+  "url_path": "thiet-bi-edge-ai-lanner-eai-i131-hang-chinh-hang-p278787122.html?spid=278788255",
+  "short_url": "https://tiki.vn/product-p278787122.html?spid=278788255",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "SpecificationsProcessor SystemCPU8-core 2.0GHz/6-core 1.5GHzNVIDIA Arm Cortex A78AE v8.2 64-bit CPUGPUUp To 1024-core NVIDIA Ampere ArchitectureGPU With 16~32 Tensor CoresMemoryTechn...",
+  "price": 50000000,
+  "list_price": 50000000,
+  "original_price": 50000000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "freeship_xtra",
+      "type": "pdp_icon_badge",
+      "index": 2,
+      "icon": "https://salt.tikicdn.com/ts/upload/be/67/48/04a82ab8df178e1a13bde38316081865.png",
+      "icon_width": 91,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": true,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 0,
+  "discount_rate": 0,
+  "rating_average": 0,
+  "review_count": 0,
+  "review_text": "Chưa có đánh giá",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "backorder",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 7,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<h2>Specifications</h2>\n<table border=\"1\">\n<tbody>\n<tr>\n<td colspan=\"2\"><span><strong>Processor System</strong></span></td>\n</tr>\n<tr>\n<td>CPU</td>\n<td>8-core 2.0GHz/6-core 1.5GHz<br />NVIDIA Arm Cortex A78AE v8.2 64-bit CPU</td>\n</tr>\n<tr>\n<td>GPU</td>\n<td>Up To 1024-core NVIDIA Ampere Architecture<br />GPU With 16~32 Tensor Cores</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Memory</strong></span></td>\n</tr>\n<tr>\n<td>Technology</td>\n<td>128-bit/64-bit LPDDR5</td>\n</tr>\n<tr>\n<td>Capacity</td>\n<td>16/8/4 GB (By SKU)</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Ethernet</strong></span></td>\n</tr>\n<tr>\n<td>Speed</td>\n<td>10/100/1000 Mbps</td>\n</tr>\n<tr>\n<td>Interface</td>\n<td>2x GbE RJ45</td>\n</tr>\n<tr>\n<td>PoE</td>\n<td>GbE PoE LANs With Support For IEEE 802.3af/at PoE(+) Under Max. 30W (Surge Protection Up To 2KV)</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Storage</strong></span></td>\n</tr>\n<tr>\n<td>Type</td>\n<td>M.2</td>\n</tr>\n<tr>\n<td>Installation</td>\n<td>1x M.2 2280 M-Key NVMe (PCIe x4) default 128G</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>I/O</strong></span></td>\n</tr>\n<tr>\n<td>COM</td>\n<td>2x RS232/422/485</td>\n</tr>\n<tr>\n<td>CAN    </td>\n<td>Optional COM2 For CAN 2.0</td>\n</tr>\n<tr>\n<td>Audio</td>\n<td>Line-in, Line-out</td>\n</tr>\n<tr>\n<td>USB</td>\n<td>2x USB2.0</td>\n</tr>\n<tr>\n<td>Display</td>\n<td>1x HDMI 2.0A/B @ 4Kp60 With Screw Lock</td>\n</tr>\n<tr>\n<td>DIO</td>\n<td>4x DI (Support PNP/ NPN / Dry Contact) &amp; 4x DO (Support Dry / Sink), IEC 61121-2, 24V With Maximum 200mA</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Button</strong></span></td>\n</tr>\n<tr>\n<td>Reset</td>\n<td>1x Button</td>\n</tr>\n<tr>\n<td>Power</td>\n<td>1x Button</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Fanless</strong></span></td>\n</tr>\n<tr>\n<td> </td>\n<td>Yes (Fanless Design With Corrugated Aluminum)</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Expansion Interface</strong></span></td>\n</tr>\n<tr>\n<td>M.2</td>\n<td>1x M.2 304(5)2 B-Key Socket (USB 3.0) or 5G Sub-6 With Dual SIM Socket Reserved<br />1x M.2 2230 E-Key Socket (USB2.0 &amp; PCIe) for WiFi (By SKU)</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Power</strong></span></td>\n</tr>\n<tr>\n<td>Power Type</td>\n<td>ATX</td>\n</tr>\n<tr>\n<td>Power Supply Voltage</td>\n<td>System Power Input Rated DC 12V</td>\n</tr>\n<tr>\n<td>Connector</td>\n<td>1x 2-pin Terminal Block</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Cooling</strong></span></td>\n</tr>\n<tr>\n<td>Processor</td>\n<td>Passive CPU Heatsink</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Environment</strong></span></td>\n</tr>\n<tr>\n<td>Operating Temperature</td>\n<td>-40°C~70°C</td>\n</tr>\n<tr>\n<td>Storage Temperature</td>\n<td>-40°C~80°C</td>\n</tr>\n<tr>\n<td>Relative Humidity</td>\n<td>5%~90% Operating; 5%~95% Non-Operating</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Miscellaneous</strong></span></td>\n</tr>\n<tr>\n<td>Internal RTC with Li Battery</td>\n<td>Yes</td>\n</tr>\n<tr>\n<td>TPM</td>\n<td>Onboard TPM 2.0</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Mechanical</strong></span></td>\n</tr>\n<tr>\n<td>Dimension (W x D x H)</td>\n<td>201 x 196 x 65mm</td>\n</tr>\n<tr>\n<td>Weight</td>\n<td>2.6 KG</td>\n</tr>\n<tr>\n<td>Mounting</td>\n<td>Wallmount (Optional VESA mount), Chassis With Intrusion Design</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Driver Support</strong></span></td>\n</tr>\n<tr>\n<td>Linux</td>\n<td>Linux Open Source On NVIDIA SDK 6.2</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Security</strong></span></td>\n</tr>\n<tr>\n<td>TrustZone &amp; Security Boot</td>\n<td>U-bootloader &amp; OS Protected</td>\n</tr>\n<tr>\n<td colspan=\"2\"><span><strong>Certification</strong></span></td>\n</tr>\n<tr>\n<td>EMC</td>\n<td>CE/FCC Class A, UL</td>\n</tr>\n</tbody>\n</table>\n<h2>Order Information</h2>\n<table border=\"1\">\n<tbody>\n<tr>\n<td>EAI-I131A</td>\n<td>IPC With NVIDIA Jetson Orin NX (100 TOPs) With 16GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G Sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional)</td>\n</tr>\n<tr>\n<td>EAI-I131B</td>\n<td>IPC With NVIDIA Jetson Orin NX (70 TOPs) With 8GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G Sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional)</td>\n</tr>\n<tr>\n<td>EAI-I131C</td>\n<td>IPC With NVIDIA Jetson Orin Nano (40 TOPs) With 8GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional), supports SuperMode on NVIDIA Jetpack 6.2 (Jetson Orin NX 8GB up to 67 TOPS)</td>\n</tr>\n<tr>\n<td>EAI-I131D</td>\n<td>IPC With NVIDIA Jetson Orin Nano (20 TOPs) With 4GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional), supports SuperMode on NVIDIA Jetpack 6.2 (Jetson Orin NX 4GB up to 34 TOPS)</td>\n</tr>\n</tbody>\n</table>\n<p> </p>\n<p><em><strong>All product specifications are subject to change without prior notice</strong></em></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg"
+    },
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 8269877,
+    "name": "Lanner",
+    "slug": "lanner"
+  },
+  "current_seller": {
+    "id": 224238,
+    "sku": "7474784342964",
+    "name": "Thegioimaychu",
+    "link": "https://tiki.vn/cua-hang/thegioimaychu",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/48/f9/5c/789147595de8665ad5135487499aa11e.jpg",
+    "price": 50000000,
+    "product_id": "278788255",
+    "store_id": 211270,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Lưu trữ",
+      "attributes": [
+        {
+          "code": "ram_mini_pc",
+          "name": "RAM",
+          "value": "128-bit/64-bit LPDDR5"
+        },
+        {
+          "code": "ram",
+          "name": "RAM",
+          "value": "16/8/4 GB (By SKU)"
+        }
+      ]
+    },
+    {
+      "name": "Thông tin chung",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Lanner"
+        },
+        {
+          "code": "brand_country",
+          "name": "Xuất xứ thương hiệu",
+          "value": "Taiwan"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Taiwan"
+        },
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "2 Năm"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Tem bảo hành"
+        },
+        {
+          "code": "item_model_number",
+          "name": "Model",
+          "value": "EAI-I131"
+        },
+        {
+          "code": "product_weight",
+          "name": "Trọng lượng sản phẩm",
+          "value": "5"
+        },
+        {
+          "code": "giao_tiep_mang",
+          "name": "Giao tiếp mạng",
+          "value": "Speed\t10/100/1000 Mbps\nInterface\t2x GbE RJ45\nPoE\tGbE PoE LANs With Support For IEEE 802.3af/at PoE(+) Under Max. 30W (Surge Protection Up To 2KV)\nI/O\nCOM\t2x RS232/422/485\nCAN    \tOptional COM2 For CAN 2.0\nAudio\tLine-in, Line-out\nUSB\t2x USB2.0\nDisplay\t1x HDMI 2.0A/B @ 4Kp60 With Screw Lock\nDIO\t4x DI (Support PNP/ NPN / Dry Contact) &amp; 4x DO (Support Dry / Sink), IEC 61121-2, 24V With Maximum 200mA"
+        },
+        {
+          "code": "included_accessories",
+          "name": "Phụ kiện đi kèm",
+          "value": "<h2>Order Information</h2>\n<table border=\"1\">\n<tbody>\n<tr>\n<td>EAI-I131A</td>\n<td>IPC With NVIDIA Jetson Orin NX (100 TOPs) With 16GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G Sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional)</td>\n</tr>\n<tr>\n<td>EAI-I131B</td>\n<td>IPC With NVIDIA Jetson Orin NX (70 TOPs) With 8GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G Sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional)</td>\n</tr>\n<tr>\n<td>EAI-I131C</td>\n<td>IPC With NVIDIA Jetson Orin Nano (40 TOPs) With 8GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional), supports SuperMode on NVIDIA Jetpack 6.2 (Jetson Orin NX 8GB up to 67 TOPS)</td>\n</tr>\n<tr>\n<td>EAI-I131D</td>\n<td>IPC With NVIDIA Jetson Orin Nano (20 TOPs) With 4GB LPDDR5 Memory, 1x M.2 2280 M-Key (PCIe x4) with NVMe 128G, 2x GbE PoE LAN, 1x M.2 304(5)2 B-Key For 5G sub6, 1x M.2 2230 E-Key For WiFi, 2x COM For RS232/422/485, 1x CAN 2.0 (Optional), supports SuperMode on NVIDIA Jetpack 6.2 (Jetson Orin NX 4GB up to 34 TOPS)</td>\n</tr>\n</tbody>\n</table>\n<div>\n<div class=\"gtx-trans-icon\"> </div>\n</div>"
+        }
+      ]
+    },
+    {
+      "name": "Bộ xử lý",
+      "attributes": [
+        {
+          "code": "cpu",
+          "name": "CPU",
+          "value": "8-core 2.0GHz/6-core 1.5GHz NVIDIA Arm Cortex A78AE v8.2 64-bit CPU"
+        },
+        {
+          "code": "system_requirements",
+          "name": "Hệ điều hành",
+          "value": "Linux Open Source On NVIDIA SDK 6.2"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Cấu hình",
+      "position": 0,
+      "show_preview_image": false,
+      "values": [
+        {
+          "label": "Orin NX 100 TOPs – 16GB"
+        },
+        {
+          "label": "Orin NX 70 TOPs – 8GB RAM – 128GB SSD"
+        },
+        {
+          "label": "Orin Nano 20 TOPs – 4GB RAM – 128GB SSD"
+        },
+        {
+          "label": "Orin Nano 40 TOPs – 8GB RAM – 128GB SSD"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 278788248,
+      "discount_rate": 0,
+      "id": 278788249,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Thiết Bị Edge AI Lanner EAI-I131 - Hàng Chính Hãng - Orin NX 70 TOPs – 8GB RAM – 128GB SSD",
+      "option1": "Orin NX 70 TOPs – 8GB RAM – 128GB SSD",
+      "original_price": 40000000,
+      "price": 40000000,
+      "selected": false,
+      "seller": {
+        "id": 224238,
+        "name": "Thegioimaychu"
+      },
+      "sku": "3350979872779",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+    },
+    {
+      "child_id": 278788254,
+      "discount_rate": 0,
+      "id": 278788255,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Thiết Bị Edge AI Lanner EAI-I131 - Hàng Chính Hãng - Orin NX 100 TOPs – 16GB",
+      "option1": "Orin NX 100 TOPs – 16GB",
+      "original_price": 50000000,
+      "price": 50000000,
+      "selected": true,
+      "seller": {
+        "id": 224238,
+        "name": "Thegioimaychu"
+      },
+      "sku": "2148057136943",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+    },
+    {
+      "child_id": 278788250,
+      "discount_rate": 0,
+      "id": 278788251,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Thiết Bị Edge AI Lanner EAI-I131 - Hàng Chính Hãng - Orin Nano 40 TOPs – 8GB RAM – 128GB SSD",
+      "option1": "Orin Nano 40 TOPs – 8GB RAM – 128GB SSD",
+      "original_price": 35000000,
+      "price": 35000000,
+      "selected": false,
+      "seller": {
+        "id": 224238,
+        "name": "Thegioimaychu"
+      },
+      "sku": "2902144412973",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+    },
+    {
+      "child_id": 278788252,
+      "discount_rate": 0,
+      "id": 278788253,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/55/f7/fa/d728bd51e8400a877a1e0a7d0c7c1009.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/61/eb/10/e94f21ef632ad611aff6428e240bfc46.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/94/98/c8/af9fdac5078cc5046f5163357421940a.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Thiết Bị Edge AI Lanner EAI-I131 - Hàng Chính Hãng - Orin Nano 20 TOPs – 4GB RAM – 128GB SSD",
+      "option1": "Orin Nano 20 TOPs – 4GB RAM – 128GB SSD",
+      "original_price": 28000000,
+      "price": 28000000,
+      "selected": false,
+      "seller": {
+        "id": 224238,
+        "name": "Thegioimaychu"
+      },
+      "sku": "6971000610018",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/da/c2/46/ebfc716c48f3fbe2cd83a04954e1e8b6.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "categories": {
+    "id": 7369,
+    "name": "Mini PC",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/laptop-may-vi-tinh-linh-kien/c1846",
+      "name": "Laptop - Máy Vi Tính - Linh kiện",
+      "category_id": 1846
+    },
+    {
+      "url": "/pc-may-tinh-bo/c8093",
+      "name": "PC - Máy Tính Bộ",
+      "category_id": 8093
+    },
+    {
+      "url": "/mini-pc/c7369",
+      "name": "Mini PC",
+      "category_id": 7369
+    },
+    {
+      "url": "https://tiki.vn/thiet-bi-edge-ai-lanner-eai-i131-hang-chinh-hang-p278787122.html",
+      "name": "Thiết Bị Edge AI Lanner EAI-I131 - Hàng Chính Hãng",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278787122&pid=278788255&seller_id=224238&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "dropship"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "2 Năm"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Tem bảo hành"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành bởi nhà bán hàng thông qua Tiki"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}

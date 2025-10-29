@@ -1,0 +1,470 @@
+{
+  "id": 278628812,
+  "master_id": 278628812,
+  "sku": "2693455498586",
+  "name": "Apple iPhone 17 Pro ",
+  "url_key": "apple-iphone-17-pro-p278628812",
+  "url_path": "apple-iphone-17-pro-p278628812.html?spid=278630770",
+  "short_url": "https://tiki.vn/product-p278628812.html?spid=278630770",
+  "type": "configurable",
+  "book_cover": null,
+  "short_description": "...",
+  "price": 39990000,
+  "list_price": 41490000,
+  "original_price": 41490000,
+  "badges": [
+    {
+      "code": "new_pdp",
+      "text": "v1"
+    }
+  ],
+  "badges_new": [
+    {
+      "placement": "left_brand",
+      "code": "is_authentic",
+      "type": "is_authentic",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "right_authentic",
+      "code": "return_policy",
+      "type": "return_policy",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "badges_v3": [
+    {
+      "placement": "pdp_badge",
+      "code": "return_policy",
+      "type": "pdp_icon_badge",
+      "index": 3,
+      "icon": "https://salt.tikicdn.com/ts/ta/b1/3f/4e/cc3d0a2dd751a7b06dd97d868d6afa56.png",
+      "icon_width": 114,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    },
+    {
+      "placement": "pdp_badge",
+      "code": "is_authentic",
+      "type": "pdp_icon_badge",
+      "index": 4,
+      "icon": "https://salt.tikicdn.com/ts/upload/d7/56/04/b93b8c666e13f49971483596ef14800f.png",
+      "icon_width": 89,
+      "icon_height": 20,
+      "text_color": null,
+      "background_color": null,
+      "href": null,
+      "text": null
+    }
+  ],
+  "tracking_info": {
+    "amplitude": {
+      "is_authentic": true,
+      "is_freeship_xtra": false,
+      "is_hero": false,
+      "is_top_brand": false,
+      "return_reason": "any_reason"
+    }
+  },
+  "discount": 1500000,
+  "discount_rate": 4,
+  "rating_average": 5,
+  "review_count": 5,
+  "review_text": "(5)",
+  "favourite_count": 0,
+  "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg",
+  "has_ebook": false,
+  "inventory_status": "available",
+  "inventory_type": "instock",
+  "productset_group_name": "",
+  "is_fresh": false,
+  "seller": null,
+  "is_flower": false,
+  "has_buynow": true,
+  "is_gift_card": false,
+  "salable_type": null,
+  "data_version": 3300,
+  "day_ago_created": 47,
+  "all_time_quantity_sold": 2,
+  "meta_title": "",
+  "meta_description": "",
+  "meta_keywords": "",
+  "is_baby_milk": false,
+  "is_acoholic_drink": false,
+  "description": "<p><img src=\"https://salt.tikicdn.com/ts/tmp/49/0a/d1/040d8fb0d9d4aca9b48a76a2ba3970ea.png\" alt=\"\" width=\"750\" height=\"1932\" /></p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+  "images": [
+    {
+      "base_url": "https://salt.tikicdn.com/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg",
+      "is_gallery": true,
+      "label": null,
+      "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg",
+      "medium_url": "https://salt.tikicdn.com/cache/w300/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg",
+      "position": null,
+      "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg"
+    }
+  ],
+  "warranty_policy": null,
+  "brand": {
+    "id": 17827,
+    "name": "Apple",
+    "slug": "apple"
+  },
+  "current_seller": {
+    "id": 1,
+    "sku": "3345634107460",
+    "name": "Tiki Trading",
+    "link": "https://tiki.vn/cua-hang/tiki-trading",
+    "logo": "https://vcdn.tikicdn.com/ts/seller/d1/3f/ae/13ce3d83ab6b6c5e77e6377ad61dc4a5.jpg",
+    "price": 39990000,
+    "product_id": "278630770",
+    "store_id": 40395,
+    "is_best_store": false,
+    "is_offline_installment_supported": null
+  },
+  "other_sellers": [],
+  "specifications": [
+    {
+      "name": "Operation",
+      "attributes": [
+        {
+          "code": "is_warranty_applied",
+          "name": "Sản phẩm có được bảo hành không?",
+          "value": "Có"
+        },
+        {
+          "code": "vat_taxable",
+          "name": "Có thuế VAT",
+          "value": "Có"
+        },
+        {
+          "code": "warranty_form",
+          "name": "Hình thức bảo hành",
+          "value": "Điện tử"
+        },
+        {
+          "code": "warranty_time_period",
+          "name": "Thời gian bảo hành",
+          "value": "12 Tháng"
+        }
+      ]
+    },
+    {
+      "name": "Content",
+      "attributes": [
+        {
+          "code": "brand",
+          "name": "Thương hiệu",
+          "value": "Apple"
+        },
+        {
+          "code": "connect_nfc",
+          "name": "NFC",
+          "value": "Có"
+        },
+        {
+          "code": "origin",
+          "name": "Xuất xứ (Made in)",
+          "value": "Trung Quốc"
+        }
+      ]
+    }
+  ],
+  "product_links": [],
+  "gift_item_title": "0 quà tặng kèm",
+  "configurable_options": [
+    {
+      "code": "option1",
+      "name": "Màu sắc",
+      "position": 0,
+      "show_preview_image": true,
+      "values": [
+        {
+          "label": "Cam Vũ Trụ"
+        },
+        {
+          "label": "Xanh đậm"
+        }
+      ]
+    },
+    {
+      "code": "option2",
+      "name": "Bộ nhớ",
+      "position": 0,
+      "show_preview_image": false,
+      "values": [
+        {
+          "label": "1TB"
+        },
+        {
+          "label": "256GB"
+        },
+        {
+          "label": "512GB"
+        }
+      ]
+    }
+  ],
+  "configurable_products": [
+    {
+      "child_id": 278628819,
+      "discount_rate": 1,
+      "id": 278630772,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/1d/5d/d1/3110f40a082220366ea047f174a2e837.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/1d/5d/d1/3110f40a082220366ea047f174a2e837.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/1d/5d/d1/3110f40a082220366ea047f174a2e837.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Apple iPhone 17 Pro  - Xanh đậm - 256GB",
+      "option1": "Xanh đậm",
+      "option2": "256GB",
+      "original_price": 34990000,
+      "price": 34490000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "9590180475038",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/1d/5d/d1/3110f40a082220366ea047f174a2e837.jpg"
+    },
+    {
+      "child_id": 278628815,
+      "discount_rate": 4,
+      "id": 278630770,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Apple iPhone 17 Pro  - Cam Vũ Trụ - 512GB",
+      "option1": "Cam Vũ Trụ",
+      "option2": "512GB",
+      "original_price": 41490000,
+      "price": 39990000,
+      "selected": true,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "6027595649173",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/50/6e/8ba4bcdb8dad504654e491e6d238db2d.jpg"
+    },
+    {
+      "child_id": 278628813,
+      "discount_rate": 3,
+      "id": 278630769,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/2e/74/16/9f297439ab29765f253103cec26c8f66.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/2e/74/16/9f297439ab29765f253103cec26c8f66.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/2e/74/16/9f297439ab29765f253103cec26c8f66.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/3e/4c/6b/22d2bf05b53c7ec40990ccc34490e83b.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/3e/4c/6b/22d2bf05b53c7ec40990ccc34490e83b.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/3e/4c/6b/22d2bf05b53c7ec40990ccc34490e83b.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/81/bd/43/7cca05fe0be36032b2e6c3b400aa7757.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/81/bd/43/7cca05fe0be36032b2e6c3b400aa7757.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/81/bd/43/7cca05fe0be36032b2e6c3b400aa7757.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/b5/c9/72/bba1712b77ad93643395eaf0a0470adc.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/b5/c9/72/bba1712b77ad93643395eaf0a0470adc.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/b5/c9/72/bba1712b77ad93643395eaf0a0470adc.jpg"
+        },
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/e2/ab/d8/af5cc5fad19e53b538d2de94255b9e88.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/e2/ab/d8/af5cc5fad19e53b538d2de94255b9e88.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/e2/ab/d8/af5cc5fad19e53b538d2de94255b9e88.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Apple iPhone 17 Pro  - Cam Vũ Trụ - 256GB",
+      "option1": "Cam Vũ Trụ",
+      "option2": "256GB",
+      "original_price": 34990000,
+      "price": 33990000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "4559021998790",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/b5/c9/72/bba1712b77ad93643395eaf0a0470adc.jpg"
+    },
+    {
+      "child_id": 278628817,
+      "discount_rate": 4,
+      "id": 278630771,
+      "images": [
+        {
+          "large_url": "https://salt.tikicdn.com/cache/w1200/ts/product/c1/50/6e/6ae548a1554e8bec03e08d77966565f5.jpg",
+          "medium_url": "https://salt.tikicdn.com/cache/550x550/ts/product/c1/50/6e/6ae548a1554e8bec03e08d77966565f5.jpg",
+          "small_url": "https://salt.tikicdn.com/cache/200x280/ts/product/c1/50/6e/6ae548a1554e8bec03e08d77966565f5.jpg"
+        }
+      ],
+      "inventory_status": "available",
+      "name": "Apple iPhone 17 Pro  - Cam Vũ Trụ - 1TB",
+      "option1": "Cam Vũ Trụ",
+      "option2": "1TB",
+      "original_price": 47990000,
+      "price": 45990000,
+      "selected": false,
+      "seller": {
+        "id": 1,
+        "name": "Tiki Trading"
+      },
+      "sku": "3021997394148",
+      "thumbnail_url": "https://salt.tikicdn.com/cache/280x280/ts/product/c1/50/6e/6ae548a1554e8bec03e08d77966565f5.jpg"
+    }
+  ],
+  "services_and_promotions": [],
+  "promitions": [],
+  "stock_item": {
+    "max_sale_qty": 1000,
+    "min_sale_qty": 1,
+    "preorder_date": null,
+    "qty": 1000
+  },
+  "quantity_sold": {
+    "text": "Đã bán 2",
+    "value": 2
+  },
+  "categories": {
+    "id": 1795,
+    "name": "Điện thoại Smartphone",
+    "is_leaf": true
+  },
+  "breadcrumbs": [
+    {
+      "url": "/dien-thoai-may-tinh-bang/c1789",
+      "name": "Điện Thoại - Máy Tính Bảng",
+      "category_id": 1789
+    },
+    {
+      "url": "/dien-thoai-smartphone/c1795",
+      "name": "Điện thoại Smartphone",
+      "category_id": 1795
+    },
+    {
+      "url": "https://tiki.vn/apple-iphone-17-pro-p278628812.html",
+      "name": "Apple iPhone 17 Pro ",
+      "category_id": 0
+    }
+  ],
+  "installment_info_v2": null,
+  "installment_info_v3": [
+    {
+      "display_text": "Ưu đãi đến 600k với thẻ TikiCard",
+      "icon": "https://salt.tikicdn.com/ts/upload/73/4d/f7/f86e767bffc14aa3d6abed348630100b.png",
+      "summary": "Ưu đãi đến 600k với thẻ TikiCard.",
+      "title": "Ưu đãi đến 600k với thẻ TikiCard",
+      "type": "other",
+      "url": "https://tiki.vn/san-pham-so/the-dong-thuong-hieu-tiki-co-card"
+    },
+    {
+      "display_text": "Mua trả góp từ 3.332.500<sup><small>₫</small></sup>/tháng",
+      "icon": "https://salt.tikicdn.com/ts/upload/39/c5/e5/da087b9fd6fa5cf4c5aa0d6d2eb454df.png",
+      "summary": "Qua thẻ tín dụng Visa, Mastercard, JCB.",
+      "title": "Trả góp từ 3.332.500 <sup><small>₫</small></sup>/tháng",
+      "type": "installment",
+      "url": "https://tiki.vn/installment?masterId=278628812&&spid=278630770"
+    },
+    {
+      "display_text": "Mua trước trả sau",
+      "icon": "https://salt.tikicdn.com/ts/upload/2a/27/6a/7bbba1f6c93a1a42a3c314e7b5825f4c.png",
+      "summary": "Duyệt hồ sơ nhanh chóng qua công ty tài chính.",
+      "title": "Mua trước trả sau",
+      "type": "postpaid",
+      "url": "https://tiki.vn/mua-truoc-tra-sau/thanh-toan?src=pdp&masterId=278628812&pid=278630770&seller_id=1&qty=1"
+    }
+  ],
+  "is_seller_in_chat_whitelist": true,
+  "inventory": {
+    "product_virtual_type": null,
+    "fulfillment_type": "tiki_delivery"
+  },
+  "warranty_info": [
+    {
+      "name": "Thời gian bảo hành",
+      "value": "12 Tháng"
+    },
+    {
+      "name": "Hình thức bảo hành",
+      "value": "Điện tử"
+    },
+    {
+      "name": "Nơi bảo hành",
+      "value": "Bảo hành chính hãng"
+    },
+    {
+      "name": "Hướng dẫn bảo hành",
+      "value": "Xem chi tiết",
+      "url": "https://hotro.tiki.vn/s/article/chinh-sach-bao-hanh-tai-tiki-nhu-the-nao"
+    }
+  ],
+  "return_and_exchange_policy": "Đổi trả trong<br><b>7 ngày</b><br>nếu sp lỗi.",
+  "is_tier_pricing_available": false,
+  "is_tier_pricing_eligible": false,
+  "benefits": [
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/c5/37/ee/76c708d43e377343e82baee8a0340297.png",
+      "text": "Được đồng kiểm khi nhận hàng"
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/ea/02/b4/b024e431ec433e6c85d4734aaf35bd65.png",
+      "text": "<b>Được hoàn tiền 200%</b> nếu là hàng giả."
+    },
+    {
+      "icon": "https://salt.tikicdn.com/ts/upload/d8/c7/a5/1cd5bd2f27f9bd74b2c340b8e27c4d82.png",
+      "text": "Đổi trả miễn phí trong 30 ngày. Được đổi ý.",
+      "sub_text": [],
+      "cta": {
+        "text": "Chi tiết",
+        "type": "open_policy_return_modal"
+      }
+    }
+  ],
+  "return_policy": {
+    "body": [
+      {
+        "label": "",
+        "content": [
+          "Được đổi ý (sản phẩm phải còn nguyên hộp, tem, phụ kiện, chưa kích hoạt bảo hành, không áp dụng đơn hàng trả góp), hoặc",
+          "Sản phẩm không đúng cam kết (lỗi kỹ thuật, giao sai/thiếu, bể vỡ…)"
+        ]
+      }
+    ],
+    "cta": {
+      "link": "https://hotro.tiki.vn/s/article/chinh-sach-doi-tra-san-pham",
+      "text_button": "Tìm hiểu thêm"
+    },
+    "title": "Đổi trả miễn phí trong 30 ngày"
+  }
+}
