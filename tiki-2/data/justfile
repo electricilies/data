@@ -19,6 +19,9 @@ product-image-temp:
 product-variant-image:
   jq -r -f ./queries/sub-product-concat/product_variant_image.jq ./sub-product/concat-sub-product.json
 
+option:
+  jq -r -f ./queries/detail-concat/option.jq ./product-detail/concat-detail.json
+
 # But this may be replaced
 product-option:
   jq -r '.[] | select(has("configurable_options")) | .configurable_options.[].name' ./product-detail/concat-detail.json | sort | uniq
@@ -27,5 +30,11 @@ product-option:
 brand:
   jq -r '[.[].brand] | unique_by(.id) | .[] | [.id, .name] | @csv' ./product-detail/concat-detail.json
 
-specification:
-  jq -r '[.[].specifications.[].attributes] | add | unique_by(.code) | to_entries | .[] | [.key + 1, .value.code, .value.name] | @csv' ./product-detail/concat-detail.json
+attribute:
+  jq -r -f ./queries/detail-concat/attribute.jq ./product-detail/concat-detail.json
+
+attribute-value:
+  jq -r -f ./queries/detail-concat/attribute_value.jq ./product-detail/concat-detail.json
+
+product-attribute-value:
+  jq -r -f ./queries/detail-concat/product_attribute_value.jq ./product-detail/concat-detail.json
