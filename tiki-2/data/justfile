@@ -38,3 +38,6 @@ attribute-value:
 
 product-attribute-value:
   jq -r -f ./queries/detail-concat/product_attribute_value.jq ./product-detail/concat-detail.json
+
+product-variant:
+  jq -r -f ./queries/detail-concat/product_variant.jq ./product-detail/concat-detail.json
