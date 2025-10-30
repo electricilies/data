@@ -11,6 +11,7 @@ product-category:
   jq -r '.[] | {id, category_id: (.breadcrumbs.[] | select(.category_id != 0) | .category_id)} | [.id, .category_id] | @csv' ./product-detail/concat-detail.json
 
 product-image:
+  # jq -s . <({just product-image-temp; just product-variant-image; }) >product-image-merge.json
   jq -r -f ./queries/product-image-merge/merge-to-product-image.jq ./product-image-merge.json
 
 product-image-temp:
@@ -22,9 +23,8 @@ product-variant-image:
 option:
   jq -r -f ./queries/detail-concat/option.jq ./product-detail/concat-detail.json
 
-# But this may be replaced
-product-option:
-  jq -r '.[] | select(has("configurable_options")) | .configurable_options.[].name' ./product-detail/concat-detail.json | sort | uniq
+option-value:
+  jq -r -f ./queries/detail-concat/option_value.jq ./product-detail/concat-detail.json
 
 [private]
 brand:
