@@ -41,3 +41,6 @@ product-attribute-value:
 
 product-variant:
   jq -r -f ./queries/detail-concat/product_variant.jq ./product-detail/concat-detail.json
+
+option-value-product-variant:
+  jq -r -f ./queries/detail-concat/option_value_product_variant.jq ./product-detail/concat-detail.json
