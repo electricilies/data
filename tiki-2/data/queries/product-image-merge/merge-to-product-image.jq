@@ -4,5 +4,5 @@ group_by(.product_id)
 | to_entries 
 | map(.value + {id: (.key + 1)})
 | .[]
-| [.id, .url, .order, .product_id, .product_variant_id]
+| [.id, .url, .order, .product_variant_id]
 | @csv

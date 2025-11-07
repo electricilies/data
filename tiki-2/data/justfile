@@ -7,6 +7,7 @@ product:
 product-spid-urls:
   jq -r -f ./queries/detail-concat/spid.jq ./product-detail/concat-detail.json
 
+[private]
 product-category:
   jq -r '.[] | {id, category_id: (.breadcrumbs.[] | select(.category_id != 0) | .category_id)} | [.id, .category_id] | @csv' ./product-detail/concat-detail.json
 
