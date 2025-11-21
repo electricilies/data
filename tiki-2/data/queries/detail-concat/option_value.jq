@@ -1,17 +1,22 @@
+def int_to_uuid($n):
+  $n | tostring | (32 - length) * "0" + .
+  | .[0:8] + "-" + .[8:12] + "-7" + .[13:16] + "-" + .[16:20] + "-" + .[20:32]
+;
+
 (
   [.[]
     | select(.configurable_options != null)
-    | {product_id: .id, code: .configurable_options[].code}
+    | {product_id: int_to_uuid(.id), code: .configurable_options[].code}
   ]
   | to_entries
-  | map({option_id: (.key + 1), code: .value.code, product_id: .value.product_id})
+  | map({option_id: int_to_uuid(.key + 1), code: .value.code, product_id: .value.product_id})
 ) as $opts
 |
 [.[]
   as $root
   | $opts[]
   | . as $opt
-  | select($root.id == $opt.product_id)
+  | select(int_to_uuid($root.id) == $opt.product_id)
   | $root.configurable_options[]
   | select(.code == $opt.code)
   | .values[]
@@ -22,7 +27,7 @@
 ]
 | to_entries
 | map({
-    id: (.key + 1),
+    id: int_to_uuid(.key + 1),
     value: .value.value,
     option_id: .value.option_id
   })

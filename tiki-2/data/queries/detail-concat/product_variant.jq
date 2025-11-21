@@ -1,3 +1,8 @@
+def int_to_uuid($n):
+  $n | tostring | (32 - length) * "0" + .
+  | .[0:8] + "-" + .[8:12] + "-7" + .[13:16] + "-" + .[16:20] + "-" + .[20:32]
+;
+
 .[] as $original
 | if $original.type == "simple" then
     [{
@@ -21,5 +26,5 @@
     []
   end
 | add
-| [.id, .sku, .price, .quantity, .purchase_count, .product_id]
+| [int_to_uuid(.id), .sku, .price, .quantity, .purchase_count, int_to_uuid(.product_id)]
 | @csv

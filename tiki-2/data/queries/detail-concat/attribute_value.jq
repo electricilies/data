@@ -1,3 +1,8 @@
+def int_to_uuid($n):
+  $n | tostring | (32 - length) * "0" + .
+  | .[0:8] + "-" + .[8:12] + "-7" + .[13:16] + "-" + .[16:20] + "-" + .[20:32]
+;
+
 [
   .[].specifications.[].attributes
 ]
@@ -13,8 +18,8 @@
    | $all_attrs[$i] as $a
    | ($mapping[] | select(.code == $a.code)) as $m
    | {
-       id: ($i + 1),
-       attribute_id: $m.attribute_id,
+       id: int_to_uuid($i + 1),
+       attribute_id: int_to_uuid($m.attribute_id),
        value: $a.value
      }
   ]
