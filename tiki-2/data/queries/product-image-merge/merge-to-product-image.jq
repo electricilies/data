@@ -12,6 +12,7 @@ group_by(.product_id)
 | [int_to_uuid(.id),
     .url,
     .order,
+    int_to_uuid(.product_id),
     if .product_variant_id != null then int_to_uuid(.product_variant_id) else null end
   ]
 | @csv
