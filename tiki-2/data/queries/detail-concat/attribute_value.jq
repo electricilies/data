@@ -14,12 +14,14 @@ def int_to_uuid($n):
   | map({attribute_id: (.key + 1), code: .value.code, name: .value.name})
 ) as $mapping
 
-| [range(0; ($all_attrs | length)) as $i
-   | $all_attrs[$i] as $a
-   | ($mapping[] | select(.code == $a.code)) as $m
-   | {
-       id: int_to_uuid($i + 1),
-       attribute_id: int_to_uuid($m.attribute_id),
-       value: $a.value
-     }
-  ]
+| ($all_attrs | unique_by({code, value})) as $unique_values
+
+| range(0; ($unique_values | length)) as $i
+  | $unique_values[$i] as $a
+  | ($mapping[] | select(.code == $a.code)) as $m
+  | [
+      int_to_uuid($i + 1),
+      int_to_uuid($m.attribute_id),
+      $a.value
+    ]
+  | @csv
